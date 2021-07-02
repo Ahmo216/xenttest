@@ -1,0 +1,73 @@
+{
+    "config": {
+        "fail-on-first-error": false
+    },
+    "commit-msg": {
+        "enabled": true,
+        "actions": []
+    },
+    "pre-push": {
+        "enabled": false,
+        "actions": []
+    },
+    "pre-commit": {
+        "enabled": true,
+        "actions": [
+            {
+                "action": "npm run eslint && git add {$STAGED_FILES}",
+                "options": [],
+                "conditions": []
+            },
+            {
+                "action": "composer lint-staged-files",
+                "options": [],
+                "conditions": []
+            }
+        ]
+    },
+    "prepare-commit-msg": {
+        "enabled": false,
+        "actions": []
+    },
+    "post-commit": {
+        "enabled": false,
+        "actions": []
+    },
+    "post-merge": {
+        "enabled": false,
+        "actions": []
+    },
+    "post-checkout": {
+        "enabled": true,
+        "actions": [
+            {
+                "action": "composer install",
+                "options": [],
+                "conditions": [
+                    {
+                        "exec": "\\CaptainHook\\App\\Hook\\Condition\\FileChanged\\Any",
+                        "args": [
+                            [
+                                "composer.json",
+                                "composer.lock"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "action": "php refreshFileCache.php",
+                "options": [],
+                "conditions": []
+            }
+        ]
+    },
+    "post-rewrite": {
+        "enabled": false,
+        "actions": []
+    },
+    "post-change": {
+        "enabled": false,
+        "actions": []
+    }
+}

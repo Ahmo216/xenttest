@@ -1,0 +1,17 @@
+input[type="text"] {
+    &.validation-error {
+        border: 1px solid var(--validation-error);
+        box-sizing: border-box;
+    }
+}
+
+span {
+    &.validation-error-message {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 18px;
+        color: var(--validation-error);
+    }
+}
+

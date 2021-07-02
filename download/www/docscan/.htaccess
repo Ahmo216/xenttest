@@ -1,0 +1,12 @@
+Options -Indexes
+DirectoryIndex index.php
+
+<Files ~ "(composer\.json|composer\.lock)">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<IfModule mod_rewrite.c>
+		RewriteEngine on
+		RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization},L]
+</IfModule>

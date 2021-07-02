@@ -1,0 +1,47 @@
+version: '3.6'
+
+services:
+  nginx:
+    build: dev/.docker/nginx
+    volumes:
+      - ./:/var/www/xentral
+
+  php:
+    build:
+      context: dev/.docker/php
+      target: fpm-development
+    volumes:
+      - ./:/var/www/xentral
+
+  db:
+    build: dev/.docker/db
+    volumes:
+      - dbdata:/var/lib/mysql
+    environment:
+      - MYSQL_RANDOM_ROOT_PASSWORD=1
+      - MYSQL_USER=xentral
+      - MYSQL_PASSWORD=K9Q4ctqlOK4YJ3X6kURgwjTUn2pv2Pzb
+      - MYSQL_DATABASE=xentral
+
+  devbox:
+    build:
+      context: dev/.docker/php
+      target: devbox
+    volumes:
+      - ./:/var/www/xentral
+      - composer:/.composer
+      - $SSH_AUTH_SOCK:/tmp/ssh_auth_sock_x:ro
+    environment:
+      - SSH_AUTH_SOCK=/tmp/ssh_auth_sock_x
+
+  pma:
+    image: phpmyadmin/phpmyadmin
+    environment:
+      - PMA_HOST=db
+
+  mailhog:
+    image: mailhog/mailhog
+
+volumes:
+  dbdata:
+  composer:

@@ -1,0 +1,1 @@
+<table cellpadding=0 cellspacing=0><tr><td nowrap><img alt="{{ __('Ändern') }}" data-id="%value%" class="edit-turnover-threshold" src="themes/new/images/edit.svg" border="0">&nbsp;<img alt="{{ __('Löschen') }}" data-id="%value%" class="delete-turnover-threshold" src="themes/new/images/delete.svg" border="0"></td></tr></table>

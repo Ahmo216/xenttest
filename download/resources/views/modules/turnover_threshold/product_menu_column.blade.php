@@ -1,0 +1,1 @@
+<table cellpadding=0 cellspacing=0><tr><td nowrap><img alt="{{ __('Ändern')}}" data-id="%value%" class="edit-product" src="themes/new/images/edit.svg" border="0">&nbsp;<img alt="{{ __('Löschen')}}"  data-id="%value%" class="delete-product" src="themes/new/images/delete.svg" border="0"></td></tr></table>

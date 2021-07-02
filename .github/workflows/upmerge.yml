@@ -1,0 +1,35 @@
+name: 'Up merge into version branches'
+
+on:
+  push:
+
+jobs:
+  master-upmerge:
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Upmerge to 20.3
+        uses: bambamboole/gha-upmerge@v1.0.1
+        with:
+          from_branch: 'master'
+          to_branch: '20.3'
+        env:
+          GITHUB_TOKEN: ${{ secrets.UPMERGE_TOKEN }}
+
+  develop-upmerge:
+    if: github.ref == 'refs/heads/develop'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Upmerge to develop
+        uses: bambamboole/gha-upmerge@v1.0.1
+        with:
+          from_branch: 'develop'
+          to_branch: '21.1'
+        env:
+          GITHUB_TOKEN: ${{ secrets.UPMERGE_TOKEN }}

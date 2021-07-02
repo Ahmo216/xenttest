@@ -1,0 +1,35 @@
+.customcodeimporterimport #tabs ul,
+.customcodeimporteroverview #tabs ul {
+  background-color: unset;
+  margin: 10px 30px;
+}
+
+.customcodeimporterimport #tabs li,
+.customcodeimporteroverview #tabs li {
+  list-style: disc inside;
+  font-weight: normal;
+  float: none;
+  color: white;
+}
+
+.customcodeimporteroverview #custom-code-importer-file-list ul li {
+  color: #48494B;
+}
+
+.input {
+  margin-bottom: 15px;
+}
+
+input,
+textarea {
+  margin: 5px 0;
+}
+
+.help {
+  color: #808080;
+  font-size: 0.9em;
+}
+
+form {
+  margin: 20px;
+}

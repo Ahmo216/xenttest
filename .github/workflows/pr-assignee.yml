@@ -1,0 +1,10 @@
+name: 'Automatically set the pr creator as assignee'
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  set-assignee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kentaro-m/auto-assign-action@v1.1.2

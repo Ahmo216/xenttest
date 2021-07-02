@@ -1,0 +1,3 @@
+## Map authorization via CGI-PHP
+RewriteCond %{HTTP:Authorization} ^(.*)
+RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization},L]

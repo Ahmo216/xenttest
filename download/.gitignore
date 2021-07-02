@@ -1,0 +1,54 @@
+.idea/
+.phpunit.result.cache
+pygen/apigen_mysql/MySQLDB_Interface.pyc
+pygen/apigen_mysql/configfile.pyc
+pygen/apigen_mysql/dbObjects.pyc
+pygen/apigen_mysql/file_operations.pyc
+pygen/formgen/MySQLDB_Interface.pyc
+pygen/formgen/configfile.pyc
+pygen/formgen/dbObjects.pyc
+pygen/formgen/encrypt_template.pyc
+pygen/formgen/file_operations.pyc
+pygen/pagegen/file_operations.pyc
+www/lib/class.erpapi_custom.php
+www/lib/versandarten/ppl_latest.csv
+www/api/docs.html
+www/cache/
+conf/user.inc.php
+conf/user_defined.php
+userdata/*
+!userdata/.htaccess
+!userdata/wiki/
+backup/snapshots/
+.php_cs.cache
+storage/
+.phpstorm.meta.php
+_ide_helper.php
+docker-compose.override.yml
+captainhook.config.json
+
+# 3rd party libraries
+/vendor
+/node_modules
+
+## Frontend assets
+/www/js/lib/*
+/www/mix-manifest.json
+/www/mix.js.map
+/www/js/lib/jquery.min.js
+/www/js/lib/vue.js
+/www/js/lib/vue.min.js
+/www/js/lib/Chart.min.js
+/www/js/lib/ckeditor.js
+!/www/js/lib/fullcalendar-1.6.7
+!/www/js/lib/pdfviewer
+/www/css/app.css
+/www/css/app.min.css
+/www/css/app.css.map
+
+
+# Secrets
+.env
+
+# Cache
+/bootstrap/cache/*

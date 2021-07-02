@@ -1,0 +1,104 @@
+name: CI
+
+on: [push]
+
+jobs:
+
+  lint-php:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.3'
+      - name: Download php-cs-linter
+        run: wget https://cs.symfony.com/download/php-cs-fixer-v2.phar -O php-cs-fixer
+      - name: Lint app/ and tests/ directories
+        run: |
+          chmod +x ./php-cs-fixer
+          ./php-cs-fixer fix --config=.php-cs-fixer.php --allow-risky=yes --show-progress dots --dry-run --diff --diff-format=udiff --verbose tests/ app/
+
+  build-php:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.3'
+      - name: Validate composer.json and composer.lock
+        run: composer validate
+      - name: Authenticate composer
+        run: composer config -g github-oauth.github.com ${{ secrets.COMPOSER_GITHUB_TOKEN }}
+      - name: Get composer cache directory
+        id: composer-cache
+        run: echo "::set-output name=dir::$(composer config cache-files-dir)"
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ${{ steps.composer-cache.outputs.dir }}
+          key: ${{ runner.os }}-composer-${{ hashFiles('**/composer.lock') }}
+          restore-keys: ${{ runner.os }}-composer-
+      - name: Install dependencies
+        run: composer install --prefer-dist --no-progress --no-suggest --no-scripts
+      - name: Compress the vendor/ directory to increase artifact upload speed.
+        run: tar -czf vendor.tar.gz vendor/
+      - name: Upload vendor/ directory as an artifact so it can be used by other jobs
+        uses: actions/upload-artifact@v2
+        with:
+          name: php-artifact
+          path: vendor.tar.gz
+
+  phpunit:
+    runs-on: ubuntu-latest
+    needs: [ build-php ]
+# Since our feature test suite doe not work properly we do not need MySQL
+#    services:
+#      mysql:
+#        image: mysql:5.7
+#        env:
+#          MYSQL_ROOT_PASSWORD: password
+#          MYSQL_DATABASE: test
+#        ports:
+#          - 3306:3306
+#        options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
+    steps:
+      - uses: actions/checkout@v2
+      - name: Download the vendor/ directory artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: php-artifact
+          path: ./
+      - name: Extract the vendor/ directory from the tarball.
+        run: tar -xzf vendor.tar.gz
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.3'
+      - name: Copy .env
+        run: cp .env.example .env
+      - name: Create xentral config
+        run: |
+          cat > "./conf/user.inc.php" << ENDOFFILE
+          <?php
+          \$this->WFdbhost='127.0.0.1';
+          \$this->WFdbname='test';
+          \$this->WFdbuser='root';
+          \$this->WFdbpass='password';
+          \$this->WFdbreadonlyuser='root';
+          \$this->WFdbreadonlypass='password';
+          \$this->WFuserdata='${{ github.workspace }}/userdata';
+          ENDOFFILE
+      - name: Execute unit test suite
+        run: ./vendor/bin/phpunit --testsuite Unit
+
+  cleanup:
+    name: Delete artifacts
+    runs-on: ubuntu-latest
+    needs: [ phpunit ]
+    steps:
+      - uses: geekyeggo/delete-artifact@v1
+        with:
+          name: |
+            php-artifact

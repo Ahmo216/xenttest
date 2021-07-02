@@ -1,0 +1,7 @@
+table#uploadpreview tr td input {
+    max-width: calc(7vw - 20px);
+}
+table#uploadpreview tr td:first-child input {
+    width: 40px;
+}
+
