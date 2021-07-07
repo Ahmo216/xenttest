@@ -1,0 +1,18 @@
+<div>
+
+	<div class="dashboardLeft pull-left">
+		<h4>Druckaufträge gesamt</h4>
+		<p>{{statistik.anzahlJobsGesamt}}</p>
+	</div>
+	<div class="dashboardRight pull-left">
+		<h4>Letzte Druckaufträge</h4>
+		<ul>
+			<li ng-repeat="(key, job) in statistik.lastJobs">
+				<span>{{job.time * 1000 | date:'dd.MM.yyyy HH:mm:ss'}}</span>
+				{{job.drucker}} ({{job.amount}})
+			</li>
+		</ul>
+	</div>
+	<div class="clear"></div>
+
+</div>

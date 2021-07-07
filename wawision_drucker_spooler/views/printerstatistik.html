@@ -1,0 +1,25 @@
+<div>
+
+	<h3>{{drucker}}</h3>
+	<p>Anzahl Jobs: {{printerStatistik.anzahlJobs}}</p>
+
+	<div class="searchBox">
+		Suche:
+		<input type="text" ng-model="jobSearch">
+	</div>
+
+		<table class="table">
+			<tr>
+				<th>Datum</th>
+				<th>Datei</th>
+				<th>Anzahl</th>
+			</tr>
+			<tr ng-repeat="(key, job) in printerStatistik.jobs | filter:jobSearch">
+				<td><mydate>{{job.time * 1000 | date:'dd.MM.yyyy HH:mm:ss'}}</mydate></td>
+				<td>{{job.tmpfilename}}</td>
+				<td>{{job.amount}}</td>
+			</tr>
+		</table>
+
+
+</div>

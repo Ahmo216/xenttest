@@ -1,0 +1,45 @@
+<div ng-controller="SettingsCtrl">
+
+	<form ng-submit="saveSettings(url,serial,devicekey,chartybreakperiod)">
+
+		<table class="table no-border">
+			<tr>
+				<td width="44%" valign="top">
+					<h4>Api</h4>
+					<div class="form-group">
+						<label>URL</label>
+						<input type="text" name="url" ng-model="url">
+					</div>
+
+					<div class="form-group">
+						<label>Serial</label>
+						<input type="text" name="serial" ng-model="serial">
+					</div>
+
+					<div class="form-group">
+						<label>Security Key</label>
+						<input type="text" name="devicekey" ng-model="devicekey">
+					</div>
+
+				</td>
+				<td width="10%"></td>
+				<!--<td valign="top">
+					<h4>Sonstige</h4>
+					<div class="form-group">
+						<label>Chart Y</label>
+						<input type="text" name="chartybreakperiod" ng-model="chartybreakperiod">
+					</div>
+
+				</td>-->
+			</tr>
+		</table>
+
+		<hr>
+
+		<div class="form-group">
+			<input type="submit" name="" value="Speichern">
+		</div>
+
+	</form>
+
+</div>

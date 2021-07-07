@@ -1,0 +1,21 @@
+1. Install Webserver
+
+sudo apt-get install apache2 php5 libapache2-mod-php5 php5-curl
+
+2. Copy files into Webserver
+
+mkdir /var/www/html/wawisionspooler
+
+3. Extract tar
+
+tar xvzf wawision_drucker_spooler.tar.gz -C /var/www/html/wawisionspooler
+
+4. chown -R www-data:www-data /var/www/html/wawisionspooler
+
+5. Configure Spooler over browser http://localhost/wawisionspooler
+
+6. Add to crontab:
+
+crontab -e
+
+php5 /var/www/html/wawisionspooler/cronapi.php

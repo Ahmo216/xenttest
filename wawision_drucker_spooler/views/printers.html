@@ -1,0 +1,12 @@
+<div ng-controller="PrintersCtrl">
+
+<h4>Im System angemeldete Drucker</h4>
+
+<table width="100%" class="table">
+	<tr ng-repeat="(key, printer) in printers">
+		<td><a href="#/statistik/{{printer.name}}">{{printer.name}}</a></td>
+		<td><span ng-if="printer.default">Standard (System)</span></td>
+	</tr>
+</table>
+
+</div>
