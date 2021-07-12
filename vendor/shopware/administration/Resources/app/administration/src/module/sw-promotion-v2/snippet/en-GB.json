@@ -1,0 +1,127 @@
+{
+    "sw-promotion-v2": {
+        "general": {
+            "mainMenuItemGeneral": "Promotions v2",
+            "mainMenuItemList": "Overview",
+            "description": "Manage promotions here."
+        },
+        "list": {
+            "textTitle": "Promotions",
+            "buttonAddPromotion": "Add promotion",
+            "columnActive": "Active",
+            "columnName": "Name",
+            "columnValidFrom": "Valid from",
+            "columnValidUntil": "Valid until",
+            "messageEmpty": "No promotions yet",
+            "placeholderSearchBar": "Search promotions...",
+            "textDeleteConfirm": "Are you sure you want to delete the promotion \"{name}\"?",
+            "titleSidebarItemRefresh": "Refresh"
+        },
+        "detail": {
+            "header": {
+                "titleCreate": "New promotion",
+                "titleEdit": "Promotion"
+            },
+            "tabs": {
+                "tabGeneral": "General",
+                "tabConditions": "Conditions",
+                "tabDiscounts": "Discounts"
+            },
+            "codeChangeModal": {
+                "title": "Changing promotion code option",
+                "text": "Switching the promotion code option will delete all previously generated promotion codes."
+            },
+            "base": {
+                "general": {
+                    "cardTitle": "General settings",
+                    "nameLabel": "Name",
+                    "validFromLabel": "Valid from",
+                    "validFromPlaceholder": "Select start date...",
+                    "validUntilLabel": "Valid until",
+                    "validUntilPlaceholder": "Select end date...",
+                    "maxUsesGlobalLabel": "Max. total uses",
+                    "maxUsesGlobalPlaceholder": "Unlimited",
+                    "maxUsesPerCustomerLabel": "Max. uses per customer",
+                    "maxUsesPerCustomerPlaceholder": "Unlimited",
+                    "activeLabel": "Active"
+                },
+                "codes": {
+                    "cardTitle": "Promotion codes",
+                    "codeTypeLabel": "Code options",
+                    "none": {
+                        "description": "No promotion code required"
+                    },
+                    "fixed": {
+                        "description": "Fixed promotion code",
+                        "codeLabel": "Promotion code",
+                        "codePlaceholder": "Enter promotion code...",
+                        "generateButton": "Generate random code"
+                    },
+                    "individual": {
+                        "description": "Individual promotion codes",
+                        "emptyStateTitle": "No promotion codes generated yet.",
+                        "generateButton": "Generate codes",
+                        "searchPlaceholder": "Search promotion codes...",
+                        "addButton": "Add codes",
+                        "columnCode": "Code",
+                        "columnRedeemed": "Redeemed",
+                        "columnCustomer": "Customer",
+                        "textDeleteConfirm": "Are you sure you want to delete the code \"{code}\"? | Are you sure cou want to delete these {count} codes?",
+                        "openCustomer": "Open customer",
+                        "routingError": "The customer \"{name}\" has not been found.",
+                        "generateModal": {
+                            "title": "Generate new promotion codes",
+                            "buttonGenerate": "Generate codes",
+                            "warning": "Generating new codes will delete all existing codes for this promotion. Deleted codes are invalid and can't be used anymore.",
+                            "description": "Promotion codes are generated randomly from capital letters and numbers. You may add fixed individual terms as a prefix and/or suffix or use a completely custom pattern and watch how your code pattern turns out in the promotion code preview.",
+                            "labelPrefix": "Prefix",
+                            "placeholderPrefix": "Enter a prefix...",
+                            "labelCodeLength": "Code length",
+                            "labelSuffix": "Suffix",
+                            "placeholderSuffix": "Enter a suffix...",
+                            "labelCustomPattern": "Custom pattern",
+                            "placeholderCustomPattern": "Enter a custom pattern...",
+                            "labelUseCustomPattern": "Use custom pattern",
+                            "labelPreview": "Promotion code preview",
+                            "labelCodeAmount": "Number of promotion codes"
+                        }
+                    }
+                }
+            },
+            "conditions": {
+                "preConditions": {
+                    "cardTitle": "Pre-conditions",
+                    "labelPromotionExclusions": "Do not combine with",
+                    "placeholderPromotionExclusions": "Add promotion...",
+                    "labelPromotionSalesChannel": "Sales Channels",
+                    "placeholderPromotionSalesChannel": "Add sales channel..."
+                }
+            },
+            "discounts": {
+                "emptyStateTitle": "No discount yet.",
+                "emptyStateButton": "Add discount"
+            },
+            "discount-selection": {
+                "modalTitle": "New discount",
+                "description": "Discounts can be applied as gross or net values, as a fixed sum or as a percentage. It is possible to discount single products, a product range or shipping costs.",
+                "basic": {
+                    "name": "Basic discount",
+                    "description": "Discount whole shopping carts or a selected group of products."
+                },
+                "buy-x-get-y": {
+                    "name": "Buy X get Y",
+                    "description": "Set a discount that gets activated when one or more certain products are added to the cart."
+                },
+                "shipping-discount": {
+                  "name": "Shipping discount",
+                  "description": "Discount shipping costs or provide free shipping using optional product triggers."
+                }
+            },
+            "shipping-discount-trigger": {
+                "modalTitle": "Shipping discount - Trigger (optional)",
+                "description": "You may use the Rule Builder to create individual discount triggers. Define thresholds, e.g. a certain number of products or a certain shopping cart value that trigger discounts. You may even create nested trigger cascades.",
+                "labelUseTrigger": "Use trigger"
+            }
+        }
+    }
+}

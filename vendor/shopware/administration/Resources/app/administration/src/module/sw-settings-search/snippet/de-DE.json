@@ -1,0 +1,36 @@
+{
+  "sw-settings-search": {
+    "general": {
+      "mainMenuItemGeneral": "Suche",
+      "textHeadline": "Such-Einstellungen",
+      "buttonCancel": "Abbrechen",
+      "buttonCreate": "Hinzufügen",
+      "buttonSave": "Speichern"
+    },
+    "page": {
+      "generalTab": "Allgemein",
+      "liveSearchTab": "Echtzeit-Suche"
+    },
+    "generalTab": {
+      "labelSearchBehaviour": "Such-Verhalten",
+      "textTitleSearchBehaviour": "Lege ein Such-Verhalten für Deine Storefront fest.",
+      "labelSearchAndCondition": "“UND”-Suche",
+      "textSearchAndConditionExplain": "Suchergebnisse beinhalten jeden einzelnen eingegebenen Suchbegriff. \nBeispiel: \"Jeans Sommer\" findet Produkte die beide Schlagwörter \"jeans\" und \"sommer\" enthalten.",
+      "labelSearchOrCondition": "“ODER”-Suche",
+      "textSearchOrConditionExplain": "Suchergebnisse beinhalten einen der eingegebenen Suchbegriffe. \nBeispiel: \"Jeans Sommer\" findet Produkte die entweder das Schlagwort \"jeans\" oder das Schlagwort \"sommer\" enthalten.",
+      "labelMinimalSearchTerm": "Minimale Suchbegrifflänge"
+    },
+    "notification": {
+      "saveSuccess": "Konfiguration gespeichert.",
+      "saveError": "Beim Speichern der Konfiguration ist ein Fehler aufgetreten."
+    },
+    "liveSearchTab": {}
+  },
+  "sw-privileges": {
+    "permissions": {
+      "product_search_config": {
+        "label": "Produkt Suche"
+      }
+    }
+  }
+}
