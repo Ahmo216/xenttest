@@ -1,0 +1,30 @@
+version: '3.6'
+
+services:
+  nginx:
+    ports:
+      - "80:3000"
+
+  php:
+    build:
+      args:
+        - ENABLE_XDEBUG=1
+        - ENABLE_BLACKFIRE_PROBE=0
+    user: "${UID}:${GID}"
+
+  devbox:
+    user: "${UID}:${GID}"
+
+  #blackfire:
+  #  image: blackfire/blackfire
+  #  environment:
+  #    - BLACKFIRE_SERVER_ID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+  #    - BLACKFIRE_SERVER_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+  pma:
+    ports:
+      - "81:80"
+
+  mailhog:
+    ports:
+      - "82:8025"

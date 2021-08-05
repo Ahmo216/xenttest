@@ -1,0 +1,60 @@
+name: Deploys a test instance
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: khan/pull-request-comment-trigger@master
+        id: check
+        with:
+          trigger: '@test-instance'
+          reaction: rocket
+        env:
+          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+      - name: Get PR number
+        id: pr_number
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          result-encoding: string
+          script: |
+            return context.payload.issue.number
+      - name: Get branch name
+        id: branch_name
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          result-encoding: string
+          script: |
+            const pr = await github.pulls.get({
+                                owner: context.repo.owner,
+                                repo: context.repo.repo,
+                                pull_number: context.payload.issue.number
+                              });
+            return pr.data.head.ref
+      - name: executing deployment via SSH
+        if: success() && steps.check.outputs.triggered == 'true'
+        uses: appleboy/ssh-action@master
+        with:
+          host: 35.158.210.60
+          username: ubuntu
+          debug: true
+          key: ${{ secrets.PR_TESTING_SSH_KEY }}
+          script: |
+            /var/www/deploy.sh ${{ steps.pr_number.outputs.result }} ${{ steps.branch_name.outputs.result }}
+      - name: Add comment with details
+        if: success() && steps.check.outputs.triggered == 'true'
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.issues.createComment({
+              issue_number: context.payload.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `I have deployed a test instance for you! It is available on ${context.issue.number}.pr.xentral-test.com`
+            })

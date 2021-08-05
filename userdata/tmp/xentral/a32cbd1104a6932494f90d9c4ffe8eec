@@ -1,0 +1,43 @@
+<?xml version="1.0"
+encoding="ISO-8859-1" ?>
+<rss version="0.91">
+<channel>
+<title>Neuste Updates Xentral</title>
+<link>https://xentral.com</link>
+<description>Bugfixes, Patches und neue Features</description>
+<copyright>Xentral ERP Software GmbH</copyright>
+<language>de-de</language>
+<pubDate>Tue, 19 Jun 2015 2:43:19</pubDate>
+<image>
+<url>http://www.wawision.de/wp-content/uploads/2013/09/wawilogo_small3.png</url>
+<title>Logo WaWision</title>
+<link>http://xentral.com</link>
+</image>
+
+Nun folgen die Beitraege
+<item>
+<title>01.07.2021 (rev 69e891e)</title>
+<author>Xentral ERP Software GmbH</author>
+<pubDate>2021-07-01</pubDate>
+<description>Merge pull request #2206 from xentral-erp-software-gmbh/XEN-3559-error-500-country-not-found-when-creating-invoice-or-printing-labels-21.1</description>
+<guid>69e891e</guid>
+<link>http://wiki.wawision.de?69e891e</link>
+</item>
+<item>
+<title>01.07.2021 (rev 64983c2)</title>
+<author>Xentral ERP Software GmbH</author>
+<pubDate>2021-07-01</pubDate>
+<description>Fix delivery threshold: preventing error on invoices with empty country-code</description>
+<guid>64983c2</guid>
+<link>http://wiki.wawision.de?64983c2</link>
+</item>
+<item>
+<title>30.06.2021 (rev 37ab56f)</title>
+<author>Xentral ERP Software GmbH</author>
+<pubDate>2021-06-30</pubDate>
+<description>Merge pull request #2193 from xentral-erp-software-gmbh/ECOM-328-shopware-6-4-product-export</description>
+<guid>37ab56f</guid>
+<link>http://wiki.wawision.de?37ab56f</link>
+</item>
+</channel>
+</rss>

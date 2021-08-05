@@ -1,0 +1,11 @@
+{
+    "/css/app.css": "/css/app.css",
+    "/mix.js.map": "/mix.js.map",
+    "/css/app.css.map": "/css/app.css.map",
+    "/js/lib/jquery.min.js": "/js/lib/jquery.min.js",
+    "/js/lib/vue.min.js": "/js/lib/vue.min.js",
+    "/js/lib/vue.js": "/js/lib/vue.js",
+    "/js/lib/Chart.min.js": "/js/lib/Chart.min.js",
+    "/js/lib/ckeditor.js": "/js/lib/ckeditor.js",
+    "/css/app.min.css": "/css/app.min.css"
+}
