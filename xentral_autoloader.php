@@ -60,6 +60,7 @@ function xentral_autoloader($class) {
     'Dokumentenvorlage'=>__DIR__.'/www/lib/dokumente/class.dokumentenvorlage.php',
     'SepaMandat'=>__DIR__.'/www/lib/dokumente/class.sepamandat.php',
     'TransferBase'=>__DIR__.'/www/lib/TransferBase.php',
+    'Player'=>__DIR__.'/phpwf/class.player.php',
     'PrinterBase'=>__DIR__.'/www/lib/PrinterBase.php',
     'WikiParser'=>__DIR__.'/www/plugins/class.wikiparser.php',
     'IndexPoint'=>__DIR__.'/www/plugins/class.wikiparser.php',
@@ -70,7 +71,9 @@ function xentral_autoloader($class) {
     'Navigation'=>__DIR__.'/www/lib/class.navigation_edit.php',
     'GoShipment'=>__DIR__.'/www/lib/class.go.php',
     'UPSShipment'=>__DIR__.'/www/lib/class.ups.php',
+    'EasyshipAPI'=>__DIR__.'/www/lib/class.easyship.php',
     'XTEA'=>__DIR__.'/www/lib/class.xtea.php',
+    'Session' => __DIR__ . '/phpwf/class.session.php',
     'ShopimporterBase'=>__DIR__.'/www/lib/ShopimporterBase.php',
     'LiveimportBase'=>__DIR__.'/www/plugins/liveimport/LiveimportBase.php',
     'paypal'=>__DIR__.'/www/plugins/liveimport/paypal/paypal.php',
@@ -121,15 +124,6 @@ function xentral_autoloader($class) {
       include __DIR__.'/www/widgets/widget.'.$file.'.php';
       return;
     }
-  }
-  if($class === 'AES')
-  {
-    if(version_compare(phpversion(),'7.1', '>=') && is_file(__DIR__.'/www/lib/class.aes2.php')){
-        include __DIR__.'/www/lib/class.aes2.php';
-    } else{
-      include __DIR__ . '/www/lib/class.aes.php';
-    }
-    return;
   }
   if($class === 'FPDFWAWISION')
   {
