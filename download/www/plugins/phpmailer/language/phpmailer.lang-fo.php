@@ -1,50 +1,27 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/**
+ * PHPMailer language file.
+ * Faroese Version [language of the Faroe Islands, a Danish dominion]
+ * This file created: 11-06-2004
+ * Supplied by Dávur Sørensen [www.profo-webdesign.dk]
+ */
+
+$PHPMAILER_LANG = array();
+
+$PHPMAILER_LANG["provide_address"]      = 'Tú skal uppgeva minst ' .
+                                          'móttakara-emailadressu(r).';
+$PHPMAILER_LANG["mailer_not_supported"] = ' er ikki supporterað.';
+$PHPMAILER_LANG["execute"]              = 'Kundi ikki útføra: ';
+$PHPMAILER_LANG["instantiate"]          = 'Kuni ikki instantiera mail funktión.';
+$PHPMAILER_LANG["authenticate"]         = 'SMTP feilur: Kundi ikki góðkenna.';
+$PHPMAILER_LANG["from_failed"]          = 'fylgjandi Frá/From adressa miseydnaðist: ';
+$PHPMAILER_LANG["recipients_failed"]    = 'SMTP Feilur: Fylgjandi ' .
+                                          'móttakarar miseydnaðust: ';
+$PHPMAILER_LANG["data_not_accepted"]    = 'SMTP feilur: Data ikki góðkent.';
+$PHPMAILER_LANG["connect_host"]         = 'SMTP feilur: Kundi ikki knýta samband við SMTP vert.';
+$PHPMAILER_LANG["file_access"]          = 'Kundi ikki tilganga fílu: ';
+$PHPMAILER_LANG["file_open"]            = 'Fílu feilur: Kundi ikki opna fílu: ';
+$PHPMAILER_LANG["encoding"]             = 'Ókend encoding: ';
+$PHPMAILER_LANG["signing"]              = 'Signing Error: ';
+
 ?>
-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

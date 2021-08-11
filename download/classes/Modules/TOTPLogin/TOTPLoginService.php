@@ -1,169 +1,277 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\TOTPLogin;
+
+use DateTime;
+use Exception;
+use Xentral\Components\Barcode\BarcodeFactory;
+use Xentral\Components\Barcode\Qrcode;
+use Xentral\Components\Database\Database;
+use Xentral\Components\Token\TOTPTokenManager;
+use Xentral\Modules\TOTPLogin\Exception\TOTPDisabledForUserException;
+use Xentral\Modules\TOTPLogin\Exception\TOTPUserNonExistantException;
+
+class TOTPLoginService
+{
+    /** @var Database $database */
+    private $database;
+
+    /** @var BarcodeFactory $barcodeService */
+    private $barcodeService;
+
+    /** @var TOTPTokenManager $tokenService */
+    private $tokenService;
+
+    /** @var string $userTable */
+    private $userTable = 'user';
+
+    /**
+     * @param Database         $database
+     * @param BarcodeFactory   $barcodeFactory
+     * @param TOTPTokenManager $tokenService
+     */
+    public function __construct(Database $database, BarcodeFactory $barcodeFactory, TOTPTokenManager $tokenService)
+    {
+        $this->database = $database;
+        $this->barcodeService = $barcodeFactory;
+        $this->tokenService = $tokenService;
+    }
+
+    /**
+     * @param int $userId
+     *
+     * @throws TOTPUserNonExistantException
+     *
+     * @return bool
+     */
+    public function isTOTPEnabled($userId)
+    {
+        if (!$this->existsUser($userId)) {
+            throw TOTPUserNonExistantException::fromUserId($userId);
+        }
+
+        $query = $this->database->select()
+            ->from('user_totp')
+            ->cols(['active'])
+            ->where('user_id = :user_id')
+            ->bindValue('user_id', $userId);
+
+        $result = $this->database->fetchValue($query->getStatement(), $query->getBindValues());
+
+        return $result === 1;
+    }
+
+    /**
+     * @param int    $userId
+     * @param string $token
+     *
+     * @throws TOTPUserNonExistantException
+     * @throws TOTPDisabledForUserException
+     * @throws Exception
+     *
+     * @return bool
+     */
+    public function isTokenValid($userId, $token)
+    {
+        if (!$this->existsUser($userId)) {
+            throw TOTPUserNonExistantException::fromUserId($userId);
+        }
+
+        if (!$this->isTOTPEnabled($userId)) {
+            throw TOTPDisabledForUserException::fromUserId($userId);
+        }
+
+        $token = preg_replace('/[^0-9]/', '', $token);
+
+        $now = (new DateTime())->getTimestamp();
+
+        $userSecret = $this->getTOTPSecret($userId);
+
+        return $this->tokenService->isTokenValid($token, $userSecret, $now);
+    }
+
+    /**
+     * @param int $userId
+     *
+     * @return bool
+     */
+    private function existsUser($userId)
+    {
+        $selectQuery = $this->database->select()
+            ->cols(['COUNT(*)'])
+            ->from($this->userTable)
+            ->where('id = :id')
+            ->bindValue('id', $userId);
+
+        $result = $this->database->fetchValue($selectQuery->getStatement(), $selectQuery->getBindValues());
+
+        return $result !== 0;
+    }
+
+    /**
+     * @param int $userId
+     *
+     * @throws TOTPUserNonExistantException
+     *
+     * @return void
+     */
+    public function enableTotp($userId)
+    {
+        if (!$this->existsUser($userId)) {
+            throw TOTPUserNonExistantException::fromUserId($userId);
+        }
+
+        $fetchQuery = $this->database->select()
+            ->from('user_totp')
+            ->cols(['id'])
+            ->where('user_id = :user_id')
+            ->bindValue('user_id', $userId);
+
+        $users = $this->database->fetchCol($fetchQuery->getStatement(), $fetchQuery->getBindValues());
+
+        if (empty($users)) {
+            $insertQuery = $this->database->insert()
+                ->into('user_totp')
+                ->cols(
+                    [
+                        'user_id' => $userId,
+                        'active'  => 1,
+                        'secret'  => $this->tokenService->generateBase32Secret(),
+                    ]
+                )
+                ->set('created_at', 'NOW()');
+
+            $this->database->perform($insertQuery->getStatement(), $insertQuery->getBindValues());
+        } else {
+            $updateQuery = $this->database->update()
+                ->table('user_totp')
+                ->cols(['active' => 1])
+                ->where('user_id = :user_id')
+                ->bindValue('user_id', $userId)
+                ->set('modified_at', 'NOW()');
+
+            $this->database->perform($updateQuery->getStatement(), $updateQuery->getBindValues());
+        }
+    }
+
+    /**
+     * @param int $userId
+     *
+     * @throws TOTPUserNonExistantException
+     *
+     * @return void
+     */
+    public function disableTotp($userId)
+    {
+        if (!$this->existsUser($userId)) {
+            throw TOTPUserNonExistantException::fromUserId($userId);
+        }
+
+        $updateQuery = $this->database->update()
+            ->table('user_totp')
+            ->cols(['active' => 0])
+            ->where('user_id = :user_id')
+            ->bindValue('user_id', $userId)
+            ->set('modified_at', 'NOW()');
+
+        $this->database->perform($updateQuery->getStatement(), $updateQuery->getBindValues());
+    }
+
+    /**
+     * @param int $userId
+     *
+     * @throws TOTPUserNonExistantException
+     * @throws TOTPDisabledForUserException
+     *
+     * @return void
+     */
+    public function regenerateUserSecret($userId)
+    {
+        if (!$this->existsUser($userId)) {
+            throw TOTPUserNonExistantException::fromUserId($userId);
+        }
+
+        if (!$this->isTOTPEnabled($userId)) {
+            throw TOTPDisabledForUserException::fromUserId($userId);
+        }
+
+        $updateQuery = $this->database->update()
+            ->table('user_totp')
+            ->cols(
+                [
+                    'active' => 1,
+                    'secret' => $this->tokenService->generateBase32Secret(),
+                ]
+            )
+            ->set('modified_at', 'NOW()')
+            ->where('user_id = :user_id')
+            ->bindValue('user_id', $userId);
+
+        $this->database->perform($updateQuery->getStatement(), $updateQuery->getBindValues());
+    }
+
+    /**
+     * @param int $userId
+     *
+     * @throws TOTPUserNonExistantException
+     * @throws TOTPDisabledForUserException
+     *
+     * @return string
+     */
+    public function getTOTPSecret($userId)
+    {
+        if (!$this->existsUser($userId)) {
+            throw TOTPUserNonExistantException::fromUserId($userId);
+        }
+
+        if (!$this->isTOTPEnabled($userId)) {
+            throw TOTPDisabledForUserException::fromUserId($userId);
+        }
+
+        $selectQuery = $this->database->select()
+            ->from('user_totp')
+            ->cols(['secret'])
+            ->where('user_id = :user_id')
+            ->bindValue('user_id', $userId);
+
+        return (string)$this->database->fetchValue($selectQuery->getStatement(), $selectQuery->getBindValues());
+    }
+
+    public function setUserSecret($userId, $secret){
+
+        if (!$this->existsUser($userId)) {
+            throw TOTPUserNonExistantException::fromUserId($userId);
+        }
+
+        if (!$this->isTOTPEnabled($userId)) {
+            throw TOTPDisabledForUserException::fromUserId($userId);
+        }
+
+        $updateQuery = $this->database->update()
+            ->table('user_totp')
+            ->cols(['secret' => $secret])
+            ->where('user_id=:user')
+            ->bindValue('user', $userId);
+
+        $this->database->perform($updateQuery->getStatement(), $updateQuery->getBindValues());
+    }
+
+    /**
+     * @param int    $userId
+     * @param string $label
+     *
+     * @param null|string   $secret
+     *
+     * @return Qrcode
+     */
+    public function generatePairingQrCode($userId, $label, $secret = null)
+    {
+        if($secret == null){
+            $secret = $this->getTOTPSecret($userId);
+        }
+
+        $query = "otpauth://totp/{$label}?secret=" . $secret . '&issuer=Xentral&algorithm=SHA1&digits=6&period=30';
+
+        return $this->barcodeService->createQrCode($query);
+    }
+}

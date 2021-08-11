@@ -1,169 +1,319 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+    /* PHP Implementation of XTEA (www.php-einfach.de)
+     *
+     * XTEA was designed in 1997 by David Wheeler and Roger Needham
+	  * of the Cambridge Computer Laboratory.
+	  * It is not subject to any patents.
+     *
+     * It is a 64-bit Feistel cipher, consisting of 64 rounds.
+     * XTA has a key length of 128 bits.
+     *
+     *
+     * ***********************
+     * Diese Implementierung darf frei verwendet werden, der Autor uebernimmt keine
+     * Haftung fuer die Richtigkeit, Fehlerfreiheit oder die Funktionsfaehigkeit dieses Scripts.
+     * Benutzung auf eigene Gefahr.
+     *
+     * Ueber einen Link auf www.php-einfach.de wuerden wir uns freuen.
+     *
+     * ************************
+     * Usage:
+     * <?php
+     * include("xtea.class.php");
+     *
+     * $xtea = new XTEA("secret Key");
+     * $cipher = $xtea->Encrypt("Hello World"); //Encrypts 'Hello World'
+     * $plain = $xtea->Decrypt($cipher); //Decrypts the cipher text
+     *
+     * echo $plain;
+     * ?>
+     */
+
+
+
+class XTEA {
+
+   //Private
+	var $key;
+
+	// CBC or ECB Mode
+	// normaly, CBC Mode would be the right choice
+	var $cbc = 1;
+
+   function __construct($key) {
+      $this->key_setup($key);
+   }
+
+
+   //Verschluesseln
+   function encrypt($text) {
+      $n = strlen($text);
+      if($n%8 != 0) $lng = ($n+(8-($n%8)));
+      else $lng = 0;
+
+      $text = str_pad($text, $lng, ' ');
+      $text = $this->_str2long($text);
+
+       print("key 0: ".$this->key[0]."\n");
+       print("key 1: ".$this->key[1]."\n");
+       print("key 2: ".$this->key[2]."\n");
+       print("key 3: ".$this->key[3]."\n");
+
+      //Initialization vector: IV
+      if($this->cbc == 1) {
+         $cipher[0][0] = time();
+         $cipher[0][1] = (double)microtime()*1000000;
+      }
+
+      $a = 1;
+      for($i = 0; $i<count($text); $i+=2) {
+         if($this->cbc == 1) {
+            //$text mit letztem Geheimtext XOR Verknuepfen
+            //$text is XORed with the previous ciphertext
+            $text[$i] ^= $cipher[$a-1][0];
+            $text[$i+1] ^= $cipher[$a-1][1];
+         }
+
+         $cipher[] = $this->block_encrypt($text[$i],$text[$i+1]);
+         $a++;
+      }
+
+      $output = "";
+      for($i = 0; $i<count($cipher); $i++) {
+         $output .= $this->_long2str($cipher[$i][0]);
+         $output .= $this->_long2str($cipher[$i][1]);
+      }
+
+      return base64_encode($output);
+   }
+
+
+
+
+   //Entschluesseln
+   function decrypt($text) {
+      $plain = array();
+      $cipher = $this->_str2long(base64_decode($text, True));
+
+      if($this->cbc == 1)
+         $i = 2; //Message start at second block
+      else
+         $i = 0; //Message start at first block
+
+      for($i; $i<count($cipher); $i+=2) {
+         $return = $this->block_decrypt($cipher[$i],$cipher[$i+1]);
+
+         //Xor Verknuepfung von $return und Geheimtext aus von den letzten beiden Bloecken
+         //XORed $return with the previous ciphertext
+         if($this->cbc == 1)
+            $plain[] = array($return[0]^$cipher[$i-2],$return[1]^$cipher[$i-1]);
+         else          //EBC Mode
+            $plain[] = $return;
+      }
+
+      $output = "";
+      for($i = 0; $i<count($plain); $i++) {
+         $output .= $this->_long2str($plain[$i][0]);
+         $output .= $this->_long2str($plain[$i][1]);
+      }
+
+      return $output;
+   }
+
+   //Bereitet den Key zum ver/entschluesseln vor
+   function key_setup($key) {
+		if(is_array($key))
+      	$this->key = $key;
+		else if(isset($key) && !empty($key))
+			$this->key = $this->_str2long(str_pad($key, 16, $key));
+		else
+			$this->key = array(0,0,0,0);
+   }
+
+
+	//Performs a benchmark
+	function benchmark($length=1000) {
+		//1000 Byte String
+		$string = str_pad("", $length, "text");
+
+
+		//Key-Setup
+		$start1 = time() + (double)microtime();
+		$xtea = new XTEA("key");
+		$end1 = time() + (double)microtime();
+
+		//Encryption
+		$start2 = time() + (double)microtime();
+		$xtea->Encrypt($string);
+		$end2 = time() + (double)microtime();
+
+
+
+		echo "Encrypting ".$length." bytes: ".round($end2-$start2,2)." seconds (".round($length/($end2-$start2),2)." bytes/second)<br>";
+
+
+	}
+
+	//verify the correct implementation of the blowfish algorithm
+	function check_implementation() {
+
+		$xtea = new XTEA("");
+		$vectors = array(
+			array(array(0x00000000,0x00000000,0x00000000,0x00000000), array(0x41414141,0x41414141), array(0xed23375a,0x821a8c2d)),
+			array(array(0x00010203,0x04050607,0x08090a0b,0x0c0d0e0f), array(0x41424344,0x45464748), array(0x497df3d0,0x72612cb5)),
+
+		);
+
+		//Correct implementation?
+		$correct = true;
+		//Test vectors, see http://www.schneier.com/code/vectors.txt
+		foreach($vectors AS $vector) {
+      	$key = $vector[0];
+			$plain = $vector[1];
+			$cipher = $vector[2];
+
+			$xtea->key_setup($key);
+			$return = $xtea->block_encrypt($vector[1][0],$vector[1][1]);
+
+			if((int)$return[0] != (int)$cipher[0] || (int)$return[1] != (int)$cipher[1])
+				$correct = false;
+
+		}
+
+		return $correct;
+
+	}
+
+
+
+	/***********************************
+			Some internal functions
+	 ***********************************/
+   function block_encrypt($y, $z) {
+	   $sum=0;
+	   $delta=0x9e3779b9;
+
+
+	   /* start cycle */
+	   for ($i=0; $i<32; $i++)
+	      {
+	      $y      = $this->_add($y,
+	                        $this->_add($z << 4 ^ $this->_rshift($z, 5), $z) ^
+	                            $this-> _add($sum, $this->key[$sum & 3]));
+
+	      $sum    = $this->_add($sum, $delta);
+
+	      $z      = $this->_add($z,
+	                        $this->_add($y << 4 ^ $this->_rshift($y, 5), $y) ^
+	                              $this->_add($sum, $this->key[$this->_rshift($sum, 11) & 3]));
+
+	      }
+
+	   /* end cycle */
+	   $v[0]=$y;
+	   $v[1]=$z;
+
+	   return array($y,$z);
+
+   }
+
+   function block_decrypt($y, $z) {
+	   $delta=0x9e3779b9;
+	   $sum=0xC6EF3720;
+	   $n=32;
+
+	   /* start cycle */
+	   for ($i=0; $i<32; $i++)
+	      {
+	      $z      = $this->_add($z,
+	                	-($this->_add($y << 4 ^ $this->_rshift($y, 5), $y) ^
+	                  	$this->_add($sum, $this->key[$this->_rshift($sum, 11) & 3])));
+	      $sum    = $this->_add($sum, -$delta);
+	      $y      = $this->_add($y,
+	                          -($this->_add($z << 4 ^ $this->_rshift($z, 5), $z) ^
+	                                    $this->_add($sum, $this->key[$sum & 3])));
+
+	      }
+	   /* end cycle */
+
+	   return array($y,$z);
+    }
+
+
+
+
+  	function _rshift($integer, $n) {
+        // convert to 32 bits
+        if (0xffffffff < $integer || -0xffffffff > $integer) {
+            $integer = fmod($integer, 0xffffffff + 1);
+        }
+
+        // convert to unsigned integer
+        if (0x7fffffff < $integer) {
+            $integer -= 0xffffffff + 1.0;
+        } elseif (-0x80000000 > $integer) {
+            $integer += 0xffffffff + 1.0;
+        }
+
+        // do right shift
+        if (0 > $integer) {
+            $integer &= 0x7fffffff;                     // remove sign bit before shift
+            $integer >>= $n;                            // right shift
+            $integer |= 1 << (31 - $n);                 // set shifted sign bit
+        } else {
+            $integer >>= $n;                            // use normal right shift
+        }
+
+        return $integer;
+    }
+
+
+    function _add($i1, $i2) {
+        $result = 0.0;
+
+        foreach (func_get_args() as $value) {
+            // remove sign if necessary
+            if (0.0 > $value) {
+                $value -= 1.0 + 0xffffffff;
+            }
+
+            $result += $value;
+        }
+
+        // convert to 32 bits
+        if (0xffffffff < $result || -0xffffffff > $result) {
+            $result = fmod($result, 0xffffffff + 1);
+        }
+
+        // convert to signed integer
+        if (0x7fffffff < $result) {
+            $result -= 0xffffffff + 1.0;
+        } elseif (-0x80000000 > $result) {
+            $result += 0xffffffff + 1.0;
+        }
+
+        return $result;
+    }
+
+
+   //Einen Text in Longzahlen umwandeln
+   //Covert a string into longinteger
+   function _str2long($data) {
+       $n = strlen($data);
+       $tmp = unpack('N*', $data);
+       $data_long = array();
+       $j = 0;
+
+       foreach ($tmp as $value) $data_long[$j++] = $value;
+       return $data_long;
+   }
+
+   //Longzahlen in Text umwandeln
+   //Convert a longinteger into a string
+   function _long2str($l){
+       return pack('N', $l);
+   }
+
+}
+
 ?>
-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
-HpvXhkkE46K=

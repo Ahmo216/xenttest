@@ -1,41 +1,33 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\CarrierSelect\Data\Comparator;
+
+
+final class ValueSmallerThanComparator implements FilterComparatorInterface
+{
+
+    public function getName(): string
+    {
+        return '<';
+    }
+
+    /**
+     * @param array $filterValues
+     * @param array $values
+     *
+     * @return bool
+     */
+    public function matches(array $filterValues, array $values): bool
+    {
+        $filterValue = (float)reset($filterValues);
+
+        $sum = 0;
+        foreach ($values as $value) {
+            $sum += (float)$value;
+        }
+
+        return $sum < $filterValue;
+    }
+}

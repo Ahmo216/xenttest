@@ -1,84 +1,172 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\RetailPriceTemplate\Service;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\RetailPriceTemplate\Exception\InvalidArgumentException;
+use Xentral\Modules\RetailPriceTemplate\Exception\NotFoundException;
+
+final class RetailPriceTemplateService
+{
+    /** @var Database $database */
+    private $db;
+
+    /**
+     * @param Database $database
+     */
+    public function __construct(Database $database)
+    {
+        $this->db = $database;
+    }
+
+    /**
+     * @param int $templateId
+     *
+     * @throws NotFoundException
+     * @throws InvalidArgumentException
+     *
+     * @return void
+     */
+    public function deleteTemplate($templateId)
+    {
+        $this->ensureId($templateId, 'TemplateID');
+
+        $affectedRows = (int)$this->db->fetchAffected(
+            'DELETE FROM retail_price_template WHERE id = :template_id LIMIT 1',
+            ['template_id' => $templateId]
+        );
+
+        if ($affectedRows === 0) {
+            throw new NotFoundException('Template not found: ID ' . $templateId);
+        }
+
+        $this->db->perform(
+            'DELETE FROM retail_price_template_assignment WHERE retail_price_template_id = :template_id',
+            ['template_id' => $templateId]
+        );
+
+        $this->db->perform(
+            'DELETE FROM retail_price_template_price WHERE template_id = :template_id',
+            ['template_id' => $templateId]
+        );
+    }
+
+    /**
+     * @param int $templateId
+     *
+     * @throws NotFoundException
+     * @throws InvalidArgumentException
+     *
+     * @return array
+     */
+    public function getTemplate($templateId)
+    {
+        $this->ensureId($templateId, 'TemplateID');
+
+        $template = $this->db->fetchRow(
+            'SELECT rpt.id, rpt.description, rpt.active, CONCAT(a.nummer,\' \',a.name_de) AS articleNoAndName
+            FROM retail_price_template AS rpt 
+            JOIN artikel a ON a.id = rpt.article_id
+            WHERE rpt.id = :template_id',
+            ['template_id' => $templateId]
+        );
+
+        if (empty($template)) {
+            throw new NotFoundException('Template not found: ID ' . $templateId);
+        }
+
+        return $template;
+    }
+
+
+    /**
+     * @param int    $templateId
+     * @param string $description
+     * @param bool   $active
+     * @param string $articleNo
+     *
+     * @return void
+     */
+    public function saveTemplate($templateId, $description, $active, $articleNo)
+    {
+        $articleId = $this->db->fetchValue(
+            'SELECT id FROM artikel WHERE nummer <> \'\' AND nummer = :articleNo',
+            ['articleNo' => $articleNo]
+        );
+
+        $this->ensureId($articleId, 'ArticleId');
+        $this->ensureId($templateId, 'TemplateID');
+        $this->ensureActive($active);
+
+        $this->db->perform(
+            'UPDATE retail_price_template AS rpt 
+             SET rpt.description = :description, rpt.active = :active, rpt.article_id = :articleId
+             WHERE rpt.id = :templateId',
+            [
+                'description' => $description,
+                'active'      => $active,
+                'articleId'   => $articleId,
+                'templateId'  => $templateId,
+            ]
+        );
+    }
+
+    /***
+     * @param string $description
+     * @param bool   $active
+     * @param string $articleNo
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return int
+     */
+    public function createTemplate($description, $active, $articleNo)
+    {
+        $articleId = $this->db->fetchValue(
+            'SELECT id FROM artikel WHERE nummer <> \'\' AND nummer = :articleNo',
+            ['articleNo' => $articleNo]
+        );
+
+        $this->ensureId($articleId, 'ArticleId');
+        $this->ensureActive($active);
+
+        $this->db->perform(
+            'INSERT INTO retail_price_template  (description, active, article_id) 
+             VALUES (:description, :active, :articleId)',
+            [
+                'description' => $description,
+                'active'      => $active,
+                'articleId'   => $articleId,
+            ]
+        );
+
+        return $this->db->lastInsertId();
+    }
+
+    /**
+     * @param int    $templateId
+     * @param string $name
+     *
+     * @return void
+     */
+    private function ensureId($templateId, $name = '')
+    {
+        if (empty($templateId) || (int)$templateId < 0) {
+            throw new InvalidArgumentException('Required argument "' . $name . '" is empty or invalid.');
+        }
+    }
+
+    /**
+     * @param bool $active
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return void
+     */
+    private function ensureActive($active)
+    {
+        if (!is_bool($active)) {
+            throw new InvalidArgumentException('Required argument "active" is invalid.');
+        }
+    }
+}

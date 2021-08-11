@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="{{ substr(app()->getLocale(), 0, 2) }}" translate="no">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="google" content="notranslate">
     <meta http-equiv="Content-Security-Policy"
-          content="default-src 'self' 'unsafe-inline' 'unsafe-eval' xentral.com *.xentral.com xentral.biz *.xentral.biz *.wawision.de *.embedded-projects.net maps.googleapis.com maps.gstatic.com www.youtube.com thumbs.ebaystatic.com {!! $ADDITIONALCSPHEADER !!};"
+          content="default-src 'self' 'unsafe-inline' 'unsafe-eval' xentral.com *.xentral.com xentral.biz *.xentral.biz *.wawision.de *.embedded-projects.net maps.googleapis.com maps.gstatic.com www.youtube.com thumbs.ebaystatic.com *.userlane.com fonts.gstatic.com {!! $ADDITIONALCSPHEADER !!};"
     >
     <title>{{ $title ? $title . ' | Xentral' : 'Xentral' }}</title>
 

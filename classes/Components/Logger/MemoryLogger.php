@@ -1,54 +1,64 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\Logger;
+
+use Xentral\Components\Logger\Context\ContextHelper;
+use Xentral\Components\Logger\Handler\MemoryLogHandler;
+
+final class MemoryLogger extends AbstractLogger
+{
+    /** @var MemoryLogHandler $handler */
+    private $handler;
+
+    /** @var Logger $logger */
+    private $logger;
+
+    /**
+     * MemoryLogger constructor.
+     *
+     * @param ContextHelper $contextHelper
+     */
+    public function __construct(ContextHelper $contextHelper)
+    {
+        $this->handler = new MemoryLogHandler('debug');
+        $this->logger = new Logger($contextHelper);
+        $this->logger->pushHandler($this->handler);
+    }
+
+    /**
+     * Logs with an arbitrary level.
+     *
+     * @param mixed  $level
+     * @param string $message
+     * @param array  $context
+     *
+     * @return void
+     */
+    public function log($level, $message, array $context = []): void
+    {
+        $this->logger->log($level, $message, $context);
+    }
+
+    /**
+     * @return array
+     */
+    public function getMessages(): array
+    {
+        return $this->handler->getMessages();
+    }
+
+    /**
+     * @return array
+     */
+    public function getContexts(): array
+    {
+        $contextArray = [];
+        foreach ($this->handler->getContexts() as $context) {
+            $contextArray[] = $context->getDump();
+        }
+
+        return $contextArray;
+    }
+}

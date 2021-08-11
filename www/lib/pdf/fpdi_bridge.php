@@ -1,121 +1,215 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+//
+//  FPDI - Version 1.5.1
+//
+//    Copyright 2004-2014 Setasign - Jan Slabon
+//
+//  Licensed under the Apache License, Version 2.0 (the "License");
+//  you may not use this file except in compliance with the License.
+//  You may obtain a copy of the License at
+//
+//      http://www.apache.org/licenses/LICENSE-2.0
+//
+//  Unless required by applicable law or agreed to in writing, software
+//  distributed under the License is distributed on an "AS IS" BASIS,
+//  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//  See the License for the specific language governing permissions and
+//  limitations under the License.
+//
+
+/**
+ * This file is used as a bridge between TCPDF or FPDF
+ * It will dynamically create the class extending the available
+ * class FPDF or TCPDF.
+ *
+ * This way it is possible to use FPDI for both FPDF and TCPDF with one FPDI version.
+ */
+
+if (!class_exists('TCPDF', false)) {
+    /**
+     * Class fpdi_bridge
+     */
+    class fpdi_bridge extends FPDF
+    {
+        // empty body
+    }
+
+} else {
+
+    /**
+     * Class fpdi_bridge
+     */
+    class fpdi_bridge extends TCPDF
+    {
+        /**
+         * Array of Tpl-Data
+         *
+         * @var array
+         */
+        protected $_tpls = array();
+
+        /**
+         * Name-prefix of Templates used in Resources-Dictionary
+         *
+         * @var string A String defining the Prefix used as Template-Object-Names. Have to begin with an /
+         */
+        public $tplPrefix = "/TPL";
+
+        /**
+         * Current Object Id.
+         *
+         * @var integer
+         */
+        protected $_currentObjId;
+
+        /**
+         * Return XObjects Dictionary.
+         *
+         * Overwritten to add additional XObjects to the resources dictionary of TCPDF
+         *
+         * @return string
+         */
+        protected function _getxobjectdict()
+        {
+            $out = parent::_getxobjectdict();
+            foreach ($this->_tpls as $tplIdx => $tpl) {
+                $out .= sprintf('%s%d %d 0 R', $this->tplPrefix, $tplIdx, $tpl['n']);
+            }
+
+            return $out;
+        }
+
+        /**
+         * Writes a PDF value to the resulting document.
+         *
+         * Prepares the value for encryption of imported data by FPDI
+         *
+         * @param array $value
+         */
+        protected function _prepareValue(&$value)
+        {
+            switch ($value[0]) {
+                case pdf_parser::TYPE_STRING:
+                    if ($this->encrypted) {
+                        $value[1] = $this->_unescape($value[1]);
+                        $value[1] = $this->_encrypt_data($this->_currentObjId, $value[1]);
+                        $value[1] = TCPDF_STATIC::_escape($value[1]);
+                    }
+                    break;
+
+                case pdf_parser::TYPE_STREAM:
+                    if ($this->encrypted) {
+                        $value[2][1] = $this->_encrypt_data($this->_currentObjId, $value[2][1]);
+                        $value[1][1]['/Length'] = array(
+                            pdf_parser::TYPE_NUMERIC,
+                            strlen($value[2][1])
+                        );
+                    }
+                    break;
+
+                case pdf_parser::TYPE_HEX:
+                    if ($this->encrypted) {
+                        $value[1] = $this->hex2str($value[1]);
+                        $value[1] = $this->_encrypt_data($this->_currentObjId, $value[1]);
+
+                        // remake hexstring of encrypted string
+                        $value[1] = $this->str2hex($value[1]);
+                    }
+                    break;
+            }
+        }
+
+        /**
+         * Un-escapes a PDF string
+         *
+         * @param string $s
+         * @return string
+         */
+        protected function _unescape($s)
+        {
+            $out = '';
+            for ($count = 0, $n = strlen($s); $count < $n; $count++) {
+                if ($s[$count] != '\\' || $count == $n-1) {
+                    $out .= $s[$count];
+                } else {
+                    switch ($s[++$count]) {
+                        case ')':
+                        case '(':
+                        case '\\':
+                            $out .= $s[$count];
+                            break;
+                        case 'f':
+                            $out .= chr(0x0C);
+                            break;
+                        case 'b':
+                            $out .= chr(0x08);
+                            break;
+                        case 't':
+                            $out .= chr(0x09);
+                            break;
+                        case 'r':
+                            $out .= chr(0x0D);
+                            break;
+                        case 'n':
+                            $out .= chr(0x0A);
+                            break;
+                        case "\r":
+                            if ($count != $n-1 && $s[$count+1] == "\n")
+                                $count++;
+                            break;
+                        case "\n":
+                            break;
+                        default:
+                            // Octal-Values
+                            if (ord($s[$count]) >= ord('0') &&
+                                ord($s[$count]) <= ord('9')) {
+                                $oct = ''. $s[$count];
+
+                                if (ord($s[$count+1]) >= ord('0') &&
+                                    ord($s[$count+1]) <= ord('9')) {
+                                    $oct .= $s[++$count];
+
+                                    if (ord($s[$count+1]) >= ord('0') &&
+                                        ord($s[$count+1]) <= ord('9')) {
+                                        $oct .= $s[++$count];
+                                    }
+                                }
+
+                                $out .= chr(octdec($oct));
+                            } else {
+                                $out .= $s[$count];
+                            }
+                    }
+                }
+            }
+            return $out;
+        }
+
+        /**
+         * Hexadecimal to string
+         *
+         * @param string $data
+         * @return string
+         */
+        public function hex2str($data)
+        {
+            $data = preg_replace('/[^0-9A-Fa-f]/', '', rtrim($data, '>'));
+            if ((strlen($data) % 2) == 1) {
+                $data .= '0';
+            }
+
+            return pack('H*', $data);
+        }
+
+        /**
+         * String to hexadecimal
+         *
+         * @param string $str
+         * @return string
+         */
+        public function str2hex($str)
+        {
+            return current(unpack('H*', $str));
+        }
+    }
+}

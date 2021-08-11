@@ -1,93 +1,164 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Widgets\DataTable\Feature;
+
+use Xentral\Widgets\DataTable\DataTableInterface;
+
+final class TableStylingFeature implements DataTableFeatureInterface
+{
+    /** @var array $cssClasses */
+    private $cssClasses = [];
+
+    /**
+     * @param bool $compact
+     * @param bool $disableLineWrapping
+     */
+    public function __construct($compact = false, $disableLineWrapping = false)
+    {
+        $this->setDefaultStyle();
+        if ($compact === true) {
+            $this->setCompactStyle();
+        }
+        if ($disableLineWrapping === true) {
+            $this->disableLineWrapping();
+        } else {
+            $this->enableLineWrapping();
+        }
+    }
+
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return void
+     */
+    public function modifyTable(DataTableInterface $table)
+    {
+        foreach ($this->cssClasses as $cssClass) {
+            $table->getConfig()->addCssClass($cssClass);
+        }
+    }
+
+    /**
+     * display: Short-hand for stripe, hover, row-border and order-column.
+     *
+     * @return void
+     */
+    public function setDefaultStyle()
+    {
+        $this->removeCssClass('display');
+        $this->removeCssClass('compact');
+        $this->removeCssClass('order-column');
+
+        $this->enableHover();
+        $this->disableRowBorder();
+        $this->disableStripes();
+    }
+
+    /**
+     * @return void
+     */
+    public function setCompactStyle()
+    {
+        $this->addCssClass('compact');
+    }
+
+    /**
+     * @return void
+     */
+    public function enableLineWrapping()
+    {
+        $this->removeCssClass('nowrap');
+    }
+
+    /**
+     * @return void
+     */
+    public function disableLineWrapping()
+    {
+        $this->addCssClass('nowrap');
+    }
+
+    /**
+     * @return void
+     */
+    public function enableHover()
+    {
+        $this->addCssClass('hover');
+    }
+
+    /**
+     * @return void
+     */
+    public function disableHover()
+    {
+        $this->removeCssClass('hover');
+    }
+
+    /**
+     * @return void
+     */
+    public function enableStripes()
+    {
+        $this->addCssClass('stripe');
+    }
+
+    /**
+     * @return void
+     */
+    public function disableStripes()
+    {
+        $this->removeCssClass('stripe');
+    }
+
+    /**
+     * @return void
+     */
+    public function enableRowBorder()
+    {
+        $this->addCssClass('row-border');
+        $this->removeCssClass('cell-border');
+    }
+
+    /**
+     * @return void
+     */
+    public function disableRowBorder()
+    {
+        $this->removeCssClass('row-border');
+    }
+
+    /**
+     * @param string $className
+     *
+     * @return bool
+     */
+    private function hasCssClass($className)
+    {
+        return in_array($className, $this->cssClasses, true);
+    }
+
+    /**
+     * @param string $className
+     *
+     * @return void
+     */
+    private function addCssClass($className)
+    {
+        $this->cssClasses[] = trim($className);
+        $this->cssClasses = array_unique($this->cssClasses);
+    }
+
+    /**
+     * @param string $className
+     *
+     * @return void
+     */
+    private function removeCssClass($className)
+    {
+        $classKey = array_search($className, $this->cssClasses, true);
+        if ($classKey !== false) {
+            unset($this->cssClasses[$classKey]);
+            $this->cssClasses = array_values($this->cssClasses);
+        }
+    }
+}

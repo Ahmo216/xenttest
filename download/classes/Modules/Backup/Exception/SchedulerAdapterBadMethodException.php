@@ -1,30 +1,10 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Backup\Exception;
+
+use BadMethodCallException as SplBadMethodCallException;
+
+final class SchedulerAdapterBadMethodException extends SplBadMethodCallException implements BackupExceptionInterface
+{
+
+}

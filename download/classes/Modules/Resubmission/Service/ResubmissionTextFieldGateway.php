@@ -1,143 +1,354 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Resubmission\Service;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Resubmission\Exception\ResubmissionNotFoundException;
+use Xentral\Modules\Resubmission\Exception\TextFieldConfigNotFoundException;
+
+final class ResubmissionTextFieldGateway
+{
+    /** @var Database $db */
+    private $db;
+
+    /** @var ResubmissionGateway $resubmissionGateway */
+    private $resubmissionGateway;
+
+    /**
+     * @param Database            $database
+     * @param ResubmissionGateway $resubmissionGateway
+     */
+    public function __construct(Database $database, ResubmissionGateway $resubmissionGateway)
+    {
+        $this->db = $database;
+        $this->resubmissionGateway = $resubmissionGateway;
+    }
+
+    /**
+     * @param int $configId
+     *
+     * @return bool
+     */
+    public function existsConfig($configId)
+    {
+        $sql =
+            'SELECT COUNT(wfk.id) AS `config_count` 
+            FROM `wiedervorlage_freifeld_konfiguration` AS `wfk`
+            WHERE wfk.id = :config_id';
+        $configCount = (int)$this->db->fetchValue($sql, ['config_id' => (int)$configId]);
+
+        return $configCount === 1;
+    }
+
+    /**
+     * @param int $configId
+     *
+     * @throws TextFieldConfigNotFoundException
+     *
+     * @return array
+     */
+    public function getConfigById($configId)
+    {
+        $sql =
+            'SELECT
+                wfk.id,
+                wfk.title,
+                wfk.available_from_stage_id,
+                wfk.required_from_stage_id,
+                wfk.show_in_pipeline,
+                wfk.show_in_tables
+            FROM `wiedervorlage_freifeld_konfiguration` AS `wfk`
+            WHERE wfk.id = :config_id';
+
+        $result = $this->db->fetchRow($sql, ['config_id' => (int)$configId]);
+        if (empty($result)) {
+            throw new TextFieldConfigNotFoundException(sprintf(
+                'Text field config not found: ID%s', $configId
+            ));
+        }
+
+        if (empty($result['available_from_stage_id'])) {
+            $result['available_from_stage_id'] = 0;
+        }
+        if (empty($result['required_from_stage_id'])) {
+            $result['required_from_stage_id'] = 0;
+        }
+        $result['show_in_pipeline'] = (int)$result['show_in_pipeline'] === 1;
+        $result['show_in_tables'] = (int)$result['show_in_tables'] === 1;
+
+        return $result;
+    }
+
+    /**
+     * @example Rückgabe: ['freifeld1' => 'Mein Freifeld 1', 'freifeld2' => 'Mein Freifeld 2']
+     *
+     * @param int $viewId
+     *
+     * @return array
+     */
+    public function getTextFieldsForTableView($viewId)
+    {
+        $stages = $this->resubmissionGateway->getStagesByView($viewId);
+        $stageIds = array_column($stages, 'id');
+
+        if (empty($stageIds)) {
+            return [];
+        }
+
+        $sql =
+            'SELECT CONCAT(\'freifeld\', wfk.id) AS name, wfk.title 
+             FROM `wiedervorlage_freifeld_konfiguration` AS `wfk` 
+             WHERE wfk.show_in_tables = 1
+             AND (
+                 wfk.available_from_stage_id = 0 
+                 OR wfk.available_from_stage_id IN (:stages_ids)
+                 OR wfk.required_from_stage_id IN (:stages_ids)
+             )';
+
+        return $this->db->fetchPairs($sql, ['stages_ids' => $stageIds]);
+    }
+
+    /**
+     * @example Rückgabe: ['freifeld1' => 'Mein Freifeld 1', 'freifeld2' => 'Mein Freifeld 2']
+     *
+     * @param int $viewId
+     *
+     * @return array
+     */
+    public function getTextFieldsForPipelineView($viewId)
+    {
+        $stages = $this->resubmissionGateway->getStagesByView($viewId);
+        $stageIds = array_column($stages, 'id');
+
+        if (empty($stageIds)) {
+            return [];
+        }
+
+        $sql =
+            'SELECT CONCAT(\'freifeld\', wfk.id) AS name, wfk.title 
+             FROM `wiedervorlage_freifeld_konfiguration` AS `wfk` 
+             WHERE wfk.show_in_pipeline = 1
+             AND (
+                wfk.available_from_stage_id = 0 
+                OR wfk.available_from_stage_id IN (:stages_ids)
+                OR wfk.required_from_stage_id IN (:stages_ids)
+             )';
+
+        return $this->db->fetchPairs($sql, ['stages_ids' => $stageIds]);
+    }
+
+    /**
+     * Lädt alle Freitextfelder die in der übergebenen Stage ein Pflichtfeld sind
+     *
+     * @param int $stageId
+     *
+     * @return array
+     */
+    public function getRequiredTextFieldsForStage($stageId)
+    {
+        // Schritt 1
+        // Alle Stage-IDs ermittlen für die wir die Freitextfelder laden sollen
+        // d.h. alle Stages die in der Reihenfolge vor der aktuellen Stage kommen; inklusive der aktuellen Stage
+        $validStages = $this->getStagesUntilStageId($stageId);
+        $validStageIds = array_column($validStages, 'id');
+
+        // Schritt 2
+        // Alle Pflicht-Freitextfelder für die Stages aus Schritt 1 ermitteln
+        $sql =
+            'SELECT 
+                 wfk.id AS `config_id`, 
+                 wfk.title AS `label`, 
+                 wfk.available_from_stage_id, 
+                 wfk.required_from_stage_id,
+                 ws.name AS `required_from_stage_name`,
+                 wfk.show_in_pipeline,
+                 wfk.show_in_tables
+             FROM `wiedervorlage_freifeld_konfiguration` AS `wfk`
+             LEFT JOIN `wiedervorlage_stages` AS `ws` ON wfk.required_from_stage_id = ws.id
+             WHERE wfk.required_from_stage_id IN (:valid_stage_ids)';
+
+        return $this->db->fetchAll($sql, [
+            'valid_stage_ids' => $validStageIds,
+        ]);
+    }
+
+    /**
+     * Lädt alle Stages die in der Reihenfolge vor der übergebenen Stage liegen
+     *
+     * @refactor ResubmissionGateway
+     *
+     * @param int $stageId
+     *
+     * @return array
+     */
+    private function getStagesUntilStageId($stageId)
+    {
+        // Alle Stages in der gleichen View ermitteln
+        $stageId = (int)$stageId;
+        $stages = $this->resubmissionGateway->getSiblingStages($stageId);
+
+        // Rang der übergebenen Stage ermitteln
+        $currentRank = 0;
+        foreach ($stages as $stage) {
+            if ($stage['id'] === $stageId) {
+                $currentRank = $stage['rank'];
+            }
+        }
+
+        // Alle Stages filtern die VOR der übergebenen Stage liegen (inklusive der übergebenen Stage)
+        $validStages = [];
+        foreach ($stages as $stage) {
+            if ($stage['rank'] <= $currentRank) {
+                $validStages[] = $stage;
+            }
+        }
+
+        return $validStages;
+    }
+
+    /**
+     * Ermittelt alle Freifelder die das Verschieben einer Wiedervorlage blockieren
+     *
+     * @param int $resubmissionId
+     * @param int $targetStageId
+     *
+     * @return array Empty array if none item is blocking
+     */
+    public function getBlockingTextFieldsForTargetStage($resubmissionId, $targetStageId)
+    {
+        $resubmissionId = (int)$resubmissionId;
+        $targetStageId = (int)$targetStageId;
+
+        $textfields = $this->getTextFieldsForResubmission($resubmissionId);
+
+        $blocking = [];
+        foreach ($textfields as $textfield) {
+            if (!empty($textfield['content'])) {
+                continue; // Textfeld ist ausgefüllt > Textfeld darf in jede Stage geschoben werden
+            }
+            if ((int)$textfield['required_from_stage_id'] === 0) {
+                continue; // Textfeld hat keine Fertigstellungs-Stage hinterlegt > Textfeld darf in jede Stage geschoben werden
+            }
+
+            $distance = $this->resubmissionGateway->getDistanceBetweenStages(
+                $targetStageId, $textfield['required_from_stage_id']
+            );
+            if ($distance <= 0) {
+                $blocking[] = [
+                    'config_id'  => $textfield['config_id'],
+                    'content_id' => $textfield['content_id'],
+                    'label'      => $textfield['label'],
+                ];
+            }
+        }
+
+        return $blocking;
+    }
+
+    /**
+     * Lädt alle Freitextfelder für eine Wiedervorlage
+     *
+     * @param int $resubmissionId
+     *
+     * @throws ResubmissionNotFoundException
+     *
+     * @return array
+     */
+    public function getTextFieldsForResubmission($resubmissionId)
+    {
+        $stage = $this->resubmissionGateway->getStageByResubmission($resubmissionId);
+        $viewId = (int)$stage['view_id']; // View-ID `0` ist zulässig
+
+        // 1. Alle Stage-IDs ermittlen für die wir die Freitextfelder laden sollen
+        // d.h. alle Stages die in der Reihenfolge vor der aktuellen Stage kommen; inklusive der aktuellen Stage
+        $validStages = $this->getStagesUntilStageId($stage['id']);
+        $validStageIds = array_column($validStages, 'id');
+
+        // 2. Alle Freitextfelder für die Stages aus Schritt 1 ermitteln
+        $sql =
+            'SELECT 
+                 wfk.id AS `config_id`, 
+                 wfi.id AS `content_id`, 
+                 wfk.title AS `label`, 
+                 wfk.available_from_stage_id, 
+                 wfk.required_from_stage_id,
+                 wfk.show_in_pipeline,
+                 wfk.show_in_tables
+             FROM `wiedervorlage_freifeld_konfiguration` AS `wfk`
+             LEFT JOIN `wiedervorlage_freifeld_inhalt` AS `wfi` 
+                 ON wfi.resubmission_id = :resubmission_id
+             LEFT JOIN `wiedervorlage_stages` AS ws1 
+                 ON wfk.required_from_stage_id = ws1.id
+             LEFT JOIN `wiedervorlage_stages` AS ws2 
+                 ON wfk.available_from_stage_id = ws2.id
+             WHERE wfk.available_from_stage_id = 0 
+                OR wfk.available_from_stage_id IN (:valid_stage_ids) 
+                OR wfk.required_from_stage_id IN (:valid_stage_ids) 
+             ORDER BY wfk.required_from_stage_id != 0 DESC, ws1.sort, ws2.sort, wfk.title';
+        // Erklärung Sortierung:
+        // 1. `wfk.required_from_stage_id != 0 DESC` = Felder mit Pflicht-Stage oben anzeigen
+        // 2. `ws1.sort, ws2.sort` = Felder nach Reihenfolge der Stages anzeigen
+
+        $textFields = $this->db->fetchAll($sql, [
+            'resubmission_id' => $resubmissionId,
+            'valid_stage_ids' => $validStageIds,
+            'view_id'         => $viewId,
+        ]);
+
+        // Freitextfeld-Inhalte ergänzen
+        $contents = $this->getTextFieldContentsForResubmission($resubmissionId);
+        foreach ($textFields as &$textField) {
+            $configId = (int)$textField['config_id'];
+            $textField['content'] = $contents[$configId];
+        }
+        unset($textField);
+
+        return $textFields;
+    }
+
+    /**
+     * @param int $resubmissionId
+     *
+     * @return array
+     */
+    private function getTextFieldContentsForResubmission($resubmissionId)
+    {
+        $columnNames = $this->getTextFieldColumnNames();
+
+        $contentsAll = $this->db->fetchRow(
+            'SELECT wfi.* FROM `wiedervorlage_freifeld_inhalt` AS `wfi` 
+             WHERE wfi.resubmission_id = :resubmission_id LIMIT 1',
+            ['resubmission_id' => (int)$resubmissionId]
+        );
+
+        $contents = [];
+        foreach ($columnNames as $configId => $columnName) {
+            if (isset($contentsAll[$columnName])) {
+                $contents[$configId] = $contentsAll[$columnName];
+            } else {
+                $contents[$configId] = null;
+            }
+        }
+
+        return $contents;
+    }
+
+    /**
+     * @param string|null $tableAlias
+     *
+     * @return array
+     */
+    private function getTextFieldColumnNames($tableAlias = null)
+    {
+        $sql = 'SELECT wfk.id FROM `wiedervorlage_freifeld_konfiguration` AS `wfk` WHERE 1';
+        $configIds = $this->db->fetchCol($sql);
+
+        $columnNames = [];
+        $columnPrefix = $tableAlias !== null ? sprintf('%s.', $tableAlias) : '';
+        foreach ($configIds as $configId) {
+            $columnNames[$configId] = sprintf('%sfreifeld%s', $columnPrefix, $configId);
+        }
+
+        return $columnNames;
+    }
+}

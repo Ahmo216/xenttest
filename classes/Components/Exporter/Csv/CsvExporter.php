@@ -1,47 +1,70 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Exporter\Csv;
+
+use Iterator;
+use Xentral\Components\Exporter\Exception\FileExistsException;
+use Xentral\Components\Exporter\Exception\InvalidResourceException;
+
+final class CsvExporter
+{
+    /** @var CsvConfig $config */
+    private $config;
+
+    /**
+     * @param CsvConfig|null $config
+     */
+    public function __construct(CsvConfig $config = null)
+    {
+        if ($config === null) {
+            $config = new CsvConfig();
+        }
+
+        $this->config = $config;
+    }
+
+    /**
+     * @param string         $filePath Resource used for writing
+     * @param array|Iterator $data     Multi-dimentional array, Generator or Iterator
+     *
+     * @throws FileExistsException|InvalidResourceException
+     *
+     * @return void
+     */
+    public function export($filePath, $data)
+    {
+        $resource = $this->exportToResource($filePath, $data);
+        fclose($resource);
+    }
+
+    /**
+     * Same as ::export() beside that the created resource will be returned
+     *
+     * @param string         $filePath Resource used for writing
+     * @param array|Iterator $data     Multi-dimentional array, Generator or Iterator
+     *
+     * @throws FileExistsException|InvalidResourceException
+     *
+     * @return resource
+     */
+    public function exportToResource($filePath, $data)
+    {
+        if (is_file($filePath)) {
+            throw new FileExistsException(sprintf('File creation failed. File "%s" already exists.', $filePath));
+        }
+
+        // 'x+' = Create and open for reading and writing.
+        //        File pointer will be placed at the beginning of the file.
+        //        If the file already exists `fopen` will return false.
+        // 'b'  = Enable binary mode
+        $resource = @fopen($filePath, 'x+b');
+        if ($resource === false) {
+            throw new InvalidResourceException(sprintf('Failed to open resource for file path "%s".', $filePath));
+        }
+
+        $writer = new CsvWriter($resource, $this->config);
+        $writer->writeLines($data);
+
+        return $resource;
+    }
+}

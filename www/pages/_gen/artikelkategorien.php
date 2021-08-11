@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php 
+
+class GenArtikelkategorien { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","ArtikelkategorienCreate");
+    $this->app->ActionHandler("edit","ArtikelkategorienEdit");
+    $this->app->ActionHandler("copy","ArtikelkategorienCopy");
+    $this->app->ActionHandler("list","ArtikelkategorienList");
+    $this->app->ActionHandler("delete","ArtikelkategorienDelete");
+
+    $this->app->Tpl->Set("HEADING","Artikelkategorien");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function ArtikelkategorienCreate(){
+    $this->app->Tpl->Set("HEADING","Artikelkategorien (Anlegen)");
+      $this->app->PageBuilder->CreateGen("artikelkategorien_create.tpl");
+  }
+
+  function ArtikelkategorienEdit(){
+    $this->app->Tpl->Set("HEADING","Artikelkategorien (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("artikelkategorien_edit.tpl");
+  }
+
+  function ArtikelkategorienCopy(){
+    $this->app->Tpl->Set("HEADING","Artikelkategorien (Kopieren)");
+      $this->app->PageBuilder->CreateGen("artikelkategorien_copy.tpl");
+  }
+
+  function ArtikelkategorienDelete(){
+    $this->app->Tpl->Set("HEADING","Artikelkategorien (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("artikelkategorien_delete.tpl");
+  }
+
+  function ArtikelkategorienList(){
+    $this->app->Tpl->Set("HEADING","Artikelkategorien (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("artikelkategorien_list.tpl");
+  }
+
+} 
+?>

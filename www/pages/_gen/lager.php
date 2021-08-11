@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-4n5dNAbXd44w
+<?php 
+
+class GenLager { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","LagerCreate");
+    $this->app->ActionHandler("edit","LagerEdit");
+    $this->app->ActionHandler("copy","LagerCopy");
+    $this->app->ActionHandler("list","LagerList");
+    $this->app->ActionHandler("delete","LagerDelete");
+
+    $this->app->Tpl->Set("HEADING","Lager");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function LagerCreate(){
+    $this->app->Tpl->Set("HEADING","Lager (Anlegen)");
+      $this->app->PageBuilder->CreateGen("lager_create.tpl");
+  }
+
+  function LagerEdit(){
+    $this->app->Tpl->Set("HEADING","Lager (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("lager_edit.tpl");
+  }
+
+  function LagerCopy(){
+    $this->app->Tpl->Set("HEADING","Lager (Kopieren)");
+      $this->app->PageBuilder->CreateGen("lager_copy.tpl");
+  }
+
+  function LagerDelete(){
+    $this->app->Tpl->Set("HEADING","Lager (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("lager_delete.tpl");
+  }
+
+  function LagerList(){
+    $this->app->Tpl->Set("HEADING","Lager (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("lager_list.tpl");
+  }
+
+} 
+?>

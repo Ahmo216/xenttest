@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-rBNd5alORH9trBiCNPv4
+<?php
+
+namespace Xentral\Components\Pdf\Exception;
+
+use RuntimeException;
+
+final class ShellCommandFailedException extends RuntimeException implements PdfComponentExceptionInterface
+{
+}

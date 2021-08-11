@@ -1,179 +1,467 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\HttpClient;
+
+use GuzzleHttp\RequestOptions as GuzzleOptionKeys;
+use Iterator;
+use Xentral\Components\HttpClient\Exception\InvalidArgumentException;
+use Xentral\Components\HttpClient\Exception\InvalidRequestOptionsException;
+use Xentral\Components\HttpClient\Stream\StreamInterface;
+
+final class RequestOptions
+{
+    /** @var array $options */
+    private $options;
+
+    /**
+     * @internal Use setters and public methods instead
+     *
+     * @param array $options
+     */
+    public function __construct(array $options = [])
+    {
+        $this->options = array_merge($this->getDefaultOptions(), $options);
+    }
+
+    /**
+     * @return array
+     */
+    public function toArray(): array
+    {
+        return $this->options;
+    }
+
+    /**
+     * Sets or overwrites all headers for the current client
+     *
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#headers
+     *
+     * @param array|null $headers
+     *
+     * @return self
+     */
+    public function setHeaders(array $headers = null): self
+    {
+        $this->options[GuzzleOptionKeys::HEADERS] = $headers;
+
+        return $this;
+    }
+
+    /**
+     * Sets or overwrites a specific header
+     *
+     * Headers added here are defaults for the created client. Headers can be overwritten for single requests.
+     *
+     * @example setHeader('Accept', 'text/html')
+     * @example setHeader('Accept', ['text/html', 'text'/plain'])
+     *
+     * @param string      $headerType
+     * @param string|string[]|null ...$headerValue `null` to remove a header
+     *
+     * @return self
+     */
+    public function setHeader(string $headerType, ...$headerValue): self
+    {
+        if ($headerValue === null) {
+            unset($this->options[GuzzleOptionKeys::HEADERS][$headerType]);
+        } else {
+            $this->options[GuzzleOptionKeys::HEADERS][$headerType] = $headerValue;
+        }
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#expect
+     *
+     * @return self
+     */
+    public function enableExpectHeader(): self
+    {
+        $this->options[GuzzleOptionKeys::EXPECT] = true;
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#expect
+     *
+     * @return self
+     */
+    public function disableExpectHeader(): self
+    {
+        $this->options[GuzzleOptionKeys::EXPECT] = false;
+
+        return $this;
+    }
+
+    /**
+     * Sets the body of the request
+     *
+     * @param resource|string|null|int|float|StreamInterface|callable|Iterator $body
+     *
+     * @return self
+     */
+    public function setBody($body): self
+    {
+        $this->options[GuzzleOptionKeys::BODY] = $body;
+
+        return $this;
+    }
+
+    /**
+     * Used to send an application/x-www-form-urlencoded POST request
+     *
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#form-params
+     *
+     * @param array $formParams
+     *
+     * @throws InvalidRequestOptionsException
+     *
+     * @return self
+     */
+    public function setBodyFromFormParams(array $formParams): self
+    {
+        if (isset($this->options[GuzzleOptionKeys::BODY])) {
+            throw new InvalidRequestOptionsException('Form params body can not be set. Body is already set.');
+        }
+        if (isset($this->options[GuzzleOptionKeys::MULTIPART])) {
+            throw new InvalidRequestOptionsException('Form params body can not be set. Multipart body is already set.');
+        }
+
+        $this->options[GuzzleOptionKeys::FORM_PARAMS] = $formParams;
+
+        return $this;
+    }
+
+    /**
+     * Used to send an multipart/form-data requests
+     *
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#multipart
+     *
+     * @param array $multipartParams
+     *
+     * @throws InvalidRequestOptionsException
+     *
+     * @return self
+     */
+    public function setBodyFromMultipartParams(array $multipartParams): self
+    {
+        if (isset($this->options[GuzzleOptionKeys::BODY])) {
+            throw new InvalidRequestOptionsException('Multipart body can not be set. Body is already set.');
+        }
+        if (isset($this->options[GuzzleOptionKeys::FORM_PARAMS])) {
+            throw new InvalidRequestOptionsException('Multipart body can not be set. Form params body is already set.');
+        }
+
+        $this->options[GuzzleOptionKeys::MULTIPART] = $multipartParams;
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#auth
+     *
+     * @param string $username
+     * @param string $password
+     *
+     * @return self
+     */
+    public function setAuthBasic(string $username, string $password): self
+    {
+        $this->options[GuzzleOptionKeys::AUTH] = [$username, $password];
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#auth
+     *
+     * @param string $username
+     * @param string $password
+     *
+     * @return self
+     */
+    public function setAuthDigest(string $username, string $password): self
+    {
+        $this->options[GuzzleOptionKeys::AUTH] = [$username, $password, 'digest'];
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#auth
+     *
+     * @param string $username
+     * @param string $password
+     *
+     * @return self
+     */
+    public function setAuthNtlm(string $username, string $password): self
+    {
+        $this->options[GuzzleOptionKeys::AUTH] = [$username, $password, 'ntlm'];
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#auth
+     *
+     * @param array|string|null $value
+     *
+     * @return self
+     */
+    public function setAuthCustom($value): self
+    {
+        $this->options[GuzzleOptionKeys::AUTH] = $value;
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#debug
+     *
+     * @param resource $resource
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return self
+     */
+    public function setDebugResource($resource): self
+    {
+        if (!is_resource($resource)) {
+            throw new InvalidArgumentException('Debug resource is not a valid resource.');
+        }
+
+        $this->options[GuzzleOptionKeys::DEBUG] = $resource;
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#version
+     *
+     * @param float|string $version Default '1.1'
+     *
+     * @return self
+     */
+    public function setProtocolVersion($version): self
+    {
+        $this->options[GuzzleOptionKeys::VERSION] = $version;
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#allow-redirects
+     *
+     * @return self
+     */
+    public function allowRedirects(): self
+    {
+        $this->options[GuzzleOptionKeys::ALLOW_REDIRECTS] = $this->getDefaultRedirectOptions();
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#allow-redirects
+     *
+     * @return self
+     */
+    public function disallowRedirects(): self
+    {
+        $this->options[GuzzleOptionKeys::ALLOW_REDIRECTS] = false;
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#allow-redirects
+     *
+     * @param int $redirectCount
+     *
+     * @return self
+     */
+    public function setMaxRedirectsCount(int $redirectCount): self
+    {
+        $redirectOptions = $this->getDefaultRedirectOptions();
+
+        if ($redirectCount <= 0) {
+            $redirectOptions = false;
+        }
+        if ($redirectCount > 0) {
+            $redirectOptions['max'] = $redirectCount;
+        }
+
+        $this->options[GuzzleOptionKeys::ALLOW_REDIRECTS] = $redirectOptions;
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#sink
+     *
+     * @param string|resource $location
+     *
+     * @return self
+     */
+    public function setStorageLocation($location): self
+    {
+        $this->options[GuzzleOptionKeys::SINK] = $location;
+
+        return $this;
+    }
+
+    /**
+     * Attempt to stream a response rather than download it all up-front.
+     *
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#stream
+     *
+     * @return self
+     */
+    public function enableStream(): self
+    {
+        $this->options[GuzzleOptionKeys::STREAM] = true;
+
+        return $this;
+    }
+
+    /**
+     * (Default behavior)
+     *
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#stream
+     *
+     * @return self
+     */
+    public function disableStream(): self
+    {
+        $this->options[GuzzleOptionKeys::STREAM] = false;
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#ssl-key
+     *
+     * @param string      $path
+     * @param string|null $passphrase
+     *
+     * @return self
+     */
+    public function setSslKey(string $path, string $passphrase = null): self
+    {
+        if ($passphrase !== null) {
+            $this->options[GuzzleOptionKeys::SSL_KEY] = [$path, $passphrase];
+        } else {
+            $this->options[GuzzleOptionKeys::SSL_KEY] = $path;
+        }
+
+        return $this;
+    }
+
+    /**
+     * Default behaviour
+     *
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#verify
+     *
+     * @return self
+     */
+    public function enableSslVerification(): self
+    {
+        $this->options[GuzzleOptionKeys::VERIFY] = true;
+
+        return $this;
+    }
+
+    /**
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#verify
+     *
+     * @return self
+     */
+    public function disableSslVerification(): self
+    {
+        $this->options[GuzzleOptionKeys::VERIFY] = false;
+
+        return $this;
+    }
+
+    /**
+     * Enable SSL verification using a custom certificate
+     *
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#verify
+     *
+     * @param string $certificatePath Path to SSL certificate on disk
+     *
+     * @return self
+     */
+    public function setCustomSslVerification(string $certificatePath): self
+    {
+        $this->options[GuzzleOptionKeys::VERIFY] = $certificatePath;
+
+        return $this;
+    }
+
+    /**
+     * Sets the timeout of the request in seconds. Use 0 to wait indefinitely (default behavior).
+     *
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#timeout
+     *
+     * @param float $seconds
+     *
+     * @return self
+     */
+    public function setTimeout(float $seconds = 0.0): self
+    {
+        $this->options[GuzzleOptionKeys::TIMEOUT] = $seconds;
+
+        return $this;
+    }
+
+    /**
+     * Disables exceptions on HTTP protocol errors (4xx and 5xx status)
+     *
+     * By default, exceptions will be thrown on HTTP protocol errors
+     *
+     * @see http://docs.guzzlephp.org/en/6.5/request-options.html#http_errors
+     *
+     * @return self
+     */
+    public function disableHttpErrorExceptions(): self
+    {
+        $this->options[GuzzleOptionKeys::HTTP_ERRORS] = false;
+
+        return $this;
+    }
+
+    /**
+     * @return array
+     */
+    private function getDefaultOptions(): array
+    {
+        return [
+            GuzzleOptionKeys::ALLOW_REDIRECTS => $this->getDefaultRedirectOptions(),
+            GuzzleOptionKeys::DEBUG           => false,
+            GuzzleOptionKeys::TIMEOUT         => 0,
+            GuzzleOptionKeys::VERIFY          => true,
+            GuzzleOptionKeys::VERSION         => 1.1,
+            GuzzleOptionKeys::STREAM          => false,
+        ];
+    }
+
+    /**
+     * @return array
+     */
+    private function getDefaultRedirectOptions(): array
+    {
+        return [
+            'max'             => 5,
+            'strict'          => false,
+            'referer'         => false,
+            'protocols'       => ['http', 'https'],
+            'track_redirects' => false,
+        ];
+    }
+}

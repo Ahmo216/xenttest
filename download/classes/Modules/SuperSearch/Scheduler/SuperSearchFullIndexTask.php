@@ -1,52 +1,83 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\SuperSearch\Scheduler;
+
+use Xentral\Modules\SuperSearch\Exception\SchedulerTaskAlreadyRunningException;
+use Xentral\Modules\SuperSearch\Exception\SuperSearchExceptionInterface;
+use Xentral\Modules\SuperSearch\SuperSearchIndexer;
+use Xentral\Modules\SuperSearch\SuperSearchService;
+use Xentral\Modules\SuperSearch\Wrapper\CompanyConfigWrapper;
+
+final class SuperSearchFullIndexTask
+{
+    /** @var SuperSearchService $service */
+    private $service;
+
+    /** @var SuperSearchIndexer $indexer */
+    private $indexer;
+
+    /** @var CompanyConfigWrapper $config */
+    private $config;
+
+    /**
+     * @param SuperSearchService   $service
+     * @param SuperSearchIndexer   $indexer
+     * @param CompanyConfigWrapper $config
+     */
+    public function __construct(SuperSearchService $service, SuperSearchIndexer $indexer, CompanyConfigWrapper $config)
+    {
+        $this->service = $service;
+        $this->indexer = $indexer;
+        $this->config = $config;
+    }
+
+    /**
+     * @throws SuperSearchExceptionInterface
+     *
+     * @return void
+     */
+    public function execute()
+    {
+        // Prüfen ob Full-Index-Cronjob bereits läuft > Mehrfachausführung verhindern
+        $fullIndexActive = (int)$this->config->get('supersearch_full_index_task_mutex');
+        if ($fullIndexActive > 0) {
+            throw new SchedulerTaskAlreadyRunningException(
+                'SuperSearch full index task is already running. Task can only run once at a time.'
+            );
+        }
+
+        // Full-Index-Cronjob als Aktiv markieren >
+        // Diff-Index-Cronjob prüft den Wert und überspringt dann wenn Full-Index-Cronjob läuft.
+        $this->config->set('supersearch_full_index_task_mutex', '1');
+        $this->updateIndexes();
+    }
+
+    /**
+     * @return void
+     */
+    public function cleanup()
+    {
+        $this->config->set('supersearch_full_index_task_mutex', '0');
+    }
+
+    /**
+     * @return void
+     */
+    private function updateIndexes()
+    {
+        $meta = $this->indexer->getProviderMetaData();
+        foreach ($meta as $row) {
+            $indexName = $row['name'];
+            $indexTitle = $row['title'];
+            $moduleName = $row['module'];
+
+            // Sicherstellen dass die Indexe für die registrierten Provider vorhanden sind
+            if (!$this->service->existsIndex($indexName)) {
+                $this->service->createIndex($indexName, $indexTitle, $moduleName);
+            }
+
+            // Such-Index befüllen
+            $this->indexer->updateIndexFull($indexName);
+        }
+    }
+}

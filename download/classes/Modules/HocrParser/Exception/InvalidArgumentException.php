@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Eaf9iW==
+<?php
+
+namespace Xentral\Modules\HocrParser\Exception;
+
+use RuntimeException;
+
+class InvalidArgumentException extends RuntimeException implements HocrParserException
+{
+}

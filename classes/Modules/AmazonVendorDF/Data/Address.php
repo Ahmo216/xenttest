@@ -1,64 +1,121 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-occm9NBmQZH7jlt6vfxGFpG3d1m7e44MeKO=
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF\Data;
+
+class Address
+{
+    /** @var string */
+    private $name;
+    /** @var array */
+    private $addressLines;
+    /** @var string */
+    private $city;
+    /** @var string */
+    private $countryCode;
+    /** @var string */
+    private $postalCode;
+    /** @var string */
+    private $stateOrRegion;
+    /** @var string */
+    private $phone;
+
+    public function setName(string $name): self
+    {
+        $this->name = $name;
+
+        return $this;
+    }
+
+    public function setAddressLines(array $addressLines): self
+    {
+        $this->addressLines = $addressLines;
+
+        return $this;
+    }
+
+    public function setCity(string $city): self
+    {
+        $this->city = $city;
+
+        return $this;
+    }
+
+    public function setCountryCode(string $countryCode): self
+    {
+        $this->countryCode = $countryCode;
+
+        return $this;
+    }
+
+
+    public function setPostalCode(string $postalCode): self
+    {
+        $this->postalCode = $postalCode;
+
+        return $this;
+    }
+
+    public function setStateOrRegion(string $stateOrRegion): self
+    {
+        $this->stateOrRegion = $stateOrRegion;
+
+        return $this;
+    }
+
+    public function setPhone(string $phone): self
+    {
+        $this->phone = $phone;
+
+        return $this;
+    }
+
+    public function getName(): string
+    {
+        return $this->name;
+    }
+
+    public function getAddressLines(): array
+    {
+        return $this->addressLines;
+    }
+
+    public function getCity(): string
+    {
+        return $this->city;
+    }
+
+    public function getCountryCode(): string
+    {
+        return $this->countryCode;
+    }
+
+    public function getPostalCode(): string
+    {
+        return $this->postalCode;
+    }
+
+    public function getStateOrRegion(): string
+    {
+        return $this->stateOrRegion;
+    }
+
+    public function getPhone(): string
+    {
+        return $this->phone;
+    }
+
+    public function toArray(): array
+    {
+        return array_filter([
+            'name'          => $this->name,
+            'addressLine1'  => $this->addressLines[0],
+            'addressLine2'  => $this->addressLines[1],
+            'addressLine3'  => $this->addressLines[2],
+            'city'          => $this->city,
+            'stateOrRegion' => $this->stateOrRegion,
+            'postalCode'    => $this->postalCode,
+            'countryCode'   => $this->countryCode,
+            'phone'         => $this->phone,
+        ]);
+    }
+}

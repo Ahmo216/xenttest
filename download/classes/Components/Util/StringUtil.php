@@ -1,205 +1,407 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPuy4tCaPfIJke+b9wl2RpXDwUpgwnQHoAsWXXD7AEh4f/JHgLWBqjG+a35lR4X1wWUvu9m6t
-R0rwU7tn2NqX6B4tOMkh5zrN0ZEPYFjT2iXjp2qYWiWlaPpw2TZczfXgt5ZgUr2FVYP1gXF5FiLu
-FHwE/GOVzW+DDdU6etoNznzMUY+6bpLa5d0SPgRoesEbqrIx6+sX99U/ClSsCNfGS7rPMO37go/l
-U4Gr/dEtt2Uc5e/fNwK5Fvj8kTEhQ7iQV4W8iuy23c4e7caKw+UuDxv4X2iJ/DOpW/LjkEoOrb5/
-GW5vGSNR7FqNORlcZvrUdf6eWieX2I87BaD4fVEB7FVyl3TAMqnR45p0IRk/dIXGJqaSvCyqabGt
-2YQoX5cuAM/sqTupBb4nKm00E/+nxH5Ld/EsFWaOgZ4rVFtqqXUISMvANqefQjLlc7c6miJqCW/f
-WwsI0MUKllgnZcDBhQdITEMSzWjlpcJk5R/bOPrS8qS+xJcspevxknxA26dQSmiFfK6OYhpeS3qa
-CCr1NFCdmDDeBAN+0SSnRHVS/p0diqZA6Dcwb1yoYzuJPG8HeCbfOWTOtaKasc6b77LKTiLwoGPD
-4YKFS0fXX6davV+v9A77CDPCD62/8xQytG+qjz+ENPBv2IpdfXSMMzCLsdnnt8a7hpMy0odTRbH4
-KqD8/cyVFrHrFQQZ6hN5JJP3izJMasQbw05uB7beQGmO20AqpbIjBhaHlcgQ93Lh/umtcDPKNuym
-sk0pEc49pRpZuWT63BoHyyAMVm5wmdQZmwmHghvn++XK8U+tagbxexsv3j4vGyETP0iv/vLGgqbN
-KCBbvJQS53dq5KOQiEZ4rVizoe8VoBfW1H+W4NG2hORqmHy2DW+10MKBEcC4jclj094TgHEA9wHw
-FimNEomupSAulrXtxDvdOV095HvqTaDiWG6eYFW7mScsvaSsUxN7ckvjK1rKBFVn/DrFxEztetVN
-K3uKffp2OD9C7OfoBKj3Pjm/rvn2IG3LWRWD3/tSB9biMUPCHcI0bpPg23jq5ooMGR1kaBFV8z41
-wG9+M394CmUQ1PJD7R6M5uTScWR/n9rZiycZM4NhSqN6KI6Nr2xaqYnqCdpPcUbgpWUTKrAWQOw7
-bD0+ex6uZVrF5648VFKIsIcA986kCxMloYa2CS+Eif4TPX0SbDDeIC3p80SC3KqPcA1Z1VG7rSpm
-MIKVgnUMVQw4lPFf7oACddVY4j98NRO3A/4Ko2Yw+LLCbfRI8+2ZTZPSN9eu0LmRqIJ1qGy+ztv0
-No1SZ7eSLAzSU9ffKajDeI3KTbTPZCiY7ESqXBpw3wa3XOOY0GczaaBBAGHxsTlApDi7e/TI35FU
-5bhfJ+cyo11lXzmev67sT4ZN92d/EhwamAQoDhRLW14Sc3giFzQgCVOxewAfxESwJ/+Z3yh2eKTq
-HfrbIbOm+irKg66m883cmJalyvxVtG2e46Yep50WoaCXrE5pYFqrH1MjnnW5FLAmyJLkf35FAd8a
-KUMbSei1vttShyoOQUSZwsu+UVPxCUHqlX7Oc8tVdsSov+Ea//WAmyUMIzNqBfJizFZHap6aw1gj
-4wPTFUs/OtQ1R06hWZ5qA4aq577hg1wYAEMNiBuCWQhHicj0Pqx45NJ65X8vf4abH7zxR/1A/PzN
-0KDwdVeA+4KcRnOL14vRD8UtCBtFNyQBXv+UvwW5Mhs661lw+uWpPImT+eG4xSkxmEo8uwhnEAbx
-iWRuQ0Zy+SKgepwLrXMDIyFOZw5vKmDa6x61sUgVhRXSyaSAfAomuxuX08mBsAg+Ju1PMXZLb8Ud
-xJi3hTqX/vYwOHKhzmejkXUdmFao4+w2ZVfEb4OhixA7ws3vN6AStWRTSlF+e8wucTGcgyyNxZPC
-gWOHBuC3wr017DQBr3i6nNVBTj2Z9UOVGad9uHAJETHCWVCJQ4IZONQhQAZz49aXiFWRAkQMDPR8
-hTv9d3P84oI2v/CshZhZzwrAiL70lwLt9NBAHhzl8qE02BnUfxSxymDvDO1NBUUJ/ctasMvg4uxo
-7Z96zwjlsmFvMy+INYLxhhTvdMEAY9fv8eAWsaYJLXFkE8fR9y3RQfJfMF5rij2wVFtDLXE9Dg5f
-SQOhYNP7NEX2gd1gcsXXBXedX8Oj+IhyHAgBJtI2MUZyOrlX6dam+MKQ7U6Ol6yf5opTM7/bIPV4
-ecOBoi9s4x9FEcki1f5FnI6nk7oLX3V3zLIzVdWJItSqjLHq7kSIvE/p5+IretUjJy3S3ChUTZKM
-KfCO6lTxLNIaLlchbt4pBEjoOBsJ5dy9qmm91PZ4R11PdyGYQowUH4iO1lZOG6Khxwf2oa5KqQBY
-FzL7GnZ6RL9YSEo6IBBgL0A0LMBxbo9PzUGb1MVWX5ED+kSB1XVuX61RY4QxsxR1r+6GfZCx3fbg
-kgCTGEhM+RDXH0jLi4dOwhaa4bGtOqOzB73D+bP62tL64fKs0+tkLipm3I8RKCG+y2/KPwjdgvDU
-8at/oz6Nb8np+k/tiXLoLlMlWJkYVTc65YJzU9Vfd0IV+wohKdraYBobN/ZTSm5Y+JQ+3JyqoBJ/
-Ha79iINUs0r2HzQRh4KObtkbPNBSP7BGRjHvdHedYd0LwuUBTHCOgblfQpShJcOqS4rk7z13UVAT
-awTZOkkraralS8PTV0LFLY2saf5T8WArlcpkBcLgPzUqr+GFQxxGqBhz6gu3NJC2j733R6vee8cR
-X0ZSSJAgl2Ow53FLYFdT9T9m+U6quaDzFwt2uoMyFesBGEtUq14OuoIEU6RORwt8GfoRze4qxoFb
-ELrufmRTNmeTZvDlaXSdjMuvHrN3Gfwt5hcNXsCQwaGKXevsRqrrL1SZSX94xbyO5uYr+JSHertK
-1WUyJ5SPRPgNDoNPebWAthxlldd0zRwK8tyMxi6AI3qOLgllXtnybBbkZ6xLXYvWdNWkGkojPg9m
-6MP6qkVN109bvhSMVc8b6dV6M3uNI+tWZcPvssUrG57IzSWb9Im8dUbyR+sMp85spRPldhudzHMJ
-5GPI6IfxWN6qoMBCMPfkgXT4ev3OKbHtxxcFfuQYgFQDzwuUtpVG0AZVXJ+BwW1uBHe+jI/xXXaw
-AXhzu1f3aLHC0e08QGXCPEZw3ilbXnH7H7G10iJGV499ARNlK8XP51t7hf5UQlYWODhU3gqYcHiS
-4bHWvg2vBUPEL+0S5fmkPp/iIsIGBkThkpbAp2juNI8uZrFljdXVDes0sIhNonkfwLKEx53NiitV
-ztWm9z4tvInqLq5szZYKc1/F4KRCBfzZ7lnaIAMnjFTd8XBw1Y0Ii/ZtLjNSgEx9QdfCG/xhmEYI
-EFX8y19w4uit0uT6YHU8v4NHp/b203YDlaOS0uzaSFsAlmuhhkWq2lMMQhN1XT03PA5e1Fo2S+Xe
-MQGpHIiX9MniV74AyvtJBI9GD6GfMx/VVVV+l/O3akByGaV9yFdVbpRPbcJ1XMcu4D4SZIDB51hz
-IN5TRgyIP9G/01puiBCJWKpe7/Acy2GdnFytx3H4U4orLYiLoAwTqZsznCglOORB1nftWeAz7Rzk
-asg+Q6As8s6IkXFhKyKGSJ6e2yWkY4sx8KvI6QhcEmeL5wKbLT3FG7LHNMFOctL/mNjIcuWGj74+
-BgAQFt1UcP4zlKAtbWl4lBmAElN9gPcdd3QM0BNk/zk9WzxhUkXwtE8dupRDDtRFTqj6l3KMRs3C
-ZD0hkHVU+mirQV9RrLHvevKa89+DtIBgkViU7cnL6olAeK7tUO4fn20mCfQIXx8DEZbvOzCOmP5c
-qFb/pkFTX2iYPRZGYkI3qrv0bdTepb+9Ix2wHDVb06zAfP+940n+dFMQQZJXABlg2TL5/pP7n1PF
-76sOD5wIrHeAvqjdAfab0cV6RHz4cLJ/Ib0WWc0qReS9ljF4AKj/kZ1EmWpMVhzqAXZ3fevN1wPE
-kUkknehCBTQAxClq7PfQq7Z11hZjodvzHbtEZccXOtEoNO9ZHGaT+FcZVeAAeZWE+0+UYPNcndFA
-pPifOep9e+u6cdZVMyMESK+mXYA0EOwdkqbbiOw5ls4loqvECLrxNjMzPDqd2+atNCr2shFo9BZm
-GrddzPrgVwfcYESX8uWvYC9AOxXgbbcPbzmDtjRK+W03mDdSzpc5Iw8n/LNT4BPIIqqtQxM/f6xz
-tQc5NfRR8yorGRtThlpYzTjHIlKL523/86CH0qTBKnZPxOwHYZt9m1GmwTsM19DAqpu4JI9vTJlQ
-FScZ3cjPCesUfP7e08vsHdf82+mDzG8j7aAbt7n+PeA6m+tqcwJKIzM6DqhQK/YXrBwU8iPjnxqW
-6fNhWYXSy66z+XfBkFzV+DKej+yGheuU3xde7tKC3aF6iHtQvlvF/61CRwXUzr0khDY0Qq9bARUg
-Tp9vOs9K1yH3evbudMwoDMGCh+FGg6tdpFTc4ivB6Iz+D+H4Inp/tdhfq7CzDW2OqzkqaXQMyRIJ
-Jb0D79eocj/uuckTEGRi6eWawmLEpLAehwjhVqKsf/Wx9AecH+4xLnynAXisqhv9hKLqTOThOcOG
-+frcaOq6WusTiZ+hbWx0ZUNC0W1FPcFMFuHnEcWpJXQQPsfD+ooZrKCplg7bwCzawjRbTEQiINOe
-GTqgoV2pLUH5yprndnIu5GcNiO00Efkzs0fNL7QSvjdRYrdagUkDxfyS/r6aiEKPgzh88IPJy9WZ
-Lgq1tsr7UYxVn4UMar7j5REL90O6frLtq6AWXifiS19lxv07QLTbKgbra5FL4aaebv3Z7yCbCvIN
-sDwyENDd3ftsLmRzfr2F7BetxtZOAwXfgAQkSDeNt1h/hLUrAFm/FHne99tlxzWsCuBMkbWg8TUd
-yN0TmBZAV9Qc7V4q9YokzAaVUkl31oI4xztMnqnRTyL2Gn+hh0l9lzyQB/QBHODMEl2SRLJbSrUi
-gYzn7bICt9cKqFZRGY/tJ2TisSDa4+WLuHlm0zJKrojfwuthN1HvFoejHpO6yIW8DgHzU6hmOp6D
-jDOCO3iEVyD2MArX9sjXK9TOAEgp7hR+79knVC/Fd/qYIvMscxOWXzmR5vSE52RNv12zPju0QHU/
-2OGcDcET1z2UXARyZ/CSRuYxqXMAzIo4lTjslLTYNrfBRqadmXSO+FgN+s6T/g0fmjcWzh9pc4T0
-IAXZl/kDKfsyfg2zMSWOwndCf3fZuc6adQ/QeavHW+ifUEu9CcIx7J+gU6dgzxjMD4wxiE+CCOxv
-VE8M+7l/bccNR/DDgYOBnmbQPBKIVlv4vS+s4HdylE97ptrvqTUdcp1v+zl9y6YTASAFCApwlXyN
-3xahNhrDs2ShATEGDZKW1wgK6ZEM9ZxLxmSw6Y+dmjs+KxeGW/U3ZwOweb/8XAZZyLCxxjegC9am
-Y7aOGcdfOtbVKk6j3Brnty/zga9nRWgabpsJ92SDQz1dfdcd3GBIac3tGlcKCwW+XLeQX9AHeD5i
-Mt+1+k1DZNDMFVRAEXOMofLqmRjavmYWPAYyN1eQMaPziKu6oL6Q0NBmlVpVvC7xrH36IwOzL98J
-WIatn9bYC1ttJRcWV7mWWm0Zk5+ZIfutW3IJhT3K2D2F33FbhuOlSWJBIlsrGCutwfaRsKV2eUsB
-iYF1aQTtOe4zCNuGQ6i71vwx6T6BwQr8SQnDEdkCzKlBal2Ww186imwDp4USAAG095kl+AlMISnE
-c1/N8Rdc1QNZyiTNEHTT6W/WR1N7O/URNRr7WE8do0j5jvkE2SQkBVuQTNP1jB5T2bCX7bD6iyPY
-vifw//gtjlMTeSr+gb3ivy9GSvV+fzaJAgeX3nl1yPFDykt9RelaCV+OTtfJ0HzogxsG+0uSJ057
-WpDA3oDio8+08OoHfDHRj99C7tGtdTSoCctM4cPyGAoffITfTzRH+DbOnBc4ut2z+zSzQWPrq591
-9cQYs7Uj3TbkPnBnlPLxVQs4FkosxVFp9l5s/ubHHMg0IeovPqoGs6kwhsBVQoSuzd3rHqXzcwdI
-KSJdBH4WoU4hHfjFNFDXrLKHHywwCLftbzzN3Mq8/9FMvGU7C6nnblJ2YRgiHZYYVe7WzeIV00ME
-an4YHnn+zHNsJsJaRZPsGAimgwu6kDZCpxCboNDnL2+5HIsJSP4LDtHdrUoi8QkqvlL5TyjPPQ/d
-aZE4bDgfF/o8+oA8ViVVMDMIGAXhmCfpLoADI2fPYnBPc8CTYYxg8lIb43/tuWVu+HaTh6J2JOhq
-O5dHpqi1OjIkxEJpqwImdIdAx5NL4PH5H06K+6ulMwzCPKjhlZOhhU4U1mV/bSkliB3r+EhewqW6
-1LW1zbObnkYieKwLswWDCjZvgfP+P1ZwzBctBuzIAjDLneUONMuhO+XwTDyiGKRLaNHPzw575/mM
-wEP/nVl7l1ml/Q20y/gZIPK8NZBrz2hIYo2QdNKB2curvCq5W1SBwYFFVyJaZqOtevIrscGwWu4x
-Oest2hx794DSruGVymXQU0eJreknozx/anlYsOPBNe3soXvxnzXIJPNszYQpVHwy4HSrqagiuY7E
-BIOq6eCcx+VE/97nsH/+yrtiQqX60uhb/jNmZKrvtawXhTU3I0r5NuT7aM1gxfn8Bf3m7dn4xG7f
-eADyYVT8oTe11z0YEV3ZJhTZ2Pia/sZPA20GhexxmP1moXmbqJrYWjyJjYpO8ACgwql7Eo7du1FD
-e2lkK6wVgIBqtQzkD33X4s+V81WSCz9tX7sa9DZy9ttWRBtEHGQlVNmC+bA76BD4Njgqf76tzmuj
-8bm5POiEM3Jf06vxn5vIiqoemAs5KmPOVpiGLEpoaJ2dvFT6hgmgqWMarFz0y9EJZHUCGj7ixlIf
-PvZdJIzwU/nTdlpjiIaBeBmJFN+hO37YjWmF6nQEyd974N9X2Fx9389erwiOpmnO7E6/fi7b0wXu
-g1u+Kkr5Dv7RNp3RosR2vQiFtAr5pCo9sNSCNinLpyxwmIIS4Ms6r4GRMNON4nDsIhMju69FL2sN
-BchfoOpSRflcXZ+1LA8EFxE8Gu0iN7hqGRt3f6bKCQ6i3RzQgXPkh6p3xnzyFYtvQy2cSlGWQdA2
-nOZjOIFi5NdwbgbMCSo/cEqL5DMiEkHGi5CC2kNJHBtwhTtlAPqK909N6B1z3xNn3T4NBJ8/cI3m
-HwS/r36MS7mBnZYhrfSTqrCFs3wSdIqIAsW81EAFuw4lLk4TvDn38QS0ZN4uOoXRkHu3gjRGGL7J
-BABro6lxjM3ZC4LlyXif28FDK6dpIPlrCwdzxMPjj/Oafchi7YxOD1O0AWrEfkfRGxzy7w9jnw5+
-l0lCq0kSKtWjfa4usF2arEdaf09OfWFFZTeiofR5XMZ/ctBcV+rd1OQ9E12QBXhjh49AQsrEvzuP
-UPVlX1MkPCSDtv60jdZaHdQbZJ4YLr/2iieHZeN6aI8QUyZCBZkhP8GqJikLu78RTe1gdZvZH3CD
-LwN2VcEeKOv4N6QwtFFiTuXvecq6lcYWctnOzUT0L7gzgoN7WHzFfcpkmOFBCuvM/yF41pGHN5+9
-mYBsBvgU1xM4sv44gx6D8+4qOqrHX8nIryO1SZ5GCj+fQOp/ielLA4SJGR06ydws85wpYPtiAOwT
-jytTmen0731jyN7L9/9XpZ72QYfukrauG8JRCO8umM/hx2xWi2XpwyHydsQyX0iem8fc6/g44fPW
-FkDhICWzpCmIePLqrEsg8xACyRfUIXrCkSEaLHGjGRxzuCTSKdrtaqlz4pP0ZS/VCP39+RnQp6Gk
-VkU7Pk72vP6T1VDqlFaqgiLBpNnJHMfmKWQ7tG5iWiR3yquryrGLrccwKXWEFiRz2GbCyMKtAPOU
-grgekwyjoKdkd3XMCBl8HP7lDp773cR3Z1BuXI10btChh8GhSgUsn0RYYXutAheoVI6Mo+UAl8zu
-CreaJ2wr4wCZOM7IK0yN89jHKxMRD+YIg4pIUScHW+99DeZdCJRRXMEq86qcLCuCYLLdoxplfIM8
-wAmUzsOw9G5oqWtxI5tnMRAj6RgjjkuEa9OlxCeKuaGlPCSi0GkCnXAS+ozXHG8APUIFulAL8AtB
-/+WrNFbVW2CU1ywMhWzF/WMO/hjzdkyOltou3V+50Yrpq7KGu+YyDg3Hd9tqj7OeSqQ6weDxbv1k
-68lRN2wSj15WhCiunipMBNEuVGqDWKZNlkkgc70LIsFWA9v32BNe1GXGJuCq5BtH9pOovBMjiTJE
-KwRAE7GMmcgejWB1b4ZfKIAFNg0HdjPTpAhNagP/O0j9l2GUmaAEI0rE2N3FeYPMrpyswSAoyJTt
-hC2yThTM/nTgEQ2OsCopX9HIKx6n5oK4QIOEeIEnts1pnSXuTW9KPL0jDR8FuA0KtPMg/YSrCNA2
-Y0jIfACueDESAFIuCnfFYnBJHLA2thXWWiUAuyNKpbsr82GINHHVk6XZRmAM8v36pW+tLB+W4zLi
-0xilL4XeLwoZxRepjBha/Ut8M4KBST++Ml6n37jYXAtXdQ1+XvgWVpVbZ862ZGpP8lJ2A3rMDO/C
-373dhyQZYWxArKkMTYAUOL7FkuMhtOPxuFB8vlBu/KtordCppZRYdrO4QEkOmah2ylWFvJBRTe64
-I1T5e8zLBKOpFwAUOTJ3YFVBTr118c8z56yFfRvM0nnTMDFKcYtT+vUTcje6Cc70oHVjffo6OYT6
-UmeJi5m00wFLP+F3gIIQ9c+JUWiLzPZfGiPe6RHaWquBXCfg2R12qRzTX5JmlufNHWHy+em4COhk
-mN4NBTUnLA/ip9g82IZV7s4UgJFPpFG7qRwc2di+5KtFB9vd6TZ7ggzdhaLhsOnvvvnkRfi8h8ZV
-mFyAmUJfogs57fGl1pxvqR+TVLI3r8HdCf6+xHJc9DYFJaQFa/YmGBkYvf5Moe5JgOge58UfzGJQ
-NwVVbRsEohsNjeMjtQS2OfIUAa6Aam6HvG4iBTHFSVm9/iwcQzoPoeT162YQbSoU9pw69q1YNX1y
-LwM9xd0ap9QCUJDlVHw1n54J4JQu24Cm4C4NjaXOiKKdBtm/eP5GMpEKNBdxdHvM5/I/JQhEJ8bI
-AKxe8pWjuavK83N9vEIIAykVYw3QKy1p0s11q8NA2st+C0Ot33XSsXmMmWwPXDnJofTz1/AKGPXS
-FG+8/aP2TuHI5YyzUy3XnkoZZDc6tos1lJMBQkgXjuVUB0sXMdrfHEyrj675ASm223XzLsn9sq5B
-BAQMB23x07h8fUCql7IEWHoG5wqC3V9D6/7zK1ZxQFUBNLWw3NctShtWrBQQM1SAH9d1HqOlyatm
-f50YUZY3ttpT1jX3TmzdKleC99IHg4sdp9vEQ4YD2OySNbtH2oDcWz5JWFhlIKExSq6phO6YXHXn
-8X1odhuq4Coi9KHUZZ2wouowE0lvUFm+mWYN62uv6jMzpPnrKN533beRxxbxjo2yM3Qu0VOHRa3E
-1Z7X40GDmNgPXMl/RF5kmwoxwuQSnLFULzD3/v1D6C59cgVni3QT14EQRgj0zpliXr0Fkp40AcAg
-cwESQ0VImPNJQxk3ikicZpBX8NXB7fUKJpbULFr2KSkjigRxy0AZfpjD5gr/dIoJ+eWDN16Qel6K
-1jO2BTv9gAqfM9jse5WS20FWlrUJpuihQEWwbi4TyR9FMWARVIcROkWL5fdbdl95Y4OC7Jtu44hR
-pD5yTXktKxxnXrR4ZcJApfP/evpKhtkadGdgwk6gx9b1yQ9Uqm6UxnXef5NKAf+mmDi6r4aRf/US
-wszC0ApqqkueU9F7xLw/eCiES+KwHQFlb/5h7bKkug8wmDJtsSe1MwEI1REZYvuPIytwkV2miz/2
-QyR8zA3wDVS2w9nLP2t8PWSKnnYVn2GBNDZdjraE4konuYzYi8rV9OcObvXfY672EGeMfP0HJW8a
-Lis35LHgA0PZ4XF0KfDcUGeGVSdrmt34/8VyNOqVjffsmFHIpS/ZkGRelMnLVgSr3mq4AwhttRz6
-9rue1F0+xVzPSMjaSHV+cA5LDfYPdVXHDp9W9u5FhRjYcy04MnZbzmDpFtI56JExEzpQ3qdxEJQK
-L8lntPOYWFT1JQhs4jpREibOLbVgcsxIuA0zVqjGUtLpCrAvWuVYk0/dfw5qUMmebNiqA+fKGXrE
-L3xeQ4Q3VUs0lcc5eDDr0TsL1ZsrpP5yR9fxfk0NmJDNkiYsU47tfDnAIVHtquWNV4vMJsDDvtee
-TP72fmQYOH1xTAb3c2npOVPcvqrDLbK7pdbmG3yMtjBw7HMTJewjyilfgwoczaStOZiCLLIhDnal
-1FJNAW3v9fCUODPshVawQpAOATkP1w0pr+Ca6YJC/yV0kUxOIG13U55UR6W86niEz2G6mXQ2EcUP
-20QVLcu6I0TBDwuVh9wQ6gNjNUfxWqPIksZ7MRLqKPrLKKU7rJS1gaD8qh9w3pb9Y2KntLJo+FXm
-WtfSWWyOF/s44VPh+BOHAwO7jXhN9j6oFtGSYxZc45anHsGHhxp3jMnOK38NxDbccLx/m7Tq02g9
-vP55Tf+rdh6wN6mcWdI/Vmv60VLyo/JYxZBGH/DXvf7lB6fpy9qUd4DUHcAV7DfCs/rUKMDZRwzt
-ZGbmam43kOQlx3WsXl80v9TOfB0iyTDF+Ze6ZX/d8268jxiOfm4SFIGTzAbskYniCNPR17iOGzks
-T9SojvzYhVC4f5ihUc+EvVQhwbZBGsOLgDenL36ys0CiPfJRSMAM6E9GJIr6j+p41kVL0YugnZ+l
-6C1qyotJZOc8e9svUI3XwZi5iy4gqFycsooiXqFGVSELVzAfXfhXWYLJSrgClsc4Knqb7VKEp3y0
-/levap2wS66FZAhuWx0FAMNLn2EGIE8mpJV6vb3sY85wX6WPJSTTM9puge00iNQo1tMm+Wh7WDB0
-dkZe12Ze6jeprWCoC6+bXNVqvxBBBGskZKjqfu+qjyGCoDQ/g+KLKf4uPU9ab9REId7YHuVcoQR5
-UrWvm1xVM5iLbZHnwHOnIxFnVMgS72fx33MVoDvJ6p+J5gukThozj9JecK4dDJWk+OIi5H1EsLTy
-7TpJuWaJTFr/j6+izzB8e8Do+v+mfqRcBZGjWYs1dfILNkyBrFEqgXLgILiVmv348G57qKIEekwq
-LjJ+jpaTwWuZYKNlKCZZo7gOogbcY6Cg4niorRxmpOsFO8rYzLCJwsUdYMkA6Le4Z0NXGPfpIGCH
-TUCiBHw96UTSDbgPsTnmPuFGMjPEGaL3t7Cv6xa6uB9qrCnCo35aoYlMH10+P/2sdOpvgPUyZmLs
-doeb1K/8T3qCAmsIX7RNsdPaWXaouILcn+v4Ry/Em572pYJtLOtYrM4stXKCPnlG36B2cjefaTYN
-aFxMBNFwB4nrP/s9dU8jXbpDCsZQVE3Flzsv2hUKNTRfajxxkt8skg3uHwuMagotODQVsfmYOt5b
-BESEohCY47bxri3+wOGt0NjVCTTfD23s7WH8exyb2pKgA3tPyCGvN6OmoHFvvvQwLp4mWKbbKmzc
-row5bwseePmHTV8cV2sgEegXCMSZshkUv2KsLAllCFj/7G0NChAFKke9RV/rxYdN7UXgWP61krD2
-Y6zD+5epDlQhP/7vWjFzJINX7fq+zmvwwZGj9o4QMUr9peCJeVHubi7rCi8WufjiTIaLgg9rZa2j
-282tlXTq5D18tCrYBDfZvrhz14behFu2stprMTYhl/8TL9cxq/e6m8VKubaCX40v4OF/nL1GoMjL
-fGa3mM/H76uqWkn9LEXeTfVx72Uh8qsrB8c30c+SUcRTspaols0gUTlKsIFiRCTxmqagE9eD9Q/y
-517xxZIzQqLX74fyEGkduElHvjYui/s67KqXjCEUpSdXLPHVpjhvLZ+lBXyAvgw49Th9Q8tCzFGB
-njHWL8/+Qw/V22bTGeD1pp4BqhTlJ3P4/T+h3aM07jZkAFsLW7C46mxFWaCIvYlsTcvdswrYdFIQ
-h4VUR9x7q9Ret93kuvDsAoDPBLX9/nNvUNWrVXIwSNJYNyr+PzuWO47n8v9gXu6Qti6LdR52ElFq
-V3hSTe/8cHe52LR9qrg8QXjC4PlBvwadzWE3Afd+DVDgp+ZSS+hep9H+AHIR3Bv05l1vUxZeg56E
-5kgOfl7C2I8rddBZeGGWon9mmoIYUqjXLYzi3uZdkMLt4AdVN9mZ9xsGgbUydjXOgB/Vle6PUXhv
-f2po0et+Wl6swP4XHJLolY9mFraKBF4aUve1SHJBL5QPqZVzre9Y22Lvs7M/2/Z3km//Ukx73+Sw
-x/qkTyuNOKrwxFe7AyJHEzZSGaI6nlnBYqALVAgAkFiu27/lAyeZYxEAjfk7C8oZ6IanGef6J8mA
-q8TjaG90ve74E4piAI2zQXyUR33wEFMrVjZiTxWs/oRQaxc9YSfi5ra72NdYn2s+3tSwqI2P3+Eh
-U8b12eKiV3dbftVb15kJRKuIqTlVCZ6+XPdWS/hQxV7d3zbgatIOK2bOmMEBhV4MmA0bf6dAOk4F
-+dr3siU3/rWHcq7nC8mdPjVzTdyzm7A9UlQq3XNwmGX7T0LgguLZQ50RVLSHXyljOB8L/hg/pxjb
-V930ZPNKsBDXPL7FA7b2riRndTZmElyN0SMJglUWJod6Q7kpw/9IOhpxcUo9Kaq1Pa83hAw8BqHq
-RDieA8uamPp4nNcHZjv1TJDPbo+YIVXPXRS94JtxPk+mWwp/EI1e5q+ZEXCHqj9BiEHvUDgRtMnM
-fnE3gEsyT0dr/CguET70eZV3BbS2mAt7z2l/b5hbYpbQzs/yGQMvtNMrSg630f3sdvBsW7hN1Qyk
-sLA1T4zTngVVAOVCcHZLwPoScokhtPXJtAn/QNL0Otn/Ti5QqAaIbC3enp9RhWupbv3fP/Sq24iU
-97s67rIzr8ne2s0RnoASwS7UJALDfiIuC+11nyje6zJkHE9EkfrLeFOsRf+Es0tzn7HnY9YH+395
-K4kmjg5z3c0oyMamtxIomjYRJCGxW/SScCzHmp15VeHLyT0K7aAgnuSOAbZTOU34qMODuXmDGyio
-PDmKs5cthDCJX+5c+Sw17qTVlgTa3796nfpK0ejlDeDmnc5WKeMPEx7WcZEsKATOX+yDiOGs3oeu
-6W/ISOczcLD6/mxYbVTkEOMH4oPsNtQAUQXT5su+fv457hIq8FN1cLzp6Ynq27jEr1WICQyIIq5B
-gWGasplD+5B90vbOdYH8kJAQK4tWSywAlbN2xgoZmiW1jK9r3NHa5XQIXL1qEz985HHC5g+UUtY3
-uj102A7tLupO3NdDNZU+TDQhUmlm+UPujbB/vuDOoqUSZdAhedQDne4Mh8SZFQqucb+zXuU9WZAo
-1PYyoGez8w/z3mAuoHdF/Vn7Q1nCl/SKK6OgI+HDLY3nvLM3HB17fAUb5Z/0/7dzTl+yTzGFC/We
-1HAgb96Chi2ir+6zeLgotMEMyKGSZ5+ewbcB4go4A5utLZa/xdk8tt79wT2C/coYefRB93Qj4SvJ
-+mZHhilssCGtua7mD4wx1Dsq30NOjkh36ojAFvoVyDIgnURL6/RN8ihx6sc3UGQgoWJsVWVxPyeK
-Wnn0PdSxe0vdUuN4ijgPO6v0d5Wm8rSpnHAiTaChPpW5c0BaNm05AFx2+BuXxhKMe+WODzNhTl/H
-cys/x5NUKQn/L5yTb0NOfNPIN1tfEeulw9iBjQC+gFmI3S2y4Hdt+WKTG6mkpCM6Kk/dhnXFDPXT
-2M6daK7A9sKEflHNEhn8xnHxymwu739RtoRev4ntrmtPmc3ZFvq0HB85X6o3cqKIpVZlu1wotjTk
-WMhyVrTSI6sPghRdYBfxRLBNdvrcben3xKTz5+DAn20PuLGiP79t6d2FXuLQKkw+FiA2vd2iyv+2
-CrE1nX3kEv7fmvGziqlKpOPr1K7Z+B0HExhs116qz0fMH4+O7UklFjChLGh74FUJI0b8vR76Fm/u
-NoXDgc2OOWx6iHgWT28Gr6swNP/PrzDO8rTP/+SIym336V+3RYVASPCwUnoQ+n46Slt0MwPJd3E/
-BHKg94mkhb7kyzYGGcpAkSUTaapFtX3EJUf5sr830HerpnGguE6uRPfbqfiK1Pvpu1Ayj1AHkHon
-2GoT3QYgWq4YGw0P0NW0GJHEoPZpgJP3/uGccgnst4LerGgSDbWZvbjIymGLCNr1QTtFZxZW+xV0
-5YEEQmc1R4+sHB7t3LPBSa5VWb8w/FE6/inZeWE6HDm2MK5BVXq8NNlEJ5oS0EzsHLKS0+LHFcBB
-7zJZ3m6fzLuunrnv1E8ALKhs4KQIcAW8CMEpCAefH0CWkqpZaJG+ijWK684/j0HgndDMsxb1RMil
-+Pnq1CSSg1y8Rdt0S0biFgxiZgUkvzqvZpssGd+mUWyFv02UUfhQzXKwifmuapwBlshFWpeDom6/
-rOFtj/52eP0qVQUmb1B/thQG1mU3IzKvnC6HuMxJPn+nl56tz1b+t8xshXbaY+Kr+2ll2YE+IFBP
-zIIppOzirAK6Q2ytWwjgp/nSVkss7Vof7r35MBVW2UBl5sB80krna8Wj+tJkeY2cO1qZavBT1CpG
-Ip7qhFUNIiuTGCmZLjFbJA6hfUG09R6vAi9bW4LHmeWgfas641PZUjtAplY3wpZB4bE/0XlXBtnj
-eEIANmgM0n31UNBKK9N4/NHpdxKeO6j4UH8Eks/02JhOO2z9754n9W/n8xLcBdkF5moaxW+sr5ZZ
-AD6aRv6uob+qnBahyBwanX8CmDIIHqUqpBC80dLROCxPYTTEnBVjEdMuHWnWujCcuVPNL+xO0L0f
-u5SLQ1TWsj2tUQi05VlD2Hd4vxFNLYGK2i8Ty1ZNCXk3S4Hm9ROa+cYrm8zzjA5usVvKg5DLlXWE
-8uRp2ors/9xHOYYWzYv53TVanfBVX7haNz8XV4rUuU1Nu37GIjwyrznzlEGhb+s7z+MvV57va6V0
-VxtaeoL8v7XDPe0J4mDJXovd1+Pd+sL/Qe+1B0lGD3433mscR4jDC3DqWrDwIiAiFQasq3hAh0WK
-YsXm99e1cGE+PpXNxqcMG1wp5HqYNhYLtEbxSp/O116aRPk7VtVWXBoxHytJ9dE3QAga8wFErkMy
-jA1CfMYdormpGsejQgkIB/5VcHDlhSxqoijKn7WtaNUmTqSHlawZoYnADVmLylvpf6pdsbZF8ObH
-UH2nVkGV7ct18Jq/ZtECHN/YovDgWY/sesgVW/nscbE/AHMm1rXzYoXFl1AaZu6a4ao9Ya7/7cZr
-ei/b0D0Wx8Ejv6f7kg9XIVjuyoLZzqjqHkXKKEW6zl46teZnJQ/5LrkbIYHlX8q/KYN2x4/Gvul1
-rE6OkG04pOt8EmS/keYjtX0=
+<?php
+
+namespace Xentral\Components\Util;
+
+use Exception;
+use Xentral\Components\Util\Exception\InsecureRandomStringException;
+use Xentral\Components\Util\Exception\InvalidArgumentException;
+use Xentral\Components\Util\Exception\StringUtilException;
+
+final class StringUtil
+{
+    /** @var array $translate */
+    private static $transliteration = [
+        '/m\x{00B2}/u' => 'qm',
+        '/m\x{00B3}/u' => 'm3',
+        '/ä/'          => 'ae',
+        '/ö/'          => 'oe',
+        '/ü/'          => 'ue',
+        '/Ä/'          => 'Ae',
+        '/Ö/'          => 'Oe',
+        '/Ü/'          => 'Ue',
+        '/\x{00DF}/u'  => 'ss',     //ß
+        '/\x{20AC}/u'  => 'EURO',   //€
+        '/\x{0026}/u'  => 'und',    //&
+    ];
+
+    /**
+     * Returns true if string starts with needle.
+     *
+     * @example startsWith('Apple', 'A') -> true
+     *
+     * @param string $haystack
+     * @param string $needle
+     *
+     * @return bool
+     */
+    public static function startsWith($haystack, $needle)
+    {
+        self::ensureString($haystack);
+        self::ensureString($needle);
+
+        return $needle === '' || strpos($haystack, $needle) === 0;
+    }
+
+    /**
+     * Returns true if string ends with needle.
+     *
+     * @example endsWith('Apple', 'e') -> true
+     *
+     * @param string $haystack
+     * @param string $needle
+     *
+     * @return bool
+     */
+    public static function endsWith($haystack, $needle)
+    {
+        self::ensureString($haystack);
+        self::ensureString($needle);
+
+        return $needle === substr($haystack, strlen($haystack) - strlen($needle), strlen($needle));
+    }
+
+    /**
+     * Returns true if needle appears anywhere in string.
+     *
+     * @example contains('Apple', 'pp') -> true
+     *
+     * @param string $haystack
+     * @param string $needle
+     *
+     * @return bool
+     */
+    public static function contains($haystack, $needle)
+    {
+        self::ensureString($haystack);
+        self::ensureString($needle);
+
+        return $needle === '' || strpos($haystack, $needle) !== false;
+    }
+
+    /**
+     * Pads a string up to a specific length.
+     *
+     * @example padLeft('a', 4, '-') -> '---a'
+     * @example padLeft('a', 4, '-+') -> '-+-a'
+     *
+     * @param string $string
+     * @param int    $length
+     * @param string $pad
+     *
+     * @return string
+     */
+    public static function padLeft($string, $length, $pad = ' ')
+    {
+        self::ensureString($string);
+        self::ensureInteger($length);
+        self::ensureString($pad);
+
+        return self::generatePadding($length - mb_strlen($string), $pad) . $string;
+    }
+
+    /**
+     * Pads a string up to a specific length.
+     *
+     * @example padRight('a', 4, '-') -> 'a---'
+     * @example padRight('a', 4, '-+') -> 'a-+-'
+     *
+     * @param string $string
+     * @param int    $length
+     * @param string $pad
+     *
+     * @return string
+     */
+    public static function padRight($string, $length, $pad = ' ')
+    {
+        self::ensureString($string);
+        self::ensureInteger($length);
+        self::ensureString($pad);
+
+        return $string . self::generatePadding($length - mb_strlen($string), $pad);
+    }
+
+    /**
+     * Generates a filesystem-friendly (win, mac, linux) file name from a given string
+     *
+     * @param string $value
+     *
+     * @return string file name
+     */
+    public static function toFilename($value)
+    {
+        self::ensureString($value);
+
+        $sanitize = [
+            '/\s+/'                  => '_',    //space
+            '/:\\\/'                 => '-',    //drive name
+            '/\\\\\\\/'              => '-',    //unc path
+            '/[\\/\\\<>:|]/'         => '-',    //seperators and reserved
+            '/"/'                    => '\'',
+            '/[\*\?&]+/'             => '',     //other special chars
+            '/[\x{0000}-\x{001F}]/u' => '',
+            '/[\x{0080}-\x{FFFF}]/u' => '',     //only ascii
+        ];
+
+        $filename = preg_replace(array_keys(self::$transliteration), array_values(self::$transliteration), $value);
+        $filename = preg_replace(array_keys($sanitize), array_values($sanitize), $filename);
+        $filename = trim($filename, '.');
+
+        if ($filename === '') {
+            throw new StringUtilException(
+                sprintf('The specified string "%s" cannot be converted to a valid file name', $value)
+            );
+        }
+
+        return $filename;
+    }
+
+    /** Deletes all non-ASCII non-printable characters from a string
+     *
+     * Only characters between 32 to 127 (inclusive) remain.
+     *
+     * @param string $value
+     *
+     * @return string empty if whole string was non-ASCII
+     */
+    public static function toAscii($value)
+    {
+        self::ensureString($value);
+
+        $value = preg_replace(['/[\x{0000}-\x{001F}]/u', '/[\x{0080}-\x{FFFF}]/u'], ['', ''], $value);
+
+        return $value;
+    }
+
+    /**
+     * Transforms a String to Title case.
+     *
+     * Use delimiter='' to only capitalize the first character.
+     *
+     * @example "foo Bar BaZ" => "Foo Bar Baz"
+     *
+     * @param string $value
+     * @param string $delimiters all characters that seperate words
+     *
+     * @return string
+     */
+    public static function toTitleCase($value, $delimiters = '\s\v')
+    {
+        self::ensureString($value);
+        self::ensureString($delimiters);
+
+        $inWords = [$value];
+        $outWords = [];
+
+        if ($delimiters !== '') {
+            $regex = sprintf('/[%s]/', $delimiters);
+            $inWords = preg_split($regex, $value);
+        }
+
+        foreach ($inWords as $word) {
+            if ($word !== '') {
+                $outWords[] = mb_strtoupper(mb_substr($word, 0, 1))
+                    . mb_strtolower(mb_substr($word, 1, mb_strlen($word)));
+            }
+        }
+
+        return implode(' ', $outWords);
+    }
+
+    /**
+     * Format a nubmer of Bytes to KB, MB etc.
+     *
+     * @example formatBytes(1024, ' ') -> '1,0 KB'
+     *
+     * @param integer $bytes
+     * @param string  $separator
+     *
+     * @return string
+     */
+    public static function formatBytes($bytes, $separator = '')
+    {
+        self::ensureInteger($bytes);
+        $bytes = (int)$bytes;
+        if ($bytes <= 0) {
+            return sprintf('0%sBytes', $separator);
+        }
+
+        $units = ['Bytes', 'KB', 'MB', 'GB', 'TB'];
+        $exponent = (int)floor(log($bytes) / log(1024));
+        if ($exponent > count($units) - 1) {
+            $exponent = count($units) - 1;
+        }
+        $size = $bytes / pow(1024, $exponent);
+
+        return sprintf('%s%s%s',
+            number_format($size, 1, ',', '.'),
+            $separator,
+            $units[$exponent]
+        );
+    }
+
+    /**
+     * Parse PHP byte size Values to number of bytes.
+     *
+     * Shorthand Format is used in php_ini (e.g. post_max_size).
+     *
+     * @example parsePhpShorthandByte('1M') -> 1048576
+     *
+     * @param string $phpSize php shorthand byte format
+     *
+     * @return int
+     */
+    public static function parsePhpByteSize($phpSize)
+    {
+        self::ensureString($phpSize);
+
+        preg_match('/^(\d+)([kKmMgG]?)$/', $phpSize, $matches);
+        if (empty($matches)) {
+            throw new InvalidArgumentException(sprintf('"%s" is not a PHP size format.', $phpSize));
+        }
+
+        $sizes = ['' => 0, 'K' => 1, 'M' => 2, 'G' => 3];
+        $number = (int)$matches[1];
+        $unit = strtoupper($matches[2]);
+        $exponent = $sizes[$unit];
+        $bytes = $number * pow(1024, $exponent);
+
+        return (int)$bytes;
+    }
+
+    /**
+     * Generates a random String with specified length
+     *
+     * @param int  $length
+     * @param bool $secure true=create cryptographically secure string
+     *
+     * @throws InsecureRandomStringException
+     *
+     * @return string
+     */
+    public static function random($length, $secure = false)
+    {
+        $random = self::randomByOpenSsl($length, $secure);
+        if ($random === false) {
+            $random = self::randomByRandomBytes($length);
+        }
+        if ($random !== false) {
+            return $random;
+        }
+        if ($random === false && $secure === true) {
+            throw new InsecureRandomStringException('Could not generate cryptographically secure random string.');
+        }
+
+        return self::randomByMd5($length);
+    }
+
+    /**
+     * @param int  $length
+     * @param bool $secure
+     *
+     * @return string|false
+     */
+    private static function randomByOpenSsl($length, $secure = false)
+    {
+        if (function_exists('openssl_random_pseudo_bytes')) {
+            $bytes = openssl_random_pseudo_bytes(ceil($length / 2), $cryptoStrong);
+            if ($bytes === false || ($secure === true && $cryptoStrong === false)) {
+                return false;
+            }
+
+            return substr(bin2hex($bytes), 0, $length);
+        }
+
+        return false;
+    }
+
+    /**
+     * random_bytes steht erst ab PHP7 zur Verfügung
+     *
+     * @param int $length
+     *
+     * @return string|false
+     */
+    private static function randomByRandomBytes($length)
+    {
+        $random = false;
+        if (function_exists('random_bytes')) {
+            try {
+                $bytes = random_bytes(ceil($length / 2));
+                $random = substr(bin2hex($bytes), 0, $length);
+            } catch (Exception $e) {
+            }
+        }
+
+        return $random;
+    }
+
+    /**
+     * @param int $length
+     *
+     * @return string|false
+     */
+    private static function randomByMd5($length)
+    {
+        $random = '';
+        for ($i = 0; $i * 32 <= $length; $i++) {
+            $val = mt_rand();
+            $random .= md5((string)$val);
+        }
+
+        $random = substr($random, 0, $length);
+
+        return $random;
+    }
+
+    /**
+     * @param int    $lengthDelta
+     * @param string $sequence
+     *
+     * @return string
+     */
+    private static function generatePadding($lengthDelta, $sequence)
+    {
+        if ($sequence === '' || $lengthDelta < 1) {
+            return '';
+        }
+
+        $padding = '';
+        for ($i = 0; $i < $lengthDelta; $i++) {
+            $delta = $lengthDelta - mb_strlen($padding);
+            $subSequence = mb_substr($sequence, 0, $delta);
+            $padding .= $subSequence;
+        }
+
+        return $padding;
+    }
+
+    /**
+     * @param mixed $value
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return void
+     */
+    private static function ensureString($value)
+    {
+        $type = gettype($value);
+        if ($type !== 'string') {
+            throw new InvalidArgumentException(sprintf('Wrong type "%s". Only "string" is allowed.', $type));
+        }
+    }
+
+    /**
+     * @param mixed $value
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return void
+     */
+    private static function ensureInteger($value)
+    {
+        $type = gettype($value);
+        if ($type !== 'integer') {
+            throw new InvalidArgumentException(sprintf('Wrong type "%s". Only "integer" allowed.', $type));
+        }
+    }
+}

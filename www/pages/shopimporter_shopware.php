@@ -35,6 +35,8 @@ class Shopimporter_Shopware extends ShopimporterBase
 
     /** @var bool $useDigestAuth */
     protected $useDigestAuth;
+    /** @var bool $variantsUseAbstractParent */
+    protected $variantsUseAbstractParent;
 
     /**
      * @var Shopimporter_Shopware_Adapter
@@ -307,6 +309,7 @@ class Shopimporter_Shopware extends ShopimporterBase
         $this->nurpreise = $this->app->DB->Select("SELECT nurpreise FROM shopexport WHERE id = '$shopid' LIMIT 1");
         $this->RootCategoryName = $einstellungen['felder']['RootCategoryName'];
         $useDigestAuth = !empty($einstellungen['felder']['useDigestAuth']);
+        $this->variantsUseAbstractParent = !empty($einstellungen['felder']['variantsUseAbstractParent']);
 
         include_once 'Shopimporter_Shopware_Adapter.php';
         if ($this->adapter === null) {
@@ -352,7 +355,8 @@ class Shopimporter_Shopware extends ShopimporterBase
                     'RootCategoryName' => array('typ' => 'text', 'bezeichnung' => '{|Wurzelkategoriename|}:', 'default' => 'Deutsch'),
                     'useorderid' => array('typ' => 'checkbox', 'bezeichnung' => '{|Order ID statt Bestellnummer verwenden|}:'),
                     'getunpaidorders' => array('typ' => 'checkbox', 'bezeichnung' => '{|Unbezahlte Bestellungen abholen|}:'),
-                    'useDigestAuth' => array('typ' => 'checkbox', 'bezeichnung' => '{|Authentifizierung über Digest|}:')
+                    'useDigestAuth' => array('typ' => 'checkbox', 'bezeichnung' => '{|Authentifizierung über Digest|}:'),
+                    'variantsUseAbstractParent' => array('typ' => 'checkbox', 'bezeichnung' => '{|Einfache Varianten nutzen abstrakten Elternartikel|}:'),
                 ));
     }
 
@@ -990,8 +994,16 @@ class Shopimporter_Shopware extends ShopimporterBase
 
             //Export all variants for a given product
             if (isset($tmp[$i]['artikel_varianten'])) {
+                if(!$this->variantsUseAbstractParent && !isset($tmp[$i]['matrix_varianten'])){
+                    if ($this->exportStockForVariant($sku, (int)$stock, $active)) {
+                        $successCounter++;
+                    }
+                }
+
                 foreach ($tmp[$i]['artikel_varianten'] as $variant) {
-                    if ($this->exportStockForVariant($variant['nummer'], (int)$variant['lag'], empty($variant['inaktiv']))) {
+                    $stock = $variant['pseudolager'] !== '' ? $variant['pseudolager'] : $variant['lag'];
+
+                    if ($this->exportStockForVariant($variant['nummer'], (int)$stock, empty($variant['inaktiv']))) {
                         $successCounter++;
                     }
                 }

@@ -1,60 +1,125 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-/ubaxVYQcl73VSz4ji7WnuNpDpHv+LAgAB0EuW==
+<?php
+
+namespace Xentral\Modules\ScanArticle\Wrapper;
+
+use Xentral\Components\Database\Database;
+use erpAPI;
+use Xentral\Modules\ScanArticle\Exception\InvalidArgumentException;
+
+class PriceWrapper
+{
+    /** @var erpAPI $erp */
+    private $erp;
+
+    /** @var Database $db */
+    private $db;
+
+    /**
+     * @param erpAPI   $erp
+     * @param Database $database
+     */
+    public function __construct(erpAPI $erp, Database $database)
+    {
+        $this->erp = $erp;
+        $this->db = $database;
+    }
+
+    /**
+     * @param int    $articleId
+     * @param float  $amount
+     * @param int    $adressId
+     * @param string $currency
+     *
+     * @return int|mixed|null
+     */
+    private function getSellingPrice(
+        $articleId,
+        $amount,
+        $adressId = 0,
+        $currency = ''
+    ) {
+        $returnCurrencyRef = '';
+
+        return $this->erp->GetVerkaufspreis(
+            $articleId,
+            $amount,
+            $adressId,
+            $currency,
+            $returnCurrencyRef,
+            false,
+            false
+        );
+    }
+
+    /**
+     * @param int    $articleId
+     * @param float  $amount
+     * @param int    $orderId
+     * @param string $currency
+     *
+     * @return int|mixed|null
+     */
+    public function getOrderSellingPrice(
+        $articleId,
+        $amount,
+        $orderId,
+        $currency = ''
+    ) {
+        $adressId = $this->db->fetchValue(
+            "SELECT `adresse` FROM `auftrag` WHERE id = :orderId",
+            ['orderId' => $orderId]
+        );
+
+        return $this->getSellingPrice(
+            $articleId,
+            $amount,
+            $adressId,
+            $currency
+        );
+    }
+
+    /**
+     * @param int   $articleId
+     * @param float $amount
+     * @param int   $purchaseOrderId
+     *
+     * @return int | null
+     */
+    private function getPurchasePriceId($articleId, $amount, $purchaseOrderId)
+    {
+        $supplierId = $this->db->fetchValue(
+            "SELECT `adresse` FROM `bestellung` WHERE id = :purchaseOrderId",
+            ['purchaseOrderId' => $purchaseOrderId]
+        );
+
+        if (!empty($supplierId)) {
+            $purchasePriceId = $this->erp->Einkaufspreis($articleId, $amount, $supplierId);
+            if (!empty($purchasePriceId)) {
+                return $purchasePriceId;
+            }
+        }
+
+        return null;
+    }
+
+    /**
+     * @param int   $articleId
+     * @param float $amount
+     * @param int   $purchaseOrderId
+     *
+     * @return float | null
+     */
+    public function getPurchaseOrderPurchasePrice($articleId, $amount, $purchaseOrderId)
+    {
+        $purchasePriceId = $this->getPurchasePriceId($articleId, $amount, $purchaseOrderId);
+
+        if (!empty($purchasePriceId)) {
+            return (float)$this->db->fetchValue(
+                "SELECT `preis` FROM `einkaufspreise` WHERE id = :purchasePriceId",
+                ['purchasePriceId' => $purchasePriceId]
+            );
+        } else {
+            throw new InvalidArgumentException('Purchase-Order-Id can not be empty');
+        }
+    }
+}

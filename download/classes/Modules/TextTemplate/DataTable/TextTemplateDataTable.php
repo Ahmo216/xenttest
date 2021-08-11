@@ -1,71 +1,72 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-gNh8L0bULNqgUuQhV5GeV+P89tOA4YBJiqVRwpG=
+<?php
+
+namespace Xentral\Modules\TextTemplate\DataTable;
+
+use Xentral\Components\Database\SqlQuery\SelectQuery;
+use Xentral\Widgets\DataTable\Column\Column;
+use Xentral\Widgets\DataTable\Column\ColumnCollection;
+use Xentral\Widgets\DataTable\Column\ColumnFormatter;
+use Xentral\Widgets\DataTable\Feature\ColumnFilterFeature;
+use Xentral\Widgets\DataTable\Feature\FeatureCollection;
+use Xentral\Widgets\DataTable\Feature\TableStylingFeature;
+use Xentral\Widgets\DataTable\Type\AbstractDataTableType;
+
+final class TextTemplateDataTable extends AbstractDataTableType
+{
+    /**
+     * @param ColumnCollection $columns
+     *
+     * @return void
+     */
+    public function configureColumns(ColumnCollection $columns)
+    {
+        $menu = Column::fixed('menu', 'Menü', 'center', '5%');
+        $menu->setFormatter(ColumnFormatter::template(
+            '<table class="datatable-menu" border="0" cellspacing="0" cellpadding="0"><tbody><tr>'.
+            '<td><a href="#" class="text-template-edit" data-edit-id="{ID}">' .
+            '<img src="themes/new/images/edit.svg" border="0" alt="Bearbeiten"></a></td>'.
+            '<td><a href="#" class="text-template-delete" data-delete-id="{ID}">' .
+            '<img src="themes/new/images/delete.svg" border="0" alt="Löschen"></a></td>' .
+            '<td><a href="#" class="text-template-apply" data-apply-id="{ID}">' .
+            '<img src="themes/new/images/forward.svg" border="0" alt="Einfügen"></a></td>' .
+            '</tr></tbody></table>'
+        ));
+
+        $columns->add(Column::searchable('name', 'Name', 'left', '25%'));
+        $columns->add(Column::searchable('text', 'Text', 'left', '40%'));
+        $columns->add(Column::searchable('stichwoerter', 'Stichwörter', 'left', '15%'));
+        $columns->add(Column::searchable('projekt', 'Projekt', 'center', '15%'));
+        $columns->add($menu);
+    }
+
+    /**
+     * @param SelectQuery $query
+     *
+     * @return void
+     */
+    public function configureQuery(SelectQuery $query)
+    {
+        $query
+            ->cols([
+                't.id',
+                't.name',
+                't.text',
+                't.stichwoerter',
+                't.projekt',
+            ])
+            ->from('textvorlagen AS t');
+    }
+
+    /**
+     * @param FeatureCollection $features
+     *
+     * @return void
+     */
+    public function configureFeatures(FeatureCollection $features)
+    {
+        parent::configureFeatures($features);
+
+        $features->set(new ColumnFilterFeature());
+        $features->set(new TableStylingFeature(true));
+    }
+}

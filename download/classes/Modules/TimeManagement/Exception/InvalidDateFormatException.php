@@ -1,31 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP+DhIuCYja+rVDpUeCe5mN4wY9/1x+GNUCkbqiSvujYQdhUDRtHeLUIUV33YN1jTsa4MiVb9
-lWyoH2TIaUKMjL6x4LJkJ9aRiiKGp/uUMvpXsPaEhnyA5SuvQ+Sx5r3QL45fgku3Z/pzGABDkGGf
-Kh9xVM9HZQL4A06DPNIgUZHIhV4RlHBVBpOlcwVKkLt3CUBUbArt8/1zeFZFZ/kyOQ5w+7fo0cl2
-zsGwqpcM6/Lwh5gcc7uwrnOXkiIcUai4ira6aNJAb3SIZZY0h4lPE5kfH/meXH0u4uytLVCa0w2h
-uRjo3z2r5yD6otSmReLO0ezxDdc4htGcuvVh48FYHcFlJdJdac+Jtxh8kx+TA51FIHpappIIL3SA
-9W2C9Y3As6owwePSKQ7A5abYViK4I7D0xeaAr7EXKr4wQTuYdecmtPu94Bc6sT6f+3vwTBekWIM1
-oYuXbKQGiVA6/IrjUkxyHQ6DB7QaljaBIwIg2n+NhUg0P4xLsoUqswJIc5QoVRj6s2qLXpSnUk/y
-SoA92rXl0HwY5PjYpWDjBAT5B0pXKICaJDiufu0wd88PDIapkbCuzAQelPaJ82TNG09xcWKowE1u
-7fbkR7jPHj7w0liWjv9R05c8YvNFGrO3S+pWyD1FbE0cE+m/nzL4DMOzDSyVoDRMKeA2w5dqN8DW
-SZx6jWGxJgWf0vkhbVSd11XAxTywSHkKq3y3a2EVyI9eeZgXcIFq0Od5S3/KOXjwfxr6znR/VlL1
-bk0bpHRurJwb/gSX8FUA7PPzGqCSpFzqVNWB4f9InrRlgAaT7fCACmS0fQh4q+QfyjYEH1EvjhUR
-3RZEfDtjax3r/f3trnxOun4ePCQziedxyTzg+TTJdux/xNjAQx0bULw1cQH0JXws4b3ua0ce8WGg
-ROjtc035D3025He34NjdSG+++pFsyG41Pd4Nsw3/pvQ52MCB/LhW0yfKGnAUPdxHlYFlzRMKQwxD
-GlE+LWu4uka+jY9aSjQEfoS4zMd6Tb/+IRyb0vgFEyG8k0ZZ1EwIElYcMmj2l4JYJcRXIPYXUBiY
-WTyL6NjtprfCapYsexkV7eOPhctwHB6JFuqvvcalL+ltJ7t5sgjtjt4x5z0usg7bD7dc/bj56SEM
-RrTZ2/rnk3hUlIFHJDM/Twj+9U9a0uBrECowuO1YVVvdtzcnKvTbh9kOs9pldGe11cCgJUk0xK17
-PHkKUZDHAi8nKyjjOR/FcNsT4sqWAiYulFUFDxHpL++d416h/DbzxfoKqVolxcipcN+hRDsVM19G
-o8xLMabnXvpBysLwjIz+tmOSqLHOPF7j1OQTkpXOJxsbCtuxyYaLAJa8ScReORrNXCRqIFZwCgYg
-CqWPQ9FB/kBtITawvF9orQTHbFhBLO2IqmKWc+tJM7wUHmwznOETffEriO0zuLRCjMhNj/hbuABz
-NGHzTAoG1ClkTLzgrn87O+wRiY/d37LakSzy8Pa2FcKQCFGFuAsA1kmYcVedRt0SN6BFRgL+UPYR
-AlcDlG1huKSPLx0rmtwNrOVVjGqjmynu762pMYfDEqvaot8/94g3TyLrXJELqlbWOxZMmQBG6KvB
-ZLXdWuYTdKeuYbdA4LlWBPVr5mvR3KH9M/XR8bdBYZH1fycji67De+J02cJxcTf/rNmdiL+vhkqJ
-Zq3r0NlxnYiJLuVOe0M1O7ehByZlb0wiMAU6RbFxXcO+bLjMtMHNckf3jKoz/npUrY5PUSF70iVN
-zayDoS1nSulQNIBrSMPDvb25BmQOgMKDNXXa/jUEkfEm0bBPQ8WspR6nxyL/yaEz+SVoEXGMgHAo
-Y8Kg7MFzpHi/O9ZjfiSKep8tl7Vbt5EnA+VXpDEHRKHPLkXc94kbpKwymO8V0L3BII6xRAREEGcK
-9KjONCjUFuAMGXX44Ycb8bRW+RbPWZ22dgJq2RmQuCRxHvWF0A02+LQP0w/AdciEo6R7r21+ZVgx
-3TMmq2RXcD3VKsqlWsqIXznm/XSGdtq8KXE009Vih9KNn2Ghb0ZayoguTg1tCVaoconqh095cmZB
-3Qx/quLLuFqNB0FiJoXCUKX8rDpu5bf4+BvST+cA
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\TimeManagement\Exception;
+
+final class InvalidDateFormatException extends \InvalidArgumentException implements TimeManagementExceptionInterface
+{
+}

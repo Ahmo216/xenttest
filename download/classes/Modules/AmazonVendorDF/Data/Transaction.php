@@ -1,72 +1,153 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF\Data;
+
+use DateTime;
+
+class Transaction
+{
+    const STATUS_FAILURE = 'Failure';
+    const STATUS_PROCESSING = 'Processing';
+    const STATUS_SUCCESS = 'Success';
+    const STATUS_WAITING = 'Waiting';
+    const STATUS_CLOSED = 'Closed';
+
+    /** @var int */
+    private $id;
+    /** @var string */
+    private $externalId;
+    /** @var string */
+    private $subject;
+    /** @var string */
+    private $subject_id;
+    /** @var string */
+    private $status;
+    /** @var array */
+    private $errors;
+    /** @var DateTime */
+    private $created_at;
+    /** @var DateTime */
+    private $updated_at;
+
+
+    public function __construct(string $subject = '')
+    {
+        $this->subject = $subject;
+    }
+
+    public function isWaiting(): bool
+    {
+        return $this->status === self::STATUS_WAITING;
+    }
+
+    public function isProcessing(): bool
+    {
+        return $this->status === self::STATUS_PROCESSING;
+    }
+
+    public function hasFailed(): bool
+    {
+        return $this->status === self::STATUS_FAILURE;
+    }
+
+    public function hasSucceeded(): bool
+    {
+        return $this->status === self::STATUS_SUCCESS;
+    }
+
+    public function getId(): ?int
+    {
+        return $this->id;
+    }
+
+    public function setId(int $id): self
+    {
+        $this->id = $id;
+
+        return $this;
+    }
+
+    public function getExternalId(): ?string
+    {
+        return $this->externalId;
+    }
+
+    public function setExternalId(string $externalId): self
+    {
+        $this->externalId = $externalId;
+
+        return $this;
+    }
+
+    public function getSubject(): string
+    {
+        return $this->subject;
+    }
+
+    public function setSubject(string $subject): self
+    {
+        $this->subject = $subject;
+
+        return $this;
+    }
+
+    public function getSubjectId(): ?string
+    {
+        return $this->subject_id;
+    }
+
+    public function setSubjectId(string $subject_id): self
+    {
+        $this->subject_id = $subject_id;
+
+        return $this;
+    }
+
+    public function getStatus(): ?string
+    {
+        return $this->status;
+    }
+
+    public function setStatus(string $status): self
+    {
+        $this->status = $status;
+
+        return $this;
+    }
+
+    public function getErrors(): array
+    {
+        return $this->errors;
+    }
+
+    public function setErrors(array $errors): self
+    {
+        $this->errors = $errors;
+
+        return $this;
+    }
+
+    public function getCreatedAt(): DateTime
+    {
+        return $this->created_at;
+    }
+
+    public function setCreatedAt(DateTime $created_at): self
+    {
+        $this->created_at = $created_at;
+
+        return $this;
+    }
+
+    public function getUpdatedAt(): DateTime
+    {
+        return $this->updated_at;
+    }
+
+    public function setUpdatedAt(DateTime $updated_at): self
+    {
+        $this->updated_at = $updated_at;
+
+        return $this;
+    }
+}

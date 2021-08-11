@@ -1,74 +1,172 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-/vyATbfeGWQ+wGwhlFkISm==
+<?php
+
+namespace Xentral\Modules\SuperSearch\SearchIndex\Data;
+
+use Xentral\Modules\SuperSearch\Exception\InvalidArgumentException;
+
+final class IndexData
+{
+    /** @var int $projectId */
+    private $projectId;
+
+    /** @var string $title */
+    private $title;
+
+    /** @var string|null $subTitle */
+    private $subTitle;
+
+    /** @var array|string[] $additionalInfos */
+    private $additionalInfos;
+
+    /** @var string $link */
+    private $link;
+
+    /** @var array $words */
+    private $words;
+
+    /**
+     * @param string $title
+     * @param string $link
+     * @param int    $projectId
+     * @param array  $words
+     *
+     * @throws InvalidArgumentException
+     */
+    public function __construct($title, $link, $projectId = 0, array $words = [])
+    {
+        if (empty($title)) {
+            $title = 'empty';
+        }
+        if (empty($link)) {
+            throw new InvalidArgumentException('Invalid argument value. $link parameter can not be empty.');
+        }
+        if (!is_int($projectId)) {
+            throw new InvalidArgumentException('Invalid argument type. Parameter $projectId must be type integer.');
+        }
+
+        $this->projectId = (int)$projectId;
+        $this->title = (string)$title;
+        $this->link = (string)$link;
+        $this->addSearchWords($words);
+    }
+
+    /**
+     * @param array $state
+     *
+     * @return self
+     */
+    public static function fromDbState(array $state)
+    {
+        return new self(
+            (string)$state['title'],
+            (string)$state['link'],
+            (int)$state['project_id'],
+            (array)$state['search_words']
+        );
+    }
+
+    /**
+     * @param string $subTitle
+     *
+     * @return void
+     */
+    public function setSubTitle($subTitle)
+    {
+        $subTitle = trim($subTitle);
+        if ($subTitle === '') {
+            return;
+        }
+
+        $this->subTitle = (string)$subTitle;
+    }
+
+    /**
+     * @param string $additionalInfo
+     *
+     * @return void
+     */
+    public function addAdditionalInfo($additionalInfo)
+    {
+        $additionalInfo = trim($additionalInfo);
+        if ($additionalInfo === '') {
+            return;
+        }
+
+        $this->additionalInfos[] = (string)$additionalInfo;
+    }
+
+    /**
+     * @param array|string[] $words
+     *
+     * @return void
+     */
+    public function addSearchWords(array $words)
+    {
+        foreach ($words as $word) {
+            $this->addSearchWord($word);
+        }
+    }
+
+    /**
+     * @param string $word
+     *
+     * @return void
+     */
+    public function addSearchWord($word)
+    {
+        $word = trim($word);
+        if ($word === '') {
+            return;
+        }
+
+        $this->words[] = $word;
+    }
+
+    /**
+     * @return string
+     */
+    public function getTitle()
+    {
+        return $this->title;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getSubTitle()
+    {
+        return $this->subTitle;
+    }
+
+    /**
+     * @return array|string[]
+     */
+    public function getAdditionalInfos()
+    {
+        return $this->additionalInfos;
+    }
+
+    /**
+     * @return string
+     */
+    public function getLink()
+    {
+        return $this->link;
+    }
+
+    /**
+     * @return int
+     */
+    public function getProjectId()
+    {
+        return $this->projectId;
+    }
+
+    /**
+     * @return array
+     */
+    public function getWords()
+    {
+        return $this->words;
+    }
+}

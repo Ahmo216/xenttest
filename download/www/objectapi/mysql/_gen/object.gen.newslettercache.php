@@ -1,13 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-HR+cP/ZWYNw0Dd9n6biSNOCihkDnZvw4YmVD8/X/WeWTp3xLwrMlugEMOwys9HoZWlhAolrCzLwD
-HDNhgDGvdt6UCZfKOustf8ndlzWb2nAnxi214Q7i+Ei2MwuqrqSSs+OrJJJVSN5eLJSrvIx+Hnel
-VTsft2QQc5+TzFlx8MOVK1lfs9UAjhhLg7NSr9xVVipFeyLRzjxNZS6H4Pb/Cq9c4S4wVuX0d1Rz
-pUcO3E0n3TPfmPmAyjtMsyKcnEAwgBOkOLSLWBQ6XqwNN/z7GyJmOxoR8QtH5+jcSU0bUbPUIyU3
-Z/tuqbscGzCF0PU2+ElV6p3srKdXRIyfXQ4jB1xJc+MMupVYdL9yLiYxkx+TA51FIHpappIIL3SA
-9WYMwe7c76XAi7CaUw7AoNKxA3G9LFV1st8XtNyBQVTACeEEaWc82OnygN4bR4sNdYG84pzZV2nc
-p0QRemrQk0CDc4aYNnsq/SFKn1Qrd62Cw18lmMVFgzEOLCBY4E92spq8QGUWx98LnqQvqv0aZcJq
-2WNeaXSI+RAKY9ZBS7MvKQ0hZn8SD3uitRAO+jQLKXgyvRS3RCkBZVn/NNv8JRMOSBuVpBehQhpr
-ogooNSbO475zG5OVBWD1UUAoMydV/csJL+SITnMRpEYdbDugEpr+Ad6AxFteajIjdZJHqLQ+QtEw
-yGJMD43d+egCsvDO2Ldn4TLqu9Q8QhAES/3N

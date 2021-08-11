@@ -1,49 +1,73 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-3uZN3nk1QM1drAykRS/C
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Pipedrive\Service;
+
+use Xentral\Components\Database\Database;
+use Xentral\Components\Database\Exception\DatabaseExceptionInterface;
+use Xentral\Modules\Pipedrive\Exception\PipedriveEventException;
+
+final class PipedriveEventService
+{
+
+    /** @var Database $db */
+    private $db;
+
+    /**
+     * @param Database $db
+     */
+    public function __construct(Database $db)
+    {
+        $this->db = $db;
+    }
+
+    /**
+     * @param string $event
+     *
+     * @throws PipedriveEventException
+     *
+     * @return int
+     */
+    public function add(string $event): int
+    {
+        $add = 'INSERT INTO `pipedrive_events` (`event`, `created_at`)
+                    VALUES (:event, NOW())';
+        try {
+            $this->db->perform($add, ['event' => $event]);
+        } catch (DatabaseExceptionInterface $exception) {
+            throw new PipedriveEventException($exception->getMessage());
+        }
+
+        return $this->db->lastInsertId();
+    }
+
+    /**
+     * @param int $id
+     *
+     * @return void
+     */
+    public function deleteById(int $id): void
+    {
+        $this->db->perform('DELETE FROM `pipedrive_events` WHERE `id` = :id', ['id' => $id]);
+    }
+
+    /**
+     * @return void
+     */
+    public function deleteAll(): void
+    {
+        $this->db->perform('DELETE FROM `pipedrive_events`');
+    }
+
+    /**
+     * @param int $days
+     *
+     * @return void
+     */
+    public function deleteByInterval(int $days = 30): void
+    {
+        $sql = 'DELETE FROM `pipedrive_events` WHERE `created_at` < DATE_SUB(NOW(), INTERVAL :days DAY)';
+        $this->db->perform($sql, ['days' => $days]);
+    }
+}

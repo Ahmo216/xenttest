@@ -1,60 +1,150 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-lVX5GEdbhu2teLF0jJVlWG/a7xnini31
+<?php
+
+namespace Xentral\Components\Sanitizer\Helper;
+
+final class UriDefinition
+{
+    /** @var string|null $scheme */
+    private $scheme;
+
+    /** @var string|null $username */
+    private $username;
+
+    /** @var string|null $password */
+    private $password;
+
+    /** @var string|null $host */
+    private $host;
+
+    /** @var int|null $port */
+    private $port;
+
+    /** @var string|null $path */
+    private $path;
+
+    /** @var array $queryParams */
+    private $queryParams = [];
+
+    /** @var string|null $fragment */
+    private $fragment;
+
+    /**
+     * @param string|null $scheme
+     * @param string|null $username
+     * @param string|null $password
+     * @param string|null $host
+     * @param int|null    $port
+     * @param string|null $path
+     * @param array|null  $queryParams
+     * @param string|null $fragment
+     */
+    public function __construct(
+        $scheme = null,
+        $username = null,
+        $password = null,
+        $host = null,
+        $port = null,
+        $path = null,
+        $queryParams = null,
+        $fragment = null
+    ) {
+        if (!empty($scheme)) {
+            $this->scheme = strtolower($scheme);
+        }
+        if (!empty($username)) {
+            $this->username = (string)$username;
+        }
+        if (!empty($password)) {
+            $this->password = (string)$password;
+        }
+        if (!empty($host)) {
+            $this->host = (string)$host;
+        }
+        if (!empty($port)) {
+            $this->port = (int)$port;
+        }
+        if (!empty($path)) {
+            $this->path = (string)$path;
+        }
+        if (is_array($queryParams)) {
+            $this->queryParams = $queryParams;
+        }
+        if (!empty($fragment)) {
+            $this->fragment = (string)$fragment;
+        }
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getScheme()
+    {
+        return $this->scheme;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getHost()
+    {
+        return $this->host;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getPort()
+    {
+        return $this->port;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getUsername()
+    {
+        return $this->username;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getPassword()
+    {
+        return $this->password;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getPath()
+    {
+        return $this->path;
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return string|null
+     */
+    public function getQueryParam($name)
+    {
+        return isset($this->queryParams[$name]) ? $this->queryParams[$name] : null;
+    }
+
+    /**
+     * @return array
+     */
+    public function getQueryParams()
+    {
+        return $this->queryParams;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getFragment()
+    {
+        return $this->fragment;
+    }
+}

@@ -1,70 +1,135 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Bmd\Service;
+
+use RuntimeException;
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Bmd\Exception\InvalidArgumentException;
+
+class BmdRevenueLedgerService
+{
+    /** @var Database $db */
+    private $db;
+
+    public function __construct(Database $db)
+    {
+        $this->db = $db;
+    }
+
+    /**
+     * @param int    $revenueledger
+     * @param string $label
+     * @param string $taxcode
+     * @param float  $salestaxpercent
+     */
+    public function saveBmdRevenueLedger($revenueledger, $label, $taxcode, $salestaxpercent)
+    {
+        if (empty($revenueledger)) {
+            throw new InvalidArgumentException('revenueledger can not be empty');
+        }
+
+        $sql = 'INSERT INTO `bmdrevenueledger` 
+                (
+                    `revenueledger`,
+                    `label`,
+                    `taxcode`,
+                    `salestaxpercent`                   
+                )
+                VALUES (
+                    :revenueledger, 
+                    :label, 
+                    :taxcode, 
+                    :salestaxpercent
+                    )';
+
+        $values = [
+            'revenueledger'   => $revenueledger,
+            'label'           => $label,
+            'taxcode'         => $taxcode,
+            'salestaxpercent' => $salestaxpercent,
+        ];
+        $this->db->perform($sql, $values);
+        $insertId = $this->db->lastInsertId();
+        if ($insertId === 0) {
+            throw new RuntimeException('Import template could not be created.');
+        }
+    }
+
+    /**
+     * @param int    $id
+     * @param int    $revenueledger
+     * @param string $label
+     * @param string $taxcode
+     * @param float  $salestaxpercent
+     */
+    public function updateBmdRevenueLedger($id, $revenueledger, $label, $taxcode, $salestaxpercent)
+    {
+        if (empty($revenueledger)) {
+            throw new InvalidArgumentException('revenueledger can not be empty');
+        }
+
+        $sql = 'UPDATE `bmdrevenueledger` 
+                SET 
+                    `revenueledger`=:revenueledger,
+                    `label` = :label,
+                    `taxcode` = :taxcode,
+                    `salestaxpercent` = :salestaxpercent
+                WHERE id=:id';
+
+        $values = [
+            'revenueledger'   => $revenueledger,
+            'label'           => $label,
+            'taxcode'         => $taxcode,
+            'salestaxpercent' => $salestaxpercent,
+            'id'              => $id,
+        ];
+
+        $numAffected = (int)$this->db->fetchAffected($sql, $values);
+
+        if ($numAffected == 0) {
+            throw new RuntimeException('Import template could not be updated.');
+        }
+    }
+
+    /**
+     * @param int $id
+     *
+     * @return array
+     */
+    public function getBmdRevenueLadgerById($id)
+    {
+        $sql = 'SELECT `id`, `revenueledger`,`label`,`taxcode`,`salestaxpercent` FROM `bmdrevenueledger` WHERE id =:id';
+        $values = [
+            'id' => $id,
+        ];
+        $data = $this->db->fetchRow($sql, $values);
+        if (empty($data)) {
+            throw new InvalidArgumentException('Id is not valid.');
+        }
+
+        return $data;
+    }
+
+    /**
+     * @param int $id
+     */
+    public function deleteRevenueLedgerById($id)
+    {
+        $sql = "DELETE FROM `bmdrevenueledger` WHERE `id` =:id";
+        $numAffected = (int)$this->db->fetchAffected($sql, ['id' => $id]);
+
+        if ($numAffected == 0) {
+            throw new RuntimeException('Import template could not be deleted.');
+        }
+    }
+
+    /**
+     * @return array
+     */
+    public function getAllRevenueLedgers()
+    {
+        $sql = 'SELECT `id`, `revenueledger`,`label`,`taxcode`,`salestaxpercent` FROM `bmdrevenueledger`';
+
+        return $this->db->fetchAll($sql);
+    }
+}

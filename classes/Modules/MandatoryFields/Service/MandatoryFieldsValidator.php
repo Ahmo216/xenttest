@@ -1,140 +1,323 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\MandatoryFields\Service;
+
+use Xentral\Modules\MandatoryFields\Data\MandatoryFieldData;
+use Xentral\Modules\MandatoryFields\Data\ValidatorResultData;
+use Xentral\Modules\MandatoryFields\Exception\MandatoryFieldNotFoundException;
+use Xentral\Modules\MandatoryFields\Exception\UnknownTypeException;
+
+final class MandatoryFieldsValidator
+{
+    /** @var MandatoryFieldsGateway $gateway */
+    private $gateway;
+
+    /**
+     * @param MandatoryFieldsGateway $gateway
+     */
+    public function __construct(
+        MandatoryFieldsGateway $gateway
+    ) {
+        $this->gateway = $gateway;
+    }
+
+    /**
+     * @param string $type
+     * @param string $value
+     * @param int    $mandatoryFieldId
+     *
+     * @throws UnknownTypeException
+     * @throws MandatoryFieldNotFoundException
+     *
+     * @return ValidatorResultData
+     */
+    public function validate(string $type, string $value, int $mandatoryFieldId): ValidatorResultData
+    {
+        $mandatoryField = $this->gateway->getById($mandatoryFieldId);
+
+        if ($mandatoryField->isMandatory() || (!$mandatoryField->isMandatory() && $value != '')) {
+            switch ($type) {
+                case 'kunde':
+                    $result = $this->checkCustomer($value);
+                    break;
+                case 'mitarbeiter':
+                    $result = $this->checkEmployee($value);
+                    break;
+                case 'artikel':
+                    $result = $this->checkArticle($value);
+                    break;
+                case 'rechnung':
+                    $result = $this->checkInvoice($value);
+                    break;
+                case 'auftrag':
+                    $result = $this->checkOrder($value);
+                    break;
+                case 'text':
+                    $result = $this->checkText($value, $mandatoryField);
+                    break;
+                case 'ganzzahl':
+                    $result = $this->checkInteger($value, $mandatoryField);
+                    break;
+                case 'dezimalzahl':
+                    $result = $this->checkDecimal($value, $mandatoryField);
+                    break;
+                case 'datum':
+                    $result = $this->checkDate($value);
+                    break;
+                case 'e-mail':
+                    $result = $this->checkEmail($value);
+                    break;
+                default:
+                    throw new UnknownTypeException('Type not known: ' . $type);
+            }
+
+            $error = $result['error'];
+            $message = $result['default'];
+
+            if (!empty($mandatoryField->getErrorMessage())) {
+                $message = $mandatoryField->getErrorMessage();
+            }
+
+            return new ValidatorResultData($error, $message);
+        }
+
+        return new ValidatorResultData(false, '');
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return array
+     */
+    private function checkCustomer(string $value): array
+    {
+        $data['default'] = '';
+        $data['error'] = false;
+
+        if (!$this->gateway->isAddressWithCustomerNumberActive($value)) {
+            $data['default'] = 'Kunde nicht gültig.';
+            $data['error'] = true;
+        }
+
+        return $data;
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return array
+     */
+    private function checkEmployee(string $value): array
+    {
+        $data['default'] = '';
+        $data['error'] = false;
+
+        if (!$this->gateway->isAddressWithEmployeeNumberActive($value)) {
+            $data['default'] = 'Mitarbeiter nicht gültig.';
+            $data['error'] = true;
+        }
+
+        return $data;
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return array
+     */
+    private function checkArticle(string $value): array
+    {
+        $data['default'] = '';
+        $data['error'] = false;
+
+        if (!$this->gateway->isArticleWithNumberActive($value)) {
+            $data['default'] = 'Artikel-Nr. nicht gültig.';
+            $data['error'] = true;
+        }
+
+        return $data;
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return array
+     */
+    private function checkInvoice(string $value): array
+    {
+        $data['default'] = '';
+        $data['error'] = false;
+
+        if (!$this->gateway->isInvoiceWithDocumentNumberActive($value)) {
+            $data['default'] = 'Rechnungs-Nr. nicht gültig.';
+            $data['error'] = true;
+        }
+
+        return $data;
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return array
+     */
+    private function checkOrder(string $value): array
+    {
+        $data['default'] = '';
+        $data['error'] = false;
+
+        if (!$this->gateway->isOrderWithDocumentNumberActive($value)) {
+            $data['default'] = 'Auftrags-Nr. nicht gültig.';
+            $data['error'] = true;
+        }
+
+        return $data;
+    }
+
+    /**
+     * @param string             $value
+     * @param MandatoryFieldData $mandatoryField
+     *
+     * @return array
+     */
+    private function checkText(string $value, MandatoryFieldData $mandatoryField): array
+    {
+        $data['default'] = '';
+        $data['error'] = false;
+
+        $minLength = $mandatoryField->getMinLength();
+        $maxLength = $mandatoryField->getMaxLength();
+
+
+        if ($minLength > 0) {
+            if (strlen($value) < $minLength) {
+                $data['default'] = 'Eingabe zu kurz';
+                $data['error'] = true;
+            }
+        }
+
+        if ($maxLength > 0) {
+            if (strlen($value) > $maxLength) {
+                $data['default'] = 'Eingabe zu lang';
+                $data['error'] = true;
+            }
+        }
+
+        return $data;
+    }
+
+    /**
+     * @param string             $value
+     * @param MandatoryFieldData $mandatoryField
+     *
+     * @return array
+     */
+    private function checkInteger(string $value, MandatoryFieldData $mandatoryField): array
+    {
+        $data['default'] = '';
+        $data['error'] = false;
+
+        if (filter_var($value, FILTER_VALIDATE_INT) === false) {
+            $data['default'] = 'Keine Ganzzahl';
+            $data['error'] = true;
+        } else {
+            $data = $this->validateNumbers($mandatoryField, $data, $value);
+        }
+
+        return $data;
+    }
+
+    /**
+     * @param string             $value
+     * @param MandatoryFieldData $mandatoryField
+     *
+     * @return array
+     */
+    private function checkDecimal(string $value, MandatoryFieldData $mandatoryField): array
+    {
+        $data['default'] = '';
+        $data['error'] = false;
+
+        if (strpos($value, '.') === false && strpos($value, ',') === false) {
+            $data['default'] = 'Keine Dezimalzahl';
+            $data['error'] = true;
+        } else {
+            $data = $this->validateNumbers($mandatoryField, $data, $value);
+        }
+
+        return $data;
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return array
+     */
+    private function checkDate(string $value): array
+    {
+        $data['default'] = '';
+        $data['error'] = false;
+
+        $datum = str_replace('.', '-', $value);
+        $datum = str_replace('/', '-', $datum);
+
+        if (!(bool)strtotime($datum)) {
+            $data['default'] = 'Datumsformat nicht gültig.';
+            $data['error'] = true;
+        }
+
+        return $data;
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return array
+     */
+    private function checkEmail(string $value): array
+    {
+        $data['default'] = '';
+        $data['error'] = false;
+
+        if (filter_var($value, FILTER_VALIDATE_EMAIL) === false) {
+            $data['default'] = 'E-Mail Adressformat nicht gültig.';
+            $data['error'] = true;
+        }
+
+        return $data;
+    }
+
+
+    /**
+     * @param MandatoryFieldData $mandatoryField
+     * @param array              $data
+     * @param string             $value
+     *
+     * @return array
+     */
+    private function validateNumbers(MandatoryFieldData $mandatoryField, array $data, string $value): array
+    {
+        $comparator = $mandatoryField->getComparator();
+        $compareTo = (float)$mandatoryField->getCompareto();
+        $isValid = true;
+
+        if ($comparator != '') {
+            if ($comparator === 'equals') {
+                $isValid = (float)$value == $compareTo;
+            } elseif ($comparator === 'lowerthan') {
+                $isValid = (float)$value < $compareTo;
+            } elseif ($comparator === 'greaterthan') {
+                $isValid = (float)$value > $compareTo;
+            }
+
+            if (!$isValid) {
+                $data['error'] = true;
+                $data['default'] = 'Die Zahl entspricht nicht den Vorgaben.';
+            }
+        }
+
+        return $data;
+    }
+}

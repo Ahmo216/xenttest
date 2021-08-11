@@ -1,35 +1,18 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-04MGDmMLwq2cFitOyNTJwqVXhi/Y3H4=
+<?php
+
+namespace Xentral\Modules\SuperSearch\SearchIndex\Provider;
+
+use DateTimeInterface;
+use Xentral\Modules\SuperSearch\SearchIndex\Collection\ItemFormatterCollection;
+
+interface DiffIndexProviderInterface extends SearchIndexProviderInterface
+{
+    /**
+     * Returns index items that were changed or created since the passed date time
+     *
+     * @param DateTimeInterface $since
+     *
+     * @return ItemFormatterCollection
+     */
+    public function getItemsSince(DateTimeInterface $since);
+}

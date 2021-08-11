@@ -1,30 +1,11 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPmQPplJ4O3FxrYvRr/rEKbtn4KhM/6hO8lyM5Dwy9QXyJcYZemUK3DiUmU6c6/8T4i9E62uA
-8NjwZkKlfsXRCOpwSVodlZZAyB5RQshw8QHgoAvpJb099v4XhQc7L2E9I+f4SZf+iljg1GeXAotG
-QWKnutgjahFS05C11EyuyJ9Ue9d5byTmHZXGeib9VMz+AuACAsq4fHg3HcRTzPIppefth+6OYu0n
-NxSTwtHxTlvmR3CdFz44+4TRsiZ3TozrqsKRgsxfkh2JpZU28Qrc48Lsu1vUs5jvzEldof05WUqn
-BynOqnMVfrgJdJNgcZFdm6NUOpCZXI/+e+MJkoDD6AzihusImQILT/5FLxk/dIXGJqaSvCyqabGt
-2YPkY/mRnTMI2MJr3x2H4HAlGVyYxgsFJQI6s3DUJEq5LGCJ6fzV6nt11bOMt9UklBw1YtreGaHa
-TM3Gqz7Ak1adlP/Ej4a0NDDVwr+4xU2XqoLQw0uFqshW5dpXqlsDFKXDspsqrsQb4uXzQvfabuBR
-dTSQdep7/SyF0YmZinzUkJSzEfcQthK1BsA58xg2W/2oW85cSrkI9nI20Tf44AWFMcC860b6DVU0
-Huk+4nhfIDH3y8QT1e8tC0XwbVcKKxNgCwCOg4uMcyPsVfql+mkK/t4BN46nSiKjAzGS2kJzXV5Y
-HtfD0fQ/E5bTsbO31crJMKV5eklqFURBHA33auBTSX26/K4xX7B5kLyQJwI40gPKIPJNnQNJbfgO
-Oru2GaKcBDACsnssjo7B4HdRCVccQTlwoxSPJRJSCf2HEjMjhblqliAUdMq3DnbOPGOIkSRh+aJO
-YySwghyiN5gKzq8JNTajXQfPOAHIElM3LTwFHBL4b8966w69jzsu/qBdGePgK2ZD59+dDCZkjSZa
-FZtfYABuVFjrshecXeqRTLj8U9yhdgY5E+KcvHFtKMJIx9uxMKsd/qzEed6FIYN7XLK/rmKKGI+j
-2Y78uhagw02vz2mTzgGKAiFz0Xih4UnaUso3HZIx3fg03E16NNbHPaUFpjN/ab71r+XRxYTPyy7t
-tvnOtujuiZjuaSMd7QktJtC4GR4q35w+4tp/C+rB1VT4+nM7r+vNK1hwY3yUci+/I5fAes56rHZc
-yf2bS0/F6AOdKBwQB5puzHhAnICBnMjHK0/+/yvK3nrjkzx+ciBKsM/WD5nSoBRPw+zZnP1gQjj8
-kZBvB6AcDwOoy7onzegSDpqgQ3LSfQQcS+JYIN5y4/G5Ya1q4GljRVjbRLKdQD93J51FeH9Jx9Td
-J8pKNoFg6s96zghmdyd6dwgdIz7OD56gd3t8FI0VhQlBmAbsCPfRjKJlsKCRQic7292f7RwSP80I
-TO4CIwKGiDpTlGIgb3xcxctz8zptUZZBXci1WAdxBsSY4akI0ORmeztixNavYLVxBimN19TKS0di
-Id2BydOYVXoGGZUKmDBonCAksjstjhyUAb8l5N/7YelQeDWLAVWvW8s0y8BjAUzXgVk82KNdpQ4X
-hvvkgvy0IoverWbEFtTz74mwDC/P6sB60prNmR7If6O8X1/Iu7YNTTaHBvjwWhBxaaDpq1qirsUz
-I3Vt9wpv31ZwzGFpVWSKem9iPlW3kEN78EJ1t5+n0zqCIDry9/N0DMqgDF3aofVcE63L8fjWACbh
-wnvgqtDtPrqZ4ZOjwVWV1F5LHxIgmmTZimByyOUUJGGjI3iptQ6gvbtDkyKsUSc6e8RfFRI9hnwg
-exh1xO884m7jPqEZaxWjQblBWmvypPCUTMqADlxpZvjn4qZhWlj6qA7B2itjnLaAstyoJnQHQHMH
-6yQ5k2x6AleDskPHhkQJVHo0Ink5+EUbWauoFdIZCYP+CP4/PAVyT9THZq9pq2lKslKotLzARHcE
-bN/t6Y2T1MdJNc8tSdMwXUbgC1hkiTpVcCM2JA8fDjGXpYAtwqmrpoi4fWGb5ydtxq79QooiEffk
-R1WVmJtlm31Ww1KDjf7NA2idnTVzfGfRLEd5VTS6tgo6MKf4
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Datanorm\Exception;
+
+use InvalidArgumentException;
+
+final class LineTypeNotKnownException extends InvalidArgumentException implements DatanormExceptionInterface
+{
+}

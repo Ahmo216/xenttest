@@ -1,114 +1,318 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-BWFzhGI+3iNjXW==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\Mailer\Data;
+
+final class EmailMessage
+{
+    /** @var EmailRecipient[] $recipients */
+    private $recipients;
+
+    /** @var string $subject */
+    private $subject;
+
+    /** @var string $body */
+    private $body;
+
+    /** @var EmailRecipient[] $ccRecipients */
+    private $ccRecipients;
+
+    /** @var EmailRecipient[] $bccRecipients */
+    private $bccRecipients;
+
+    /** @var EmailAttachmentInterface[] $attachments */
+    private $attachments;
+
+    /** @var array $headers */
+    private $headers;
+
+    /**
+     * @param string                          $subject
+     * @param string                          $body
+     * @param EmailRecipient[]|null           $recipients
+     * @param EmailRecipient[]|null           $ccRecipients
+     * @param EmailRecipient[]|null           $bccRecipients
+     * @param EmailAttachmentInterface[]|null $attachments
+     */
+    public function __construct(
+        $subject,
+        $body,
+        array $recipients = null,
+        array $ccRecipients = null,
+        array $bccRecipients = null,
+        array $attachments = null
+    ) {
+        $this->recipients = [];
+        $this->setRecipients($recipients);
+        $this->subject = $subject;
+        $this->body = $body;
+        $this->setCcRecipients($ccRecipients);
+        $this->setBccRecipients($bccRecipients);
+        $this->setAttachments($attachments);
+        $this->headers = [];
+    }
+
+    /**
+     * @param EmailRecipient $recipient
+     *
+     * @return EmailMessage
+     */
+    public function addRecipient(EmailRecipient $recipient): EmailMessage
+    {
+        $this->recipients[] = $recipient;
+
+        return $this;
+    }
+
+    /**
+     * @param EmailRecipient $ccRecipient
+     *
+     * @return EmailMessage
+     */
+    public function addCcRecipient(EmailRecipient $ccRecipient): EmailMessage
+    {
+        $this->ccRecipients[] = $ccRecipient;
+
+        return $this;
+    }
+
+    /**
+     * @param EmailRecipient $bccRecipient
+     *
+     * @return EmailMessage
+     */
+    public function addBccRecipient(EmailRecipient $bccRecipient): EmailMessage
+    {
+        $this->bccRecipients[] = $bccRecipient;
+
+        return $this;
+    }
+
+    /**
+     * @param string $name
+     * @param string $value
+     *
+     * @return EmailMessage
+     */
+    public function addCustomHeader($name, $value): EmailMessage
+    {
+        $this->headers[$name] = $value;
+
+        return $this;
+    }
+
+    /**
+     * @param EmailAttachmentInterface $attachment
+     *
+     * @return EmailMessage
+     */
+    public function addAttachment(EmailAttachmentInterface $attachment): EmailMessage
+    {
+        $this->attachments[] = $attachment;
+
+        return $this;
+    }
+
+    /**
+     * @param FileAttachment $attachment
+     *
+     * @return EmailMessage
+     */
+    public function addFileAttachment(FileAttachment $attachment): EmailMessage
+    {
+        $this->addAttachment($attachment);
+
+        return $this;
+    }
+
+    /**
+     * @param ImageAttachment $attachment
+     *
+     * @return EmailMessage
+     */
+    public function addEmbeddedImage(ImageAttachment $attachment): EmailMessage
+    {
+        $this->addAttachment($attachment);
+
+        return $this;
+    }
+
+    /**
+     * @param StringAttachment $attachment
+     *
+     * @return EmailMessage
+     */
+    public function addStringAttachment(StringAttachment $attachment): EmailMessage
+    {
+        $this->addAttachment($attachment);
+
+        return $this;
+    }
+
+    /**
+     * @return string
+     */
+    public function getRecipientsAsString(): string
+    {
+        return implode(';', $this->recipients);
+    }
+
+    /**
+     * @return EmailRecipient[]
+     *
+     * @codeCoverageIgnore
+     */
+    public function getRecipients(): array
+    {
+        return $this->recipients;
+    }
+
+    /**
+     * @return string
+     *
+     * @codeCoverageIgnore
+     */
+    public function getSubject(): string
+    {
+        return $this->subject;
+    }
+
+    /**
+     * @return string
+     *
+     * @codeCoverageIgnore
+     */
+    public function getBody(): string
+    {
+        return $this->body;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCcRecipientsAsString(): string
+    {
+        return implode(';', $this->ccRecipients);
+    }
+
+    /**
+     * @return EmailRecipient[]
+     *
+     * @codeCoverageIgnore
+     */
+    public function getCcRecipients(): array
+    {
+        return $this->ccRecipients;
+    }
+
+    /**
+     * @return string
+     */
+    public function getBccRecipientsAsString(): string
+    {
+        return implode(';', $this->bccRecipients);
+    }
+
+    /**
+     * @return EmailRecipient[]
+     *
+     * @codeCoverageIgnore
+     */
+    public function getBccRecipients(): array
+    {
+        return $this->bccRecipients;
+    }
+
+    /**
+     * @return array
+     *
+     * @codeCoverageIgnore
+     */
+    public function getCustomHeaders(): array
+    {
+        return $this->headers;
+    }
+
+    /**
+     * @return FileAttachment[]
+     *
+     * @codeCoverageIgnore
+     */
+    public function getAttachments(): array
+    {
+        return $this->attachments;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isHtml(): bool
+    {
+        return $this->body !== strip_tags($this->body);
+    }
+
+    /**
+     * @param EmailRecipient[] $recipients
+     *
+     * @return void
+     */
+    private function setRecipients(array $recipients = null): void
+    {
+        $this->recipients = [];
+        if ($recipients === null) {
+            return;
+        }
+        foreach ($recipients as $item) {
+            $this->addRecipient($item);
+        }
+    }
+
+    /**
+     * @param EmailRecipient[] $ccRecipients
+     *
+     * @return void
+     */
+    private function setCcRecipients(array $ccRecipients = null): void
+    {
+        $this->ccRecipients = [];
+        if ($ccRecipients === null) {
+            return;
+        }
+        foreach ($ccRecipients as $item) {
+            $this->addCcRecipient($item);
+        }
+    }
+
+    /**
+     * @param EmailRecipient[] $bccRecipients
+     *
+     * @return void
+     */
+    private function setBccRecipients(array $bccRecipients = null): void
+    {
+        $this->bccRecipients = [];
+        if ($bccRecipients === null) {
+            return;
+        }
+        foreach ($bccRecipients as $item) {
+            $this->addBccRecipient($item);
+        }
+    }
+
+    /**
+     * @param EmailAttachmentInterface[] $attachments
+     *
+     * @return void
+     */
+    private function setAttachments(array $attachments = null): void
+    {
+        $this->attachments = [];
+        if ($attachments === null) {
+            return;
+        }
+        foreach ($attachments as $item) {
+            $this->addAttachment($item);
+        }
+    }
+}

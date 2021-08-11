@@ -1,55 +1,81 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Widgets\DataTable\Feature;
+
+use Xentral\Widgets\DataTable\DataTableInterface;
+
+final class StateSaveFeature implements DataTableFeatureInterface
+{
+    /** @var bool $enabled */
+    private $enabled;
+
+    /** @var int $duration In seconds (0 = Forever) */
+    private $duration;
+
+    /**
+     * @param bool $enabled
+     * @param int  $duration
+     */
+    public function __construct($enabled = true, $duration = 0)
+    {
+        $this->enabled = (bool)$enabled;
+        $this->duration = (int)$duration;
+    }
+
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return void
+     */
+    public function modifyTable(DataTableInterface $table)
+    {
+//        $options = $table->getOptions()->toArray();
+//        $options['columns'] = $table->getColumns()->toArray();
+//        $table->getOptions()->setOption('revision', md5(json_encode($options)));
+
+        $table->getOptions()->setOption('stateSave', $this->enabled);
+        $table->getOptions()->setOption('stateDuration', $this->duration);
+    }
+
+    /**
+     * @return void
+     */
+    public function enable()
+    {
+        $this->enabled = true;
+    }
+
+    /**
+     * @return void
+     */
+    public function disable()
+    {
+        $this->enabled = false;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isEnabled()
+    {
+        return $this->enabled;
+    }
+
+    /**
+     * @return int
+     */
+    public function getDuration()
+    {
+        return $this->duration;
+    }
+
+    /**
+     * @param int $duration
+     *
+     * @return void
+     */
+    public function setDuration($duration)
+    {
+        $this->duration = (int)$duration;
+    }
+}

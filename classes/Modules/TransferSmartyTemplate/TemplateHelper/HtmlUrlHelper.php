@@ -1,56 +1,89 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\TransferSmartyTemplate\TemplateHelper;
+
+final class HtmlUrlHelper
+{
+    /**
+     * @param string $string
+     * @param string $charset
+     *
+     * @return string
+     */
+    public function decodeHtmlEntities($string, $charset = 'UTF-8')
+    {
+        // ENT_HTML5 wird benötigt für Umwandlung von &apos;
+        return html_entity_decode($string, ENT_QUOTES | ENT_HTML5, $charset);
+    }
+
+    /**
+     * @param string $string
+     *
+     * @return string
+     */
+    public function decodeHtmlSpecialChars($string)
+    {
+        // ENT_HTML5 wird benötigt für Umwandlung von &apos;
+        return htmlspecialchars_decode($string, ENT_QUOTES | ENT_HTML5);
+    }
+
+    /**
+     * @param string $string
+     *
+     * @return string
+     */
+    public function encodeUrl($string)
+    {
+        $string = $this->stripUrlControlChars($string);
+
+        return rawurlencode($string);
+    }
+
+    /**
+     * @param string $string
+     *
+     * @return string
+     */
+    public function decodeUrl($string)
+    {
+        $string = $this->stripUrlControlChars($string);
+
+        return rawurldecode($string);
+    }
+
+    /**
+     * @param string $string
+     * @param bool   $lineFeed
+     * @param bool   $carriageReturn
+     *
+     * @return string
+     */
+    public function convertBr2LineBreak($string, $lineFeed = true, $carriageReturn = true)
+    {
+        $breakChars = '';
+        if ((bool)$carriageReturn === true) {
+            $breakChars .= "\r";
+        }
+        if ((bool)$lineFeed === true) {
+            $breakChars .= "\n";
+        }
+
+        $string = str_replace(['<br>', '<br/>', '<br />'], $breakChars, $string);
+
+        return $string;
+    }
+
+    /**
+     * Filter alle Steuerzeichen aus; auch Zeilenumbrüche
+     *
+     * @see https://www.ascii-code.com/l
+     *
+     * @param string $string
+     *
+     * @return string
+     */
+    private function stripUrlControlChars($string)
+    {
+        return (string)preg_replace('/[\x00-\x1f\x7f]/', '', (string)$string);
+    }
+}

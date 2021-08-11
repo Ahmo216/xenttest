@@ -1,32 +1,12 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-287IGrn4sS5R0lYOgU289HK=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\ShopimporterAmazon\Exception;
+
+use RuntimeException as SplRuntimeException;
+
+class AmazonServiceDeactivatedException extends SplRuntimeException implements ShopimporterAmazonExceptionInterface
+{
+
+}

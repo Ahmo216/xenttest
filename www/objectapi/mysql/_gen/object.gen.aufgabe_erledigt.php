@@ -1,103 +1,138 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-rsjYx0==
+<?php
+
+class ObjGenAufgabe_Erledigt
+{
+
+  private  $id;
+  private  $adresse;
+  private  $aufgabe;
+  private  $abgeschlossen_am;
+  private  $logdatei;
+
+  public $app;            //application object 
+
+  public function __construct($app)
+  {
+    $this->app = $app;
+  }
+
+  public function Select($id)
+  {
+    if(is_numeric($id))
+      $result = $this->app->DB->SelectArr("SELECT * FROM aufgabe_erledigt WHERE (id = '$id')");
+    else
+      return -1;
+
+$result = $result[0];
+
+    $this->id=$result[id];
+    $this->adresse=$result[adresse];
+    $this->aufgabe=$result[aufgabe];
+    $this->abgeschlossen_am=$result[abgeschlossen_am];
+    $this->logdatei=$result[logdatei];
+  }
+
+  public function Create()
+  {
+    $sql = "INSERT INTO aufgabe_erledigt (id,adresse,aufgabe,abgeschlossen_am,logdatei)
+      VALUES('','{$this->adresse}','{$this->aufgabe}','{$this->abgeschlossen_am}','{$this->logdatei}')"; 
+
+    $this->app->DB->Insert($sql);
+    $this->id = $this->app->DB->GetInsertID();
+  }
+
+  public function Update()
+  {
+    if(!is_numeric($this->id))
+      return -1;
+
+    $sql = "UPDATE aufgabe_erledigt SET
+      adresse='{$this->adresse}',
+      aufgabe='{$this->aufgabe}',
+      abgeschlossen_am='{$this->abgeschlossen_am}',
+      logdatei='{$this->logdatei}'
+      WHERE (id='{$this->id}')";
+
+    $this->app->DB->Update($sql);
+  }
+
+  public function Delete($id="")
+  {
+    if(is_numeric($id))
+    {
+      $this->id=$id;
+    }
+    else
+      return -1;
+
+    $sql = "DELETE FROM aufgabe_erledigt WHERE (id='{$this->id}')";
+    $this->app->DB->Delete($sql);
+
+    $this->id="";
+    $this->adresse="";
+    $this->aufgabe="";
+    $this->abgeschlossen_am="";
+    $this->logdatei="";
+  }
+
+  public function Copy()
+  {
+    $this->id = "";
+    $this->Create();
+  }
+
+ /** 
+   Mit dieser Funktion kann man einen Datensatz suchen 
+   dafuer muss man die Attribute setzen nach denen gesucht werden soll
+   dann kriegt man als ergebnis den ersten Datensatz der auf die Suche uebereinstimmt
+   zurueck. Mit Next() kann man sich alle weiteren Ergebnisse abholen
+   **/ 
+
+  public function Find()
+  {
+    //TODO Suche mit den werten machen
+  }
+
+  public function FindNext()
+  {
+    //TODO Suche mit den alten werten fortsetzen machen
+  }
+
+ /** Funktionen um durch die Tabelle iterieren zu koennen */ 
+
+  public function Next()
+  {
+    //TODO: SQL Statement passt nach meiner Meinung nach noch nicht immer
+  }
+
+  public function First()
+  {
+    //TODO: SQL Statement passt nach meiner Meinung nach noch nicht immer
+  }
+
+ /** dank dieser funktionen kann man die tatsaechlichen werte einfach 
+  ueberladen (in einem Objekt das mit seiner klasse ueber dieser steht)**/ 
+
+  function SetId($value) { $this->id=$value; }
+  function GetId() { return $this->id; }
+  function SetAdresse($value) { $this->adresse=$value; }
+  function GetAdresse() { return $this->adresse; }
+  function SetAufgabe($value) { $this->aufgabe=$value; }
+  function GetAufgabe() { return $this->aufgabe; }
+  function SetAbgeschlossen_Am($value) { $this->abgeschlossen_am=$value; }
+  function GetAbgeschlossen_Am() { return $this->abgeschlossen_am; }
+  function SetLogdatei($value) { $this->logdatei=$value; }
+  function GetLogdatei() { return $this->logdatei; }
+
+}
+
+?>

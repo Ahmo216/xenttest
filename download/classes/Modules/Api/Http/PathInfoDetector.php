@@ -1,71 +1,96 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-yJA1U266vLjMiApBs1ove4Vuici=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Api\Http;
+
+use Xentral\Components\Http\Request;
+
+final class PathInfoDetector
+{
+    /** @var Request $request */
+    private $request;
+
+    /**
+     * @param Request $request
+     */
+    public function __construct(Request $request)
+    {
+        $this->request = $request;
+    }
+
+    /**
+     * Gibt den berechneten PathInfo-Teil der URL zurück; ohne $_SERVER['PATH_INFO'] zu verwenden
+     *
+     * Wird benötigt um Fehler in der Server-Konfiguration zu erkennen
+     *
+     * @return string|null false wenn PathInfo nicht rekonstruiert werden kann
+     */
+    public function detect(): ?string
+    {
+        $scriptName = $this->getSafeScriptName();
+        if (empty($scriptName)) {
+            return null; // Fehlerhafte Webserver-Konfiguration
+        }
+
+        // PathInfo aus $_SERVER['DOCUMENT_URI'] ermitteln
+        // Bei Apache nicht gesetzt! Nur bei Nginx und PHP-FPM gesetzt; abhängig von Konfiguration!
+        $docUri = $this->request->server->get('DOCUMENT_URI');
+        if (!empty($docUri) && strpos($docUri, $scriptName) === 0) {
+            return substr($docUri, strlen($scriptName));
+        }
+
+        // PathInfo aus $_SERVER['PHP_SELF'] ermitteln
+        $phpSelf = $this->request->server->get('PHP_SELF');
+        if (strpos($phpSelf, $scriptName) === 0) {
+            return substr($phpSelf, strlen($scriptName));
+        }
+
+        // PathInfo aus $_SERVER['REQUEST_URI'] ermitteln; ohne URL-Rewriting
+        // Request-URI kann Query-Parameter enthalten!
+        $reqUri = $this->request->server->get('REQUEST_URI');
+        if (!empty($reqUri) && strpos($reqUri, $scriptName) === 0) {
+            $pathInfoWithQueryParams = substr($reqUri, strlen($scriptName));
+
+            return $this->trimQueryParams($pathInfoWithQueryParams);
+        }
+
+        // Komplexeres URL-Rewriting, oder fehlerhafte Webserver-Konfiguration
+        // => PathInfo kann nicht rekonstruiert werden
+        return null;
+    }
+
+    /**
+     * Ermittelt $_SERVER['SCRIPT_NAME'] ohne PathInfo
+     *
+     * Unter Nginx + PHP-FPM kann(!) der $_SERVER['SCRIPT_NAME'] auch den PathInfo enthalten.
+     *
+     * @return string
+     */
+    private function getSafeScriptName(): string
+    {
+        $scriptFilename = $this->request->server->get('SCRIPT_FILENAME');
+        $documentRoot = $this->request->server->get('DOCUMENT_ROOT');
+
+        if (strpos($scriptFilename, $documentRoot) === 0) {
+            return substr($scriptFilename, strlen($documentRoot));
+        }
+
+        return $this->request->server->get('SCRIPT_NAME');
+    }
+
+    /**
+     * @param string $url
+     *
+     * @return string URL ohne Query-Parameter
+     */
+    private function trimQueryParams(string $url): string
+    {
+        $queryParamsOffset = strpos($url, '?');
+        if ($queryParamsOffset === false) {
+            return $url; // Keine Query-Parameter vorhanden
+        }
+
+        return substr($url, 0, $queryParamsOffset);
+    }
+}

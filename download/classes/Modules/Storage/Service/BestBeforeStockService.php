@@ -1,189 +1,383 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPpGrgdSwkovuXES/L4oUUocUSlME51d1gle+6s4hXAwlMziDNdERIOrQJLiuJCxOubrJK7Lx
-vpKpXAI7yMLvRZ/1qk4neOdeq+Az30PnMrjuTAtkwVNradBmNAANSB9puT7CfDZTi5Pm+/QtPDpz
-hVkHxKpzdnT+LC+vk0MDAq5h/t6z900SZLCdXqdKCblIjFq/2wn+3YNin1dIkwxUB6p0F+StoN56
-G7rVYzktjIww8LYzZK63rXMeQDGZnQourTkdfN71tJu2d4zLJAEwJM3TYd+pcb9xt7j/JzrFBl1f
-TR0i5kMSZW7W6Ah9p78p2Uo3m9+2zi9dAHAQQu8vFiX21O3CeZi3oqW6g62xlvqeK4z97EJFD99K
-DmecH97rUXljLKpQ03ZZaP56TnlzjI1kn/vYXvvWQhwVAsl0HFA0I4bikY8wcAKgwLOcxoHGLkEk
-1I8SjfZVSpI9AOIKU2aNeAsGcYR8Iu8MA8JacLONcyr6F/BZmd+yhlf61XboEwTv8+Mer7qp4ZuG
-rHErE6JRK+KRprNQ3cFyg/U6lNJ2fMJOTrZsO01E7t167ex2U2kDVXtrCEbQfXtGNsCuj73eRrr1
-zhWLTqdQvwxdUfG0T8nmKEXfo/W3Je+/RUMlC+cN9vJTBEk6BGOoGd527eJtZ2JMTsw1N5woxahh
-lUYe3MO33oq5dzDbzste6g4laVfBWAMz9uzXsfI1BvvWi835Tfgf0BQBFXdImvlNVm4IKh/hENo1
-ungqQYyVcWKSX9KlEUAwucGeVf70w8V5GZ7FaLfO0a1Mp7KkDqoYzI2c6mB1YjLu1pvindMuX6Pv
-ucRU3idRCOGarB7nuvEV37iR4biRoyH/442q/VgMWPSEFoWmcYl0gby1ZAoScJDa8CjsOdmnnWb/
-/gTZQXaC8/v/1gGCXrHtuEq0t/QzzNbBm3bISq2b/fUgVIQvfVab9lQFSM0aBukqQamotKe/LIS7
-EN91TzCB//nf/G7fzzWIYv9hSJyp7YYa3p4dbjwVWKtfaWq6RFOhw+kNhMEYAr9YPmFVVXi5EOtc
-ifDA+lkkNrRc6EBOIE03sNyJ+TukJptJu503CbePoUXDLRk30aaQ19modZ0WuvDN693TVNfvIPNv
-4h+YIdCQCR5LAMNzVjkwB6g6FKlPW/KOp4rJZf7TM/ZEaPsCFq2j1YZRCtC7axfbVTFXmqEL94x/
-7Vkzw+9Q8FS5Pgc+P+jy7ZcgVLp8FqFCURruQJihj5c2tPXSoTGw65geNOr/mNjbJ70UCtS1S9SG
-DNGIofc488VySuIF0L85Ft3smPgqi3VHJwb8kBnuv0ROdrOXZRyYTaNr1YPGHvEdfABKOJjKTXlv
-3FgEvj0MZUV5fNdIbGV+LDRGgxJU25Bh0DBUoLi2pIa7YeepqFTSpxejuMO+bhY6z9NhCzyF6Zq2
-kKA+ypgsPDSN6eEDzF9K5daIwd9uOaCCFVaH7APuXBeF6kjqkJzQrIdYQtkyXiGo12TyZDToBoo1
-dz9oV8IUP/3QMyK+4feJ0KWPU1K0KnK6OhUMKefp04oM9q6UxnymwWKqJMEYHpgKFrWGl+ahi7uD
-D/7Wbbn10kYlnVSmEW8V+f1kSDev6o9wSky+eJw2iWMNK5HqQvvx6V+fuLHZ1d9a5NACeUS+NC5W
-3TTXUK5xStIDyy0un1FmJAM4Sm3Kse8eUK1h6Z2l4xtU92p0l5VWV0R+zDxe8qwVWUQaBlXMI+uI
-0d2U0ko9BXpUa4rDu8isZprCp41WVURP6bCWsEDQsI1JE/+gQdcp82Nzf+zAtGAvJuoXDo2FnN0s
-3xUSFTKYV70aorzMV6NMeswUdcEyNhv0PWCzQCVL075qx/RLVOeVoxiudAVN8uLy6Xz1PhuHr2cE
-7n72hZrZkB9R2a47/UYzaqEoSzzuFQiSVyrdVOH3DELZXEsn1OtGZkbIMUA2KiLt7Ioxw27pjwhz
-w4KX0qC32SwtP30Ff6NadsQ+rtB7D5Yv/0MDvqI3W4SIJXMuEqjlEeWXZ3NRLky3igk+G3tnbVVF
-wcEik0etL/3WLqnqYQ7QWxo+dWb/SZvzY489x/LSfb3If8lr02ERsfZFPhEw8NYJskgvc2a5A7hp
-/IPMVJychoT4h+ZwDJMtt7yPunxBbsqvNnIs2BUJBFbKVTaTbPSDjOO4Wtr5SL3jid0n55DSo4k5
-uRsoA2UGBBF52mT1kZsxudqMlhavCJJ0UIEt3fAJrfGSniuuefVAyX4Q8XIu55vVan1CW7p5ESo9
-ue881gRR4EmntjiT/nyd/6dINoebM1/7TSTOR691ufFrN+bMW+ZuEbUcbp5R17LJeG+xGfiCWBvu
-6baIoXopbSdOX/c676jFpLW57HkuVc/S98Lr24Qs6VwpEeEWR2GjHZcZabddf0LInKzOWU+Plel8
-oUu4LkTxDJYoPNO0TXdnTWo2z20awGD4AhZYGDB5T5iVuF/iQc//KjtIQWK2+SEK/EWOSJ3W5hYS
-1yAE6x5TvxhX6MjF/lIUbCHW9ElmO2cjI5sIPycN+xNN/omxYKwvaNeYB6TJRvIyKQo1+M19VBXv
-U0VyLhn87k3pX7OUMVVfL+7RWdGNxaSU7rqlOczg/w9v4+isHD8Qwup+MUnxZcYG/pVj1C6tlqsT
-P1zcw/KbZUzW4oM3hhNx2rscwiPyH8BlFc79vfOaAI8IZHO3h9Xqm38Gp/lpKZULTsSpeqj3zths
-j+t0H33pxbeOlLv5v/d8mZ3i11NXcV5hcURRc1g7zEH0blZ4u4Mao+kXMPfuIW9RE6wHzMxtAj/S
-DYfKMBTbZNOkVFzY66AntUbVNCFMOS9wFl5mlJVA5lAiXhtC3/Eox99gZbBBZnKPQbo23i4WKpfU
-576h9XuprsnUhgw+x4M/2mK7MVKeUbBr9pgdKreC/JBLHpTQmdezfbXmbuif+TQrOWDcAYWni3LC
-z+rzsVB1qoOhshZeqbAU6GvNtwu+35gvwtiDNvRjQ503Yidu0KJTheFUpXzElYCcmzKgJUd7YFmJ
-HgRqz9ttP3ib2dBZrywXkzOP4/wzYniJVCpssjOzp8NL8M/96J0w8QbhgR2ak8Y+FQTRp+m30t+s
-PU/0bSgM+hDuWAKxbaVEHSXpeS8fIidwb1o7mRdaZqL49l7LGou1waCrfvLQSLYN5RQCL8W5WZQv
-j0JI6Vm/l18JpLWPRA15UZUYaqZklXpAeYmtVW6zOchSYMJJpVuacFpna5b3dA/APJZWjOiwCxF9
-TT9AMxgaJ4//OdrAuxgTeodsZUbQ1A4gQtHF7jCDww4/APV0KFEX60s6+zY69nFhr7kMTDMzLbCX
-RRVEwjeBYVlixCawaDmP819I6c4wwmx1ZqZx63dU4RM5w43xt3zKBPU++5BoohW0fbdjBL+qYTkz
-6DUnVZXOCeEQQywTvy2fdl9jZcU73Poi0P6pgGLfQVjc9jGsnL2ylFhRS4aW485MI1J9VmQLhmVz
-xRDYVWMQ5LX5zJeG9qWFZeYX2G2KMNnkFH7oCuDuYBOAxvo9mL83VLg228ZAqP+QbTN+59fczuCz
-iM6bkyQJCs0/e1kaNYZPocdaksGiPoUEqTlFYuDXGpjAil9n8rF96FaXwRoX7OHAZ+AlsnMPCOCb
-bYX/jm3LmMeUEE4znWL+ecqXHl4qWC+451v/P04KvwdsAAOg4CCZCnWJUMAH8pN8Tv5bXauu3020
-TyM6hC7a/wgOx8wDBjlWm1NF8hDYbXRcgIvMu1ZsR0tJwGfCUtEnm+7KAbunwbUFVxO4Ec8B9PNU
-v7u2nuEfnAEY413DBmu+07JFaXiU7DJNEiXMdwbLvQdbm+Y51kCaOk3koPCmKM17H8r5XTeJEUKl
-sqhVfooCkYqBsZ6WWEZunkwpxJ9g4SPQbntoR3XK8Zsm6wCRIgCDwRDz+KlT8m8+wk2AcW5FYYT7
-Xbpvk3Oa/0lK2KWQRPM7/LJ+rTlJEON9eyC+HEgHkLcUK2kdx6RSGpauMFU5rwU+DtUf2nQW7v0J
-dSgeY6JnpM/gCu26qRLj25oNV3q6uW9q38g5RnCegdRRUWk0LdWqhZi9wK+vdsZvfXoOosPIC8f3
-yZCG8BBnXn8qGGrS3jOVSQs61UUF7NcnOsFc+Q7h/KqiCAasg47Q5jfDLHj4XpHKnU+xV670xNYQ
-KS5rLOCJhkLmu3bmcIXSuRz9CmWgUmC02baEulvhAZT4McqGYM+wOPvb6Ih1PIzQQqdWcwkw2auN
-sycAixpLcalM/l4OPSrLEDCfSDWLPIOQ8lp6KxUUTvV3sAjm4JVRky25t48fmv6XR5/JwYanu8EA
-PpXWcjWXZySaWwDP8IRbBLik8+Nz2w0vg+cxb1rgEOgRM8FqKtLe4AR5e3Y27dTgQmM+BLApk1dZ
-X3sfKsGY+xkG0o1stJdAHfo0fQWgIFNGkpSMTRzEAriVYBqQ0sOqbtkXYa4kvIxTZ48+EQZKPx6O
-uJ9Ydh6f9FCwusCg1jdBN3q64IXKUhilgQ3TlpuWqfnVP1LsxtRgz78gERVtrT2dZlsnkLh/VtwW
-Xxf/VG/obijR4rYvd2YFV0RaMUGNmYi92HKVMoAtr7WxaGqr5wqBSkA1sEuC4AKWHPv2e6iXLDzR
-Gvdrm2oy3tou1HYYPLDJntMkKCpTm2+wOVzMD7HXohfzFsr7dGiLiYrfJ5FZfGjERZSJiePsJ5mC
-sE3npbiMevUF81e2Knnuilw16Nwv8HhonkWkZdYMEjFF0WNppKI0raQMnSEsKSuq7vJBILmYM6OY
-R1MAymouGJ307TjgxRICGmlXwh1NwdKBLsLyQ81pm9HgJADC4ZrvypuXUKOxag/ow0ww5wE3n862
-jnlbs6q4be4/PQys0g9RYkCPL5efWSc0M/+NRtHeXDccsiArchypLH2kT9NvVGOlVZyS+YZZivIO
-TJOad/Px44LAyitiMfKFi0+0n/A4WfGLpIeRhoq6sCRRp/Sx1dGrjZxuctHg/rpb2F2+bjjsTB8e
-51COrsjascIOU2PfhUllbwSlj8f1zrxidKxfaj+Ycs9DRv8+oyR0eVwTAcUnsh6vTLQx7DhGZxp5
-IKjlUpkkhlBnx7SwUMuP2CIsClLjThp73Vqg5sl86zqEUjET+cl4EDRzr55Um3X4ay70NnCovF9r
-0OBE/ZFsits/6f80mgfX3c2Wy1GthT5x84+uO5vDDODd0va0UzsH4ehG8VGOx+vaLFmv8lHi2ct3
-v8fufc4UeEkCvn8NGZr9IoDzxLtGHB5KNcieYx3FLubOW+kI2atSzJXCTnN78u4D1VrIZMf5Xo7w
-WfbfjFpEqNPU/GRJSgVNv9KWXKw42O8uq9uIz626YC0+wqZT8PesI7ZPiSLNrBPT8vQPZg7snZk6
-2VFBvxD/Y/TwsrQtU0djb4jPMcP0P/OOTgSDAAb8xgClquXJhqxR7mc+j/D7d2ssGbe3GwY8S3ui
-DiJj2asO2fH3Kh5a1QYfpHaZYDVEmL9aC9bWi6h1wVXNY6Fg9aOLI7u0ty/Fye5Ih1EA7bE6OZV7
-BVTf+eFdyMFmFZqoQTeSoIbech/JRvFDpc4VGlTEgNntei5iVP4DbmANIA2tafoUcPrEZUgibjS8
-8nVkxoVnIa/sdyIgNv7oTdG41EImre/PZx5DASdCAzac0kQD9fQnZa58rH/81w1tkF1wCG7hGLNO
-EFKxFb0ER6VC3FLTlDgOS2vr6rzAJPVj53LklcWdUOMPIkcv+p6SyLXNosj2MGrK20gMu8MVcxj/
-ppTEeOgJggbWXq+YVHEgZlLb6Cdy4iZEi3aKtASXm1IYQPhgjTj44+ka/viNCpwvgwLevhirWvCU
-sz+V3bjszs9xnI1mpB7rc3T45FOiKFHvFrapugurhAnjC/vwVSC6XBGf6aJaR59pukSjZmiWFS6p
-5QIr+HRq4ebxQSV7Dl/PptevMnfzHq+94X8MROwhX2A7efnFHj51GxLpfe/D5eA8Z3NTXVAsyjot
-IuWneYOcu0BXw7b015LPTLqPdZ6UjcTP2oV6FSnxR5N8NFsA0B5vkbsHdH/MgLM2KfcmFYa/Yqu/
-CUFgJHS3+PpuhHip+gtxPy/ZSpPcNQUqUcDWXoEsuNj0xt3ByfOXhI1fng9b2KWkbsbly8Cl5Z+L
-mLIyY5gpSAUdHqb3CJAKeN06yx2lww8gmqY/rKlNyEpyt4PxO8b7Y0opcXIAd1J7WL+hrCAPW30i
-KAwQnNMFUX+tPtxoY7sAp8SZucHympN+Z4PJU/js8fOgRj9Hwkd74aLt/nj0TSOfCJeHWBTFxnY4
-TNbkWveoIEjmix8dpVdhAuWsub0lePP7DzbpgXUoAbWw6MI7Fcuh0N08GLkYk9vfSLMlA0/volM0
-HeG/qfaLtPs0ErdQTVRV1X1cHUfrB0GfL53ppr2AsZ53vEkDmXDGmFezXxQzJk3LKsLqNHUiby4l
-BtNcXjKu/MUu6Ct+T0k0MAFSBQrTQB1u0+PqoH5AYsQzfIAis72fI7VtN73D/YbH04kaFsacqsqx
-VPSaHi2HBDyQcdPG4TRkHlVaSbhqTTtjZt796k/vUq7EhBwK8z49QSKm6iY/zxZw89Hfg2LsaG3P
-KSt5SnISCNfq/FEhdnXv+L8/9WbYbaHYcA/4XzbtOVCnUDtwrQWBYBibyONRz9y+uMAVvp147r4x
-hEkkAUnqBL69AeFGbYHoXVencin4BhoVrj62JaffRiPaQ7YGCHp75NHJuvLR52onfnpXr404M1IG
-gpwao3QhAqNTlBR9FmHiY/7Ns+SsGfX4OnYy6fSVOTkV1TqjYiD3RwJ7W3OImeuiPY+3265ilztB
-pTYZ6DMkcmjEe/hTeGBcc4ZMa10QLqnPWeYgSqs0nlP5HvFT2BaRGV6Wf8XsRHlACEHKDINcrZ/G
-6IY+S7QjOUUrOvsxFN2QSS8n+KAOwcEaD11MmmbgIBV1ZI7GtG1AfbjqGaruefFs4EDoBWEHSOrd
-OmAaqftrAtxvUL0I7d4vJxapMSexG6lZA56MVDu0vWcBkMoWaKIX8jfZOK273ahJyra18i6CX+Y1
-TEfMli+yEYhaoA72lEGGwMEbZ4JRPSMtrJOsLymfyiahOlZOpirUUyoe+WSg00zPLmBvZUvQCE/J
-3KLKqiiNskxwfoxGsafibGMz+9+8croP+zybl/e7LQ2YB3BdKhCChTuZPy9FPFiSqDtVwY33lcC5
-OtWMVplbYfzDr0k68ITaH/56mkgLsAe1b8RO0J1QhJu0nVuqjKh/x6EY1Z3gtk0Wpv2HU05Ac00s
-6VBQ6xCH8eiqGXmsH4J81H9Be4y7Sr61KB09DAjPHomniB+uuQfu37rjBHwvN5Dqnv0Iy/oA2YgK
-H1cLHbmaC8sjZpUXVnAyhRf9fEUQJO+9DGw4yTlvanjzxFgAlW7waGplIXidG4vdbBjD9LkzMyL8
-AdsX8dYpVUrVR9fSeEJRr9XNmOR5vaOCpCi6Ah8G5sQmZYg18Y0/TOj+FZCwKF5pLqDrBEJmTf+u
-VzgvSaJbOZV3NI5bj2DfgrXubxsizcBtfkr+wkABDIkbrq8Z/FUaQAeQyKQSZhrdHVnSeHyfHi3Y
-MBjjA+IQW7ZjXyExRQ8K5Uvl5TlSfRzkwmI6okT34Qnbi4UdKB+lqmLt2rdAdtjPQOd0jF06xxZF
-zZ1IWbZ/I7tfEBDK8qgfT4CZk9jhp0xFOB/CtWZg/uyRwuPsw2oGNEYa8YQmPH73WORPvxl1C2DC
-0NMFxAW/Pa3qU9oFR000j3JRnLgVQcoQ24BGN1ifMOUVWG+xC1S1Aad8rQCTERS2xL5Knuvl3aCf
-KXly5WFwbisbB3xWXM3OkMk2R6uRtrAA3sEDHHnRP/sn+0W2CRc2sHnCm5VDstztMwvLDxS6SUx/
-y65RybwuCrakBsyod7dZtIhLyy42xOLdBAurS22l/bvHDDsY6PV2pEaxKynEd9C2/DIUuulxcDzq
-uKq4fZlpm+NIumSiGicaGD9bJ7FGHBUEMN0e5cLS2KSQ2l+z1Td3BP+lU5YsAnW35TRqYr/oMpNa
-d3fsMm5Q5hYFyZNSec1egsv0+AYwf0Hq6bRejQF2NU67l6Rh5d/UiV/RvjlRzNXvDuWvD8CxfzF0
-0QunxgEdgPaJRwfvMT8oKY7ohskliW+8PmRtWYYeQh+HkEn69PsCrARpstM/kAvsMR31k1QUOHdw
-qbu+Ot3qan57X4l+uxPLfiBHNNVivliDjTSR/VCbSb6H4vPe43jkblcbbhm7iPtWO6NOA0t2Mlmh
-iPqH6YFoAoyejYm64ysGGLxivdeiy0/7AzAbdlcce0r+TOOfSLbimshZUodcRcBvXgySjl/AlMOF
-DwZGyPGS6aBE4wOqyOP5Yu06tkLtVSkAjfOFHyz9ziTWd6zhv6BbFNSDs6lMQCK1PZlRzeci0qy+
-eukEfStk5Dv+cKYWz/vsFrRzY/9ELrermCzvtIw/6nLmhyEV+K0AmhFfc+g6JLYo5vTVp62jtrRz
-D4B8/86Agzbkv7mmz/uuMudpgMsjv/jpr4I1g11bE/mpL1nLWubSutrJxzwk1xopPRyo6jskJe2N
-TvBnH8IM3bovuGojwtkaxjPs2Be+S+04kuz5NrcWZT2fU7Stoa/qStiga52JtmC/BAdI4AbTd1dS
-pt7uRqj20teRVQyax9nkGi1SLaONfQfaPVUD/TRYrXNGsTxDRGB/LxPe47P/w5MX/Z1k+SG5Vfv8
-FwnytZDGP8a/x8NNcepjTtTc+7kEvKI6BPCfyOaAnpe/EonobAdIfnXk8b/LILGwUmiHUxnem8eD
-mvsY6hPIzBmF1aSKVz2VEzoxuczMtJ8KGb5lukwZh5yjmEIGwklFPTu2rB0qxWahKvCAQYqWyNje
-mQDiVNHWDPNsJeGS5fCc1NSu1LkQjhXlGzPlqSCWFjcXSqj/00HKoK5FLMvHITyFVQ/bZZSTYhJO
-i5ge3gSfA9B0LhzXeQE27qfjxlZEMIX18TX+1BTN+8OgLnun4Nbg25aq3jihlmrPXQerp4YxmFoE
-Cll/HOWC+6JQT//oBt1rAaEki0/G1khMzWdjzBZVFh6axAd9xmfV4rUjSam4XWw995v7absf8mWh
-k64mIrK9J5k1MEkdIMEsGVZCesXcOCb6XEcCL2GGXNl1spaLdLbm8qYbBYLGWnkia0fKSa4EPrOJ
-5gCsQM9sWVb9hDGHecMyiShHn7Sz+d0Vhe4Jm5ai2AadUFnz5H5D+9DpYdHG9CnztvV8zL5V3T0e
-ko/SIXVXiakhaygk3JOBL1aDGrmnMwu8sVQLjJGg8rSFjH+ny9PWhbxmClzcbaCkHxDygSqppQh4
-uNSPKXjH2JIRDfFgulxSslNVvBHvkBDvBlTGGJX19xyWt7j/e0mw1uOeOHwxrbMQM6/fUg6GfVTt
-MjdEdrbQw/2wygKwAW4n9/4WCj2kXYThE32g8xSYuaJ214nqkiQ/I4k+fcW8Eb3tUHxgL1Cj+xxv
-Hc1uMs3PEln820FNHLysUC8/TXLXNHKFI+mtOz0w/lihUAx5ngW3I/Qp/WWdoz0V4pJk+R/7feY1
-SMWTJghED4EMCu18lDVJJFe2E1sASfDjmIGL7mUFVfwONekox4Qm0ZXAgKegydDsV2YvHgcGqLw5
-j2RK+/O7tW7YLUZqbUB7JYi3B11u4yjJehd7BfN2y/8K7Sz1GnkmHubk0HaxWQIQ1BKWahqAzVUF
-o0yDAq3EQg3xyAgJeHwn9bdZPcPDsfW5flPIapKXXBUZcTDNLFbQnBr7xdvIzfEgSgyUbDGIM2OQ
-o4hdjGv7i33FiNhGv7xePPJaTMCk5BGab824IRpzL1Qr7lQK94aIgPEMyU01+kn8Xvs5TQgVI1Ys
-VOEBx+yAdhVTQtAGCtDhG7oecvYzyL85q58VLqIcEQ0vqxoKg7e9xGdcMIIBdXTBReibTh4iKcv9
-ZhkQNX5EVMDU4u81bBLLi3HOf3xQ9P+tGXObhONIFzLABYjgi5c8ZGmBXGCaBtEzW/cOIS2teZd2
-t4HwufHiR5FIfL4M3Tq244oPvpiRvbxE6w1waGPK8PRBZbAmCzvzZsgRAQjmbwt2Oah86Rk8TZeO
-g/yGONlZFpsP+uBd0nG/U3fBMae2q8RP8+iSf4U6R9jwIUZ8nDLa2QcdAzFBN3fJkGX26YM3Bypm
-DWXfa3+4EPAqe89XHef78ie1KhZabiCdgZIEo1DK3tcABqW4kg2NrwnJo0k6dH+CjyUC1ovH4ENn
-ga5VYMEy7gCs6RNxbx2JqqzSvd6n/oSK4qTol4g0s5nTzwOYWiMuBNJYzksMhDrZX/Q63H8wiLg2
-7s5Kjnf+xF7rEC9eZyKgRYsuG5DWne8Ci7cOw9Qj5aTPJBIWFug6pnqfnPGJQjpcNVU5eZvLUu+v
-SUKfiJqeb9WGq0TWsPdQMLFgiunKJNPli0ij//2Os02WlmcdBhW8/IXZhlxAIQ/cgJOpC6lpds5M
-G4PLhRhodnLZ48obeRyHGWk5nkgZ9vcraxQwhSkeuyyYA4Cm5xRv8xOKlKZGSGV90FvGnD8wj7B7
-mBby8SEPs+jJAMSjwlfMjKzrIp1Hc1HjOIaC6XSFvnC3wujwSE83o1xtoXH6r1HXYMSL4bvbynje
-xIbguqVOmUQaO8HrQIAqZ20cpj8D7CuUBodU8OiPR1gvs0NqJVuHdDBnfNqzL0MM68G9oMlO6NRQ
-4uHb9Um8dW7tXroENs4kYFer1HQsHJPAe2udU8Hl68crQ63RDNMeG+T5KtvjDL+JlTlIdZFicM34
-35AmUezXeVDK38V6oIUhgd7CbbaPxnZ+QPITKBbbnX5gy+dJ4FTz2SWd8C5wgwQ45uPEEj0fsMPj
-rxDvh9fMRYsAr5vRNk8bx+uhaFAzYYCAR+lN4g822skumqKvgdSc3HJXmWB6KDzHw8dNWDlqW9sE
-S/dYN7xQcQDI9P/Djvo+7Vh5QEu4jVec72aHWrftizys1DDBSpB2sQR9vYSXtSKDvMW+cXmnj6Fk
-ychynwww2TaEInRAGzcr/b+g87mnU9MIg82d2pgkXSoI/CBy1Ck4ZMEdaixnIFLSmb9chtCUCb+k
-XJbVsuX4gJ6KAUyvGtKDoIq+fgQRm4Ejmq6av3HMea61djH1ewwHfOO1Onwakc49Ty7wWjws6aN0
-Dbk6t1LuTEgunIqZpJt/wPWtxTnA0Cxko7DgNdup0KEc/95KXjXvRzxiJPplzvvjJWPV91HS6RM/
-8t2taqP5bzokiJc0J8iXnne3sQqrTzSp4zdUzmLKjgSbm0x1ktPuEq6kd+8Ws9h5xi7AoE+tw8VX
-pDIK+z47+ti9J+Brypt10SOW1Inxila5WDME+Yk1forR7pjtfC3kcCdhJAVbb0NIr82tXV2qdQNG
-I85HGM1GzICB+DkUb3NboccLl1tiUbXA6UGuflo2FeEcQu+P5AA0/2ckohOT3V/372G9bwZBMfXU
-BfytIUHkpZGe+M7/NYwtcBxTY/8prnUC7s9EKWcHUtVDmIK7YJhvfzYwdlEmwFl9KfE3BiLO8KwB
-Usr4irf0QYh1Zk0kr5jLpyEnYsDgOi0MnVEKkY0TsaS2pnLKa/+V2gxn+lgEzbuVnjJCUsba/Fsq
-l7AekEM0cBzHfGUMKd3+4IM1M4Gi0qw0EEJfOIYV7UFRvPe4c5jWT/A6CMmg40TYcmKpZpjzL7ws
-fK2zIURlZ/PPi1hJmeLKYD1C5KmmfwxG2M+2/pNGL/nulWYkSxIcWvzJeKG6GLt1Hm9yMB0XzDEb
-/NxOm422FI7aaPLrbclHxNuoCtC8ZP3uB85+dGJ8YJ5EogRRU4vd5/zLIYuK/HnKmisB0pFbJovY
-uNI2j3imsk+qo6eAC0dedOnUbw+KiBURH5sTijKNZy7vPcfoEQVXGpu+/9UqOyYQRZ7DcDITZbeH
-XOJUT6bhFN7SmG63/C9YqLfyBwqvTa9hAroCbiZPkAynkt3+0TFG8JZkCwj9LYZiE7KCVIVY/720
-qpqVvOGhOovdckft+m0dXuYBACipv0zuSZaV9Zl9B4xr5NJVEdq1OQMdX95tTNJMRSTewgnwP/3t
-GAueGGLPFuO6qLAjkV4Upej3zk11dheOEO9fmayUIgDbv2QgnFf+qIDA7ksW6EpTAGMKn8Ejv+9H
-EEGuYewSTy+isLfH//QhKbIFJm9Ry0i67GtSvNcrPcR8WTbS5KZdKIQJFJwSbMzahTmi0yTVdi6n
-z/WoRndHXhfvFTFUdUk4HRFAKob2Jp92J+V9X50x7qlDx+6zGddM19cYP9NJsV5sTTjiCPnlw11d
-W2VwWlhHe2uJwSDgUKiumGTMGV0+ybtp5IiR5ARNIsz5le+3fMoepnv9ng4RUXTNwEbHA8sHi1Y4
-i/N6//JObbI/A4pTaPR1o/1ENoDtCn4KkRTf8bININtpNHFLGquhLN7ElGJUl3HUek19RpE8haKE
-m3r+Gtl1+wirEZGhzOwc0YeiUvVbhR0vmCArhSB6vCixYsXbx6iq0JOCpTa+CVFCG2oI/PcdbcW8
-d1WZudUMCf6+qUl+T1B8Lkrxqb8CwHDEIOM+W0aKYGRfPU/haRAa88fee3GBvsoSSUAaZFEJ8nyP
-ODU9qTSzavrixhbWoziLqTSwO/5Ctjr+4/77L6Snua4oNTwKOz+CbF30C/7TY/27JiJClG/4owI1
-krPvMkhSR09GuBjj8/DpuieApynNWsrkbljqTyplv7JrKWEEu8gFlB8p28Z2K20qPMxADKlKP+HO
-Bxna2YGUhDIsWMfqCjuAKx73rmttQP1n6JIdADToLen7ga8BtL8dDJGN7pCIo9/0isReqmO1EvwS
-yh7BzizTKsZ1uTRde0ZblAjM5eb7DlyeOL7pD/O51skagBLMDvebYF8jTJfUPGeB/qZmBulqr+Jp
-JTECTnL0vBOIC5Yd3xQY/ARF9BgRXCncXR4HT4ndA4Qk6JiYE8R7MWQHgo41ByoeYm/oDWc5yql3
-4gf3iaZnm08OiwVXQHw0XOKJ0qf9IaFD0ixi60ghfCtxpvWlUjIaDbXsYdf1Ie0wNn27k5tYjGm5
-EftPRqMHgVQgSqU6xdYrTgFgKhJ/QcyHNHfDQDfTdYqYI9rDoBnB5I9k/RunKkT7xd/qgohxj3QG
-En7OFlJk7jXLMxKhQ495hUB/BuXxmQUuEiI/Y35GOLErJeFpCI4FCaZX4dIM2j63E0SgONIHsOT7
-6wMTVZTlgDfVgW5CG9jnIviKiPcvIX6jetnmxf7efi6J9UIcmEcXjFg2WewxA4ybhwQRQK4Fl2uw
-+T5RFH1s2z8JBQLCQLnGl8pfCSRQOycrMbcnnnMUhUrJCpEAk1oT/6CO+LhEjAhaW3NFltB4DxPi
-EL3nRPK9tmtFohV88iF64juZobKAMjOM9JZ3I1gmmTGSuCJdTXRTsFOVUtQRoaGhnZ3F18KT3Tnh
-0aAooAbDslsD18JA6FXmi8p9uwG3171a398bGvSNE5WUyQTS+KGqzXgUrXWeLiYdjsm9ZOkKYXUY
-yI/j9cZGQ+nvpg77NoU+uly6IyGxfzycNdk6apumeFZPj/RsC5uIdnyDx7YRFcHZPRXb5ZrLiL7g
-hRTwvSq04tdcr4I6kjns+ROTRshXcb0g6IDGlBiQm+X0XE99tjrwQOZzTDx4RpV1biMGbIcqB7D0
-/SPOVYJfS0NvSMyihOpnDFAWS7zhkLD0c7w1OfjoK8V3i/BNf92D/SBQDVp2qzsRPL5kXRYpSSJ/
-luUDgqwhjbcYT5+a4u8iB8ppuAnsPFdHrJ2g2VyYBIPi8TjO/14gYzwya8ak6ROsmy2GXDU5VPz1
-kLnHrfUMmRPoIGMzyemHeYASYOmsTbVdLERgK17NCBQReMqJ1NJTJwI3g6FsplsHarC9PMPzGOef
-k3FyV8MVqsLgtbjzQHahyXyB2tDaYt21vuIKZUX7RPJp8UNiIv8FbvAh9pfUEc0Y54f5zFuhmIWp
-H6ACysvVeFWk03Jupd1+MPj4ti8dUdzFofGvyce9ZBgf3EReXZsbi3lXOt/yHSH6yJZJxP3/Eq4b
-8FSSfaW1rroV6sDA0cVAIUOKJ85/wQcze9Fa9YS=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Storage\Service;
+
+use DateTime;
+use DateTimeInterface;
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Storage\Data\BestBeforeStockCollection;
+use Xentral\Modules\Storage\Data\BestBeforeStock;
+use Xentral\Modules\Storage\Exception\InvalidArgumentException;
+use Xentral\Modules\Storage\Exception\RuntimeException;
+use Xentral\Modules\Storage\Exception\StockEntryNotFoundException;
+
+final class BestBeforeStockService
+{
+    /** @var Database $db */
+    private $db;
+
+    /** @var int $userAddressId */
+    private $userAddressId;
+
+    /**
+     * BestBeforeStockService constructor.
+     *
+     * @param Database $db
+     * @param int      $userAddressId
+     */
+    public function __construct(Database $db, int $userAddressId = 0)
+    {
+        $this->db = $db;
+        $this->userAddressId = $userAddressId;
+    }
+
+    /**
+     * @param int                    $articleId
+     * @param array                  $storageLocationIds
+     * @param DateTimeInterface|null $bestBeforeDate
+     * @param string|null            $batch
+     *
+     * @return BestBeforeStockCollection
+     */
+    public function getBestBeforeStockFromArticleStorageLocationIds(
+        int $articleId,
+        array $storageLocationIds,
+        ?DateTimeInterface $bestBeforeDate = null,
+        ?string $batch = null
+    ): BestBeforeStockCollection {
+        if ($bestBeforeDate === null) {
+            $articleStocks = $this->db->fetchAll(
+                'SELECT * 
+                FROM `lager_mindesthaltbarkeitsdatum` 
+                WHERE `artikel` = :article_id AND `lager_platz` IN (:storage_location_ids)',
+                [
+                    'article_id'           => $articleId,
+                    'storage_location_ids' => $storageLocationIds,
+                ]
+            );
+        } elseif ($batch === null) {
+            $articleStocks = $this->db->fetchAll(
+                'SELECT * 
+                FROM `lager_mindesthaltbarkeitsdatum` 
+                WHERE `artikel` = :article_id 
+                  AND `lager_platz` IN (:storage_location_ids) 
+                  AND `mhddatum` = :best_before_date',
+                [
+                    'article_id'           => $articleId,
+                    'storage_location_ids' => $storageLocationIds,
+                    'best_before_date'     => $bestBeforeDate->format('Y-m-d'),
+                ]
+            );
+        } else {
+            $articleStocks = $this->db->fetchAll(
+                'SELECT * 
+                FROM `lager_mindesthaltbarkeitsdatum` 
+                WHERE `artikel` = :article_id 
+                  AND `lager_platz` IN (:storage_location_ids) 
+                  AND `mhddatum` = :best_before_date
+                  AND `charge` = :batch',
+                [
+                    'article_id'           => $articleId,
+                    'storage_location_ids' => $storageLocationIds,
+                    'best_before_date'     => $bestBeforeDate->format('Y-m-d'),
+                    'batch'                => $batch,
+                ]
+            );
+        }
+
+        $bestBeforeStockCollection = new BestBeforeStockCollection();
+        foreach ($articleStocks as $articleStock) {
+            $bestBeforeStockCollection->add(BestBeforeStock::fromDbState($articleStock));
+        }
+
+        return $bestBeforeStockCollection;
+    }
+
+    /**
+     * @param int $id
+     *
+     * @return BestBeforeStock
+     *
+     * @thows StockEntryNotFoundException
+     */
+    public function getById(int $id): BestBeforeStock
+    {
+        $bestBeforeStock = $this->db->fetchRow(
+            'SELECT * FROM `lager_mindesthaltbarkeitsdatum` WHERE `id` = :id',
+            ['id' => $id]
+        );
+        if (empty($bestBeforeStock)) {
+            throw new StockEntryNotFoundException('db entry not found');
+        }
+
+        return BestBeforeStock::fromDbState($bestBeforeStock);
+    }
+
+    /**
+     * @param BestBeforeStock $bestBeforeStock
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return int
+     */
+    public function create(BestBeforeStock $bestBeforeStock)
+    {
+        if ($bestBeforeStock->getId() !== null) {
+            throw new InvalidArgumentException('id must be null');
+        }
+        $date = $bestBeforeStock->getCreatedAt();
+        if ($date === null) {
+            $date = new DateTime();
+        }
+        $bestBeforeDate = $bestBeforeStock->getBestBeforeDate();
+        $this->db->perform(
+            'INSERT INTO `lager_mindesthaltbarkeitsdatum`
+        (`datum`, `mhddatum`, `artikel`, `lager_platz`, `zwischenlagerid`, 
+         `charge`, `internebemerkung`, `menge`) 
+        VALUES (:date, :best_before_date, :article_id, :storage_location_id, :interim_storage_id,
+                :batch, :comment, :quantity)',
+            [
+                'quantity'            => $bestBeforeStock->getQuantity(),
+                'article_id'          => $bestBeforeStock->getArticleId(),
+                'storage_location_id' => $bestBeforeStock->getStorageLocationId(),
+                'batch'               => $bestBeforeStock->getBatch(),
+                'date'                => $date->format('Y-m-d'),
+                'interim_storage_id'  => $bestBeforeStock->getInterimStorageId(),
+                'comment'             => $bestBeforeStock->getComment(),
+                'best_before_date'    => $bestBeforeDate === null ? '0000-00-00' : $bestBeforeDate->format('Y-m-d'),
+            ]
+        );
+
+        return $this->db->lastInsertId();
+    }
+
+    /**
+     * @param BestBeforeStock $bestBeforeStock
+     *
+     * @throws InvalidArgumentException
+     * @throws RuntimeException
+     */
+    public function delete(BestBeforeStock $bestBeforeStock): void
+    {
+        if ($bestBeforeStock->getId() === null) {
+            throw new InvalidArgumentException('id must be not null');
+        }
+        $this->getById($bestBeforeStock->getId());
+        $this->db->perform(
+            'DELETE FROM `lager_mindesthaltbarkeitsdatum` WHERE `id` = :id',
+            ['id' => $bestBeforeStock->getId()]
+        );
+    }
+
+    /**
+     * @param BestBeforeStock $bestBeforeStock
+     *
+     * @throws InvalidArgumentException
+     * @throws StockEntryNotFoundException
+     */
+    public function update(BestBeforeStock $bestBeforeStock): void
+    {
+        if ($bestBeforeStock->getId() === null) {
+            throw new InvalidArgumentException('id must be not null');
+        }
+        $this->getById($bestBeforeStock->getId());
+        $date = $bestBeforeStock->getCreatedAt();
+        if ($date === null) {
+            $date = new DateTime();
+        }
+        $bestBeforeDate = $bestBeforeStock->getBestBeforeDate();
+
+        $this->db->perform(
+            'UPDATE `lager_mindesthaltbarkeitsdatum` 
+            SET `menge` = :quantity,
+                `artikel` = :article_id,
+                `charge` = :batch,
+                `datum` = :date,
+                `lager_platz` = :storage_location_id,
+                `zwischenlagerid` = :interim_storage_id,
+                `internebemerkung` = :comment,
+                `mhddatum` = :best_before_Date
+            WHERE `id` = :id',
+            [
+                'quantity'            => $bestBeforeStock->getQuantity(),
+                'article_id'          => $bestBeforeStock->getArticleId(),
+                'storage_location_id' => $bestBeforeStock->getStorageLocationId(),
+                'batch'               => $bestBeforeStock->getBatch(),
+                'date'                => $date->format('Y-m-d'),
+                'interim_storage_id'  => $bestBeforeStock->getInterimStorageId(),
+                'comment'             => $bestBeforeStock->getComment(),
+                'id'                  => $bestBeforeStock->getId(),
+                'best_before_Date'    => $bestBeforeDate === null ? '0000-00-00' : $bestBeforeDate->format('Y-m-d'),
+            ]
+        );
+
+        $this->db->perform(
+            'DELETE FROM `lager_mindesthaltbarkeitsdatum` WHERE `id` = :id AND `menge` <= 0',
+            ['id' => $bestBeforeStock->getId()]
+        );
+    }
+
+    /**
+     * @param int                    $articleId
+     * @param array                  $storageLocationIds
+     * @param DateTimeInterface|null $bestBefore
+     * @param float                  $quantity
+     * @param string|null            $batch
+     * @param string                 $comment
+     * @param string                 $documentType
+     * @param int                    $documentId
+     * @param int                    $addressId
+     * @param bool                   $isInterim
+     * @param int                    $movementId
+     *
+     * @throws RuntimeException
+     * @throws InvalidArgumentException
+     *
+     * @return array
+     */
+    public function stockOut(
+        int $articleId,
+        array $storageLocationIds,
+        ?DateTimeInterface $bestBefore,
+        float $quantity,
+        ?string $batch = null,
+        string $comment = '',
+        string $documentType = '',
+        int $documentId = 0,
+        int $addressId = 0,
+        bool $isInterim = false,
+        int $movementId = 0
+    ): array {
+        if ($quantity <= 0) {
+            throw new InvalidArgumentException('quantity must be greater 0');
+        }
+        $collection = $this->getBestBeforeStockFromArticleStorageLocationIds(
+            $articleId,
+            $storageLocationIds,
+            $bestBefore,
+            $batch
+        );
+        if ($collection->getQuantitySum() < $quantity) {
+            throw new RuntimeException('not enough in stock');
+        }
+        $quantityLeft = $quantity;
+        $quantities = [];
+        foreach ($collection as $bestBeforeStock) {
+            if ($quantityLeft <= 0) {
+                break;
+            }
+            if ($quantityLeft >= $bestBeforeStock->getQuantity()) {
+                $this->delete($bestBeforeStock);
+                $quantityLeft -= $bestBeforeStock->getQuantity();
+                if (!isset($quantities[$bestBeforeStock->getStorageLocationId()])) {
+                    $quantities[$bestBeforeStock->getStorageLocationId()] = 0;
+                }
+                $quantities[$bestBeforeStock->getStorageLocationId()] += $bestBeforeStock->getQuantity();
+                continue;
+            }
+            if ($quantityLeft <= $bestBeforeStock->getQuantity()) {
+                $bestBeforeStock->setQuantity($bestBeforeStock->getQuantity() - $quantityLeft);
+                $this->update($bestBeforeStock);
+                if (!isset($quantities[$bestBeforeStock->getStorageLocationId()])) {
+                    $quantities[$bestBeforeStock->getStorageLocationId()] = 0;
+                }
+                $quantities[$bestBeforeStock->getStorageLocationId()] += $quantityLeft;
+                break;
+            }
+        }
+        foreach ($quantities as $storageLocationId => $quantityInStorageLocation) {
+            $this->log(
+                $articleId,
+                $storageLocationId,
+                false,
+                $bestBefore,
+                $quantityInStorageLocation,
+                (string)$batch,
+                $comment,
+                $documentType,
+                $documentId,
+                $addressId,
+                $isInterim,
+                $movementId
+            );
+        }
+
+        return $quantities;
+    }
+
+    private function log(
+        int $articleId,
+        int $storageLocationId,
+        bool $isStockIn,
+        ?DateTimeInterface $bestBefore,
+        float $quantity,
+        string $batch = '',
+        string $comment = '',
+        string $documentType = '',
+        int $documentId = 0,
+        int $addressId = 0,
+        bool $isInterim = false,
+        int $storageMovementId = 0
+    ): int {
+        $stock = $this->getBestBeforeStockFromArticleStorageLocationIds(
+            $articleId,
+            [$storageLocationId],
+            $bestBefore,
+            $batch
+        )->getQuantitySum();
+        if ($addressId <= 0) {
+            $addressId = $this->getAddressIdFromDocument($documentType, $documentId);
+        }
+        $this->db->perform(
+            'INSERT INTO `mhd_log` 
+            (`artikel`, `lager_platz`, `eingang`, `mhddatum`, `internebemerkung`, 
+             `zeit`, `adresse_mitarbeiter`, `adresse`, `menge`, `doctype`, `doctypeid`, 
+             `bestand`, `charge`, `is_interim`, `storage_movement_id`) 
+             VALUES (:article_id, :storage_location_id, :in_stock, :best_before, :comment,
+                NOW(), :user_address_id, :address_id, :quantity, :document_type, :document_id,
+                :stock, :batch, :is_interim, :storage_movement_id)',
+            [
+                'article_id'          => $articleId,
+                'storage_location_id' => $storageLocationId,
+                'in_stock'            => (int)$isStockIn,
+                'best_before'         => $bestBefore === null ? '0000-00-00 00:00:00' : $bestBefore->format(
+                    'Y-m-d H:i:s'
+                ),
+                'batch'               => $batch,
+                'comment'             => $comment,
+                'user_address_id'     => $this->userAddressId,
+                'address_id'          => $addressId,
+                'quantity'            => $quantity,
+                'document_type'       => $documentType,
+                'document_id'         => $documentId,
+                'stock'               => $stock,
+                'is_interim'          => (int)$isInterim,
+                'storage_movement_id' => $storageMovementId,
+            ]
+        );
+
+        return $this->db->lastInsertId();
+    }
+
+    /**
+     * @param string $document
+     * @param int    $documentId
+     *
+     * @return int
+     */
+    private function getAddressIdFromDocument(string $document, int $documentId): int
+    {
+        if (empty($document) || $documentId <= 0) {
+            return 0;
+        }
+
+        return (int)$this->db->fetchValue(
+            "SELECT `adresse` FROM `{$document}` WHERE `id` = :id",
+            [
+                'id' => $documentId,
+            ]
+        );
+    }
+}

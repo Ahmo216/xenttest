@@ -1,29 +1,7 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPzI3vNFEQTv4q3LmK9ltXNdaHqfv4i75ULoVpKniRdyzVjY9E81MXwDWgPr0QaJGruGz1gMn
-6TZbeVCjZMIhOpHdZWJoUl7aRigrM7dJpugD2TlqF+hRsszJv3XGyaQ4n5r+n7hBtAEEXPQKl8YC
-30zo3Ruj6z1CHBQGXccvB6JLowCRxWcRuBAYK/Vndj+7pjxhK6h1zqsIFZWIetyfUx/ekM/4LAbk
-vXvaaM+J0Fye4l6FBCL88I3XB8qtqi4dcbEWtRofufeNIDZhCB71iRDpVpsMAQhUJ6zSGd+mhr74
-1JVAgHxiwiBx8zZhzfa7n8nYGDtna4ItRC28/0Ai76v8NrJoQoPrX9mwVxk/dIXGJqaSvCyqabGt
-2YOhbR1g0zViakmQEYcHqPp1Aoh6ufDT5hdPy+MutmO9CCHvVDV6m7j6TC9niiaFO4WDeRhYak6/
-LlpPQf6Bysotrlm/bBPnlCYdXFuzQrQdTP2IbCWBPvVBQIc5iiK3lEhuW7rsUcOqMjaARNwV73sV
-BIk7L1znEWDPBvuAuMS9ZD5gyVVrlLy77t7ZtuVQVtA4nCDUfoedwEJMH0rSxjJ9sL77XeBgrRE4
-RXjv2gnLt3AaX4bC4cFN87DW8gX3PuJr2Gbig9JTO7XawNoJDNuXECL4+QtVqJ0fR+WaFdkju4Kn
-cCdtsuvuELFAWOVuXAfbbfXPiP86ZC8P7AXOkcFOyI8lfrTJWn1xOcVHYxOdVD5deEXTEgel//kF
-8YBUAfLt9tfubx+Mwuf6Vy4AMnanbQS305c4vxQPMhWoajLmAuFumkj8LAQyBCicQ+mD5uC32WOG
-UCa8kQ94GRut8PUi9QVqad1mjHJm8o2HRVYo9D9UP5FQ4cUZ5aNlbeon/FUm0mzG24LgU8AjmcpW
-AhS72aDBtXgPLneu+iLZlU5HoFQ2jpASXeZg66hB8zT2tY790Axf5WzKrWnFOnYaxAhU8GVMykA5
-Zyb3k/7FuQGSiz+UxLAiBT1f4y94biQ4uwe9vxdYGg5QH3M47sFA4wRy2teCMW+ZrzTKpiyV89B2
-UlI9Rra742gTRU9IrwMeO66ui73oXm2K3sp9mGer+ocsYU1yK6ehG43bVoOr+wQUbeZCjYMwKi1I
-ED2ofvML+uc0Fm/7o6ORJDl4mlBEWVqqqE54zr61joLAEENl1ZwkUDKVIiELeDLJzMSNyxiqxP+U
-mZt1kqElJPk94rwHKTgfGVTUL9ByTLNzDwIv71khfaMYV73PwPT5nlN2oZEw6cjJusGNDc+B7QWj
-vcipnKJkMImK+kc/77f8/XccCsRKebhw/guPOGny+1dcuwGbiSABTfuXFpa/TUA2vnpzD4ldY5DD
-Z5LPDGofvyWvt9X9v0hgYqm/jmZVJGpFwPzRFNdi3CUHkrkxqdvJPRu53/X0yWmReriLAYClp8pm
-1RrV8ATbbsUBLWaOXOieQlJkXVVN4G80g1UmolQeFZHX36XiTQ7Rn+JnQPZ9k95udYdKixqdv0xT
-tDf7nCt1Os+gfJMvtLStZNcbD6rdGMmsqx31Xw/zgbIoP+D3U53Z8GjSclmmIllsEn0VRurHiAQv
-xH+xO4/5yRu7r1ulwm5e0fsWm1MrjcAp+GDc319bJfpEX+5JhAH4aJfZlbpoPoWF2fVuN8pA1+F7
-b1K3VCOmr2N248sj+fcwNOd2hsY5ytCLd3SR0hFJgct5nsrzbYJIccqXrNO2arD9AsIQ4IKnRxXY
-sTjidF8z3j1yyrshIbK49rU4/d52zU3qG0dw2jrPza6MahuKSLtxKGJvDRlrbr9RILrUt3kCHBY2
-kvEKBohoMQIMzddsTJlAWqOVhEe1TUnmVv/zzerW2A7GOIPUtgoFbVan0iMwCg5DMB3rtgkqqLcZ
-2yEFEq1112UKg5YJ1CG7CODXNn/mPGbKcrFQqX6sMyz0DhpWjBj9fjy=
+<?php
+
+namespace Xentral\Modules\DocuvitaApi\Exception;
+
+class CurlException extends \RuntimeException implements DocuvitaApiExceptionInterface
+{
+}

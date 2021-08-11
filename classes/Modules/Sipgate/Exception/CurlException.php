@@ -1,29 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPsunwdos6kzp28T/Nx8weGSKe8yHC3Hx0bMIutMLsTwtrKAXMRRkvEY96cxfOA/A6ALbkVVt
-59mNRTVeS9Pc9LCFTQgrICQesxq892KqJ0Djzz8HNaynzHq8rw8CVp9I7fErh9FTK3y7JeCmk8uv
-IroI2ISekqU5N0JwYougC7JJehYJ//lUXNqfz7Heykk3ukcqNA1dWz3T0FOc47Rxd3VzwfHub4eY
-IJE+/N9eTH+ga24WaXyAFjCXu1HrlC7U18AjtyHjHYntk5Yf6bw9lzhg/d9NFbwyXfCe3eY0SfqY
-lsM2PClkWAko48vrXikubQGwfF1aioezcUVdg0wu7B26GwJex9MlKu/ycRk/dIXGJqaSvCyqabGt
-2YQlZ5l+3aETtcVEBr+H4Jnm8/+UQyABsnuJ/V8lVxWrzV6AkUgHetgZaiHvEtxsIpimK1NZrCKL
-oFdOxDhOygz9VwxLufuuSBLHri/NhwzxXRVI5dTR1NhD5MFN4B/XIC/ZhF9QaugZpBSBbSKBLsZp
-6wB4ds8kRchJjsrMgUZzVaJLV7BxrYM23FRIduiIqRDHw5pyCjnXgCA2IMT7A0t4anWpThp/UsZB
-EZWT6wN9p6eU49Rj5NqAilOlyB/L24y2N2Zx8AQVSZh7t2/tX7EaCB6yr33R0mabf06+X0Fix4D+
-UkzFiwC2tM6gcm1XIfAWosNXyTCqHonJzQXMxyRsxmZ5y/PnVghZ5aMpCjx8+rGoOrfdfdoLjC6l
-KytOLoQQnHF/y9GHWJA74G6OqDNcqVO8B3wTA1zY7xNLwPn2mCX0JdtP9AXtp9vLX5GM4OZqOE8s
-+IVYNHwsJ48S3f8rk3BrJOfVrHoQZrexxZy+/3qmReKmNvAl55xj2h4XqJl4ARCWJuEtS+brvi9Q
-jTIUNbsAkiJ0XbYZO9/PGeYVSnhFwvrCGj4eWD8NQUaVpzX/wb98h5S2pzwBx2MGBLNwOpFGXZ32
-Ga++9Msvd2rlYMYCLePy9sRSbAW/EzVmvBI/c/AqQidjKmO0lWHgofgomG10PrhWqiECsFjUh1tT
-LhxiAkfbBu/Z+ko75xiOQEVJmk7nCqOu9G6+ASK3Tp+tP83pxrBJ/cPEFJ/afLBGL3SzI0dza/am
-zCsqk4GmMAmiv8z956HE3g0Ea/o0prxM5kqq56oLNl79dozdJqQSmDUa8eZvNeb1ZTFSJNe7FSK5
-TRsM7lpzW3acomp6AIE1C7PIlkrpjzn4atXgr47gDaj+HP6LtmWVPmDVfYqhQtMkuB8BkRjyf0yZ
-6yrLKDalX38J3ecPFfv1YqSCB9cDewqX4CtA+5BzYda487eQc0p/Z3fKx1Cd9i8T3KJFv7soqOaa
-0JT+qYSTV172Hly3+gY5tEf805bU/r5cp+BP2X0fOInb+LkRYi3R39JKIB6rwHLCV0OuoS1nQU8+
-WNf50Ji/a4fYhnoYZBEtceBeq2JPkp5rdMpmig4/dCX41rYGcXYAbq95RAHnK9KD18E42nROtUkO
-zjMVkznaS7DG7dHRGXqhpGg3d9yCc8w0R3+7oevF2RvAUQYYm+t7Lf208+B7OBlBiz0a4BLDDK7a
-v/VBsMpVRZgY7YXfDq8h4A1fSWAZM0qJjQ6IAaKbI0dA0+SjofzZVmkDXAKO5W1ima3RIPyOQsBx
-s8HPEOqAGDHBzv6YYV4r+G4qRVj7qb31rxSBlx6nHYVP1ZRGFofixYC2BD0bus4Cv25Nd1dhaIgo
-u+C97CgokHD+KGlDyQrTGebqsYPHe5dpdQVcN1L9PLGzE0B0K1ucqbzATMNBKjvqZYhf5rzJq8X0
-Y5JT5QY+VcgD8KywLHNRxILRrHI+0uSOGmyV1F2b5pV3+VfECONzNP6qWs/4cCN889Ma6iSK4ERC
-kIoZhIxdFG==
+<?php
+
+namespace Xentral\Modules\Sipgate\Exception;
+
+use RuntimeException;
+
+class CurlException extends RuntimeException implements SipgateExceptionInterface
+{
+}

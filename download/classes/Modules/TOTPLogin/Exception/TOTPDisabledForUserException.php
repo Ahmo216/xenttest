@@ -1,37 +1,16 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-pAC1uXQfYFblEW==
+<?php
+
+namespace Xentral\Modules\TOTPLogin\Exception;
+
+class TOTPDisabledForUserException extends \RuntimeException implements TOTPLoginExceptionInterface
+{
+    /**
+     * @param int $userId
+     *
+     * @return TOTPDisabledForUserException
+     */
+    public static function fromUserId($userId)
+    {
+        return new TOTPDisabledForUserException("TOTP login is disabled for user ID {$userId}");
+    }
+}

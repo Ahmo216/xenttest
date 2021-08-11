@@ -1,41 +1,48 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+
+class kasse
+{
+  function __construct()
+  {
+  }
+
+  function Import($kasse,$app)
+  {
+    $checkpos = $app->DB->Select("SELECT COUNT(id) FROM projekt WHERE kasse_konto='$kasse'");
+    $csv = "";
+    if($checkpos <=0 )
+    {
+      $letzterabschluss = $app->DB->Select("SELECT MAX(datum) FROM kasse WHERE konto='$kasse' AND tagesabschluss='1'");
+      $von = $app->DB->Select("SELECT MIN(datum) FROM kasse WHERE konto='$kasse'");
+      if($letzterabschluss!="") $csv = $app->erp->KasseExport($kasse,$von,$letzterabschluss,true);
+    } else {
+      $von = $app->DB->Select("SELECT MAX(buchung) FROM kontoauszuege WHERE konto='$kasse'");
+      if($von=="") $von = $app->DB->Select("SELECT MIN(datum) FROM kasse WHERE konto='$kasse'");
+      $csv = $app->erp->KasseExport($kasse,$von,date('Y-m-d'),true);
+    }
+    return $csv;
+/*
+    $result = $app->DB->SelectArr("SELECT k.auswahl,k.datum,k.betrag,a.name,k.grund,k.nummer FROM kasse k LEFT JOIN adresse a ON k.adresse=a.id WHERE k.konto='$kasse'");
+    //user login information
+
+    $csv = "";
+    for ($i=0;$i<count($result);$i++)
+    {
+      if($result[$i]['name']=="") $result[$i]['name'] = $result[$i]['grund'];
+
+      $csv .= $result[$i]['datum'].";";
+      if($result[$i]['auswahl']=="einnahme")
+        $csv .= $result[$i]['betrag'].";";
+      else
+        $csv .="-".$result[$i]['betrag'].";";
+      $csv .= $result[$i]['name'].";";
+      $csv .= $result[$i]['grund'].";";
+      $csv .= "Kasse $kasse Buchung ".$result[$i]['nummer'].";";
+      $csv .= "EUR;\r\n";
+    }
+*/
+    return $csv;
+  }
+
+}
 ?>
-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

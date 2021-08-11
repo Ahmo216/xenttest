@@ -1,160 +1,281 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Widgets\Chart;
+
+use InvalidArgumentException;
+use JsonSerializable;
+
+class Dataset implements JsonSerializable
+{
+    const LINE_STYLE_SOLID = 'solid';
+    const LINE_STYLE_DASHED = 'dashed';
+    const LINE_STYLE_DOTTED = 'dotted';
+
+    const COLOR_GREEN = 'green';
+    const COLOR_BLUE = 'blue';
+    const COLOR_ORANGE = 'orange';
+    const COLOR_DARKBLUE = 'darkblue';
+
+    /** @var array $validLineStyles */
+    protected static $validLineStyles = [
+        self::LINE_STYLE_SOLID,
+        self::LINE_STYLE_DOTTED,
+        self::LINE_STYLE_DASHED,
+    ];
+
+    /** @var array $colorMap */
+    protected static $colorMap = [
+        self::COLOR_GREEN => [162, 197, 90],
+        self::COLOR_BLUE => [69, 185, 211],
+        self::COLOR_ORANGE => [246, 158, 6],
+        self::COLOR_DARKBLUE => [14, 131, 148],
+    ];
+
+    /** @var array $defaultOptions Standardwerte für Dataset-Optionen */
+    protected static $defaultOptions = [
+        'pointBorderWidth' => 1,
+        'pointHoverBorderWidth' => 2,
+        'pointRadius' => 1,
+        'pointHoverRadius' => 5,
+        'pointHitRadius' => 15,
+        'lineTension' => 0.2,
+        'fill' => true,
+        'borderWidth' => 3,
+        'borderDash' => [],
+        'borderCapStyle' => 'butt',
+        'borderColor' => 'rgba(0, 0, 0, 0.1)',
+        'backgroundColor' => 'rgba(0, 0, 0, 0.1)',
+        'pointBackgroundColor' => 'rgba(0, 0, 0, 0.1)',
+    ];
+
+    /** @var array $defaultAlphaValues Transparenz-Werte */
+    protected static $defaultAlphaValues = [
+        'borderColor' => 1.0,
+        'backgroundColor' => 0.1,
+        'pointBackgroundColor' => 1.0,
+    ];
+
+    protected $data;
+    protected $label;
+    protected $options;
+
+    /** @var bool $isDataAccumulated Gibt an ob Daten bereits kumuliert wurden */
+    protected $isDataAccumulated = false;
+
+    /** @var bool $hasColorSet Gibt an ob bereits eine Farbe manuell gesetzt wurde */
+    protected $hasColorAssigned = false;
+
+    /**
+     * @param string $label
+     * @param array  $data
+     * @param array  $options
+     */
+    public function __construct($label, $data, array $options = [])
+    {
+        // Ungültige Werte in leeres Array wandeln
+        if (!is_array($data)) {
+            $data = [];
+        }
+
+        $this->data = $data;
+        $this->label = $label;
+        $this->options = array_replace(self::$defaultOptions, $options);
+
+        $defaultColor = new Color(0, 0, 0, 0.1);
+        if (!is_object($this->options['borderColor'])) {
+            $this->options['borderColor'] = $defaultColor;
+        }
+        if (!is_object($this->options['backgroundColor'])) {
+            $this->options['backgroundColor'] = $defaultColor;
+        }
+        if (!is_object($this->options['pointBackgroundColor'])) {
+            $this->options['pointBackgroundColor'] = $defaultColor;
+        }
+    }
+
+    /**
+     * @return int
+     */
+    public function getDataCount()
+    {
+        return count($this->data);
+    }
+
+    /**
+     * @return bool Wurde bereits eine Farbe gesetzt
+     */
+    public function hasColorAssigned()
+    {
+        return $this->hasColorAssigned;
+    }
+
+    /**
+     * @return void
+     */
+    public function accumulateData()
+    {
+        if ($this->isDataAccumulated === true) {
+            return;
+        }
+
+        $sum = 0;
+        foreach ($this->data as $key => $value) {
+            $sum += (float)$value;
+            $this->data[$key] = $sum;
+        }
+
+        $this->isDataAccumulated = true;
+    }
+
+    /**
+     * @param string $lineStyle
+     *
+     * @return void
+     */
+    public function setLineStyle($lineStyle)
+    {
+        if (!in_array($lineStyle, self::$validLineStyles, true)) {
+            throw new InvalidArgumentException(sprintf(
+                'Line style "%s" is not valid.', $lineStyle
+            ));
+        }
+
+        if ($lineStyle === self::LINE_STYLE_DOTTED) {
+            $this->options['borderDash'] = [1, 15];
+            $this->options['borderCapStyle'] = 'round';
+        }
+        if ($lineStyle === self::LINE_STYLE_DASHED) {
+            $this->options['borderDash'] = [15, 10];
+            $this->options['borderCapStyle'] = 'butt';
+        }
+        if ($lineStyle === self::LINE_STYLE_SOLID) {
+            $this->options['borderDash'] = [];
+            $this->options['borderCapStyle'] = 'butt';
+        }
+    }
+
+    /**
+     * @param Color $color
+     *
+     * @return void
+     */
+    public function setColor(Color $color)
+    {
+        $borderColor = clone $color;
+        $backgroundColor = clone $color;
+        $pointBackgroundColor = clone $color;
+
+        $borderColor->setAlpha($this->getDefaultAlphaValue('borderColor'));
+        $backgroundColor->setAlpha($this->getDefaultAlphaValue('backgroundColor'));
+        $pointBackgroundColor->setAlpha($this->getDefaultAlphaValue('pointBackgroundColor'));
+
+        $this->options['borderColor'] = $borderColor;
+        $this->options['backgroundColor'] = $backgroundColor;
+        $this->options['pointBackgroundColor'] = $pointBackgroundColor;
+
+        $this->hasColorAssigned = true;
+    }
+
+    /**
+     * @param int $red
+     * @param int $green
+     * @param int $blue
+     *
+     * @return void
+     */
+    public function setColorByRgb($red, $green, $blue)
+    {
+        $this->setColor(new Color($red, $green, $blue, 1.0));
+    }
+
+    /**
+     * @param string $hexColor
+     *
+     * @return void
+     */
+    public function setColorByHex($hexColor)
+    {
+        $hexColor = str_replace('#', '', $hexColor);
+        if (strlen($hexColor) !== 6) {
+            throw new InvalidArgumentException('Only full length hex values are supported.');
+        }
+
+        $parts = str_split($hexColor, 2);
+        $red = hexdec($parts[0]);
+        $green = hexdec($parts[1]);
+        $blue = hexdec($parts[2]);
+
+        $this->setColorByRgb($red, $green, $blue);
+    }
+
+    /**
+     * @param string $colorName
+     *
+     * @return void
+     */
+    public function setColorByName($colorName)
+    {
+        if (!isset(self::$colorMap[$colorName])) {
+            throw new InvalidArgumentException(sprintf(
+                'Color name "%s" is not valid.', $colorName
+            ));
+        }
+
+        $rgb = self::$colorMap[$colorName];
+        $this->setColorByRgb(...$rgb);
+    }
+
+    /**
+     * Zufällige ID generieren; wird für Multiple Axes Config benötigt
+     *
+     * @see http://www.chartjs.org/docs/latest/axes/cartesian/#axis-id
+     *
+     * @return string
+     */
+    public function generateYAxisId()
+    {
+        if (!isset($this->options['yAxisID'])) {
+            $this->options['yAxisID'] = uniqid('', false);
+        }
+
+        return $this->options['yAxisID'];
+    }
+
+    /**
+     * @return array
+     */
+    public function jsonSerialize()
+    {
+        return $this->toArray();
+    }
+
+    /**
+     * @return array
+     */
+    public function toArray()
+    {
+        $result = $this->options;
+        $result['data'] = $this->data;
+        if (!empty($this->label)) {
+            $result['label'] = $this->label;
+        }
+
+        return $result;
+    }
+
+    /**
+     * @param string $colorType
+     *
+     * @return float
+     */
+    protected function getDefaultAlphaValue($colorType)
+    {
+        if (!isset(static::$defaultAlphaValues[$colorType])) {
+            return 1.0;
+        }
+
+        // Wichtig: static nicht self!
+        // Sonst hat Überschreiben von $defaultAlphaValues in abgeleiteten Klassen keine Auswirkung.
+        return static::$defaultAlphaValues[$colorType];
+    }
+}

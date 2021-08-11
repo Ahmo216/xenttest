@@ -1,36 +1,34 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-pHNv6Y27msDBO/twDjdtKb2+801phW==
+<?php
+
+namespace Xentral\Modules\Dhl\Response;
+
+use Xentral\Modules\Dhl\Exception\DhlBaseException;
+use Xentral\Modules\Dhl\Exception\InvalidRequestDataException;
+
+/**
+ * Class CreateShipmentResponse
+ *
+ * @package Xentral\Modules\Dhl\Response
+ */
+class GetVersionResponse extends BaseResponse
+{
+    /**
+     * GetVersionResponse constructor.
+     *
+     */
+    public function __construct()
+    {
+    }
+
+    /**
+     * @param string $responseXml
+     *
+     * @return GetVersionResponse
+     */
+    public static function fromResponseXml($responseXml)
+    {
+        $xmlElement = parent::createXmlElement($responseXml);
+
+        return new GetVersionResponse();
+    }
+}

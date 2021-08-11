@@ -1,115 +1,275 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Rfw0lQHrPM9qOjdbmKLvr/2djym0+W==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Storage\Data;
+
+use DateTimeInterface;
+use DateTime;
+use Exception;
+
+final class BestBeforeStock
+{
+    /** @var int|null $id */
+    private $id;
+
+    /** @var DateTimeInterface|null $createdAt */
+    private $createdAt;
+
+    /** @var DateTimeInterface|null $bestBeforeDate */
+    private $bestBeforeDate;
+
+    /** @var int $articleId */
+    private $articleId;
+
+    /** @var int $storageLocationId */
+    private $storageLocationId;
+
+    /** @var float $quantity */
+    private $quantity;
+
+    /** @var int $interimStorageId */
+    private $interimStorageId;
+
+    /** @var string $batch */
+    private $batch;
+
+    /** @var string|null $comment */
+    private $comment;
+
+    /**
+     * BestBeforeStock constructor.
+     *
+     * @param int                    $storageLocationId
+     * @param int                    $articleId
+     * @param float                  $quantity
+     * @param DateTimeInterface|null $bestBeforeDate
+     * @param string                 $batch
+     * @param DateTimeInterface|null $createdAt
+     * @param string|null            $comment
+     * @param int                    $interimStorageId
+     * @param int|null               $id
+     */
+    public function __construct(
+        int $storageLocationId,
+        int $articleId,
+        float $quantity,
+        ?DateTimeInterface $bestBeforeDate,
+        string $batch = '',
+        ?DateTimeInterface $createdAt = null,
+        ?string $comment = null,
+        int $interimStorageId = 0,
+        ?int $id = null
+    ) {
+        $this->storageLocationId = $storageLocationId;
+        $this->articleId = $articleId;
+        $this->quantity = $quantity;
+        $this->bestBeforeDate = $bestBeforeDate;
+        $this->batch = $batch;
+        $this->createdAt = $createdAt;
+        $this->comment = $comment;
+        $this->interimStorageId = $interimStorageId;
+        $this->id = $id;
+    }
+
+    /**
+     * @param array $bestBeforeStock
+     *
+     * @return static
+     */
+    public static function fromDbState(array $bestBeforeStock): self
+    {
+        try {
+            $createdAt = new DateTime($bestBeforeStock['datum']);
+        } catch (Exception $e) {
+            $createdAt = null;
+        }
+        try {
+            $bestBeforeDate = new DateTime($bestBeforeStock['mhddatum']);
+        } catch (Exception $e) {
+            $bestBeforeDate = null;
+        }
+
+        return new self(
+            (int)$bestBeforeStock['lager_platz'],
+            (int)$bestBeforeStock['artikel'],
+            (float)$bestBeforeStock['menge'],
+            $bestBeforeDate,
+            $bestBeforeStock['charge'],
+            $createdAt,
+            $bestBeforeStock['internebemerkung'],
+            (int)$bestBeforeStock['zwischenlagerid'],
+            empty($bestBeforeStock['id']) ? null : (int)$bestBeforeStock['id']
+        );
+    }
+
+    /**
+     * @return array
+     */
+    public function toArray(): array
+    {
+        $createdAt = $this->getCreatedAt();
+        if ($createdAt === null) {
+            $createdAt = new DateTime();
+        }
+        $bestBeforeDate = $this->getBestBeforeDate();
+
+        return [
+            'id'               => $this->getId(),
+            'datum'            => $createdAt->format('Y-m-d'),
+            'mhddatum'         => $bestBeforeDate === null ? '0000-00-00' : $bestBeforeDate->format('Y-m-d'),
+            'artikel'          => $this->getArticleId(),
+            'menge'            => $this->getQuantity(),
+            'lager_platz'      => $this->getStorageLocationId(),
+            'zwischenlagerid'  => $this->getInterimStorageId(),
+            'charge'           => $this->getBatch(),
+            'internebemerkung' => $this->getComment(),
+        ];
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getId(): ?int
+    {
+        return $this->id;
+    }
+
+    /**
+     * @param int|null $id
+     */
+    public function setId(?int $id): void
+    {
+        $this->id = $id;
+    }
+
+    /**
+     * @return DateTimeInterface|null
+     */
+    public function getCreatedAt(): ?DateTimeInterface
+    {
+        return $this->createdAt;
+    }
+
+    /**
+     * @param DateTimeInterface|null $createdAt
+     */
+    public function setCreatedAt(?DateTimeInterface $createdAt): void
+    {
+        $this->createdAt = $createdAt;
+    }
+
+    /**
+     * @return DateTimeInterface|null
+     */
+    public function getBestBeforeDate(): ?DateTimeInterface
+    {
+        return $this->bestBeforeDate;
+    }
+
+    /**
+     * @param DateTimeInterface|null $bestBeforeDate
+     */
+    public function setBestBeforeDate(?DateTimeInterface $bestBeforeDate): void
+    {
+        $this->bestBeforeDate = $bestBeforeDate;
+    }
+
+    /**
+     * @return int
+     */
+    public function getArticleId(): int
+    {
+        return $this->articleId;
+    }
+
+    /**
+     * @param int $articleId
+     */
+    public function setArticleId(int $articleId): void
+    {
+        $this->articleId = $articleId;
+    }
+
+    /**
+     * @return int
+     */
+    public function getStorageLocationId(): int
+    {
+        return $this->storageLocationId;
+    }
+
+    /**
+     * @param int $storageLocationId
+     */
+    public function setStorageLocationId(int $storageLocationId): void
+    {
+        $this->storageLocationId = $storageLocationId;
+    }
+
+    /**
+     * @return float
+     */
+    public function getQuantity(): float
+    {
+        return $this->quantity;
+    }
+
+    /**
+     * @param float $quantity
+     */
+    public function setQuantity(float $quantity): void
+    {
+        $this->quantity = $quantity;
+    }
+
+    /**
+     * @return int
+     */
+    public function getInterimStorageId(): int
+    {
+        return $this->interimStorageId;
+    }
+
+    /**
+     * @param int $interimStorageId
+     */
+    public function setInterimStorageId(int $interimStorageId): void
+    {
+        $this->interimStorageId = $interimStorageId;
+    }
+
+    /**
+     * @return string
+     */
+    public function getBatch(): string
+    {
+        return $this->batch;
+    }
+
+    /**
+     * @param string $batch
+     */
+    public function setBatch(string $batch): void
+    {
+        $this->batch = $batch;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getComment(): ?string
+    {
+        return $this->comment;
+    }
+
+    /**
+     * @param string|null $comment
+     */
+    public function setComment(?string $comment): void
+    {
+        $this->comment = $comment;
+    }
+
+
+}

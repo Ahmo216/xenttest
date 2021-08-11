@@ -2,27 +2,30 @@
 
 namespace App\Core\Http;
 
-use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\ServiceProvider;
 
 class HttpServiceProvider extends ServiceProvider
 {
-    /**
-     * Define your route model bindings, pattern filters, etc.
-     *
-     * @return void
-     */
-    public function boot()
+    public function register(): void
     {
-        parent::boot();
+        $this->booted(function () {
+            if ($this->app->routesAreCached()) {
+                $this->app->booted(function () {
+                    require $this->app->getCachedRoutesPath();
+                });
+            } else {
+                $this->map();
+
+                $this->app->booted(function () {
+                    $this->app['router']->getRoutes()->refreshNameLookups();
+                    $this->app['router']->getRoutes()->refreshActionLookups();
+                });
+            }
+        });
     }
 
-    /**
-     * Define the routes for the application.
-     *
-     * @return void
-     */
-    public function map()
+    public function map(): void
     {
         // Currently disabled
         //$this->mapApiRoutes();
@@ -32,12 +35,8 @@ class HttpServiceProvider extends ServiceProvider
 
     /**
      * Define the "web" routes for the application.
-     *
-     * These routes all receive session state, CSRF protection, etc.
-     *
-     * @return void
      */
-    protected function mapWebRoutes()
+    protected function mapWebRoutes(): void
     {
         Route::middleware('web')
             ->group(base_path('routes/web.php'));
@@ -47,10 +46,8 @@ class HttpServiceProvider extends ServiceProvider
      * Define the "api" routes for the application.
      *
      * These routes are typically stateless.
-     *
-     * @return void
      */
-    protected function mapApiRoutes()
+    protected function mapApiRoutes(): void
     {
         Route::prefix('api')
             ->middleware('api')

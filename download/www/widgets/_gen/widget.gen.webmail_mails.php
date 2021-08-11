@@ -1,66 +1,86 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php 
+
+class WidgetGenwebmail_mails
+{
+
+  private $app;            //application object  
+  public $form;            //store form object  
+  protected $parsetarget;    //target for content
+
+  public function __construct($app,$parsetarget)
+  {
+    $this->app = $app;
+    $this->parsetarget = $parsetarget;
+    $this->Form();
+  }
+
+  public function webmail_mailsDelete()
+  {
+    
+    $this->form->Execute("webmail_mails","delete");
+
+    $this->webmail_mailsList();
+  }
+
+  function Edit()
+  {
+    $this->form->Edit();
+  }
+
+  function Copy()
+  {
+    $this->form->Copy();
+  }
+
+  public function Create()
+  {
+    $this->form->Create();
+  }
+
+  public function Search()
+  {
+    $this->app->Tpl->Set($this->parsetarget,"SUUUCHEEE");
+  }
+
+  public function Summary()
+  {
+    $this->app->Tpl->Set($this->parsetarget,"grosse Tabelle");
+  }
+
+  function Form()
+  {
+    $this->form = $this->app->FormHandler->CreateNew("webmail_mails");
+    $this->form->UseTable("webmail_mails");
+    $this->form->UseTemplate("webmail_mails.tpl",$this->parsetarget);
+
+
+    $field = new HTMLInput("do","radio","print","","","","","","","","0");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("do","radio","print","","","","","","","","0");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("do","radio","print","","","","","","","","0");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("do","radio","spam","","","","","","","","0");
+    $this->form->NewField($field);
+
+
+
+
+
+  }
+
+}
+
+?>

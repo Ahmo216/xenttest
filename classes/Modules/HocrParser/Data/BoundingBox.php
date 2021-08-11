@@ -1,99 +1,200 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\HocrParser\Data;
+
+use JsonSerializable;
+
+class BoundingBox implements JsonSerializable
+{
+    /** @var array $data */
+    private $data;
+    private $tlx;
+    private $tly;
+    private $brx;
+    private $bry;
+
+    /**
+     * @param int   $tlx
+     * @param int   $tly
+     * @param int   $brx
+     * @param int   $bry
+     * @param array $data Zusätzliche Nutzdaten
+     */
+    public function __construct($tlx, $tly, $brx, $bry, array $data = [])
+    {
+        $this->tlx = $tlx;
+        $this->tly = $tly;
+        $this->brx = $brx;
+        $this->bry = $bry;
+        $this->data = $data;
+    }
+
+    /**
+     * @return array
+     */
+    public function GetDataAll()
+    {
+        return $this->data;
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return mixed|null
+     */
+    public function GetData($name)
+    {
+        return $this->data[$name];
+    }
+
+    /**
+     * @param string $name
+     * @param mixed  $value
+     */
+    public function SetData($name, $value)
+    {
+        $this->data[$name] = $value;
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return bool
+     */
+    public function HasData($name)
+    {
+        return isset($this->data[$name]);
+    }
+
+    /**
+     * Liegt Punkt innerhalb der Box?
+     *
+     * @param int $x
+     * @param int $y
+     *
+     * @return bool
+     */
+    public function IsPointWithin($x, $y)
+    {
+        if ($x > $this->tlx && $x < $this->brx &&
+            $y > $this->tly && $y < $this->bry) {
+            return true;
+        }
+
+        return false;
+    }
+
+    /**
+     * Befindet sich Box rechts von übergebenen Koordinaten
+     *
+     * @param int $x
+     * @param int $y
+     *
+     * @return bool
+     */
+    public function IsRightFromPoint($x, $y)
+    {
+        $isSameHeight = ($y > $this->tly && $y < $this->bry) ? true : false;
+        if ($isSameHeight === true) {
+            return ($x < $this->tlx) ? true : false;
+        }
+
+        return false;
+    }
+
+    /**
+     * Befindet sich Box rechts von übergebenen Koordinaten
+     *
+     * @param int $x
+     * @param int $y
+     *
+     * @return bool
+     */
+    public function IsLeftFromPoint($x, $y)
+    {
+        $isSameHeight = ($y > $this->tly && $y < $this->bry) ? true : false;
+        if ($isSameHeight === true) {
+            return ($x > $this->brx) ? true : false;
+        }
+
+        return false;
+    }
+
+    /**
+     * Befindet sich die Box oberhalb der übergebenen Koordinaten
+     *
+     * @param int $x
+     * @param int $y
+     *
+     * @return bool
+     */
+    public function IsAbovePoint($x, $y)
+    {
+        $isSameColumn = ($x > $this->tlx && $x < $this->brx) ? true : false;
+        if ($isSameColumn === true) {
+            return ($this->bry < $y) ? true : false;
+        }
+
+        return false;
+    }
+
+    /**
+     * Befindet sich die Box unterhalb der übergebenen Koordinaten
+     *
+     * @param int $x
+     * @param int $y
+     *
+     * @return bool
+     */
+    public function IsBelowPoint($x, $y)
+    {
+        $isSameColumn = ($x > $this->tlx && $x < $this->brx) ? true : false;
+        if ($isSameColumn === true) {
+            return ($this->tly > $y) ? true : false;
+        }
+
+        return false;
+    }
+
+    /**
+     * Berechnet die Entfernung zwischen Mittelpunkt der Box und dem übergebenen Punkt
+     *
+     * @param int $x
+     * @param int $y
+     *
+     * @return float
+     */
+    public function GetDistanceFromPoint($x, $y)
+    {
+        $center = $this->GetCenterPoint();
+
+        return sqrt(pow($center['x'] - $x, 2) + pow($center['y'] - $y, 2));
+    }
+
+    /**
+     * Gibt Mittelpunkt der Box zurück
+     *
+     * @return array
+     */
+    public function GetCenterPoint()
+    {
+        return [
+            'x' => (int)($this->tlx + (($this->brx - $this->tlx) / 2)),
+            'y' => (int)($this->tly + (($this->bry - $this->tly) / 2)),
+        ];
+    }
+
+    /**
+     * @return array
+     */
+    public function jsonSerialize()
+    {
+        return [
+            'tlx'  => $this->tlx,
+            'tly'  => $this->tly,
+            'brx'  => $this->brx,
+            'bry'  => $this->bry,
+            'data' => $this->data,
+        ];
+    }
+}

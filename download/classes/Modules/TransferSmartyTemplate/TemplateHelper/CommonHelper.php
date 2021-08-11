@@ -1,29 +1,31 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPtHVLweWfQkDUkd2YV3vZu+hahRgXkVXeDC3TI6eueJSbj0A8epfQ974fWZOO4wj66wOBshe
-5eqhzs4YW4aEnL8lYjKfp40RyfPfd7SZSO7ub9UzV41Mkxc/hs306i15bAajN0uzfhbqAp8+mt/j
-fRSsVWJMRqHO079oevSWSHDO++n2p+zzWULjo0MwQXvdg9W8Agos7YA/KHo/03wuG8MG6lkDTa5E
-XmiSk11S/SGivrNgLeo4UbybtsDxfKa3iYcn8Gu980qzRQj+A7KBT6fJxdyq3t5VLWjXXayEFIr6
-G7bqSzrEhKpVqyGHAv5m6QB3Bx5J6XSG/R0hKe9ZiO8KiyuIqReHyPqWbxk/dIXGJqaSvCyqabGt
-2YQgWcFPtEqH0wyRzicXoi122Fzpc/QqsRnoc8cehrdJMqckBcB4PlZ9NRhxdLuv48dL/84mm7V4
-V9jxXSMQd0mFKgE7G9OEgkWXXVS9Zm9Xe9Dp12RQ2HUCyioEymx8CL8Gi1NvjmgRIbCFL9LR1wgj
-MaAitZs5v8IiLj3Q5fHUDpICMVVJO/VjeBtaaKaG7XNveSGJ4EHYLQ2IpkyWzGcEnaPWnycv9IVl
-6PwcEOMoHMoJdVp0pS0GsmW07Re1NKkrsKDKDA1c8kbYAghu489OmrswSo0mj0KOmzjZ/2BaUaga
-orDYe5vcTMx82PYKkxuLd9jYqvmtMSCZdXBW6KyEf7MpAlWZisFKHUrgsdGuz8vgXBgAxZrNOpQi
-6hZJorVvmycuexZAwdOB5VBCTD0UTrB7crASL1BQXHOw8o5c65q3oTMhP8ab0XgbXH3QAtwCvhNt
-UrztFeIKdqjNkmO2aeqlvjC196xi+Pp3I1vUDJUUjfXQaxBMoBlrhSaUr9+keqlEZdGPkwo6ywpo
-gWWj/JSS1EfRXOhn5IO0E16ZuY9F3zukzDtdEP8Lg3aLAgBdq6+8yyZnv77SB7C8+ddeb9M70bCo
-HPOm5Sb7sJUvQeFHv1nvHFFXRSZT/hd/KHyFwrINd7mwsTPPc2eWEgtKxl69JY/TVPjnI8su+qIn
-Vg9461grCNbKZECeIT8bm9h5zu1swcUAeZ2yQpQ3tawIgxoe7X1xG9OuIc8kX5+ibApguUoumKmE
-usKvjwPsJGpw6WPWo+661fjzUvi7Fu4mkxEP/M++7FSOPzxW4e9+iXQ5rCLW1+YTdIgIbuKMCEKR
-wcyA1WZR5BTD5VBLzyMxejIKS4cqCtzkIALea8jHf52X/+KuB3j2eGUyehLRAYmqiwQt+oHHmGgs
-5oBtqaGJmYDgYna3w9BHZW+T235zuX0qVIMv/QnoDJ2BQ4Gk3UGsoheZVicGv712Z2Ti4vIH+9YZ
-2gqSxJ8QYsBQ30IhWmNx57LYWnP35rmOYDFm/WEwShyJXpO4cTIrYw1Q0F7AnEztCKkq8WY/TP2H
-5UnSHl6481p0kFoNHP4dwnUWPmguzPTp3fVufmwbRzmkPLuj79Nw8n0djMGVIXnQzlnGqkX27yjX
-pQxhKdkMoJI3X62j0YUWfRen41Je0OueFsdf38epV+P7nAurq0VsvXL4dUFCf4gOWqaIluQt4/cj
-PE5kEUCvjQZ8UnHGgvBXK/Fll480gBMtExToP8jDrju1TDUq9JU3ASEGdL5twhgiVrVb/z49KrXR
-9BKSENFfrv9cWnh2Qgbv6gswTU5GL1gQoNrMqL0aCN3T2zXdFYaaCuTDGEuxyLPxAPAFz5AvjiCK
-gkdUYbf6b6q6z9NWQH9WWRCXx7OkuRM8MKE1zcbtzUOpQkXpacgClX8B2rRX8RKR9S5nqYe8TLhf
-Usv0kR4NPvRz7dRkw2LfAwxz7xU1FQ0HkLc6ZfPXi/ia/vY01R5LLO2WSPGhu8mtYVoDaZXN7VUT
-9XfWTNlhuSXWXPnRq6pnfEAOmr/DMTSMd3Ur6Zg7IW==
+<?php
+
+namespace Xentral\Modules\TransferSmartyTemplate\TemplateHelper;
+
+final class CommonHelper
+{
+    /**
+     * @param string $string
+     * @param string $replaceChar
+     *
+     * @return string
+     */
+    public function replaceLineBreaks($string, $replaceChar = ' ')
+    {
+        return (string)preg_replace("/\r\n|\r|\n/", (string)$replaceChar, (string)$string);
+    }
+
+    /**
+     * Dumps a template variable
+     *
+     * @example {$var|dump}
+     *
+     * @param mixed $data
+     *
+     * @return string
+     */
+    public function dumpVariable($data)
+    {
+        return var_export($data, true);
+    }
+}

@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-xpkrAiwwtM3483A1j9MbE9tygG==
+<?php 
+
+class GenKontorahmen { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","KontorahmenCreate");
+    $this->app->ActionHandler("edit","KontorahmenEdit");
+    $this->app->ActionHandler("copy","KontorahmenCopy");
+    $this->app->ActionHandler("list","KontorahmenList");
+    $this->app->ActionHandler("delete","KontorahmenDelete");
+
+    $this->app->Tpl->Set("HEADING","Kontorahmen");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function KontorahmenCreate(){
+    $this->app->Tpl->Set("HEADING","Kontorahmen (Anlegen)");
+      $this->app->PageBuilder->CreateGen("kontorahmen_create.tpl");
+  }
+
+  function KontorahmenEdit(){
+    $this->app->Tpl->Set("HEADING","Kontorahmen (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("kontorahmen_edit.tpl");
+  }
+
+  function KontorahmenCopy(){
+    $this->app->Tpl->Set("HEADING","Kontorahmen (Kopieren)");
+      $this->app->PageBuilder->CreateGen("kontorahmen_copy.tpl");
+  }
+
+  function KontorahmenDelete(){
+    $this->app->Tpl->Set("HEADING","Kontorahmen (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("kontorahmen_delete.tpl");
+  }
+
+  function KontorahmenList(){
+    $this->app->Tpl->Set("HEADING","Kontorahmen (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("kontorahmen_list.tpl");
+  }
+
+} 
+?>

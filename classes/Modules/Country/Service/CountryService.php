@@ -1,81 +1,156 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-fS3cbj0=
+<?php
+
+namespace Xentral\Modules\Country\Service;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Country\Data\CountryData;
+use Xentral\Modules\Country\Exception\CountryNotFoundException;
+use Xentral\Modules\Country\Gateway\CountryGateway;
+
+final class CountryService
+{
+    /** @var CountryGateway $gateway */
+    private $gateway;
+
+    /** @var Database $db */
+    private $db;
+
+    /**
+     * @param CountryGateway $gateway
+     * @param Database       $database
+     */
+    public function __construct(CountryGateway $gateway, Database $database)
+    {
+        $this->gateway = $gateway;
+        $this->db = $database;
+    }
+
+    /**
+     * @param string $iso3Code
+     *
+     * @return CountryData
+     */
+    public function getByIso3Code($iso3Code)
+    {
+        $state = $this->gateway->findByIso3Code($iso3Code);
+        if (empty($state)) {
+            throw new CountryNotFoundException("ISO3-Code '{$iso3Code}' nicht gefunden");
+        }
+
+        return CountryData::fromState($state);
+
+        // @todo Exception werfen wenn Gateway kein Ergebnis liefert
+        // @todo Exception werfen wenn Daten unvollständig => An entsprechender Stelle Exception abfangen und
+        //       in Oberflächen-Fehlermeldung umwandeln
+    }
+
+    /**
+     * @param string $iso2Code
+     *
+     * @return CountryData
+     */
+    public function getByIso2Code($iso2Code)
+    {
+        $state = $this->gateway->findByIso2Code($iso2Code);
+        if (empty($state)) {
+            throw new CountryNotFoundException("ISO2-Code '{$iso2Code}' nicht gefunden");
+        }
+
+        return CountryData::fromState($state);
+
+        // @todo Exception werfen wenn Gateway kein Ergebnis liefert
+        // @todo Exception werfen wenn Daten unvollständig => An entsprechender Stelle Exception abfangen und
+        //       in Oberflächen-Fehlermeldung umwandeln
+    }
+
+
+    /**
+     * @param string $name
+     *
+     * @return CountryData
+     */
+    public function getByName($name)
+    {
+        $state = $this->gateway->findByName($name);
+        if (empty($state)) {
+            throw new CountryNotFoundException("Name '{$name}' nicht gefunden");
+        }
+
+        return CountryData::fromState($state);
+
+        // @todo Exception werfen wenn Gateway kein Ergebnis liefert
+        // @todo Exception werfen wenn Daten unvollständig => An entsprechender Stelle Exception abfangen und
+        //       in Oberflächen-Fehlermeldung umwandeln
+    }
+
+    /**
+     * @param string $numericCode
+     *
+     * @return CountryData
+     */
+    public function getByNumericCode($numericCode)
+    {
+        $state = $this->gateway->findByNumericCode($numericCode);
+        if (empty($state)) {
+            throw new CountryNotFoundException("Code '{$numericCode}' nicht gefunden");
+        }
+
+        return CountryData::fromState($state);
+
+        // @todo Exception werfen wenn Gateway kein Ergebnis liefert
+        // @todo Exception werfen wenn Daten unvollständig => An entsprechender Stelle Exception abfangen und
+        //       in Oberflächen-Fehlermeldung umwandeln
+    }
+
+    /**
+     * @param CountryData $country
+     *
+     * @return void
+     */
+    public function save(CountryData $country, $tableName = 'laender')
+    {
+        $sql = "SELECT COUNT(*) FROM {$tableName} WHERE iso = :iso2_code";
+        $matches = $this->db->fetchValue($sql, ['iso2_code' => $country->getIsoAlpha2()]);
+        if ($matches > 0) {
+            $sql =
+                "UPDATE {$tableName} SET
+                iso3 = :iso3_code,
+                bezeichnung_de = :name_de,
+                bezeichnung_en = :name_en,
+                eu = :is_eu,
+                num_code = :num_code
+                WHERE 
+                iso=:iso2_code;";
+            $this->db->perform(
+                $sql,
+                [
+                    'iso2_code' => $country->getIsoAlpha2(),
+                    'iso3_code' => $country->getIsoAlpha3(),
+                    'num_code'  => $country->getIsoNumeric(),
+                    'name_de'   => $country->getNameGerman(),
+                    'name_en'   => $country->getNameEnglish(),
+                    'is_eu'     => $country->isEu(),
+                ]
+            );
+
+            return;
+        }
+
+        $sql =
+            "INSERT INTO {$tableName}
+            (iso, iso3, num_code, bezeichnung_de, bezeichnung_en, eu)
+            VALUES
+            (:iso2_code, :iso3_code, :num_code, :name_de, :name_en, :is_eu);";
+        $this->db->perform(
+            $sql,
+            [
+                'iso2_code' => $country->getIsoAlpha2(),
+                'iso3_code' => $country->getIsoAlpha3(),
+                'num_code'  => $country->getIsoNumeric(),
+                'name_de'   => $country->getNameGerman(),
+                'name_en'   => $country->getNameEnglish(),
+                'is_eu'     => $country->isEu(),
+            ]
+        );
+    }
+}

@@ -1,68 +1,110 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-A387+bsll7bx1T0=
+<?php
+
+namespace Xentral\Widgets\DataTable\Service;
+
+use Xentral\Components\Http\FileResponse;
+use Xentral\Components\Http\JsonResponse;
+use Xentral\Components\Http\Response;
+use Xentral\Widgets\DataTable\DataTableBuildConfig;
+use Xentral\Widgets\DataTable\Request\DataTableRequest;
+
+final class DataTableRequestHandler
+{
+    /** @var DataTableService $service */
+    private $service;
+
+    /** @var DataTableRequest $request */
+    private $request;
+
+    /**
+     * @param DataTableService $service
+     * @param DataTableRequest $request
+     */
+    public function __construct(DataTableService $service, DataTableRequest $request)
+    {
+        $this->service = $service;
+        $this->request = $request;
+    }
+
+    /**
+     * @param DataTableBuildConfig $config
+     *
+     * @return string
+     */
+    public function generateHtml(DataTableBuildConfig $config)
+    {
+        return $this->service->renderHtml($config);
+    }
+
+    /**
+     * @param DataTableBuildConfig $config
+     *
+     * @return bool
+     */
+    public function canHandleRequest(DataTableBuildConfig $config)
+    {
+        if ($this->request->getMethod() !== $config->getAjaxMethod()) {
+            return false;
+        }
+        if ($this->request->isDataRequest()) {
+            return true;
+        }
+        if ($this->request->isExportRequest()) {
+            return true;
+        }
+
+        return false;
+    }
+
+    /**
+     * @param DataTableBuildConfig $config
+     *
+     * @return Response
+     */
+    public function handleRequest(DataTableBuildConfig $config)
+    {
+        if ($this->request->isDataRequest()) {
+            return $this->handleDataRequest($config);
+        }
+        if ($this->request->isExportRequest()) {
+            return $this->handleExportRequest($config);
+        }
+
+        return new JsonResponse([
+            'success' => false,
+            'error'   => 'Can not fetch data from datatable. This is not a valid request.',
+        ], Response::HTTP_BAD_REQUEST);
+    }
+
+    /**
+     * @param DataTableBuildConfig $config
+     *
+     * @return Response
+     */
+    private function handleExportRequest(DataTableBuildConfig $config)
+    {
+        $filePath = $this->service->exportData($config);
+
+        return FileResponse::createFromFile($filePath, 'export.csv', 'text/csv', true);
+    }
+
+    /**
+     * @param DataTableBuildConfig $config
+     *
+     * @return Response
+     */
+    private function handleDataRequest(DataTableBuildConfig $config)
+    {
+        if (!$this->service->canFetchData($config)) {
+            return new JsonResponse([
+                'success' => false,
+                'error'   => 'Can not fetch data from datatable. Build config does not match with request parameters.',
+            ], Response::HTTP_BAD_REQUEST);
+        }
+
+        $result = $this->service->fetchData($config);
+        $status = $result->hasError() ? Response::HTTP_INTERNAL_SERVER_ERROR : Response::HTTP_OK;
+
+        return new JsonResponse($result, $status);
+    }
+}

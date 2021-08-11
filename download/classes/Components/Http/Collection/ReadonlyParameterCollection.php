@@ -1,68 +1,133 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-adYibfDUoLpX1GBcIOi8Pxk2YW6D
+<?php
+
+namespace Xentral\Components\Http\Collection;
+
+class ReadonlyParameterCollection
+{
+    /** @var array $params */
+    protected $params;
+
+    /**
+     * @param array $params
+     */
+    public function __construct(array $params = [])
+    {
+        $this->params = [];
+        foreach ($params as $name => $value) {
+            $this->params[$name] = $value;
+        }
+    }
+
+    /**
+     * Returns all parameters and values as associative array
+     *
+     * @return array
+     */
+    public function all()
+    {
+        return $this->params;
+    }
+
+    /**
+     * Returns true if parameter is available
+     *
+     * @param string $name
+     *
+     * @return bool
+     */
+    public function has($name)
+    {
+        return array_key_exists($name, $this->params);
+    }
+
+    /**
+     * Returns the parameter value
+     *
+     * @param string     $name
+     * @param mixed|null $default
+     *
+     * @return mixed
+     */
+    public function get($name, $default = null)
+    {
+        return isset($this->params[$name]) ? $this->params[$name] : $default;
+    }
+
+    /**
+     * Returns the parameter value casted to boolean
+     *
+     * @param string $name
+     * @param bool   $default
+     *
+     * @return bool Returns true for "1", "true", "on" and "yes"; otherwise false
+     */
+    public function getBool($name, $default = false)
+    {
+        return filter_var($this->get($name, $default), FILTER_VALIDATE_BOOLEAN);
+    }
+
+    /**
+     * Returns the parameter value casted to integer
+     *
+     * @param string $name
+     * @param int    $default
+     *
+     * @return int
+     */
+    public function getInt($name, $default = 0)
+    {
+        return (int)$this->get($name, $default);
+    }
+
+    /**
+     * Returns a string with digits only (0-9)
+     *
+     * @param string $name
+     * @param string $default
+     *
+     * @return string
+     */
+    public function getDigits($name, $default = '')
+    {
+        return (string)preg_replace('#[^0-9]#', '', $this->get($name, $default));
+    }
+
+    /**
+     * Returns a string with alphabetic characters only (A-Z and a-z)
+     *
+     * @param string $name
+     * @param string $default
+     *
+     * @return string
+     */
+    public function getAlpha($name, $default = '')
+    {
+        return (string)preg_replace('#[^A-Za-z]#', '', $this->get($name, $default));
+    }
+
+    /**
+     * Returns a string with alphanumeric characters only (A-Z, a-z and 0-9)
+     *
+     * @param string $name
+     * @param string $default
+     *
+     * @return string
+     */
+    public function getAlphaNum($name, $default = '')
+    {
+        return (string)preg_replace('#[^A-Za-z0-9]#', '', $this->get($name, $default));
+    }
+
+    /**
+     * Returns a string with alphanumeric characters and dashes only (A-Z, a-z, 0-9, Minus and Underscore)
+     *
+     * @param string $name
+     * @param string $default
+     *
+     * @return string
+     */
+    public function getAlphaNumWithDashes($name, $default = '')
+    {
+        return (string)preg_replace('#[^A-Za-z0-9_-]#', '', $this->get($name, $default));
+    }
+}

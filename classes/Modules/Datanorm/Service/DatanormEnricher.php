@@ -1,160 +1,253 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ZGxl
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Datanorm\Service;
+
+use Xentral\Modules\Datanorm\Data\DatanormATypeData;
+use Xentral\Modules\Datanorm\Data\DatanormDTypeData;
+use Xentral\Modules\Datanorm\Data\DatanormPTypeData;
+use Xentral\Modules\Datanorm\Data\DatanormTTypeData;
+
+final class DatanormEnricher
+{
+    /** @var DatanormIntermediateGateway $intermediateGateway */
+    private $intermediateGateway;
+
+    /**
+     * @param DatanormIntermediateGateway $intermediateGateway
+     */
+    public function __construct(DatanormIntermediateGateway $intermediateGateway)
+    {
+        $this->intermediateGateway = $intermediateGateway;
+    }
+
+    /**
+     * @param DatanormPTypeData $pType
+     *
+     * @return DatanormPTypeData
+     */
+    public function enrichPrice(DatanormPTypeData $pType): DatanormPTypeData
+    {
+        $articleNumber = $pType->getArticleNumber1();
+        $data = $this->intermediateGateway->findArticleLineByNumber($articleNumber);
+        $amount = $this->getPriceAmount($data);
+        $pType->setPriceAmount1($amount);
+        $price = $pType->getPrice1();
+        $pType->setPrice1($price / $amount);
+
+        $articleNumber2 = $pType->getArticleNumber2();
+        if (!empty($articleNumber2)) {
+            $data = $this->intermediateGateway->findArticleLineByNumber($articleNumber2);
+            if (isset($data['content'])) {
+                $amount = $this->getPriceAmount($data);
+                $pType->setPriceAmount2($amount);
+                $price = $pType->getPrice2();
+                $pType->setPrice2($price / $amount);
+            }
+        }
+
+        $articleNumber3 = $pType->getArticleNumber3();
+        if (!empty($articleNumber3)) {
+            $data = $this->intermediateGateway->findArticleLineByNumber($articleNumber3);
+            if (isset($data['content'])) {
+                $amount = $this->getPriceAmount($data);
+                $pType->setPriceAmount3($amount);
+                $price = $pType->getPrice3();
+                $pType->setPrice3($price / $amount);
+            }
+        }
+
+        return $pType;
+    }
+
+    /**
+     * @param array $data
+     *
+     * @return int
+     */
+    private function getPriceAmount(array $data): int
+    {
+        $aType = new DatanormATypeData();
+        $aType->fillByJson($data['content']);
+
+        return (int)$aType->getPriceAmount();
+    }
+
+    /**
+     * @param DatanormATypeData $aType
+     *
+     * @return DatanormATypeData
+     */
+    public function enrichArticle(DatanormATypeData $aType): DatanormATypeData
+    {
+        $longTextBlockNumber = $aType->getLongDecriptionKey();
+        $textFlag = substr($aType->getTextkey(), 0, 1);
+
+        $text = '';
+        $longtText = '';
+        $dimensionText = '';
+
+        if (!empty($longTextBlockNumber)) {
+            $longtextData = $this->intermediateGateway->findTTypeContentByBlocknumber($longTextBlockNumber);
+            if (!empty($longtextData)) {
+                $longtText = $this->createLongText($longtextData);
+            }
+        }
+
+        $dimensionTextData = $this->intermediateGateway->findDTypeContentByArticleNumer($aType->getArticleNumber());
+        if (!empty($dimensionTextData)) {
+            $dimensionText = $this->getDimensionText($dimensionTextData);
+        }
+
+        if ($textFlag === '0') { //KT1 + KT2
+            $text .= $aType->getShortDescription1() . PHP_EOL;
+            $text .= $aType->getShortDescription2();
+        } elseif ($textFlag === '1') { //LT + KT2
+            $text .= $longtText . PHP_EOL;
+            $text .= $aType->getShortDescription2();
+        } elseif ($textFlag === '2') { //KT1 + DT
+            $text .= $aType->getShortDescription1() . PHP_EOL;
+            $text .= $dimensionText;
+        } elseif ($textFlag === '3') { //LT + DT
+            $text .= $longtText . PHP_EOL;
+            $text .= $dimensionText;
+        } elseif ($textFlag === '4') { //KT1 + KT2 + LT
+            $text .= $aType->getShortDescription1() . PHP_EOL;
+            $text .= $aType->getShortDescription2() . PHP_EOL;
+            $text .= $longtText;
+        } elseif ($textFlag === '5') { //KT1 + KT2 + DT
+            $text .= $aType->getShortDescription1() . PHP_EOL;
+            $text .= $aType->getShortDescription2() . PHP_EOL;
+            $text .= $dimensionText;
+        } elseif ($textFlag === '6') { //KT1 + KT2 + LT + DT
+            $text .= $aType->getShortDescription1() . PHP_EOL;
+            $text .= $aType->getShortDescription2() . PHP_EOL;
+            $text .= $longtText . PHP_EOL;
+            $text .= $dimensionText;
+        }
+
+        if (!empty($text)) {
+            $aType->setShortDescription2(trim($text));
+        }
+
+        return $aType;
+    }
+
+    /**
+     * @param array $longTextData
+     *
+     * @return string
+     */
+    private function createLongText(array $longTextData): string
+    {
+        $longtext = '';
+        foreach ($longTextData as $d) {
+            $tType = new DatanormTTypeData();
+            $tType->fillByJson($d['content']);
+
+            if (!empty($tType->getText1())) {
+                $longtext .= $tType->getText1() . PHP_EOL;
+            }
+
+            if (!empty($tType->getText2())) {
+                $longtext .= $tType->getText2() . PHP_EOL;
+            }
+        }
+
+        return trim($longtext);
+    }
+
+    /**
+     * @param array $dimensionTextData
+     *
+     * @return string
+     */
+    private function getDimensionText(array $dimensionTextData): string
+    {
+        $dimensionText = '';
+
+        foreach ($dimensionTextData as $d) {
+            $dType = new DatanormDTypeData();
+            $dType->fillByJson($d['content']);
+
+            $textIndicator1 = $dType->getTextIndicator1();
+            $textIndicator2 = $dType->getTextIndicator2();
+
+            if (!empty($textIndicator1)) {
+                $txt = $this->createDimensionText(
+                    $textIndicator1,
+                    $dType->getText1(),
+                    $dType->getTextblockNumber1()
+                );
+                if (!empty($txt)) {
+                    $dimensionText .= $txt . PHP_EOL;
+                }
+            }
+
+            if (!empty($textIndicator2)) {
+                $txt = $this->createDimensionText(
+                    $textIndicator2,
+                    $dType->getText2(),
+                    $dType->getTextblockNumber2()
+                );
+                if (!empty($txt)) {
+                    $dimensionText .= $txt . PHP_EOL;
+                }
+            }
+        }
+
+        return trim($dimensionText);
+    }
+
+    /**
+     * @param string $textIndicator
+     * @param string $text
+     * @param string $textBlockNumber
+     *
+     * @return string
+     */
+    private function createDimensionText(string $textIndicator, string $text, string $textBlockNumber): string
+    {
+        $dimensionText = '';
+
+        if ($textIndicator === 'F') {
+            $dimensionText = $text;
+        } else {
+            $longTextData = $this->intermediateGateway->findTTypeContentByBlocknumber(
+                $textBlockNumber
+            );
+
+            if ($textIndicator === 'T') {
+                $dimensionText .= $this->createLongText($longTextData);
+            } elseif ($textIndicator === 'E') {
+                $dimensionText .= $this->createInsertingText($text, $longTextData);
+            }
+        }
+
+        return $dimensionText;
+    }
+
+    /**
+     * @param string $fillementText
+     * @param array  $longTextData
+     *
+     * @return string
+     */
+    private function createInsertingText(string $fillementText, array $longTextData): string
+    {
+        $tType = new DatanormTTypeData();
+        $tType->fillByJson($longTextData[0]['content']);
+        $pattern = $tType->getText1();
+
+        $patternExp = explode('$$$', $pattern);
+        $fillmentExp = explode('$', $fillementText);
+
+        $text = '';
+        for ($i = 0; $i < count($patternExp); $i++) {
+            $text .= $patternExp[$i] . $fillmentExp[$i];
+        }
+
+        return $text;
+    }
+}

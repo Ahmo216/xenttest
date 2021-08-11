@@ -1,41 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\CarrierSelect\Data\FilterField;
+
+
+use Xentral\Modules\CarrierSelect\Data\Order;
+
+final class ArticleFilter implements FilterFieldInterface
+{
+    /**
+     * @return string
+     */
+    public function getName(): string
+    {
+        return 'article';
+    }
+
+    /**
+     * @param Order $order
+     *
+     * @return array
+     */
+    public function getValuesFromOrder(Order $order): array
+    {
+        $positions = $order->getPositions();
+        $articles = [];
+        foreach ($positions as $position) {
+            $articles[] = $position->getArticleId();
+        }
+
+        return $articles;
+    }
+}

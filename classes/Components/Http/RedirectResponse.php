@@ -1,47 +1,50 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-00VFl1Kf2xq=
+<?php
+
+namespace Xentral\Components\Http;
+
+class RedirectResponse extends Response
+{
+    /**
+     * @param string $url Absolute or relative url
+     *
+     * @return self
+     */
+    public static function createFromUrl($url)
+    {
+        $content = self::getRedirectTemplate($url);
+
+        return new self(
+            $content,
+            Response::HTTP_MOVED_TEMPORARILY,
+            [
+                'Length'   => (string)strlen($content),
+                'Location' => $url,
+            ]
+        );
+    }
+
+    /**
+     * @param string $url
+     *
+     * @return string
+     */
+    private static function getRedirectTemplate($url)
+    {
+        $template = <<<'HTML'
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="refresh" content="0;URL='%1$s'" />
+  <title>Redirecting</title>
+</head>
+<body>
+  <h1>Redirecting...</h1>
+  <p>You are being redirected. If nothing happens, please <a href="%1$s">follow this link</a>.</p>
+</body>
+</html> 
+HTML;
+
+        return sprintf($template, $url);
+    }
+}

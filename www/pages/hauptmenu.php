@@ -1,77 +1,91 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-gPoEC1vwa4zkg8hvzi/TlB6UAoMkiere6m==
+<?php
+class Hauptmenu {
+  var $app;
+  
+  function __construct(&$app) {
+    //parent::GenHauptmenu($app);
+    $this->app=&$app;
+
+
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("list","HauptmenuList");
+
+
+    $this->app->ActionHandlerListen($app);
+    $this->app->Tpl->Set('UEBERSCHRIFT',"Hauptmen&uuml;");
+
+  }
+
+
+
+  function HauptmenuList()
+  {
+
+//this->WFconf[menu][mitarbeiter]
+    $menu = $this->app->Conf->WFconf['menu'][$this->app->User->GetType()];
+    $this->app->Tpl->Add('PAGE',"<table border=\"0\" width=\"100%\" style=\"background-color: #ffffff;\"><tr valign=\"top\">");
+
+    $spalten_anzahl = 5;
+
+    $i=0;
+    if(count($menu)>0){
+      foreach($menu as $key=>$value){
+        $i++;
+        if($value[first][2]!="")
+//          $this->app->Tpl->Set(FIRSTNAV,' href="index.php?module='.$value[first][1].'&action='.$value[first][2].'"
+          $this->app->Tpl->Set('FIRSTNAV','
+
+          >'.$value['first'][0].'</a>');
+        else
+          $this->app->Tpl->Set('FIRSTNAV',' href="index.php?module='.$value['first'][1].'"
+          >'.$value['first'][0].'</a>');
+
+        $this->app->Tpl->Add('PAGE',"<td>");
+        $this->app->Tpl->Parse('PAGE','firstnav.tpl');
+        $spalten++;
+        if(count($value['sec'])>0){
+          $this->app->Tpl->Add('PAGE','<ul>');
+          foreach($value['sec'] as $secnav){
+            if($secnav[2]!="")
+              $this->app->Tpl->Set('SECNAV',' href="index.php?module='.$secnav[1].'&action='.$secnav[2].'"
+              >'.$secnav[0].'</a>');
+            else
+              $this->app->Tpl->Set('SECNAV',' href="index.php?module='.$secnav[1].'">'.$secnav[0].'</a>');
+
+            $this->app->Tpl->Parse('PAGE','secnav.tpl');
+          }
+        $this->app->Tpl->Add('PAGE',"</td>");
+        if($spalten % $spalten_anzahl == 0)
+	{
+          $this->app->Tpl->Add('PAGE',"</tr><tr valign=\"top\">");
+	}
+        }
+      }
+    }
+    $restliche_td = $spalten % $spalten_anzahl;
+
+    for($i=0;$i<$restliche_td;$i++) 
+      $this->app->Tpl->Add('PAGE',"<td></td>");
+    $this->app->Tpl->Add('PAGE',"</tr></table>");
+
+
+
+  }
+
+
+
+
+
+}
+
+?>

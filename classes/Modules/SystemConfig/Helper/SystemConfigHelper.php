@@ -1,68 +1,109 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\SystemConfig\Helper;
+
+use Xentral\Modules\SystemConfig\Exception\InvalidArgumentException;
+
+final class SystemConfigHelper
+{
+
+    /** @var string $delimiter */
+    private $delimiter = '__';
+    /** @var int $allowedTotalLength */
+    private $allowedTotalLength;
+
+    public function __construct()
+    {
+        $this->setAllowedTotalLength(255 - strlen($this->getDelimiter()));
+    }
+
+    /**
+     * @param int $allowedLength
+     */
+    private function setAllowedTotalLength(int $allowedLength): void
+    {
+        $this->allowedTotalLength = $allowedLength;
+    }
+
+    /**
+     * @return string
+     */
+    private function getDelimiter(): string
+    {
+        return $this->delimiter;
+    }
+
+    /**
+     * @param string $namespace
+     * @param string $key
+     *
+     * @return string
+     */
+    public function getValidatedConfigurationKey($namespace, $key): string
+    {
+        $this->validateNamespaceAndKey($namespace, $key);
+
+        return $this->getConfigurationKey($namespace, $key);
+    }
+
+    /**
+     * @param string $namespace
+     * @param string $key
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return void
+     */
+    private function validateNamespaceAndKey(string $namespace, string $key): void
+    {
+        if (empty($namespace)) {
+            throw new InvalidArgumentException('Required value "namespace" is empty.');
+        }
+        if (empty($key)) {
+            throw new InvalidArgumentException('Required value "key" is empty.');
+        }
+
+        $pattern = '/^_|[^a-z0-9_]|_$/';
+
+        if (preg_match($pattern, $namespace)) {
+            $message = 'Value "namespace" contains illegal characters. Valid Pattern: ' . $pattern;
+            throw new InvalidArgumentException($message);
+        }
+        if (preg_match($pattern, $key)) {
+            $message = 'Value "key" contains illegal characters. Valid Pattern: ' . $pattern;
+            throw new InvalidArgumentException($message);
+        }
+
+        if (strlen(strtolower($namespace . $this->getDelimiter() . $key)) > $this->allowedTotalLength) {
+            $message = sprintf(
+                'Combined length of "namespace" and "key" exceeds the allowed length of %d characters.',
+                $this->allowedTotalLength
+            );
+            throw new InvalidArgumentException($message);
+        }
+    }
+
+    /**
+     * @param string $namespace
+     * @param string $key
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return string
+     */
+    private function getConfigurationKey($namespace, $key): string
+    {
+        return strtolower($namespace . $this->getDelimiter() . $key);
+    }
+
+    /**
+     * @return int
+     */
+    public function getAllowedTotalLength(): int
+    {
+        return $this->allowedTotalLength;
+    }
+
+}

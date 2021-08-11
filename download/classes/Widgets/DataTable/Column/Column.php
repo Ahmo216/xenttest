@@ -1,186 +1,443 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-g5Q4yiS=
+<?php
+
+namespace Xentral\Widgets\DataTable\Column;
+
+use JsonSerializable;
+use Xentral\Widgets\DataTable\Exception\InvalidArgumentException;
+use Xentral\Widgets\DataTable\Feature\ResponsiveFeature;
+
+final class Column implements JsonSerializable
+{
+    /** @var string ALIGN_LEFT */
+    const ALIGN_LEFT = 'left';
+
+    /** @var string ALIGN_RIGHT */
+    const ALIGN_RIGHT = 'right';
+
+    /** @var string ALIGN_CENTER */
+    const ALIGN_CENTER = 'center';
+
+    /** @var string ALIGN_JUSTIFY */
+    const ALIGN_JUSTIFY = 'justify';
+
+    /** @var array $validAlignments */
+    public static $validAlignments = [
+        self::ALIGN_LEFT,
+        self::ALIGN_RIGHT,
+        self::ALIGN_CENTER,
+        self::ALIGN_JUSTIFY,
+    ];
+
+    /** @var string $name */
+    private $name;
+
+    /** @var string $title */
+    private $title;
+
+    /** @var bool $visible */
+    private $visible;
+
+    /** @var bool $sortable */
+    private $sortable;
+
+    /** @var bool $searchable */
+    private $searchable;
+
+    /** @var bool $exportable */
+    private $exportable;
+
+    /** @var bool $fixed */
+    private $fixed;
+
+    /** @var string $alignment */
+    private $alignment;
+
+    /** @var string|null $dbColumn */
+    private $dbColumn;
+
+    /** @var string|null $width */
+    private $width;
+
+    /** @var callable|null $formatter */
+    private $formatter;
+
+    /** @var array $properties */
+    private $properties = [];
+
+    /** @var array $cssClasses CSS classes */
+    private $cssClasses = [];
+
+    /**
+     * @param string      $name
+     * @param string      $title
+     * @param string      $align   [left|right|center|justify]
+     * @param string|null $width   Column width as CSS value (e.g 20%, 3em, 55px)
+     * @param bool        $visible Is column currently visible? Visibility can be changed at runtime
+     * @param bool        $sortable
+     * @param bool        $searchable
+     * @param bool        $exportable
+     * @param bool        $fixed   If true, column is always visible and visibility can not be changed at runtime
+     *                             * Fixed columns can't be hidden (ResponsiveFeature, ColumnVisibilityFeature)
+     *                             * Fixed columns can't be reordered (ColumnReorderFeature)
+     *
+     * @throws InvalidArgumentException
+     */
+    public function __construct(
+        $name,
+        $title,
+        $align = 'left',
+        $width = null,
+        $visible = true,
+        $sortable = false,
+        $searchable = false,
+        $exportable = false,
+        $fixed = false
+    ) {
+        if (empty($name)) {
+            throw new InvalidArgumentException('Column name can not be empty.');
+        }
+        $cleanedName = (string)preg_replace('#[^a-z0-9_]#', '', trim($name));
+        if ($cleanedName !== $name) {
+            throw new InvalidArgumentException(sprintf(
+                'Name "%s" contains illegal characters. Valid characters are: a-z, 0-9 and underscore.',
+                $name
+            ));
+        }
+
+        $this->name = (string)$name;
+        $this->title = (string)$title;
+        $this->visible = (bool)$visible;
+        $this->sortable = (bool)$sortable;
+        $this->searchable = (bool)$searchable;
+        $this->exportable = (bool)$exportable;
+        $this->fixed = (bool)$fixed;
+        $this->alignment = (string)$align;
+        $this->width = $width !== null ? (string)$width : null;
+    }
+
+    /**
+     * Currently hidden column; can be unhidden
+     *
+     * @param string      $name
+     * @param string      $title
+     * @param string      $align [left|right|center|justify]
+     * @param string|null $width Column width as CSS value (e.g 20%, 3em, 55px)
+     *
+     * @return Column
+     */
+    public static function hidden($name, $title, $align = 'left', $width = null)
+    {
+        return new static($name, $title, $align, $width, false, false, false, false, false);
+    }
+
+    /**
+     * Visible column; not sortable and not searchable
+     *
+     * @param string      $name
+     * @param string      $title
+     * @param string      $align [left|right|center|justify]
+     * @param string|null $width Column width as CSS value (e.g 20%, 3em, 55px)
+     *
+     * @return Column
+     */
+    public static function visible($name, $title, $align = 'left', $width = null)
+    {
+        return new static($name, $title, $align, $width, true, false, false, true, false);
+    }
+
+    /**
+     * Visible and sortable column; not searchable
+     *
+     * @param string      $name
+     * @param string      $title
+     * @param string      $align [left|right|center|justify]
+     * @param string|null $width Column width as CSS value (e.g 20%, 3em, 55px)
+     *
+     * @return Column
+     */
+    public static function sortable($name, $title, $align = 'left', $width = null)
+    {
+        return new static($name, $title, $align, $width, true, true, false, true, false);
+    }
+
+    /**
+     * Visible, sortable und searchable column
+     *
+     * @param string      $name
+     * @param string      $title
+     * @param string      $align [left|right|center|justify]
+     * @param string|null $width Column width as CSS value (e.g 20%, 3em, 55px)
+     *
+     * @return Column
+     */
+    public static function searchable($name, $title, $align = 'left', $width = null)
+    {
+        return new static($name, $title, $align, $width, true, true, true, true, false);
+    }
+
+    /**
+     * Always visible and with fixed position (for Menu and Selection columns)
+     *
+     * - Always visible; Can't be hidden (ColumnVisibilityFeature)
+     * - Fixed position; Can't be reordered (ColumnReorderFeature)
+     * - Not searchable
+     * - Not sortable
+     *
+     * @param string $name
+     * @param string $title
+     *
+     * @return Column
+     */
+    public static function fixed($name, $title = '', $align = 'center', $width = null)
+    {
+        $fixed = new static($name, $title, $align, $width, true, false, false, false, true);
+        $fixed->set('responsivePriority', ResponsiveFeature::PRIO_HIGHER);
+
+        return $fixed;
+    }
+
+    /**
+     * @return string
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
+
+    /**
+     * @return string
+     */
+    public function getTitle()
+    {
+        return $this->title;
+    }
+
+    /**
+     * @param string $dbColumn
+     */
+    public function setDbColumn($dbColumn)
+    {
+        $this->dbColumn = (string)$dbColumn;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getDbColumn()
+    {
+        return $this->dbColumn;
+    }
+
+    /**
+     * @return string
+     */
+    public function getAlignment()
+    {
+        return $this->alignment;
+    }
+
+    /**
+     * @see $validAlignments
+     *
+     * @param string $alignment [left|right|center|justify]
+     */
+    public function setAlignment($alignment)
+    {
+        if (!in_array($alignment, self::$validAlignments, true)) {
+            throw new InvalidArgumentException(sprintf(
+                'Alignment "%s" is not valid. Valid alignments: %s',
+                $alignment,
+                implode(', ', self::$validAlignments)
+            ));
+        }
+
+        $this->alignment = $alignment;
+    }
+
+    /**
+     * @return callable|null
+     */
+    public function getFormatter()
+    {
+        return $this->formatter;
+    }
+
+    /**
+     * @param callable $formatter
+     *
+     * @return void
+     */
+    public function setFormatter(callable $formatter)
+    {
+        $this->formatter = $formatter;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isFixed()
+    {
+        return $this->fixed;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isVisible()
+    {
+        return $this->visible;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isSortable()
+    {
+        return $this->sortable;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isExportable()
+    {
+        return $this->exportable;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isSearchable()
+    {
+        return $this->searchable;
+    }
+
+    /**
+     * @param string $property
+     *
+     * @return bool
+     */
+    public function has($property)
+    {
+        if (isset($this->{$property})) {
+            return true;
+        }
+
+        return isset($this->properties[$property]);
+    }
+
+    /**
+     * @param string $property
+     *
+     * @return mixed|null
+     */
+    public function get($property)
+    {
+        if (isset($this->{$property})) {
+            return $this->{$property};
+        }
+
+        if (isset($this->properties[$property])) {
+            return $this->properties[$property];
+        }
+
+        return null;
+    }
+
+    /**
+     * @param string $property
+     * @param mixed  $value
+     *
+     * @return void
+     */
+    public function set($property, $value)
+    {
+        if (isset($this->{$property})) {
+            $this->{$property} = $value;
+        }
+
+        $this->properties[$property] = $value;
+    }
+
+    /**
+     * @param string $className
+     *
+     * @return bool
+     */
+    public function hasCssClass($className)
+    {
+        return in_array($className, $this->cssClasses, true);
+    }
+
+    /**
+     * @param string $className
+     *
+     * @return void
+     */
+    public function addCssClass($className)
+    {
+        $this->cssClasses[] = trim($className);
+        $this->cssClasses = array_unique($this->cssClasses);
+    }
+
+    /**
+     * @param string $className
+     *
+     * @return void
+     */
+    public function removeCssClass($className)
+    {
+        $classKey = array_search($className, $this->cssClasses, true);
+        if ($classKey !== false) {
+            unset($this->cssClasses[$classKey]);
+            $this->cssClasses = array_values($this->cssClasses);
+        }
+    }
+
+    /**
+     * @return array
+     */
+    public function toArray()
+    {
+        $result = $this->properties;
+        $result['data'] = isset($result['data']) ? $result['data'] : $this->name;
+        $result['name'] = $this->name;
+        $result['title'] = $this->title;
+        $result['exportable'] = $this->exportable;
+        $result['searchable'] = $this->searchable;
+        $result['orderable'] = $this->sortable;
+        $result['visible'] = $this->visible;
+        $result['fixed'] = $this->fixed;
+        if ($this->fixed === true) {
+            $result['visible'] = true;
+        }
+
+        // Spalte hat keine Daten; z.B. Menü-Spalte
+        if ($this->dbColumn === null) {
+            //$result['data'] = null;
+            $result['defaultContent'] = isset($result['defaultContent']) ? $result['defaultContent'] : '';
+            $result['orderable'] = false;
+            $result['searchable'] = false;
+//            $result['data']           = $this->name;
+//            $result['searchable']     = $this->searchable;
+        }
+
+        $cssClasses = $this->cssClasses;
+        $cssClasses[] = 'dt-' . $this->alignment;
+        $result['className'] = implode(' ', $cssClasses);
+
+        if ($this->width !== null) {
+            $result['width'] = $this->width;
+        }
+
+        return $result;
+    }
+
+    /**
+     * @return array
+     */
+    public function jsonSerialize()
+    {
+        return $this->toArray();
+    }
+}

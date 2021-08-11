@@ -1,39 +1,61 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-rOe/
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\TimeManagement\Data;
+
+use DateTimeImmutable;
+use DateTimeInterface;
+use Exception;
+use Xentral\Modules\TimeManagement\Exception\InvalidDateFormatException;
+
+final class HolidayData
+{
+    /** @var string $name */
+    private $name = 'Unknown';
+
+    /** @var DateTimeInterface $date */
+    private $date;
+
+    private function __construct()
+    {
+    }
+
+    /**
+     * @param array $data
+     *
+     * @throws InvalidDateFormatException
+     *
+     * @return HolidayData
+     *
+     */
+    public static function fromDbState(array $data): HolidayData
+    {
+        $holidayData = new HolidayData();
+
+        $holidayData->name = $data['name'];
+        try {
+            $holidayData->date = new DateTimeImmutable($data['date']);
+        } catch (Exception $e) {
+            throw new InvalidDateFormatException('Could not convert date: ' . $data['date']);
+        }
+
+        return $holidayData;
+    }
+
+    /**
+     * @return string
+     */
+    public function getName(): string
+    {
+        return $this->name;
+    }
+
+    /**
+     * @return DateTimeInterface
+     */
+    public function getDate(): DateTimeInterface
+    {
+        return $this->date;
+    }
+}

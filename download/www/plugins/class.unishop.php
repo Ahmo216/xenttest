@@ -1,51 +1,60 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-DgzQgLK4nvdy5WiN/B6d2Oelo3ugXQzNgKew
+<?php
+
+class unishop
+{
+
+  function __construct(&$app)
+  {
+    $this->app = &$app;
+  }
+
+
+  public function CheckOK($auftrag)
+  {
+    $error = 0;
+    //suche ausweise
+    $adresse = $this->app->DB->Select("SELECT `adresse` FROM `auftrag` WHERE `id` = '${auftrag}' LIMIT 1");
+
+    //pruefen ob ausweise ok
+    $check_ok = $this->app->DB->Select("SELECT `kundenfreigabe` FROM `adresse` WHERE `id` = '${adresse}' LIMIT 1");
+
+    if($check_ok!=1)
+      $error++;
+
+    //pruefen ob kunde den artikel bereits bestellt hat
+
+    if($this->MehrfachbestellungVorhanden($auftrag)){
+      $error++;
+    }
+
+    return $error === 0;
+  }
+
+
+  function CheckDisplay($parsetarget,$auftrag)
+  {
+    //suche ausweise
+    $adresse = $this->app->DB->Select("SELECT adresse FROM auftrag WHERE id='$auftrag' LIMIT 1");
+
+    //pruefen ob ausweise ok
+    $check_ok = $this->app->DB->Select("SELECT kundenfreigabe FROM adresse WHERE id='$adresse' LIMIT 1");
+
+    if($check_ok!=1)
+      $this->app->Tpl->Set($parsetarget,"Kundenfreigabe: <b>Studentenausweis oder Fragebogen fehlt noch!</b>");
+
+
+    if($this->MehrfachbestellungVorhanden($auftrag))
+      $this->app->Tpl->Add($parsetarget,"<br><br>Mehrfachbestellungs-Check: <b>Studentenausweis oder Fragebogen fehlt noch!</b>");
+    else
+      $this->app->Tpl->Add($parsetarget,"<br><br>Mehrfachbestellungs-Check: Erstbestellung</b>");
+
+  }
+
+  function MehrfachbestellungVorhanden($auftrag)
+  {
+
+    return false;
+  }
+
+
+}

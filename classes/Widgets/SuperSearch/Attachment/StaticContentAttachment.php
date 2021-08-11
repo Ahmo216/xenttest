@@ -1,38 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Widgets\SuperSearch\Attachment;
+
+final class StaticContentAttachment extends AbstractAttachment
+{
+    /** @var string $content */
+    private $content;
+
+    /**
+     * @param string $content
+     */
+    public function __construct($content)
+    {
+        $this->content = (string)$content;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getType()
+    {
+        return self::TYPE_CONTENT_STATIC;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getData()
+    {
+        return [
+            'content' => $this->content,
+        ];
+    }
+}

@@ -1,128 +1,172 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPrRP/SOWcSRfUWLevQJAf3QId4YHf7XPukcm9U2jWvuUob3WrZ3HT21F8f8VyxaC208pu1zr
-8MwN/IgtwDC0A/S/hX+G73M3eL7upgp8jpTloLRVZN6thuenXmYmo02MMtK3IATGIEQpZXqS9q1z
-gG+3z9uP1bC65C13Y2vqngJGAPSw4WMB2IKLm4g1ZkgKuUGnb5DGlUVjKkQZJnmTJYPhBNrQICDJ
-8D+XSlJhhKE6WQInf12gX6C2E+XSP9oBomRtR+B6bz0ZqZcmJZ8p2CCOxgbw+qX0b3idqXpwzy8g
-OxV40vSMbQFKUnXqhA1WKqQVYFYO8xIiNmn1rFxwd4Z8x1Se4oqZig9gkx+TA51FIHpappIIL3SA
-9iM73rhTWmbs0se7F35JKzKBNVw/JZkskM9657GzIxHKun6p+fv6NCjItqmZsu+d/pFwZRKJKaIl
-KErV0wcDeCZqj7Xqt/X56MqOEkLEXeJ6Bo1XRapqZZKMyzPeS/MzRtiUtYrTiCKGzVu/a4OLhOiE
-MA4MOGmrhzOw5FbFlq9jBZ9aWEKnkLbC5xG1ZEZVA1PGOOdumv/gTKqnqk8wCVRguZyJ2CutRD0u
-KOWvQR/QLmvgI44qPuQenBDRNIqIVvn63AxYQ7GYd9hZfoQkpWirgnyrFscLTScXopFsiE5+tdHa
-/+eR/dDhmSQliAkx05aaClV0T8EHLev2liBqhRaWqg2/xIJ0OD5WydSI5cFEI4bxnqp/4Km/w7zU
-mV2Du0/Z5qfVBUchWQmEHbzj0jeE9bow/CXsvQDOmo8hV4oqwGpSRrBobGDB+gpHE1y/y1NnhjZY
-QEkFdwvQCRHX1epUgYk4JsGMKSeCXs6AL/Ynu07mv82CKSmFx7QKJKy5wRGuqV6mtwdw4wUoD/xC
-Nx11jbtmBDIsldaJvlvgOsZKtXbYeK+jFbAGZijSE4HhoHoGjMVpDJwxH5lzZknui/7erYsWt8Y7
-+MQlVPfCKsHNCRdXbVitC9+FsLQ9ThISy8gc6OX8Nec65ywbHOfLS0Ausv3v1ucVj7hhNdwjYSNW
-4W8St+y8+dq5VHE8fAKQGdLr2ph9HwzpoVafrGopWp9+jxCGrCbWHMYaD3TcQ8yRqimaqpAbiNWk
-47s01dr8xAYDGj7BWDy/E2ab3JS6vL9ECcGogHRqKqUbRXGJ0YALUHVYUUZyKWLAZ3/Fdts3ydUz
-jTNbdf9REN6+qe4XqWGKaCg8YBxJHCFQ7bUDi4kdbWr/JqV7GQp7De3Wcgoo4I/J1s9630dYunXU
-uv/d+uPba843HUIYr6l277HhJZTZ3y/ptXI5Xxa70U+7r0mC4kkTpryBDhmmtyPSZF2Iy0W/tONx
-HHCVqjvrSf9KmOgKG5U6Fm75KunR7I/UV/NA7+tRy8ErhCSd0ftGqhFQEoEvQcG18AWZbNAMRBBY
-qeoL8ZwFFHidbrk+p/Duhy22hLeWe0MqDtnw/YnzG2pKhJhiNkJfuCA1iY/gjxZu946veBG59rfP
-G4g3m2+uOWNdduBAGP9E/qa+XQcljymfZkQaYHz9ehE89YzPR7p/ppKh5dHGvTMTfNkytTjk6X+O
-sgT4mm48LvHmzPjCwV+nlFlV7rpLHvRlCiWnsv6hAR7APFDb4quHdF426fyIziLFGlAyzdT2t25J
-9PuD1KHxsaA1RgidhPgk61XQmgE0kiMov0mmqMOslpMgDg+WgZrwXlukP+gu6e4HUYteAPVnRCVp
-sHWT3QsWUC2zBZbKuZPsSQfkbb66SI55G7firA9biCgbifrk7Uzb/zINfgrr8XB+mfdm2TEtpwQ+
-3GBwewxD5dUSRTaXP5F6KEqxCrJsy2+VuNgfG0MJ5+9x4o4SqPxdJT6EvaUbSHOrj3UXknZ10VUj
-yR5VfPHsKC5KKlWzJe4GJAbr++8czhePxN2BuKflaRzONNOOarnP8rV1KZv0Lk+ZsTPGTMqHyGyx
-XsV2oZhKPhT/TpjTiMhBmcdEohuqI5fuyUQmPxgIeoVoq+9DND7b9MFEdzyoxJ3/yGjjrUi3aDpa
-AHOiJLGd4ffNcE5kuPr19HS9FXhdFS1BPHTB39sC2/LdeI8KHjM6Dqor2wYASQogllaoFWJn9EIx
-iLeu8T4uO7Zg57qNTYoYtexf8f1KPtNm/W4IbgcVerpmuVsT4dJdnBzMPuyepHsDr/5x/fEbwQe0
-z6KL4k7WMIxxoi9cUFp250F4dnCuftaNlUxPrjczzwE5DpeljHmsCAw90rMAsUPOW6yMaa7sU7X6
-pfHOKor6oon4MdeR8rth5tdRSzZKpWS86sXlk3umalMhBeDea9BO2Oyttgg1bQB5AGO1sZ8OyUbX
-txfK7JNGpjyjZRyMalTcHVPJQ0UJ7FOGnAHu9eLP5h8cXuCigxTtAaMwrRzb4YDweZldIdF2RNgp
-P4h5FIVnuvU1AcVkumj26RzaWmGx79JZAghkUT5Y2vbx+BTA7vz4GcHOVV+rrGoUQuAqVlgs65Ro
-4lxE9FDNl8J7J8c+cTaxEiTpA3/lr3ESNMfeKXSjg4jYEBa9PMs3WOsvcCIqCHPkDRqcM6z4f69A
-N8AzQvkrdGo+Xg99t2TPmMkMfINNm0dqc8qBfzgB9DVBMBv4spwF1DlLO4ALJrkOXrzFmexKjg0v
-nAZeGpIQPWD3iUbMjrO5+nm4dKOCtaKI/RteiExxbOHYnYD4sUPwAkBUMKDICT0S9LtY7XUUcZ1H
-OFaALiTKl1VTjFKpbMPMjHidLA349Q4JEt5gwMupmegsaxNi71VH79mSfi7pazha1fcsRs6runPk
-zuZJXMmD8mnP4T58O7f0f+SErI3lvJZWxTa9Bwt2M2VA1UkxeavYfCMi0aXDsFSq661Vkvo1GtT2
-3WvddQ2TOsAvssvjAAZtg8jXBb2Q8/u3Au4P096QlNus3F+cs6bOlQh98vtVXvAcD7jbKv3OYRzs
-nbdMHj3BY/qaZioNwoLd1/ekx9IfToX8Nxb3tVEu47/U3E7TCwgdGGLh1yixXRXjVgNocxxGhETO
-u7WMZ0oe09Bd9pNdWDPlLm2NID6OhCBvqbwtoHbFrlI8LcMurMko1Esjs8KY4raRSK1oDOcVZpvp
-mrZdU3N1PL8YLDBtL0TG2Gn7xaxgzJVjloaXMsZdHIpA1mP/Qy5jVZ2vMsoAM5bJG5JzHzIk679R
-ZDBWAtonND2LupBTPsfPRixQseoxgdvkE9k8JtEfLQsxgemtuYwbz0kFfodudB3kLoRWE+u7QgY+
-tZNw54qDgkIaHNJ9sgRyZpkPPMkhR0GbV9H5jwYZ0x3lIxdzm7ZOWTlGlUdOlmU3g4leI8VZ3gVc
-WG5FUwBTU+xsjjZUtFfk6ZsVgAMfSDTCAnmRL1wIRY/Efkc3X6qOgjl1WgYQ4kpDfQU8YTBEzxiw
-VUkIhkfdpGllMXHb6vqE9RnJ6krzBaW2I6l+xavQc4GdGRgbhrIzc+z9RX7IFP9z/kIzNoPLqlUb
-pqaBelnd+dmltfYiPwZimCr8Jx+SD/MjlxQRxDbRi/p0seRsyZimAQDxAuWxtJGKr1LSJq7+tJCK
-il5PA8X/BAH7vzq0pSAzRGPZnFmNRIPek7YkwXHeyCxJNWpx2fgWxNScl43S7JwYlPPUJ9n4w8i0
-tvyKfFJusSbPrGHPlQ9PY6i8Je8S67DcBi2PqOKHzovNDURrpslZly4l92eX1SycPp4IdpEvk4BI
-2bwxQFPbASfmZ3GinXOnZqt33vQOCcypHSfOAeSHjcym4xbqqK3GqDbzYKcG6O/uTfaDrbkQzIXq
-njpUrM8c1KUqL5EYZSY73Xv225oxifUqAlai1J0E1K7mD1kDQCe5H9V4VmdRCOJjKzcUHBXKGrg8
-eaTtJwgzVQH9+mkCgKWtT4/WkVwk8k8iCcAtqUC12mvRAWBjsiX9vNI3ZzNDNUWZ39Ph3zQoAVQY
-6+EsFGGTGp+KRWcxbzaHKOGEU20SJ4X2zxcJPsCbUD6zCglRos82BnPtTn23KIlMiFWzC0GEydlS
-J+/HI8CZSkfvwuVcioe1VoDFAwaDlth5ROSUNESs9GIlOCb1qVqI/1SuB+sQEACayT091f+/QpNo
-POO5x2afB1ix/k19BtxeykvqKHDMMBh20jPJm9lifZfpaEk82BvRdu4+OSw6DQETr+iv1JJa1UFw
-l1FT7BrJnY2dv6Ab3YvJgq69in5YT+663mmQidSh6JLk2tYy2Os6czfL2IJ3XcewNIFRE8npoBcP
-KTg0DGcF6obwZ2fD+s+MnfS5CzDF7v73LCgx8Yh2L7WJtSd5LXdAFK1mTAzPjMFG9s5BXJr27iy7
-W0PMkyNooG7yz6xAKaBH/WtvvOv/wW8Eym9YrbsUUYCNXavmoki3z6+ZUbPq5/MGjhBgD5ggvqq1
-8er45yvlEQeXjrP0Ztt7K7qvLbCpgHmDSJh6LtYBOsEbgzn5I8mqjUAORMwEY9Y5WOXQIQtSl0ol
-t2F0OpjSCYb9i7eTBs5DPzfDdrqlQ19fdoMWuIyUniS0c+1ElkW05wwFTEwVJ4mjQZy9uoG1PaB6
-qWV3SV+kM9EmRoKAjkKpVsu8WQ2SIqetAOR0hylqm9750EpLeWT5B+SDnwSvBbZ/pV0DQqWpHnyr
-XdWmthNsJ7aLvgTJwJSSNMB4swlgmGUakLEUt+6LHrvbfpxicZOEGeafa6zA51IiSFDU6AUfHbsP
-0XIja0Ss6BIZ7SoxpAe7QfMEdgxtoenwNTVC8SaiWNrsnQnnsbdcRxC66O1Ug7kRxhldLjpVNIYQ
-z8IR/0e+SHpDPx/4GC7azsZ1lZqubxUU77B+Fu25OcYFxW7H07PoJTYVW74cgf0zUvNDwUTfUNOY
-ety6CGdSndiK9NZAuDROYAPQkiPat5nVdd92/KeMWMWRWBISTPZ1aIPM/GwtzpCMjDcjhi2xDF0T
-udJVFeqIXhmcNcrgL0vjQ3TxTE7mGkHfyZcou2OkTQEhwTceUe+hK+c2eOuW1C4H515YPDR6slnB
-OXefajpExUFBSFLxDGhyyMWUrhWZ9LhROd2AIdMWIe0rJnVWn1aBIvmML0TmjpOZcwXs8m64Z/Dw
-UX0YXutMtefPisytBfBVBLYTWbM+RYCuA/ar5KCUbkmYMevEpU9h+cB0AC09GfkkOB6Sk7a6uiUP
-dlNcHQrN1Feh61RUUAC+C+VJYWJWDLpDTtXoixIMKmL5rIf/95t8vSYzytNkeuavfvN3dHlTu4BA
-kU0H4QqbTWn/+rmFdHr79waI4BejFPd3KQAAdE05BL+wfUCVdotXXJyXlhFYG1rt4SEoy/2QIG2Y
-/x22yoy4RBhZ80MgMvjvqGCDduLG6C5DzMdt8IdSaygG2EX/FT6VD4/1uwJ1k3XLZy85NFbHZV05
-muQ5nSEHO5r2+9npkRnFAHMuWSNwr/bVzjeKlCQgFG5HgOZSeboGCUg4jpDXWCbLTfj2R1iNmemY
-6kRqHru0GgYWeUpw0kR7H0ryBK+VmXArzzWtWJ0vKxXpzqJSGB8n1P/NWVN//hFDb2zf3X3l3YAn
-2St3L3fhq2ThlVOzI8b2NS0cMh63vh7Ye13Jx0UB4/KajfeSMUil6aF4JF8IL3vHV445TVKXwfUZ
-Cci5hXmVv3ikZlBTNy8q3Jrlzdsv82smC914+E7AAhVSdZ+huRp5NRwlWNas95vCwnyiUPHOGYHZ
-5/M0TyrYb80lILvJTNsOTxmbC3qSbjGr3xc9X79Ri9BhAj+2C0URmQAl9nZk6W6uAr+OORUqse+C
-yBmZeCKmi3eeEz4xcRBEWZjm9EqEjduUITfX0TUo+SkPVYCYMCLQmVq0DlfpYHCiXCW3aHGubN2X
-bwKlX991KxzQkwoYpl+Y5HsYwDUnh2vT/cCdK9SbeofyJAasGh49sCqA6GcWSgKEuRrTTP2sy4Z8
-n12Kj1lBXwBjxN1cqk0bdZA3H4CX/IKCHKfTFLzmKm+afBaFgdibNDqaC5RvMkXgH3IASXwrxbhK
-B5DpaW5S+ZkITUL6RaETGRvwT48GIigRD5ALwpqnnspGiyCeiumrHxc2A/ykgR27nDUx6XPe3DHJ
-4trzCne8cTMOANbJjVW6NA8AWp/T8NQ+UzclxEM+MFrlGfOFyCzMqPdRnfUx+ofwX3FABg8ZRvo0
-fH1xoKnj6h8x8XoLSnjj/Xe2ng8NRc/M/uqlH6IzL4OJsz+nnDpqVx23+OVqBi13wxYOsz3O+uLl
-X4qdh8P9td9biIsppgedzQqN42t8brQAXGUt7B8FxVUsrBwJSqU9XIlSVoJprxf4SzJIlTJ0fma5
-LM6ee4k9Qb5Zdo9JCCXSTNSo+tGarG9Tz5Af/OgRpLdcuUYfmTRabUOS97mE9PSkRPJ7eB86pDyK
-J87JsKriZjd+pA37OFW0lrs/aBATQ+77pl8c9kiL3PgyH2Rj8Zjf0z9Imh6ZV2G8e2fXaKGobLAa
-yA8S6icRm5thsqP8uSj7NU9RZ+OgrdQeStXEKt8xj7A1OU3msm5gJJhRg+Ui5V9c02bBOMmL/bLO
-g8Y9eU2dDqqu6BDTFTm66go9YtPXuk5skjIeIp3qkPgV07l96QwIecVX0JfDQUvEuyu6eHr6vqK0
-g0txFR28/i0CCMeMKBPygNrSAJJAEIe/HMcrwSvGmMau4ualslRfooFOvFpd/5eja/ulqy4w2W2P
-hnBRhP56PHAdzWycWFp+mFgLWmZkRV0edNC+lYyZaZz3rChD5WXbCc0l5B8QJqY8QJ1t2njbKEdw
-IPZ/TO4hevafygj+ad/5P4cO0SnIK8nteox/5seCX1SlB4D3v8jB+YdhlKrMLhN80THS5YVkFQ4a
-7vC5VqOunlAnS1Cz0KlafeU3XVggCuWcPnW80hovWglfkYialbQhwiSDRRxKKyIGTnZVW1aabrJX
-4QIYzaP7XZfvwm2nuxreNx05dzO6Beq4QC96MRk3CR5mD3VEDKhJOxDwHNR9nKzijL6RPGPpqRQG
-IJBLkVvw6Oz774HBVhH2Z9i6vn4hlGT3JCCMybGN5P+JhXAn2IMUccfidcMUlNypPQaxXc15EX5a
-HXIE5R9+lrao2dxGA4h1qaPd+H+kDMUplXAZlcWM8vQFkGR8wxHuehfBl4Fje1m6qABJj2Mgjw9x
-KTdV37k2MlEuNA9Z0AmL6IGw/BJPKUPk8ukxJO2rR0ZebBQ680h/eeDY896x/lK3hTdhS9FuLY7j
-NIaE0xDCYl/QM8KxKyj4zrLl+mb1uYWlzUPqk5DgCGrn5OzryhQISQSEXuZ51A181DXREW5YUOQM
-MCm+j3e5zZzFkQ82nTiFdmjNBitpNMznakMPkNV1+e0rjmn/uunq0gyQpXsmIIuIyq/TnnEmuotr
-Ljn8CVhMxXlRQzGYl7qo5T4Or/bcumJROl4WMqlj9dKaB+3tq2As1Pq4rgz3LxeXjML/N+pB25Kn
-Y1appUG1mO4DNEZ0XWdGZA3iWt6vY8lL4EuZ+cdrWrzFbWw4jYz2JtlzGkzePsUZ+3qw08xdZuyU
-RMpbZX3rBdafkNIaoAXuk6RwqkuzLEu/KxPtZ+1FRGvJhoed3+oaUsndEJuBVeAVcH6Tz0fE/FEy
-7kzPMiGd6Dm/wArjGriFRw57hPiIrK9yTaz3YVuqokW2bm8fTzFVGxuzmN65dX8XUvTf4MvsQSKm
-LkGAIG+I687Dj8mldmUKr895TV0YL2ZfLhcGzWjRW8FzYCy1EE92iGOjFnxnHCJa0CsbtqaJUtXP
-EadGnQ+Kbr8Gv6yhXFi78TMolffbw7mHu+bk7irMZLJ+BXcd7fCG+nkij2i1LwMmZN9ctVzK/RGM
-1TxAt3qss+oFw9zfP69IStAh88OC5JPqsTi3w08VK5h8+Qsm/cgUx3gmyD9wYIj4lnwkZ1Hyo3lf
-GH6Jnbml7Ohxov1nxRFYc3u9nbmHz1vBQkCxqlyFs1xTE6a5kW5itUNtJy2RhNkQU7GshqzOsTU3
-8n1aLHz6W6WBo6ATU1EykjXeN6JezLVV7qpWictrcC2LXZeEvSaYdH8Rz+qJtIv67KLtYPfSa9g/
-IrSCDlv7l4AkXgcyxkF6OId+SDRekBgBXZFNlzfiUpNzQYX5Y2+BNxxR+p9u/dqHyVdKarh44DZD
-vQ32huO5Ah4NQ0NTTBcJUMEC2H5AKOSLsB6keCYhEuZEfHfJMuTjFuDMo00zxXuIKXCqm7yZVT1W
-SFGml2QCMTd2gkyx/cj+vV+5b/O+3OFEH6UbUA/3cR4NZMQUSbyTika+V7FD2s9JpZv+63VKGuuM
-9cZBmCAfjVJPFbYVVIz9Tr/e+0mwRLGPO/iIT8h53r7rrL+CW9jNNX9qBVu/y+fyTcdGDmDCaS7X
-O4E5dC60fM/0XvNJgXcf1G84RGbsAe5ozvuaq/SjH3//IUuKuk/tJMV01KIQk7woYZQezixkXJ2o
-X3/J1Q4nEaxFq+El8Gj+TKzGiFCZgl4GFoHSMbUMyrmk/MnAAFfHM8gzJGG52S7g042jCMTTsn1s
-Wf5E4wNOc9le1/UuEWLAYtaZ+3+/i9CYSwRWnBUqH4X/VU09mZs6EnUm8Uar25jsd97Z7FdmgdKK
-3Kw3WSO55s7Upm6Dv7dETI0P10KBCRGqPR+iXdwkidfHnX45QtkLjPTfpUst6fvEs0cWJmqefKjm
-z+0wFUunG+DJtatqSz+Y0M9FUqFQR1quUFM8nGT4a0M3s8bZlBRr+3Zu+CnIfNcwLf2vLt1pBfDz
-g6xF98ZqWxIV3MjEIFDwn4TTCnxxgu8dhr3uFRH4plelYr5KS6ercXVijKsCYDSrkZk4gn5Qimy1
-vGorNd+OfpOGb0ETPCevuYYg4V9cpalDxn1IZGM5oH7fZYDjq/8Za/9sb4hDc4sg4HR9BdL4j1Qp
-YAYwx3t3iQJOgOH7WPnwS5MGoY4DIyScx6h4X0yRTghpRVQQNX9taydY5WEIzRAjJR5cfi5u8KCp
-Dr1M72VViHEVPuGaigTwKi6FoiIgqSf8GeA1p+F/YfyaFlaHmB8b6KxIdlo/QVqBGjNzfOytxkqm
-1QjZRlm5mC4fPRsP6Lk2eLVNrmf+Y4dOYRpnyTHn3qlKys9ggEpQQX4qFZZf01VYc0075Q7sFKPA
-8WFtQhcUDkzUAgGaV3ED+DSf4skmMFUZIhFgmfUWHzyZgQFlxdL++umnXzTyBM6F95wyOmvLprHA
-jS9HNNcLx1/bH8XElT0pWDHNV+VzpTZTNbwJr+Fzxqi2TQJewHE/EsVVCBv16qCKvTVFLR3ahVhA
-Im9sdEdrLklY0/C3AZTSPHKW01KHaHb4/PfzFJclqdFR/Oew25P19tOCMK62EC8nQvZWt8cZjQF+
-IbveEmRtz1umq8VO6bIrQb8R7uevaj1A6q2fVmTChY39T4eF5pUXSiPtgkYmV0+U08YxdZi/zwbE
-nwersJtPeWhPUpWbwnrDWZTQuwbcQ4SeE3cVj7PJhYacyWJZsHkpWqRfWTK1r5eXAQB9BjmZ
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF;
+
+use Aws\Credentials\Credentials;
+use Aws\Signature\SignatureV4;
+use GuzzleHttp\Client;
+use GuzzleHttp\ClientInterface;
+use GuzzleHttp\HandlerStack;
+use Psr\Http\Message\RequestInterface;
+use Psr\Http\Message\ResponseInterface;
+use Psr\Log\LoggerInterface;
+use Psr\Log\LogLevel;
+use Xentral\Modules\AmazonVendorDF\Data\Token;
+use Xentral\Modules\AmazonVendorDF\Service\InventoryService;
+use Xentral\Modules\AmazonVendorDF\Service\InvoiceService;
+use Xentral\Modules\AmazonVendorDF\Service\PurchaseOrderService;
+use Xentral\Modules\AmazonVendorDF\Service\ShippingService;
+use Xentral\Modules\AmazonVendorDF\Service\TokenService;
+use Xentral\Modules\AmazonVendorDF\Service\TransactionService;
+
+class ServiceFactory
+{
+    const API_BASE_URL = 'https://sellingpartnerapi-eu.amazon.com';
+
+    /** @var TokenService */
+    private $tokenService;
+    /** @var Token */
+    private $token;
+    /** @var string */
+    private $refreshToken;
+    /** @var string */
+    private $clientId;
+    /** @var string */
+    private $clientSecret;
+    /** @var SignatureV4 */
+    private $signature;
+    /** @var Credentials */
+    private $credentials;
+    /** @var ClientInterface */
+    private $authenticatedClient;
+    /** @var LoggerInterface */
+    private $logger;
+
+    public function __construct(
+        string $refreshToken,
+        string $clientId,
+        string $clientSecret,
+        string $awsIamKey,
+        string $awsIamSecret,
+        LoggerInterface $logger
+    ) {
+        $this->tokenService = new TokenService(new Client());
+        $this->refreshToken = $refreshToken;
+        $this->clientId = $clientId;
+        $this->clientSecret = $clientSecret;
+        $this->signature = new SignatureV4('execute-api', 'eu-west-1');
+        $this->credentials = new Credentials($awsIamKey, $awsIamSecret);
+        $this->logger = $logger;
+    }
+
+    public function getShippingService(): ShippingService
+    {
+        return new ShippingService($this->getAuthenticatedClient());
+    }
+
+    public function getInvoiceService(): InvoiceService
+    {
+        return new InvoiceService($this->getAuthenticatedClient());
+    }
+
+    public function getInventoryService(): InventoryService
+    {
+        return new InventoryService($this->getAuthenticatedClient());
+    }
+
+    public function getPurchaseOrderService(): PurchaseOrderService
+    {
+        return new PurchaseOrderService($this->getAuthenticatedClient());
+    }
+
+    public function getTransactionService(): TransactionService
+    {
+        return new TransactionService($this->getAuthenticatedClient());
+    }
+
+    private function getAuthenticatedClient(): ClientInterface
+    {
+        if (!$this->authenticatedClient || $this->getToken()->isExpired()) {
+            $stack = HandlerStack::create();
+            $stack->push($this->getSignatureMiddleware());
+            $stack->push($this->getLoggingMiddleWare());
+
+            $this->authenticatedClient = new Client(
+                [
+                    'handler'  => $stack,
+                    'base_uri' => self::API_BASE_URL,
+                    'headers'  => [
+                        'x-amz-access-token' => $this->getToken()->getAccessToken(),
+                    ],
+                ]
+            );
+        }
+
+        return $this->authenticatedClient;
+    }
+
+    private function getSignatureMiddleware()
+    {
+        return function (callable $handler) {
+            return function (RequestInterface $request, array $options) use ($handler) {
+                return $handler($this->signature->signRequest($request, $this->credentials), $options);
+            };
+        };
+    }
+
+    private function getLoggingMiddleWare()
+    {
+        return function (callable $handler) {
+            return function (RequestInterface $request, array $options) use ($handler) {
+                $promise = $handler($request, $options);
+
+                return $promise->then(
+                    function (ResponseInterface $response) use ($request) {
+                        $this->logRequestAndResponse($request, $response, LogLevel::DEBUG);
+
+                        return $response;
+                    },
+                    function (ResponseInterface $response) use ($request) {
+                        $this->logRequestAndResponse($request, $response, LogLevel::ERROR);
+
+                        return $response;
+                    }
+                );
+            };
+        };
+    }
+
+    private function logRequestAndResponse(RequestInterface $request, ResponseInterface $response, string $level)
+    {
+        $request->getBody()->rewind();
+
+        $this->logger->log(
+            $level,
+            'Amazon Vendor DF API request',
+            [
+                'request'  => [
+                    'uri'    => (string)$request->getUri(),
+                    'method' => $request->getMethod(),
+                    'body'   => json_decode($request->getBody()->getContents(), true),
+                ],
+                'response' => [
+                    'status_code' => $response->getStatusCode(),
+                    'headers'     => $response->getHeaders(),
+                    'body'        => json_decode($response->getBody()->getContents(), true),
+                ],
+            ]
+
+        );
+
+        $response->getBody()->rewind();
+    }
+
+    private function getToken()
+    {
+        if (!$this->token) {
+            $this->token = $this->tokenService->requestToken($this->refreshToken, $this->clientId, $this->clientSecret);
+        }
+
+        return $this->token;
+    }
+}

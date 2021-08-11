@@ -1,52 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-ujhLFPrvUQaGiQl3iFm=
+<?php 
+
+class GenLieferschein_Position { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","Lieferschein_PositionCreate");
+    $this->app->ActionHandler("edit","Lieferschein_PositionEdit");
+    $this->app->ActionHandler("copy","Lieferschein_PositionCopy");
+    $this->app->ActionHandler("list","Lieferschein_PositionList");
+    $this->app->ActionHandler("delete","Lieferschein_PositionDelete");
+
+    $this->app->Tpl->Set("HEADING","Lieferschein_Position");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function Lieferschein_PositionCreate(){
+    $this->app->Tpl->Set("HEADING","Lieferschein_Position (Anlegen)");
+      $this->app->PageBuilder->CreateGen("lieferschein_position_create.tpl");
+  }
+
+  function Lieferschein_PositionEdit(){
+    $this->app->Tpl->Set("HEADING","Lieferschein_Position (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("lieferschein_position_edit.tpl");
+  }
+
+  function Lieferschein_PositionCopy(){
+    $this->app->Tpl->Set("HEADING","Lieferschein_Position (Kopieren)");
+      $this->app->PageBuilder->CreateGen("lieferschein_position_copy.tpl");
+  }
+
+  function Lieferschein_PositionDelete(){
+    $this->app->Tpl->Set("HEADING","Lieferschein_Position (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("lieferschein_position_delete.tpl");
+  }
+
+  function Lieferschein_PositionList(){
+    $this->app->Tpl->Set("HEADING","Lieferschein_Position (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("lieferschein_position_list.tpl");
+  }
+
+} 
+?>

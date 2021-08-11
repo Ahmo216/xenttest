@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-2gQmAW==
+<?php 
+
+class GenRetoure { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","RetoureCreate");
+    $this->app->ActionHandler("edit","RetoureEdit");
+    $this->app->ActionHandler("copy","RetoureCopy");
+    $this->app->ActionHandler("list","RetoureList");
+    $this->app->ActionHandler("delete","RetoureDelete");
+
+    $this->app->Tpl->Set("HEADING","Retoure");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function RetoureCreate(){
+    $this->app->Tpl->Set("HEADING","Retoure (Anlegen)");
+      $this->app->PageBuilder->CreateGen("retoure_create.tpl");
+  }
+
+  function RetoureEdit(){
+    $this->app->Tpl->Set("HEADING","Retoure (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("retoure_edit.tpl");
+  }
+
+  function RetoureCopy(){
+    $this->app->Tpl->Set("HEADING","Retoure (Kopieren)");
+      $this->app->PageBuilder->CreateGen("retoure_copy.tpl");
+  }
+
+  function RetoureDelete(){
+    $this->app->Tpl->Set("HEADING","Retoure (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("retoure_delete.tpl");
+  }
+
+  function RetoureList(){
+    $this->app->Tpl->Set("HEADING","Retoure (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("retoure_list.tpl");
+  }
+
+} 
+?>

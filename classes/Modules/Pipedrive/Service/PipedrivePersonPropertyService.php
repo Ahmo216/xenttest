@@ -1,46 +1,78 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-WI/VSr/kxQbsj5Bs3gV+7F9d
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Pipedrive\Service;
+
+use Xentral\Modules\Pipedrive\Exception\PipedriveClientException;
+use Xentral\Modules\Pipedrive\Exception\PipedriveConfigurationException;
+use Xentral\Modules\Pipedrive\Exception\PipedriveHttpClientException;
+use Xentral\Modules\Pipedrive\Exception\PipedriveMetaException;
+use Xentral\Modules\Pipedrive\Exception\PipedrivePersonPropertyServiceException;
+
+final class PipedrivePersonPropertyService
+{
+
+    /** @var PipedriveClientService $client */
+    private $client;
+
+    /**
+     * @param PipedriveClientService $client
+     */
+    public function __construct(PipedriveClientService $client)
+    {
+        $this->client = $client;
+    }
+
+    /**
+     * @throws PipedriveClientException
+     * @throws PipedriveHttpClientException
+     * @throws PipedriveConfigurationException
+     * @throws PipedriveMetaException
+     *
+     * @return PipedriveServerResponseInterface
+     */
+    public function getProperties(): PipedriveServerResponseInterface
+    {
+        return $this->client->read('getPersonFields');
+    }
+
+    /**
+     * @param int $id
+     *
+     * @throws PipedriveClientException
+     * @throws PipedriveConfigurationException
+     * @throws PipedriveHttpClientException
+     * @throws PipedriveMetaException
+     *
+     * @return PipedriveServerResponseInterface
+     */
+    public function getProperty(int $id): PipedriveServerResponseInterface
+    {
+        return $this->client->read('getOnePersonField', [], [$id]);
+    }
+
+    /**
+     * @throws PipedriveClientException
+     * @throws PipedriveConfigurationException
+     * @throws PipedriveHttpClientException
+     * @throws PipedriveMetaException
+     * @throws PipedrivePersonPropertyServiceException
+     *
+     * @return array
+     */
+    public function getPdLeadStatus(): array
+    {
+        $response = $this->getProperty(9039);
+        if ($response->getStatusCode() !== 200) {
+            throw new PipedrivePersonPropertyServiceException($response->getError());
+        }
+
+        if (($data = $response->getData()) && array_key_exists('options', $data)) {
+            return $data['options'];
+        }
+
+        return [];
+    }
+
+}

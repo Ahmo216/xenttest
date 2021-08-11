@@ -1,31 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\RetailPriceTemplate\Exception;
+
+use InvalidArgumentException as SplInvalidArgumentException;
+
+class InvalidArgumentException extends SplInvalidArgumentException implements RetailPriceTemplateExceptionInterface
+{
+}

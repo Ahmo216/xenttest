@@ -1,70 +1,124 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Http\Cookie;
+
+use ArrayAccess;
+use ArrayIterator;
+use Countable;
+use Iterator;
+
+class CookieCollection implements Iterator, Countable, ArrayAccess
+{
+    /** @var Cookie[] $cookies */
+    private $cookies;
+
+    /**
+     * CookieCollection constructor.
+     *
+     * @param Cookie[] $cookies
+     */
+    public function __construct($cookies = [])
+    {
+        $this->cookies = new ArrayIterator($cookies);
+    }
+
+    /**
+     * Returns http headers to be used in response
+     *
+     * @return string[]
+     */
+    public function toHttpHeaders()
+    {
+        $result = [];
+        foreach ($this->cookies as $cookie) {
+            $result[] = $cookie->toHttpHeader();
+        }
+
+        return $result;
+    }
+
+    /**
+     * @return Cookie
+     */
+    public function current()
+    {
+        return $this->cookies->current();
+    }
+
+    /**
+     * @return void
+     */
+    public function next()
+    {
+        $this->cookies->next();
+    }
+
+    /**
+     * @return int|string
+     */
+    public function key()
+    {
+        return $this->cookies->key();
+    }
+
+    /**
+     * @return bool
+     */
+    public function valid()
+    {
+        return $this->cookies->valid();
+    }
+
+    /**
+     * @return void
+     */
+    public function rewind()
+    {
+        $this->cookies->rewind();
+    }
+
+    /**
+     * @return int
+     */
+    public function count()
+    {
+        return $this->cookies->count();
+    }
+
+    /**
+     * @param mixed $offset
+     *
+     * @return bool
+     */
+    public function offsetExists($offset)
+    {
+        return array_key_exists($offset, $this->cookies);
+    }
+
+    /**
+     * @param mixed $offset
+     *
+     * @return Cookie
+     */
+    public function offsetGet($offset)
+    {
+        return $this->cookies[$offset];
+    }
+
+    /**
+     * @param mixed $offset
+     * @param Cookie $value
+     */
+    public function offsetSet($offset, $value)
+    {
+        $this->cookies[$offset] = $value;
+    }
+
+    /**
+     * @param mixed $offset
+     */
+    public function offsetUnset($offset)
+    {
+        unset($this->cookies[$offset]);
+    }
+}

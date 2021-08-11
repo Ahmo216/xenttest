@@ -1,43 +1,81 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\MailClient\Data;
+
+final class MailBoxInfoData
+{
+    /** @var int $messages */
+    private $messages;
+
+    /** @var int $recent */
+    private $recent;
+
+    /** @var int $uidvalidity */
+    private $uidvalidity;
+
+    /** @var array $flags */
+    private $flags;
+
+    /**
+     * @param int   $messages
+     * @param int   $recent
+     * @param int   $uidvalidity
+     * @param array $flags
+     */
+    public function __construct(
+        int $messages,
+        int $recent,
+        int $uidvalidity,
+        array $flags = []
+    )
+    {
+        $this->messages = $messages;
+        $this->recent = $recent;
+        $this->uidvalidity = $uidvalidity;
+        $this->flags = $flags;
+    }
+
+    /**
+     * @return int total amount of messages
+     */
+    public function getMessages(): int
+    {
+        return $this->messages;
+    }
+
+    /**
+     * @return int amount of recent messages
+     */
+    public function getRecentMessages(): int
+    {
+        return $this->recent;
+    }
+
+    /**
+     * @return int
+     */
+    public function getUidvalidity(): int
+    {
+        return $this->uidvalidity;
+    }
+
+    /**
+     * @return array
+     */
+    public function getFlags(): array
+    {
+        return $this->flags;
+    }
+
+    /**
+     * @param string $flag
+     *
+     * @return bool
+     */
+    public function hasFlag(string $flag): bool
+    {
+        return array_key_exists($flag, $this->flags);
+    }
+}

@@ -1,246 +1,258 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-Khi4DaiNOcJRxsWHw2FDqmI+L2wP30==
+<?php
+
+class ObjGenArtikelkategorien
+{
+
+  private  $id;
+  private  $bezeichnung;
+  private  $next_nummer;
+  private  $projekt;
+  private  $geloescht;
+  private  $externenummer;
+  private  $parent;
+  private  $steuer_erloese_inland_normal;
+  private  $steuer_aufwendung_inland_normal;
+  private  $steuer_erloese_inland_ermaessigt;
+  private  $steuer_aufwendung_inland_ermaessigt;
+  private  $steuer_erloese_inland_steuerfrei;
+  private  $steuer_aufwendung_inland_steuerfrei;
+  private  $steuer_erloese_inland_innergemeinschaftlich;
+  private  $steuer_aufwendung_inland_innergemeinschaftlich;
+  private  $steuer_erloese_inland_eunormal;
+  private  $steuer_erloese_inland_nichtsteuerbar;
+  private  $steuer_erloese_inland_euermaessigt;
+  private  $steuer_aufwendung_inland_nichtsteuerbar;
+  private  $steuer_aufwendung_inland_eunormal;
+  private  $steuer_aufwendung_inland_euermaessigt;
+  private  $steuer_erloese_inland_export;
+  private  $steuer_aufwendung_inland_import;
+  private  $steuertext_innergemeinschaftlich;
+  private  $steuertext_export;
+
+  public $app;            //application object 
+
+  public function __construct($app)
+  {
+    $this->app = $app;
+  }
+
+  public function Select($id)
+  {
+    if(is_numeric($id))
+      $result = $this->app->DB->SelectArr("SELECT * FROM artikelkategorien WHERE (id = '$id')");
+    else
+      return -1;
+
+$result = $result[0];
+
+    $this->id=$result['id'];
+    $this->bezeichnung=$result['bezeichnung'];
+    $this->next_nummer=$result['next_nummer'];
+    $this->projekt=$result['projekt'];
+    $this->geloescht=$result['geloescht'];
+    $this->externenummer=$result['externenummer'];
+    $this->parent=$result['parent'];
+    $this->steuer_erloese_inland_normal=$result['steuer_erloese_inland_normal'];
+    $this->steuer_aufwendung_inland_normal=$result['steuer_aufwendung_inland_normal'];
+    $this->steuer_erloese_inland_ermaessigt=$result['steuer_erloese_inland_ermaessigt'];
+    $this->steuer_aufwendung_inland_ermaessigt=$result['steuer_aufwendung_inland_ermaessigt'];
+    $this->steuer_erloese_inland_steuerfrei=$result['steuer_erloese_inland_steuerfrei'];
+    $this->steuer_aufwendung_inland_steuerfrei=$result['steuer_aufwendung_inland_steuerfrei'];
+    $this->steuer_erloese_inland_innergemeinschaftlich=$result['steuer_erloese_inland_innergemeinschaftlich'];
+    $this->steuer_aufwendung_inland_innergemeinschaftlich=$result['steuer_aufwendung_inland_innergemeinschaftlich'];
+    $this->steuer_erloese_inland_eunormal=$result['steuer_erloese_inland_eunormal'];
+    $this->steuer_erloese_inland_nichtsteuerbar=$result['steuer_erloese_inland_nichtsteuerbar'];
+    $this->steuer_erloese_inland_euermaessigt=$result['steuer_erloese_inland_euermaessigt'];
+    $this->steuer_aufwendung_inland_nichtsteuerbar=$result['steuer_aufwendung_inland_nichtsteuerbar'];
+    $this->steuer_aufwendung_inland_eunormal=$result['steuer_aufwendung_inland_eunormal'];
+    $this->steuer_aufwendung_inland_euermaessigt=$result['steuer_aufwendung_inland_euermaessigt'];
+    $this->steuer_erloese_inland_export=$result['steuer_erloese_inland_export'];
+    $this->steuer_aufwendung_inland_import=$result['steuer_aufwendung_inland_import'];
+    $this->steuertext_innergemeinschaftlich=$result['steuertext_innergemeinschaftlich'];
+    $this->steuertext_export=$result['steuertext_export'];
+  }
+
+  public function Create()
+  {
+    $sql = "INSERT INTO artikelkategorien (id,bezeichnung,next_nummer,projekt,geloescht,externenummer,parent,steuer_erloese_inland_normal,steuer_aufwendung_inland_normal,steuer_erloese_inland_ermaessigt,steuer_aufwendung_inland_ermaessigt,steuer_erloese_inland_steuerfrei,steuer_aufwendung_inland_steuerfrei,steuer_erloese_inland_innergemeinschaftlich,steuer_aufwendung_inland_innergemeinschaftlich,steuer_erloese_inland_eunormal,steuer_erloese_inland_nichtsteuerbar,steuer_erloese_inland_euermaessigt,steuer_aufwendung_inland_nichtsteuerbar,steuer_aufwendung_inland_eunormal,steuer_aufwendung_inland_euermaessigt,steuer_erloese_inland_export,steuer_aufwendung_inland_import,steuertext_innergemeinschaftlich,steuertext_export)
+      VALUES('','{$this->bezeichnung}','{$this->next_nummer}','{$this->projekt}','{$this->geloescht}','{$this->externenummer}','{$this->parent}','{$this->steuer_erloese_inland_normal}','{$this->steuer_aufwendung_inland_normal}','{$this->steuer_erloese_inland_ermaessigt}','{$this->steuer_aufwendung_inland_ermaessigt}','{$this->steuer_erloese_inland_steuerfrei}','{$this->steuer_aufwendung_inland_steuerfrei}','{$this->steuer_erloese_inland_innergemeinschaftlich}','{$this->steuer_aufwendung_inland_innergemeinschaftlich}','{$this->steuer_erloese_inland_eunormal}','{$this->steuer_erloese_inland_nichtsteuerbar}','{$this->steuer_erloese_inland_euermaessigt}','{$this->steuer_aufwendung_inland_nichtsteuerbar}','{$this->steuer_aufwendung_inland_eunormal}','{$this->steuer_aufwendung_inland_euermaessigt}','{$this->steuer_erloese_inland_export}','{$this->steuer_aufwendung_inland_import}','{$this->steuertext_innergemeinschaftlich}','{$this->steuertext_export}')"; 
+
+    $this->app->DB->Insert($sql);
+    $this->id = $this->app->DB->GetInsertID();
+  }
+
+  public function Update()
+  {
+    if(!is_numeric($this->id))
+      return -1;
+
+    $sql = "UPDATE artikelkategorien SET
+      bezeichnung='{$this->bezeichnung}',
+      next_nummer='{$this->next_nummer}',
+      projekt='{$this->projekt}',
+      geloescht='{$this->geloescht}',
+      externenummer='{$this->externenummer}',
+      parent='{$this->parent}',
+      steuer_erloese_inland_normal='{$this->steuer_erloese_inland_normal}',
+      steuer_aufwendung_inland_normal='{$this->steuer_aufwendung_inland_normal}',
+      steuer_erloese_inland_ermaessigt='{$this->steuer_erloese_inland_ermaessigt}',
+      steuer_aufwendung_inland_ermaessigt='{$this->steuer_aufwendung_inland_ermaessigt}',
+      steuer_erloese_inland_steuerfrei='{$this->steuer_erloese_inland_steuerfrei}',
+      steuer_aufwendung_inland_steuerfrei='{$this->steuer_aufwendung_inland_steuerfrei}',
+      steuer_erloese_inland_innergemeinschaftlich='{$this->steuer_erloese_inland_innergemeinschaftlich}',
+      steuer_aufwendung_inland_innergemeinschaftlich='{$this->steuer_aufwendung_inland_innergemeinschaftlich}',
+      steuer_erloese_inland_eunormal='{$this->steuer_erloese_inland_eunormal}',
+      steuer_erloese_inland_nichtsteuerbar='{$this->steuer_erloese_inland_nichtsteuerbar}',
+      steuer_erloese_inland_euermaessigt='{$this->steuer_erloese_inland_euermaessigt}',
+      steuer_aufwendung_inland_nichtsteuerbar='{$this->steuer_aufwendung_inland_nichtsteuerbar}',
+      steuer_aufwendung_inland_eunormal='{$this->steuer_aufwendung_inland_eunormal}',
+      steuer_aufwendung_inland_euermaessigt='{$this->steuer_aufwendung_inland_euermaessigt}',
+      steuer_erloese_inland_export='{$this->steuer_erloese_inland_export}',
+      steuer_aufwendung_inland_import='{$this->steuer_aufwendung_inland_import}',
+      steuertext_innergemeinschaftlich='{$this->steuertext_innergemeinschaftlich}',
+      steuertext_export='{$this->steuertext_export}'
+      WHERE (id='{$this->id}')";
+
+    $this->app->DB->Update($sql);
+  }
+
+  public function Delete($id="")
+  {
+    if(is_numeric($id))
+    {
+      $this->id=$id;
+    }
+    else
+      return -1;
+
+    $sql = "DELETE FROM artikelkategorien WHERE (id='{$this->id}')";
+    $this->app->DB->Delete($sql);
+
+    $this->id="";
+    $this->bezeichnung="";
+    $this->next_nummer="";
+    $this->projekt="";
+    $this->geloescht="";
+    $this->externenummer="";
+    $this->parent="";
+    $this->steuer_erloese_inland_normal="";
+    $this->steuer_aufwendung_inland_normal="";
+    $this->steuer_erloese_inland_ermaessigt="";
+    $this->steuer_aufwendung_inland_ermaessigt="";
+    $this->steuer_erloese_inland_steuerfrei="";
+    $this->steuer_aufwendung_inland_steuerfrei="";
+    $this->steuer_erloese_inland_innergemeinschaftlich="";
+    $this->steuer_aufwendung_inland_innergemeinschaftlich="";
+    $this->steuer_erloese_inland_eunormal="";
+    $this->steuer_erloese_inland_nichtsteuerbar="";
+    $this->steuer_erloese_inland_euermaessigt="";
+    $this->steuer_aufwendung_inland_nichtsteuerbar="";
+    $this->steuer_aufwendung_inland_eunormal="";
+    $this->steuer_aufwendung_inland_euermaessigt="";
+    $this->steuer_erloese_inland_export="";
+    $this->steuer_aufwendung_inland_import="";
+    $this->steuertext_innergemeinschaftlich="";
+    $this->steuertext_export="";
+  }
+
+  public function Copy()
+  {
+    $this->id = "";
+    $this->Create();
+  }
+
+ /** 
+   Mit dieser Funktion kann man einen Datensatz suchen 
+   dafuer muss man die Attribute setzen nach denen gesucht werden soll
+   dann kriegt man als ergebnis den ersten Datensatz der auf die Suche uebereinstimmt
+   zurueck. Mit Next() kann man sich alle weiteren Ergebnisse abholen
+   **/ 
+
+  public function Find()
+  {
+    //TODO Suche mit den werten machen
+  }
+
+  public function FindNext()
+  {
+    //TODO Suche mit den alten werten fortsetzen machen
+  }
+
+ /** Funktionen um durch die Tabelle iterieren zu koennen */ 
+
+  public function Next()
+  {
+    //TODO: SQL Statement passt nach meiner Meinung nach noch nicht immer
+  }
+
+  public function First()
+  {
+    //TODO: SQL Statement passt nach meiner Meinung nach noch nicht immer
+  }
+
+ /** dank dieser funktionen kann man die tatsaechlichen werte einfach 
+  ueberladen (in einem Objekt das mit seiner klasse ueber dieser steht)**/ 
+
+  function SetId($value) { $this->id=$value; }
+  function GetId() { return $this->id; }
+  function SetBezeichnung($value) { $this->bezeichnung=$value; }
+  function GetBezeichnung() { return $this->bezeichnung; }
+  function SetNext_Nummer($value) { $this->next_nummer=$value; }
+  function GetNext_Nummer() { return $this->next_nummer; }
+  function SetProjekt($value) { $this->projekt=$value; }
+  function GetProjekt() { return $this->projekt; }
+  function SetGeloescht($value) { $this->geloescht=$value; }
+  function GetGeloescht() { return $this->geloescht; }
+  function SetExternenummer($value) { $this->externenummer=$value; }
+  function GetExternenummer() { return $this->externenummer; }
+  function SetParent($value) { $this->parent=$value; }
+  function GetParent() { return $this->parent; }
+  function SetSteuer_Erloese_Inland_Normal($value) { $this->steuer_erloese_inland_normal=$value; }
+  function GetSteuer_Erloese_Inland_Normal() { return $this->steuer_erloese_inland_normal; }
+  function SetSteuer_Aufwendung_Inland_Normal($value) { $this->steuer_aufwendung_inland_normal=$value; }
+  function GetSteuer_Aufwendung_Inland_Normal() { return $this->steuer_aufwendung_inland_normal; }
+  function SetSteuer_Erloese_Inland_Ermaessigt($value) { $this->steuer_erloese_inland_ermaessigt=$value; }
+  function GetSteuer_Erloese_Inland_Ermaessigt() { return $this->steuer_erloese_inland_ermaessigt; }
+  function SetSteuer_Aufwendung_Inland_Ermaessigt($value) { $this->steuer_aufwendung_inland_ermaessigt=$value; }
+  function GetSteuer_Aufwendung_Inland_Ermaessigt() { return $this->steuer_aufwendung_inland_ermaessigt; }
+  function SetSteuer_Erloese_Inland_Steuerfrei($value) { $this->steuer_erloese_inland_steuerfrei=$value; }
+  function GetSteuer_Erloese_Inland_Steuerfrei() { return $this->steuer_erloese_inland_steuerfrei; }
+  function SetSteuer_Aufwendung_Inland_Steuerfrei($value) { $this->steuer_aufwendung_inland_steuerfrei=$value; }
+  function GetSteuer_Aufwendung_Inland_Steuerfrei() { return $this->steuer_aufwendung_inland_steuerfrei; }
+  function SetSteuer_Erloese_Inland_Innergemeinschaftlich($value) { $this->steuer_erloese_inland_innergemeinschaftlich=$value; }
+  function GetSteuer_Erloese_Inland_Innergemeinschaftlich() { return $this->steuer_erloese_inland_innergemeinschaftlich; }
+  function SetSteuer_Aufwendung_Inland_Innergemeinschaftlich($value) { $this->steuer_aufwendung_inland_innergemeinschaftlich=$value; }
+  function GetSteuer_Aufwendung_Inland_Innergemeinschaftlich() { return $this->steuer_aufwendung_inland_innergemeinschaftlich; }
+  function SetSteuer_Erloese_Inland_Eunormal($value) { $this->steuer_erloese_inland_eunormal=$value; }
+  function GetSteuer_Erloese_Inland_Eunormal() { return $this->steuer_erloese_inland_eunormal; }
+  function SetSteuer_Erloese_Inland_Nichtsteuerbar($value) { $this->steuer_erloese_inland_nichtsteuerbar=$value; }
+  function GetSteuer_Erloese_Inland_Nichtsteuerbar() { return $this->steuer_erloese_inland_nichtsteuerbar; }
+  function SetSteuer_Erloese_Inland_Euermaessigt($value) { $this->steuer_erloese_inland_euermaessigt=$value; }
+  function GetSteuer_Erloese_Inland_Euermaessigt() { return $this->steuer_erloese_inland_euermaessigt; }
+  function SetSteuer_Aufwendung_Inland_Nichtsteuerbar($value) { $this->steuer_aufwendung_inland_nichtsteuerbar=$value; }
+  function GetSteuer_Aufwendung_Inland_Nichtsteuerbar() { return $this->steuer_aufwendung_inland_nichtsteuerbar; }
+  function SetSteuer_Aufwendung_Inland_Eunormal($value) { $this->steuer_aufwendung_inland_eunormal=$value; }
+  function GetSteuer_Aufwendung_Inland_Eunormal() { return $this->steuer_aufwendung_inland_eunormal; }
+  function SetSteuer_Aufwendung_Inland_Euermaessigt($value) { $this->steuer_aufwendung_inland_euermaessigt=$value; }
+  function GetSteuer_Aufwendung_Inland_Euermaessigt() { return $this->steuer_aufwendung_inland_euermaessigt; }
+  function SetSteuer_Erloese_Inland_Export($value) { $this->steuer_erloese_inland_export=$value; }
+  function GetSteuer_Erloese_Inland_Export() { return $this->steuer_erloese_inland_export; }
+  function SetSteuer_Aufwendung_Inland_Import($value) { $this->steuer_aufwendung_inland_import=$value; }
+  function GetSteuer_Aufwendung_Inland_Import() { return $this->steuer_aufwendung_inland_import; }
+  function SetSteuertext_Innergemeinschaftlich($value) { $this->steuertext_innergemeinschaftlich=$value; }
+  function GetSteuertext_Innergemeinschaftlich() { return $this->steuertext_innergemeinschaftlich; }
+  function SetSteuertext_Export($value) { $this->steuertext_export=$value; }
+  function GetSteuertext_Export() { return $this->steuertext_export; }
+
+}
+
+?>

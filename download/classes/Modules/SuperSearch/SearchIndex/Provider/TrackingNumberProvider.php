@@ -1,85 +1,103 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-tYD+N1qmPPHja1zMfh5TnFvK/Q8WQvIn
+<?php
+
+namespace Xentral\Modules\SuperSearch\SearchIndex\Provider;
+
+use DateTimeInterface;
+use Xentral\Components\Database\SqlQuery\SelectQuery;
+use Xentral\Modules\SuperSearch\SearchIndex\Data\IndexData;
+use Xentral\Modules\SuperSearch\SearchIndex\Data\IndexIdentifier;
+use Xentral\Modules\SuperSearch\SearchIndex\Data\IndexItem;
+
+final class TrackingNumberProvider extends AbstractBulkIndexDatabaseProvider
+{
+    /**
+     * @inheritDoc
+     */
+    public function getModuleName()
+    {
+        return 'lieferschein';
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getIndexName()
+    {
+        return 'trackingnumber';
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getIndexTitle()
+    {
+        return 'Trackingnummer';
+    }
+
+    /**
+     * @inheritDoc
+     */
+    protected function configureBaseQuery(SelectQuery $query)
+    {
+        $query
+            ->cols([
+                'v.id',
+                'v.tracking',
+                'v.lieferschein',
+                'v.projekt',
+                'v.versendet_am'
+            ])
+            ->from('versand AS v')
+            ->where('v.tracking != ?', '');
+    }
+
+    /**
+     * @inheritDoc
+     */
+    protected function configureItemQuery(SelectQuery $baseQuery, $indexId)
+    {
+        $baseQuery->where('v.id = ?', (int)$indexId);
+    }
+
+    /**
+     * @inheritDoc
+     */
+    protected function configureCountQuery(SelectQuery $baseQuery)
+    {
+        $baseQuery->cols(['COUNT(v.id)' => 'total_count']);
+    }
+
+    /**
+     * @inheritDoc
+     */
+    protected function configureSinceQuery(SelectQuery $baseQuery, DateTimeInterface $since)
+    {
+        $baseQuery->where('v.versendet_am > ?', $since->format('Y-m-d H:m:i'));
+    }
+
+    /**
+     * @inheritDoc
+     */
+    protected function getRowFormatter()
+    {
+        return static function (array $row) {
+
+            $projectId = (int)$row['projekt'];
+            $versandDatum = date('d.m.Y', strtotime($row['versendet_am']));
+            $title = $row['tracking'];
+            $link = sprintf('index.php?module=lieferschein&action=edit&id=%d', $row['lieferschein']);
+
+            $data = new IndexData($title, $link, $projectId);
+            $data->addSearchWord('trackingnummer');
+            $data->addSearchWord($row['tracking']);
+
+            $data->setSubTitle('');
+
+            $data->addAdditionalInfo('Versendet: '.$versandDatum);
+
+            $identifier = new IndexIdentifier('trackingnumber', (int)$row['id']);
+
+            return new IndexItem($identifier, $data);
+        };
+    }
+}

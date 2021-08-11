@@ -1,31 +1,80 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-4F22pSbeIzbHjTbzS+QarUndxGXZeRQoJNvvzG==
+<?php
+
+class ObjectAPI 
+{
+  private $app;
+
+  function __construct($app)
+  {
+    $this->app = &$app;
+  }
+
+  function Get($name)
+  {
+
+
+			if(file_exists("objectapi/mysql/object.$name.php")) {
+						include_once("objectapi/mysql/object.$name.php");
+						//echo "es gibt ein modifiziertes objecy";
+						$classname = "Obj".ucfirst($name);
+						return new $classname($this->app);
+					} else {
+						//echo "es gibt nur das generiewrte";
+						include_once("objectapi/mysql/_gen/object.gen.$name.php");
+						//echo "es gibt ein modifiziertes objecy";
+						$classname = "ObjGen".ucfirst($name);
+						return new $classname($this->app);
+					}
+
+
+
+  }
+
+ 
+ /* 
+  function CreatePage($widgets,$tplfile)
+  {
+    if(count($widgets)>0){
+      foreach($widgets as $key=>$varname) {
+	// pruefen ob es ein widget sein soll
+	if(preg_match("/^[\[]WIDGET_/",$varname)) {
+	  $classname = "";
+	  $varname = str_replace('[','',$varname);
+	  $varname = str_replace(']','',$varname);
+	  list($type,$classname,$action)=split('_',$varname);
+	  
+	  // pruefe ob es ein abgeleitetes gibt wenn nicht starte das generierte
+	  if(file_exists("widgets/widget.".strtolower($classname).".php")) {
+	    $filename = "widget.".strtolower($classname).".php";
+	    $classname = "Widget".ucfirst(strtolower($classname));
+	    $action = ucfirst(strtolower($action));
+	    include_once("widgets/$filename");
+	  } else {
+	    $filename = "widget.gen.".strtolower($classname).".php";
+	    $classname = "WidgetGen".ucfirst(strtolower($classname));
+	    $action = ucfirst(strtolower($action));
+	    include_once("widgets/_gen/$filename");
+	  }
+	  
+	           
+	  $mywidget = new $classname(&$this->app,$varname);
+	  $mywidget->$action();
+	 
+	}
+      }
+    }
+  
+    $this->app->Tpl->Parse(PAGE,$tplfile);
+  }
+*/
+}
+?>

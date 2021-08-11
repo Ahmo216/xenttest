@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\SuperSearch\Exception;
+
+use RuntimeException;
+
+final class ProviderMissingException extends RuntimeException implements SuperSearchExceptionInterface
+{
+}

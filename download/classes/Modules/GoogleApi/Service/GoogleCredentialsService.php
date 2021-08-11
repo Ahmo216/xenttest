@@ -1,71 +1,64 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPxy/1mDDg/iqJ/UI84P44vvtrVqFeYTLf/YxDOjplE0HY/+JppNQfo6+98lm1kwuwYwLXL84
-Q8c9IFGEiNbccKd7KlQai+5IvprRfsgFfoNM1EAKQZODA4UJOQgxXARBSbfCPpEihn0JTTgBD3t3
-vOMFnd5EERhcsQLw7yU6EsmhU5SPesaOvOU0CoVsNaGQiawnLSWhmpe0syJclvYQPETF6ZxRL9y3
-n2gUZMllBTkh88v/1f/NanrHlRMdDMogKvylrQ6iw0e30IftO2te/lbMqgo2gEmbOgP3NLNfFcfw
-72FM6ifKIOWojwR6kIgxXM8/1VYK8wp270jOM8OTnjkbf6pZhDiJVlD4VBk/dIXGJqaSvCyqabGt
-2YR8YL5KGJvlhElIIqUHqScK4dG3pBJYrv2kcbhDeksqiaL0Mxc+rB+5dpzDcJtYEb18oj2hzCP+
-R6Bk+Amht7NCSgDjnY/SpyFzedJbPwQVvDSeP5dPHJ/t/ULyovxKEiJ8x7+dDdwGexvAvDbCKwGt
-trzLeKmMAV7nBFCCJIc2TQKH2WS23fARAeeOGBOPw9P4snIJI3WwBBiRs9QNiLvB2v7hTcTIxIkK
-8evWglI92J//omiEHAa1oS9gLeq+UJX2EXh/mXxqrCFQqzr8fSYbDJIccMfFEmBYaNFpZbMm72zn
-ZojKVluVML3I8UL5FIlYCjsyPECL1AeXh9jM6eNOtb2odbSwfyIkfxBuJlXj/4SGzS88BLy24Ux0
-JtHLb3DGNFVhyeqQmE3hBvBdfJDF5iIYorcag4C4FnGtaJBy8IlSmeYKU248f7yjFvato+LVTlWq
-J+UP8ZjeSz7K6EuxodsBMv9UD6IOqtKpQhen7woUtB0LsI5mruiYm1DCsZzwL49/0tngPnjHX0Lr
-hfrNztUzCai0tvrj2LVOmM/1bP84UrUAylknC+kID68kB7cDrYwB5NppwzbkwU6rrCVBz/U/1j8e
-kTmY6iQBIL7YpooVcwCPeG45aGVzD33RbL2ppUiwcw10qgfDcdgFLzv0qIq+ezRrWVY9kSj/0OjJ
-gGpp3XMUyPYaKKaZ89TJIBhzAwSJUynepoQ4e4KfXJB/qGn9xrvF6vxnWC2h2EW4vwptd8bc5vs3
-DcIFQR8Zcklr0dQBFKvVYzrBdW3zDz/CTdEx+ZYjdLmbBq6NL60uzR46ZihutASP91dif8dknL12
-1RPcJ0n7ZwXC9whWwZt4fDoOThVQIJ+a/oqMuWOHyGLKnoB2AMbzkAyQlOkgN3/sz2W1w5pDkxJ0
-hMFUruXjUyGI+RtoUVfKNVS6q2N+765dsvG8JomSKonD14E2xaNEYQO8cGbbrigSD7ikE8BlZoQr
-bmv2Y3KZvkRNlZ8HpyenfYqpL80MqKSY7kS6zSrbqrBXbalgUJwfotdCekb28k25uKab/1sK44xu
-KVKvGFzP9OgOvBUIR1IZ+T8+gPuGKYfR3xG434s9Jbl739qEkoCDEc8Hp323n3JM8/Y6mE8dEY9P
-/D+dFYPDfzZ9bVEiA2PeEIJFIOwz21lIBEnqt4Ujlpd9te8zpQPYitBVzggxnpencu3BoHINIlnj
-No6qt9KZXoazZ6QM0yQLu6Sdueb6yH9pABPCQs7dVXsrPaSXi//epS4kpg+a9gENyRcnGujENNwJ
-LGsPBMQEyG7ks97rBp6p4Gk3WrT3HAB2nfpGVgL5ltu3MoN5yl1HA3I+V53IMkru6aPLyIyOGBiD
-YSX9QGklO34wYv9JVwwu9KB2iuQOJsnyVSeCGZ0RD2X8NYI2n692hFKA+fx3fysRfpRktmgNxTF0
-YO05R/UaQ8QsrmJGGIfKcWSQ6LNKl77+cRNzo8F9ZSk2qjRPBKERuKsXJvE3rK0+4spCVQ3imU8h
-OlqDc83yz0oTMYsOVhk8pY2WjoHh8TN7VaMVlYjATSS5zCm8nuJWr3Po5lBS9HGo54GPTkan5xR+
-+w4PISFDCtaga/e+5JycsM6sOcupwR6ROU98o4MpNbsLWpZJ/35bu81K9NxnHu+O2wCrZI8gLcvN
-8emFFoV+6ZQkz7g/rpIePis2WO5SoT0gGOv45/Q1oWVZbkvVm325BOgfEgU0YeRtbzFDTFFH8rYg
-eKTU5DLr+pB/zzjR1H4hW6YyHxplnCp7gKpq1spEOQSp4DtRgktOqD2cjv5zxvMzozQFsVqkzgzH
-she3PEG9UC7naNiwM3TaGR/xEXNAzUEx9qZCo46krMjXopFP+B3nD0LMmF660WWZ13OaxB+PWYli
-KGNTy5ZnjE8XIunFlYumwwohfRWQH5uJlfCScARNDhADiGN7jPGtPjlatfko+rDFXL2xvOFF2ywp
-4JgdQs8AdUGnFySbnP8PRJxDKYziW2f2Ayj5eJBovCZSWQ33D1RV/igfngFD+0ibIc8gJvfd+ph+
-8v/bsQrDTRA/2gvn73b+7QpF8DMR1/f2S5OLOnrxiW36u3a3N5W4wehFO7g5Wzkq0BcitQf/IVK+
-ElslBND+Er1lJrEvJ5eXKFjJFQrB+hgFlw/COejN5RK8pdw+zSbHi4tjICYy0u+dYFSaQVNzz3bD
-xd0NXks8BhPuKIjBd0HdZXvfUiYLeI5JlARwtlJZ6J4kffO2LTiqXCS6OE96s2Rx7ErONWdT8GJi
-+Q2FrHVL4ih8kn+UGeYz3dc5q+H505Umj5prFa/BKLxpfVKeSJhzieMuoU4DwG+QR8+f4plbSicR
-QMkJf3PA1w1xI9/6Sck9cG2fDyUXK96jtbf6h4zEqtlWnwntEqrAcInEVzc7wKONiHx2UJ8bVGNI
-Yvntj1hDH1Xzy7dIjpX2/+/limOLHsQuoCQB6AYJe13//Tutl8+vWZsSLlfWz+cyoUmtJh47rwwm
-tY3c4Lf9Hlfhn2Oz5DcT7mPs1/tOqvgX36wzycaYyiIU9e/Ao2A7hKHxcg0dy22oqR/ROu+09lY+
-uNpRdrgl1TwojAFETU3jneYvg3HV5EmpgeD0UbmQyZI2sV/NY9GL1aM8MaYSRMtA1Lregt3Ws91o
-EFw3aVfx9VoHjPeGTEPenCSCNElzpECcQHZQskYwFtGq+W6EaaZZYGNme0a1tq1yjTENKj7Ae3dL
-CFGqJ4FsFL1bssg9SwxcqFw8dZwZ/Oi4/d1fRvGYmciqBhNxM/9IAlze6s0dytrKC/sh3TLJ7qHd
-R7pimOpfZflfrQGwho4gZpbZ8guq1XjaWhtKW8TRrm/ADA0PjzhhNq9vbMj8A5rI3iGiA3hKqirB
-FKiVQMfzD0xhzy/K23Y7R4wdp5i2pRQ5V3SzkIji53NENEt5w49Afxh8pgpO/Y8Jyvs2aYx2aDzZ
-98pEv8CIH6pNjTyoKcILbqm1+4r9Qb8i+sKu85GThEjoPeLTQ6tfwBDTNU3Q5MOmo9ZMEzCRZvBU
-Q8hZq46MwNK4UhDnw6EToF3fWWQC/G06IpGM/tG2J5C1WNYsUZRHaIASmX6CoSBAF/eZRmBwFrXm
-LaF2baifz3R6pN2grqQwiYniAU6Dq98aYGyUzC7mCk/bIqiakHysZur4dWA2XYNmL2m+0UXHGVHy
-ZqrNpaufYMtqjD4Xkl7W0ddeUv+mNxIXnbHRUe8Jl5dg/B6YgZK/d/Iao4o0mZrOPf6dRSG9A4oj
-PtljkK65G3VNgQWpNd/EAUNIeRY3YdSd+ynkCHGxWK5XAdxAoEokgO993a4lHMX+JvbUJVozniQ5
-NySkb2tV/e58qiM9zpcjaIjWmwLYps0UCkBmrrjQxBFJgoPj429sT8DjAt2avyxYQtbGT5SiYm+6
-GkP+asrfK5lEufZYU9SoBOc9vbCTJ2PYufTCxOujt/4OX6QQP0ZYsIOhGwI2k5hSW6vqPM7Wg6Ig
-/AzOBKihelykGyuZpnbNLubVT9jNCE4FrDOwLHc5eUZtVvPCQVAlcgCkSYYwrejYsfM+2PlNWYNL
-fZFQH0GmRgej2wRkGMZ7vk5CnI/YjFefV6ToAIhdk1R7rRl5t/0Ob91PLwDB0zhAjGRJwkoMPYaE
-yv+d/LicfL7R7FGlqPaDeBxCE8wLx2paMs5K9CP6Ft+ADvFmthcix4Qc/k0Iq6ISVLCBulb4e6z/
-aDtColjgUq9+wdcMipsUofd83a7Crvhp5omh5W5mIuwKHWSiyKizx+Fo7AR44QX706Bay5nlc8XE
-uqy8DEcc4SLybfDxesHqh1uT7/k5YSZYjU+jK4B/07ufoI9QgyP6nZekAE35CK+vqKFqbrHCgw76
-dVi+9UQWV/zPH3qaHbT0nAuaUB9wkNkdVBf1rH6zQ+Nt4LkdcCnICMrAgVEhVYSrrIKbKw2kLcbd
-fMLno4GiJlELe03aEbeWuF1YUBl7ZgnoPtOhmZtPmYNfODH+60Onrmgyuf1F3kvtlGNldzPA2hCj
-8jKY1AU0xC8qwvLTYOfnuvlSW3v6Mk6pj4gk8vv+OeRzu43cs2BW5M/xkVz8TpfFOcQGZQhYBAL6
-fpdUJLVZlrY+2fAFfDUOUGqr/IzL+JRH8rYGQSteTHUajnwf0xDFtikQ00x2JB8v2WV+rl1Nqfhv
-2CRVAEqT1/lO6wOn+2X88jZANOn8ld/gSDUkz7jdco2tTwsEgbIaBA1KNymj7qxe2te1UPuPU2be
-PD1u1pBgx8/wpurC10pNoOEK35zeLklagG1ws3HN/n6Sr/x4G4UxJKzP9ck7a4AUNa0wi5dIkw1I
-D/NdkxvV2ZPenTC84zqLt4TUYEoreMCH+Lcr7nRrV1KubYWGY33w+eZUsu8tq/qZ6jMeLb2mLQPk
-Gi9J3cWqB6T07aG22H1DKagePY+UT7DMKDEFRY687oiuOW5rIFbOb0/1BPvOBjahTHts0w61oc50
-sFEp7++vglDnhteHMMh/awFBbuECpPP4Qda3h9jfGDKbfxf8zB96mPrl5/U0ourvmTDc+0axkalV
-ALGHA8LTVza/hSWd/sYQek7zqDQzdzRoZ2Cjl+JFB8n/ynI/g4d0XefAgGXgiSxr04IM1W3ngB5C
-auuAgV9mTzGSzfFxA+ZApxh0h8ovuIADMslz6eC6nAJDWI45wjFIibMW76NOdBdI7wMI/+V6WdqT
-LKVuGdH+LLztDiKgjl7wcre7cxQGIzWE4soZmOnvi6mCZKu=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\GoogleApi\Service;
+
+use Xentral\Modules\GoogleApi\Data\GoogleCredentialsData;
+use Xentral\Modules\GoogleApi\Wrapper\CompanyConfigWrapper;
+
+final class GoogleCredentialsService implements GoogleCredentialsServiceInterface
+{
+    /** @var CompanyConfigWrapper $config */
+    private $config;
+
+    public function __construct(CompanyConfigWrapper $config)
+    {
+        $this->config = $config;
+    }
+
+    /**
+     * @return GoogleCredentialsData
+     */
+    public function getCredentials(): GoogleCredentialsData
+    {
+        $clientID = $this->config->get(self::KEY_CLIENT_ID);
+        $secret = $this->config->get(self::KEY_CLIENT_SECRET);
+        $uri = $this->config->get(self::KEY_REDIRECT_URI);
+
+        return new GoogleCredentialsData($clientID, $secret, $uri);
+    }
+
+    /**
+     * @return bool
+     */
+    public function existCredentials(): bool
+    {
+        $clientID = $this->config->get(self::KEY_CLIENT_ID);
+        $secret = $this->config->get(self::KEY_CLIENT_SECRET);
+
+        return (is_string($clientID) && $clientID !== '') && (is_string($secret) && $secret !== '');
+    }
+
+    /**
+     * @param GoogleCredentialsData $account
+     *
+     * @return void
+     */
+    public function saveCredentials(GoogleCredentialsData $account): void
+    {
+        $this->config->set(self::KEY_CLIENT_ID, $account->getClientId());
+        $this->config->set(self::KEY_CLIENT_SECRET, $account->getClientSecret());
+        $this->config->set(self::KEY_REDIRECT_URI, $account->getRedirectUri());
+    }
+
+    /**
+     * @return void
+     */
+    public function deleteCredentials(): void
+    {
+        $this->config->set(self::KEY_CLIENT_ID, null);
+        $this->config->set(self::KEY_CLIENT_SECRET, null);
+        $this->config->set(self::KEY_REDIRECT_URI, null);
+    }
+}

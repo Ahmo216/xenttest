@@ -1,57 +1,91 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-yNyLJRdK1/3LG2RvGgfwMu5V
+<?php
+
+namespace Xentral\Widgets\DataTable\Result;
+
+use Xentral\Widgets\DataTable\Exception\InvalidArgumentException;
+
+final class DataTableHtmlResult
+{
+    /** @var string $tableHtml */
+    private $tableHtml;
+
+    /** @var array $scriptOptions Initialization options for DataTable */
+    private $scriptOptions = [];
+
+    /**
+     * @param string $tableHtml
+     * @param array  $scriptOptions
+     *
+     * @throws InvalidArgumentException
+     */
+    public function __construct($tableHtml, array $scriptOptions)
+    {
+        if (empty($tableHtml)) {
+            throw new InvalidArgumentException('Required parameter "tableHtml" is empty.');
+        }
+        if (empty($scriptOptions)) {
+            throw new InvalidArgumentException('Required parameter "scriptOptions" is empty.');
+        }
+
+        $this->tableHtml = $tableHtml;
+        $this->scriptOptions = $scriptOptions;
+    }
+
+    /**
+     * @return string
+     */
+    public function getResult()
+    {
+        return $this->getHtml();
+    }
+
+    /**
+     * @return string
+     */
+    public function getHtml()
+    {
+        $html = '<div class="datatable-container">';
+        $html .= $this->getTableHtml();
+        $html .= $this->getScriptHtml();
+        $html .= '</div>';
+
+        return $html;
+    }
+
+    /**
+     * @return string
+     */
+    public function getTableHtml()
+    {
+        return $this->tableHtml;
+    }
+
+    /**
+     * @return string
+     */
+    public function getScriptHtml()
+    {
+        $optionsJsonString = json_encode(
+            $this->getScriptOptions(),
+            JSON_HEX_TAG | JSON_HEX_APOS | JSON_HEX_AMP | JSON_HEX_QUOT
+        );
+
+        return sprintf('<script type="application/json">%s</script>', $optionsJsonString);
+    }
+
+    /**
+     * @return array
+     */
+    public function getScriptOptions()
+    {
+        return $this->scriptOptions;
+    }
+
+    /**
+     * @return string
+     */
+    public function __toString()
+    {
+        return $this->getHtml();
+    }
+}

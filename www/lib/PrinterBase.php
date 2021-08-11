@@ -1,246 +1,320 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+class PrinterBase
+{
+  /** @var int $id */
+  public $id;
+  /** @var ApplicationCore $app */
+  public $app;
+
+  /** @var array */
+  protected $printerdata;
+  /** @var array */
+  protected $stucture;
+  /** @var array */
+  protected $settings;
+
+  /**
+   * TransferBase constructor.
+   *
+   * @param Application $app
+   * @param int         $id
+   */
+  public function __construct($app, $id)
+  {
+    $this->app = $app;
+    $this->id = $id;
+    $this->getSettings();
+  }
+
+  /**
+   * @return mixed|null
+   */
+  public function getSettings()
+  {
+    if($this->id <= 0) {
+      return null;
+    }
+    $this->printerdata = $this->app->DB->SelectRow('SELECT * FROM drucker WHERE id = ' . $this->id);
+    if(!empty($this->printerdata['json'])) {
+      $this->settings = @json_decode($this->printerdata['json'], true);
+    }
+    elseif(!empty($this->stucture)){
+      foreach($this->stucture as $name => $val) {
+        if(isset($val['default'])) {
+          $this->settings[$name] = $val['default'];
+        }
+      }
+    }
+    if(empty($this->settings)) {
+      $this->settings = null;
+    }
+
+    return $this->settings;
+  }
+
+
+  /**
+   * @param string $name
+   * @param mixed  $value
+   *
+   * @return mixed|null
+   */
+  public function setSetting($name, $value) {
+    $this->getSettings();
+    $this->settings[$name] = $value;
+    $this->app->DB->Update(
+      sprintf(
+        'UPDATE drucker SET json = \'%s\' WHERE id = %d LIMIT 1',
+        $this->app->DB->real_escape_string(json_encode($this->settings)), $this->id
+      )
+    );
+
+    return $this->getSettings();
+  }
+
+
+  /**
+   * @return array
+   */
+  public function getPrinterData()
+  {
+    if(empty($this->printerdata)) {
+      $this->getSettings();
+    }
+
+    return $this->printerdata;
+  }
+
+  /**
+   * @return null
+   */
+  public function SettingsStructure()
+  {
+    return null;
+  }
+
+  /**
+   * @return array|null
+   */
+  public function getStructure()
+  {
+    $this->stucture = $this->SettingsStructure();
+
+    return $this->stucture;
+  }
+
+
+  /**
+   * @param string     $target
+   * @param null|array $struktur
+   *
+   * @return string|null
+   */
+  public function Settings($target = 'return', $struktur = null)
+  {
+    if(!$this->id)
+    {
+      return null;
+    }
+    if($struktur === null){
+      $struktur = $this->getStructure();
+    } else {
+      $this->stucture = $struktur;
+    }
+    $this->getSettings();
+    if($this->app->Secure->GetPOST('anbindung')) {
+      $printer = $this->printerdata;
+      $json = $this->settings;
+      $modul = $printer['anbindung'];
+      if(!empty($struktur)) {
+        foreach ($struktur as $name => $val) {
+          if($modul === $this->app->Secure->GetPOST('anbindung')){
+            $json[$name] = $this->app->Secure->GetPOST($name, '', '', 1);
+          }
+
+          if(isset($val['replace'])){
+            switch ($val['replace']) {
+              case 'lieferantennummer':
+                $json[$name] = $this->app->erp->ReplaceLieferantennummer(1, $json[$name], 1);
+                break;
+              case 'shop':
+                $json[$name] = explode(' ', $json[$name]);
+                $json[$name] = reset($json[$name]);
+                break;
+              case 'lagerplatz':
+                $json[$name] = $this->app->erp->ReplaceLagerPlatz(1, $json[$name], 1);
+                break;
+              case 'artikelnummer':
+                $tmp = trim($json[$name]);
+                $rest = explode(' ',$tmp);
+                $rest = $rest[0];
+                $json[$name] =  $this->app->DB->Select(
+                  sprintf(
+                    "SELECT id 
+                    FROM artikel 
+                    WHERE nummer='%s' AND nummer!='' AND geloescht=0
+                    ORDER BY projekt = %d DESC
+                    LIMIT 1",
+                    $rest, $this->printerdata['projekt']
+                  )
+                );
+                break;
+            }
+          }
+        }
+      }
+      $json_str = $this->app->DB->real_escape_string(json_encode($json));
+      $this->app->DB->Update("UPDATE drucker SET json = '$json_str' WHERE id = '".$this->id."' LIMIT 1");
+    }
+    $id = $this->id;
+    if(!empty($struktur)) {
+      $html = '</table>
+  </fieldset><fieldset class="modulespecific"><legend>{|Druckerspezifische Einstellungen|}</legend>
+    <table width="100%">
+      <tr><td width="300">';
+    }else{
+      $html = '';
+    }
+    $json = $this->app->DB->Select("SELECT json FROM drucker WHERE id = '$id' LIMIT 1");
+    if(!empty($json)) {
+      $json = json_decode($json, true);
+    }
+    else {
+      $json = null;
+    }
+
+    foreach($struktur as $name => $val) {
+      $changed = false;
+      if(isset($val['default']) && !isset($json[$name])) {
+        $changed = true;
+        $json[$name] = $val['default'];
+      }
+    }
+    if(!empty($changed)) {
+      $json_str = $this->app->DB->real_escape_string(json_encode($json));
+      $this->app->DB->Update("UPDATE drucker SET json = '$json_str' WHERE id = '".$this->id."' LIMIT 1");
+    }
+    $first = true;
+    foreach($struktur as $name => $val) {
+      $tdtag = !empty($val['tdtag'])?$val['tdtag']:'';
+      $oneCol = !empty($val['onecol']);
+      $typ = 'text';
+      if(!empty($val['typ'])) {
+        $typ = $val['typ'];
+      }
+      if($typ === 'hidden') {
+
+      }
+      else{
+        if(isset($val['heading'])){
+          $html .= '<tr><td colspan="2"><b>' . html_entity_decode($val['heading']) . '</b></td></tr>';
+        }
+        if($oneCol){
+          $html .= '<tr><td valign="top" colspan="2"' . (!empty($tdtag) ? ' ' . $tdtag . ' ' : '') . '>' . ($first ? '<input type="hidden" name="modul_name" value="' . $this->app->DB->Select("SELECT modul FROM versandarten WHERE id = '$id' LIMIT 1") . '" />' : '') . (empty($val['bezeichnung']) ? $name : $val['bezeichnung']) . '<br />';
+        }else{
+          $html .= '<tr><td valign="top">' . ($first ? '<input type="hidden" name="modul_name" value="' . $this->app->DB->Select("SELECT modul FROM versandarten WHERE id = '$id' LIMIT 1") . '" />' : '') . (empty($val['bezeichnung']) ? $name : $val['bezeichnung']) . '</td><td' . (!empty($tdtag) ? ' ' . $tdtag . ' ' : '') . '>';
+        }
+      }
+
+      $tag = !empty($val['tag'])?$val['tag']:'';
+
+      $placeholder = !empty($val['placeholder'])?$val['placeholder']:'';
+      $size = !empty($val['size'])?$val['size']:'';
+      $rows = !empty($val['rows'])?$val['rows']:'';
+
+      if(isset($val['replace'])) {
+        switch($val['replace']) {
+          case 'lieferantennummer':
+            $json[$name] = $this->app->erp->ReplaceLieferantennummer(0,$json[$name],0);
+            if($target !== 'return')
+            {
+              $this->app->YUI->AutoComplete($name, 'lieferant', 1);
+            }
+            break;
+          case 'lagerplatz':
+            $json[$name] = $this->app->erp->ReplaceLagerPlatz(0, $json[$name], 0);
+            if($target !== 'return') {
+              $this->app->YUI->AutoComplete($name, 'lagerplatz', 0);
+            }
+            break;
+          case 'artikelnummer':
+            $json[$name] = $this->app->erp->ReplaceArtikel(0,$json[$name],0);
+            if($target !== 'return') {
+              $this->app->YUI->AutoComplete($name, 'artikelnummer', 1);
+            }
+            break;
+          case 'shop':
+            $json[$name] .= ($json[$name]?' '.$this->app->DB->Select("SELECT bezeichnung FROM shopexport WHERE id = '".(int)$json[$name]."'"):'');
+            if($target !== 'return') {
+              $this->app->YUI->AutoComplete($name, 'shopnameid');
+            }
+            break;
+          case 'etiketten':
+            if($target !== 'return')
+            {
+              $this->app->YUI->AutoComplete($name, 'etiketten');
+            }
+            break;
+        }
+      }
+
+      switch($typ) {
+        case 'textarea':
+          $html .= '<textarea '.(!empty($tag)?' '.$tag.' ':'').(!empty($size)?' cols="'.$size.'" ':'').' '.(!empty($rows)?' rows="'.$rows.'" ':'').' '.(!empty($placeholder)?' placeholder="'.$placeholder.'" ':'').' name="'.$name.'" id="'.$name.'">'.(!isset($json[$name])?'':$json[$name]).'</textarea>';
+          break;
+        case 'checkbox':
+          $html .= '<input type="checkbox" name="'.$name.'" id="'.$name.'" value="1" '.((isset($json[$name]) && $json[$name])?' checked="checked" ':'').' />';
+          break;
+        case 'select':
+          $html .= '<select name="'.$name.'">';
+          if(isset($val['optionen']) && is_array($val['optionen'])) {
+            foreach($val['optionen'] as $k => $v) {
+              $html .= '<option value="'.$k.'"'.($k == (isset($json[$name])?$json[$name]:'')?' selected="selected" ':'').'>'.$v.'</option>';
+            }
+          }
+          $html .= '</select>';
+          break;
+        case 'submit':
+          if(isset($val['text'])) {
+            $html .= '<form method="POST"><input type="submit" name="'.$name.'" value="'.$val['text'].'"></form>';
+          }
+          break;
+        case 'custom':
+          if(isset($val['function'])) {
+            $tmpfunction = $val['function'];
+            if(method_exists($this, $tmpfunction)) {
+              $html .= $this->$tmpfunction();
+            }
+          }
+          break;
+        case 'hidden':
+          $html .= '<input '.(!empty($placeholder)?' placeholder="'.$placeholder.'" ':'').' type="hidden" '.(!empty($val['size'])?' size="'.$val['size'].'" ':'').' name="'.$name.'" id="'.$name.'" value="'.(!isset($json[$name])?'':$json[$name]).'" />';
+          break;
+        default:
+          if($typ === 'time' || $typ === 'zeit') {
+            $this->app->YUI->TimePicker($name);
+          }
+          elseif($typ === 'date' || $typ === 'datum') {
+            $this->app->YUI->DatePicker($name);
+          }
+          $html .= '<input '.(!empty($placeholder)?' placeholder="'.$placeholder.'" ':'').' type="text" '.(!empty($val['size'])?' size="'.$val['size'].'" ':'').' name="'.$name.'" id="'.$name.'" value="'.(!isset($json[$name])?'':$json[$name]).'" />';
+          break;
+      }
+      if(isset($val['info']) && $val['info']) {
+        $html .= ' <i>'.$val['info'].'</i>';
+      }
+      if($typ === 'hidden') {
+        continue;
+      }
+      $html .= '</td></tr>';
+      $first = false;
+    }
+
+    if($target !== 'return'){
+      $this->app->Tpl->Add($target, $html);
+    }
+
+    return $html;
+  }
+}

@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-eOjNqw2fRM8UnJk/svnJhW==
+<?php 
+
+class GenArbeitsfreietage { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","ArbeitsfreietageCreate");
+    $this->app->ActionHandler("edit","ArbeitsfreietageEdit");
+    $this->app->ActionHandler("copy","ArbeitsfreietageCopy");
+    $this->app->ActionHandler("list","ArbeitsfreietageList");
+    $this->app->ActionHandler("delete","ArbeitsfreietageDelete");
+
+    $this->app->Tpl->Set("HEADING","Arbeitsfreietage");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function ArbeitsfreietageCreate(){
+    $this->app->Tpl->Set("HEADING","Arbeitsfreietage (Anlegen)");
+      $this->app->PageBuilder->CreateGen("arbeitsfreietage_create.tpl");
+  }
+
+  function ArbeitsfreietageEdit(){
+    $this->app->Tpl->Set("HEADING","Arbeitsfreietage (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("arbeitsfreietage_edit.tpl");
+  }
+
+  function ArbeitsfreietageCopy(){
+    $this->app->Tpl->Set("HEADING","Arbeitsfreietage (Kopieren)");
+      $this->app->PageBuilder->CreateGen("arbeitsfreietage_copy.tpl");
+  }
+
+  function ArbeitsfreietageDelete(){
+    $this->app->Tpl->Set("HEADING","Arbeitsfreietage (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("arbeitsfreietage_delete.tpl");
+  }
+
+  function ArbeitsfreietageList(){
+    $this->app->Tpl->Set("HEADING","Arbeitsfreietage (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("arbeitsfreietage_list.tpl");
+  }
+
+} 
+?>

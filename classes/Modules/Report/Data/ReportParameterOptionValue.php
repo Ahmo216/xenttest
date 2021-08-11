@@ -1,50 +1,62 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Report\Data;
+
+use JsonSerializable;
+
+class ReportParameterOptionValue implements JsonSerializable
+{
+    /** @var string $value */
+    private $value;
+
+    /** @var string $description */
+    private $description;
+
+    /**
+     * @param string $value
+     * @param string $description
+     */
+    public function __construct($value, $description = null)
+    {
+        $this->value = $value;
+        if (empty($description)) {
+            $this->description = $this->value;
+        } else {
+            $this->description = $description;
+        }
+    }
+
+    /**
+     * @return string
+     */
+    public function getValue()
+    {
+        return $this->value;
+    }
+
+    /**
+     * @return string
+     */
+    public function getDescription()
+    {
+        return $this->description;
+    }
+
+    /**
+     * @return string
+     */
+    public function __toString()
+    {
+        return sprintf('%s:%s', $this->getDescription(), $this->getValue());
+    }
+
+    /**
+     * Specify data which should be serialized to JSON
+     *
+     * @return mixed data which can be serialized by <b>json_encode</b>,
+     */
+    public function jsonSerialize()
+    {
+        return [$this->getDescription() => $this->getValue()];
+    }
+}

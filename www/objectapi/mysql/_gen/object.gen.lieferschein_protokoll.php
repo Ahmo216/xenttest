@@ -1,104 +1,138 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-AjqLoJ9tYgVQWkwC
+<?php
+
+class ObjGenLieferschein_Protokoll
+{
+
+  private  $id;
+  private  $lieferschein;
+  private  $zeit;
+  private  $bearbeiter;
+  private  $grund;
+
+  public $app;            //application object 
+
+  public function __construct($app)
+  {
+    $this->app = $app;
+  }
+
+  public function Select($id)
+  {
+    if(is_numeric($id))
+      $result = $this->app->DB->SelectArr("SELECT * FROM lieferschein_protokoll WHERE (id = '$id')");
+    else
+      return -1;
+
+$result = $result[0];
+
+    $this->id=$result[id];
+    $this->lieferschein=$result[lieferschein];
+    $this->zeit=$result[zeit];
+    $this->bearbeiter=$result[bearbeiter];
+    $this->grund=$result[grund];
+  }
+
+  public function Create()
+  {
+    $sql = "INSERT INTO lieferschein_protokoll (id,lieferschein,zeit,bearbeiter,grund)
+      VALUES('','{$this->lieferschein}','{$this->zeit}','{$this->bearbeiter}','{$this->grund}')"; 
+
+    $this->app->DB->Insert($sql);
+    $this->id = $this->app->DB->GetInsertID();
+  }
+
+  public function Update()
+  {
+    if(!is_numeric($this->id))
+      return -1;
+
+    $sql = "UPDATE lieferschein_protokoll SET
+      lieferschein='{$this->lieferschein}',
+      zeit='{$this->zeit}',
+      bearbeiter='{$this->bearbeiter}',
+      grund='{$this->grund}'
+      WHERE (id='{$this->id}')";
+
+    $this->app->DB->Update($sql);
+  }
+
+  public function Delete($id="")
+  {
+    if(is_numeric($id))
+    {
+      $this->id=$id;
+    }
+    else
+      return -1;
+
+    $sql = "DELETE FROM lieferschein_protokoll WHERE (id='{$this->id}')";
+    $this->app->DB->Delete($sql);
+
+    $this->id="";
+    $this->lieferschein="";
+    $this->zeit="";
+    $this->bearbeiter="";
+    $this->grund="";
+  }
+
+  public function Copy()
+  {
+    $this->id = "";
+    $this->Create();
+  }
+
+ /** 
+   Mit dieser Funktion kann man einen Datensatz suchen 
+   dafuer muss man die Attribute setzen nach denen gesucht werden soll
+   dann kriegt man als ergebnis den ersten Datensatz der auf die Suche uebereinstimmt
+   zurueck. Mit Next() kann man sich alle weiteren Ergebnisse abholen
+   **/ 
+
+  public function Find()
+  {
+    //TODO Suche mit den werten machen
+  }
+
+  public function FindNext()
+  {
+    //TODO Suche mit den alten werten fortsetzen machen
+  }
+
+ /** Funktionen um durch die Tabelle iterieren zu koennen */ 
+
+  public function Next()
+  {
+    //TODO: SQL Statement passt nach meiner Meinung nach noch nicht immer
+  }
+
+  public function First()
+  {
+    //TODO: SQL Statement passt nach meiner Meinung nach noch nicht immer
+  }
+
+ /** dank dieser funktionen kann man die tatsaechlichen werte einfach 
+  ueberladen (in einem Objekt das mit seiner klasse ueber dieser steht)**/ 
+
+  function SetId($value) { $this->id=$value; }
+  function GetId() { return $this->id; }
+  function SetLieferschein($value) { $this->lieferschein=$value; }
+  function GetLieferschein() { return $this->lieferschein; }
+  function SetZeit($value) { $this->zeit=$value; }
+  function GetZeit() { return $this->zeit; }
+  function SetBearbeiter($value) { $this->bearbeiter=$value; }
+  function GetBearbeiter() { return $this->bearbeiter; }
+  function SetGrund($value) { $this->grund=$value; }
+  function GetGrund() { return $this->grund; }
+
+}
+
+?>

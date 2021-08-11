@@ -1,138 +1,264 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\GoogleApi\Service;
+
+use Exception;
+use Xentral\Components\Database\Database;
+use Xentral\Modules\GoogleApi\Data\GoogleAccessTokenData;
+use Xentral\Modules\GoogleApi\Data\GoogleAccountPropertyValue;
+use Xentral\Modules\GoogleApi\Data\GoogleAccountPropertyCollection;
+use Xentral\Modules\GoogleApi\Data\GoogleAccountData;
+use Xentral\Modules\GoogleApi\Exception\GoogleAccountAlreadyExistsException;
+use Xentral\Modules\GoogleApi\Exception\GoogleAccountDeleteException;
+use Xentral\Modules\GoogleApi\Exception\GoogleAccountNotFoundException;
+use Xentral\Modules\GoogleApi\Exception\InvalidArgumentException;
+
+final class GoogleAccountService
+{
+    /** @var GoogleAccountGateway $gateway */
+    private $gateway;
+
+    /** @var Database $db */
+    private $db;
+
+    /**
+     * @param GoogleAccountGateway $gateway
+     * @param Database             $database
+     */
+    public function __construct(GoogleAccountGateway $gateway, Database $database)
+    {
+        $this->gateway = $gateway;
+        $this->db = $database;
+    }
+
+    /**
+     * @param int         $userId
+     * @param string|null $identifier
+     * @param string|null $refreshToken
+     *
+     * @throws InvalidArgumentException
+     * @throws GoogleAccountAlreadyExistsException
+     * @throws GoogleAccountNotFoundException
+     *
+     * @return GoogleAccountData
+     */
+    public function createAccount(int $userId, ?string $identifier, string $refreshToken = null): GoogleAccountData
+    {
+        if ($userId < 1) {
+            throw new InvalidArgumentException('Cannot create Google Account without User Id.');
+        }
+        try {
+            $this->gateway->getAccountByUser($userId);
+            throw new GoogleAccountAlreadyExistsException('A Google account already exists for this user.');
+        } catch (GoogleAccountNotFoundException $e) {
+        }
+
+        $account = new GoogleAccountData(null, $userId, $identifier, $refreshToken);
+        $id = $this->insertAccount($account);
+
+        return $this->gateway->getAccount($id);
+    }
+
+    /**
+     * @param GoogleAccountData $account
+     *
+     * @return int
+     */
+    public function saveAccount(GoogleAccountData $account): int
+    {
+        if ($account->getId() === null || !$this->gateway->existsAccount($account->getId())) {
+            return $this->insertAccount($account);
+        }
+
+        return $this->updateAccount($account);
+    }
+
+    /**
+     * Deletes the google user account entry and all associated tokens, scopes and properties
+     *
+     * @param int $id
+     *
+     * @throws GoogleAccountDeleteException
+     *
+     * @return void
+     */
+    public function deleteAccount(int $id): void
+    {
+        $this->db->beginTransaction();
+        try {
+            $queries = [
+                'DELETE FROM `google_account` WHERE `id` = :id',
+                'DELETE FROM `google_access_token` WHERE `google_account_id` = :id',
+                'DELETE FROM `google_account_property` WHERE `google_account_id` = :id',
+                'DELETE FROM `google_account_scope` WHERE `google_account_id` = :id',
+            ];
+            foreach ($queries as $sql) {
+                $this->db->perform($sql, ['id' => $id]);
+            }
+        } catch (Exception $e) {
+            $this->db->rollBack();
+            throw new GoogleAccountDeleteException('Could not Delete Google Account', $e->getCode(), $e);
+        }
+        $this->db->commit();
+    }
+
+    /**
+     * @param GoogleAccessTokenData $token
+     *
+     * @return void
+     */
+    public function saveAccessToken(GoogleAccessTokenData $token): void
+    {
+        $values = $token->toArray();
+        $update = 'UPDATE `google_access_token` 
+                    SET `token` = :token, `expires` = :expires
+                    WHERE `google_account_id` = :google_account_id';
+        $affected = $this->db->fetchAffected($update, $values);
+        if ($affected > 0) {
+            return;
+        }
+        $insert = 'INSERT INTO `google_access_token` (`google_account_id`, `token`, `expires`) 
+                   VALUES (:google_account_id, :token, :expires)';
+        $this->db->perform($insert, $values);
+    }
+
+    /**
+     * @param GoogleAccessTokenData $token
+     *
+     * @return void
+     */
+    public function deleteAccessToken(GoogleAccessTokenData $token): void
+    {
+        $sql = 'DELETE FROM `google_access_token` WHERE `google_account_id` = :google_account_id';
+        $this->db->perform($sql, $token->toArray());
+    }
+
+    /**
+     * @param int                             $accountId
+     * @param GoogleAccountPropertyCollection $properties
+     *
+     * @return void
+     */
+    public function saveAccountProperties(int $accountId, GoogleAccountPropertyCollection $properties): void
+    {
+        foreach ($properties->getAll() as $key => $property) {
+            if ($property === null) {
+                $this->deleteProperty($accountId, $key);
+                continue;
+            }
+            if ($property->getId() === null) {
+                $this->insertProperty($accountId, $property);
+                continue;
+            }
+            $this->updateProperty($accountId, $property);
+        }
+    }
+
+    /**
+     * @param int    $accountId
+     * @param string $scope
+     *
+     * @return void
+     */
+    public function saveAccountScope(int $accountId, string $scope): void
+    {
+        $existingScopes = $this->gateway->getScopes($accountId);
+        if (in_array($scope, $existingScopes, true)) {
+            return;
+        }
+        $sql = 'INSERT INTO `google_account_scope` (`google_account_id`, `scope`)
+                VALUES (:account_id, :scope)';
+        $this->db->perform($sql, ['account_id' => $accountId, 'scope' => $scope]);
+    }
+
+    /**
+     * @param int $accountId
+     *
+     * @return void
+     */
+    public function deleteAccountScopes(int $accountId): void
+    {
+        $sql = 'DELETE FROM `google_account_scope` WHERE `google_account_id` = :account_id';
+        $this->db->perform($sql, ['account_id' => $accountId]);
+    }
+
+    /**
+     * @param GoogleAccountData $account
+     *
+     * @return int
+     */
+    private function insertAccount(GoogleAccountData $account): int
+    {
+        $sql = 'INSERT INTO `google_account` (`user_id`, `refresh_token`, `identifier`) VALUES
+                (:user_id, :refresh_token, :identifier)';
+        $values = $account->toArray();
+        $this->db->perform($sql, $values);
+
+        return $this->db->lastInsertId();
+    }
+
+    /**
+     * @param GoogleAccountData $account
+     *
+     * @return int
+     */
+    private function updateAccount(GoogleAccountData $account): int
+    {
+        $sql = 'UPDATE `google_account` SET 
+                     `user_id` = :user_id,
+                     `identifier` = :identifier,
+                     `refresh_token` = :refresh_token
+                 WHERE `id` = :id';
+        $values = $account->toArray();
+        $this->db->perform($sql, $values);
+
+        return $account->getId();
+    }
+
+    /**
+     * @param int                        $accountId
+     * @param GoogleAccountPropertyValue $property
+     *
+     * @return void
+     */
+    private function insertProperty(int $accountId, GoogleAccountPropertyValue $property): void
+    {
+        $sql = 'INSERT INTO `google_account_property` (`google_account_id`, `varname`, `value`) 
+                        VALUES (:account_id, :varname, :value)';
+        $values = $property->toArray();
+        $values['account_id'] = $accountId;
+        $this->db->perform($sql, $values);
+    }
+
+    /**
+     * @param int                        $accountId
+     * @param GoogleAccountPropertyValue $property
+     *
+     * @return void
+     */
+    private function updateProperty(int $accountId, GoogleAccountPropertyValue $property): void
+    {
+        $sql = 'UPDATE `google_account_property` 
+                SET `google_account_id` = :account_id, `varname` = :varname, `value` = :value
+                WHERE `id` = :id';
+        $values = $property->toArray();
+        $values['account_id'] = $accountId;
+        $this->db->perform($sql, $values);
+    }
+
+    /**
+     * @param int    $accountId
+     * @param string $varname
+     *
+     * @return void
+     */
+    private function deleteProperty(int $accountId, string $varname): void
+    {
+        $sql = 'DELETE FROM `google_account_property` 
+                WHERE `google_account_id` = :account_id AND `varname` = :varname';
+        $values = ['account_id' => $accountId, 'varname' => $varname];
+        $this->db->perform($sql, $values);
+    }
+}

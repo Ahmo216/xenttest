@@ -1,29 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Ebay\Exception;
+
+use InvalidArgumentException as SplInvalidArgumentException;
+
+class InvalidArgumentException extends SplInvalidArgumentException implements EbayExceptionInterface
+{
+}

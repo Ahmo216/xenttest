@@ -1,73 +1,118 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Datanorm\Wrapper;
+
+use erpAPI;
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Datanorm\Data\DatanormVTypeData;
+
+class AddressWrapper
+{
+    /** @var erpAPI $erp */
+    private $erp;
+
+    /** @var Database */
+    private $db;
+
+    /**
+     * @param Database $db
+     * @param erpAPI   $erp
+     */
+    public function __construct(Database $db, erpAPI $erp)
+    {
+        $this->db = $db;
+        $this->erp = $erp;
+    }
+
+    /**
+     * @param DatanormVTypeData $supplierData
+     *
+     * @return int
+     */
+    public function insertSupplierIfNotExists(DatanormVTypeData $supplierData): int
+    {
+        $supplierName =
+            trim(
+                $supplierData->getAdress1() . ' ' .
+                $supplierData->getAdress2() . ' ' .
+                $supplierData->getAdress3()
+            );
+
+        if (empty($supplierName)) {
+            $supplierName = $supplierData->getDescription();
+        }
+
+        $supplierId = $this->findAdressByName($supplierName);
+
+        if (empty($supplierId)) {
+            $sql =
+                'INSERT INTO `adresse`
+                (`typ`,`name`,`ort`,`strasse`,`plz`,`land`,`sonstiges`,`lieferantennummer`) VALUES
+                (:type, :name , :city, :street, :zip, :country, :miscellaneous, :supplier_number)
+            ';
+
+            $this->db->perform(
+                $sql,
+                [
+                    'type'            => 'firma',
+                    'name'            => $supplierName,
+                    'city'            => $supplierData->getCity(),
+                    'street'          => $supplierData->getStreet(),
+                    'zip'             => $supplierData->getZip(),
+                    'country'         => $this->mapCountryId($supplierData->getCountryId()),
+                    'miscellaneous'   => $supplierData->getProducerToken(),
+                    'supplier_number' => $this->erp->GetNextLieferantennummer(),
+                    'sonstiges'       => $supplierData->getDescription(),
+                ]
+            );
+
+            $supplierId = $this->db->lastInsertId();
+        }
+
+        return $supplierId;
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return int
+     */
+    private function findAdressByName(string $name)
+    {
+        $select = $this->db->select()
+            ->cols(['id'])
+            ->from('adresse')
+            ->where('name=?', $name)
+            ->limit(1);
+
+        $result = $this->db->fetchCol(
+            $select->getStatement(),
+            $select->getBindValues()
+        );
+
+        if (!empty($result)) {
+            return $result[0];
+        }
+
+        return 0;
+    }
+
+    /**
+     * TODO Need more examples
+     *
+     * @param string $countryId
+     *
+     * @return string
+     */
+    private function mapCountryId(string $countryId)
+    {
+        $mapping = [
+            'D' => 'DE',
+        ];
+        if (array_key_exists($countryId, $mapping)) {
+            return $mapping[$countryId];
+        }
+
+        return $countryId;
+    }
+}

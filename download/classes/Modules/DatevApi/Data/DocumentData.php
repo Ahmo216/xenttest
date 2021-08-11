@@ -55,6 +55,9 @@ final class DocumentData
     /** @var string $onlineOrderId */
     private $onlineOrderId;
 
+    /** @var ?string $transactionNumber */
+    private $transactionNumber;
+
     private function __construct()
     {
     }
@@ -85,6 +88,7 @@ final class DocumentData
         $documentData->customerCountry = $dbData['customer_country'];
         $documentData->isVatFree = (bool)$dbData['vat_free'];
         $documentData->onlineOrderId = (string)$dbData['internet'];
+        $documentData->transactionNumber = $dbData['transaction_number'] ?? null;
 
         return $documentData;
     }
@@ -223,5 +227,13 @@ final class DocumentData
     public function getOnlineOrderId(): string
     {
         return $this->onlineOrderId;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getTransactionNumber(): ?string
+    {
+        return $this->transactionNumber;
     }
 }

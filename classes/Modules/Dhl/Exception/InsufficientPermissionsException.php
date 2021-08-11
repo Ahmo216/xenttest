@@ -1,34 +1,13 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-YwC=
+<?php
+
+namespace Xentral\Modules\Dhl\Exception;
+
+use Throwable;
+
+class InsufficientPermissionsException extends DhlBaseException
+{
+    public function __construct($message = "Unzureichende Rechte", $code = 0, Throwable $previous = null)
+    {
+        parent::__construct($message, $code, $previous);
+    }
+}

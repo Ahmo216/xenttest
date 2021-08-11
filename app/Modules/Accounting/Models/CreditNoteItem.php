@@ -23,6 +23,10 @@ use Illuminate\Database\Eloquent\Relations\HasOne;
  */
 class CreditNoteItem extends Model
 {
+    public $timestamps = false;
+
+    protected $table = 'gutschrift_position';
+
     public function creditNote(): BelongsTo
     {
         return $this->belongsTo(CreditNote::class, 'gutschrift');

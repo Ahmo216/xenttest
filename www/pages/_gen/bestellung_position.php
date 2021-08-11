@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php 
+
+class GenBestellung_Position { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","Bestellung_PositionCreate");
+    $this->app->ActionHandler("edit","Bestellung_PositionEdit");
+    $this->app->ActionHandler("copy","Bestellung_PositionCopy");
+    $this->app->ActionHandler("list","Bestellung_PositionList");
+    $this->app->ActionHandler("delete","Bestellung_PositionDelete");
+
+    $this->app->Tpl->Set("HEADING","Bestellung_Position");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function Bestellung_PositionCreate(){
+    $this->app->Tpl->Set("HEADING","Bestellung_Position (Anlegen)");
+      $this->app->PageBuilder->CreateGen("bestellung_position_create.tpl");
+  }
+
+  function Bestellung_PositionEdit(){
+    $this->app->Tpl->Set("HEADING","Bestellung_Position (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("bestellung_position_edit.tpl");
+  }
+
+  function Bestellung_PositionCopy(){
+    $this->app->Tpl->Set("HEADING","Bestellung_Position (Kopieren)");
+      $this->app->PageBuilder->CreateGen("bestellung_position_copy.tpl");
+  }
+
+  function Bestellung_PositionDelete(){
+    $this->app->Tpl->Set("HEADING","Bestellung_Position (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("bestellung_position_delete.tpl");
+  }
+
+  function Bestellung_PositionList(){
+    $this->app->Tpl->Set("HEADING","Bestellung_Position (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("bestellung_position_list.tpl");
+  }
+
+} 
+?>

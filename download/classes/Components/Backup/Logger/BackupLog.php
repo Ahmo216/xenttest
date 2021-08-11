@@ -1,118 +1,172 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+
+namespace Xentral\Components\Backup\Logger;
+
+
+use Xentral\Components\Backup\Exception\LogException;
+
+final class BackupLog
+{
+    /** @var string|null $path */
+    private $fullPath;
+
+    /** @var string|null $storagePath */
+    private $storagePath;
+
+    /** @var string|null $fileName */
+    private $fileName;
+
+    /** @var string $persistentFile */
+    private static $persistentFile = 'backup_logger.txt';
+
+    public function __construct($path = null, $fileName = null)
+    {
+        if (null !== $path && null !== $fileName) {
+            $this->fullPath = rtrim($path, DIRECTORY_SEPARATOR) . DIRECTORY_SEPARATOR . $fileName;
+        }
+        $this->storagePath = $path;
+        $this->fileName = $fileName;
+
+    }
+
+    /**
+     * @param string      $message
+     *
+     * @param string|null $path
+     * @param string|null $fileName
+     *
+     * @param bool        $withDate
+     *
+     * @param bool        $append
+     *
+     * @return false|int
+     */
+    public function write($message, $path = null, $fileName = null, $withDate = true, $append = true)
+    {
+        $flag = FILE_APPEND | LOCK_EX;
+
+        $path = $this->getFullPath($path, $fileName);
+
+        if (null === $path || (!file_exists($path) && !@touch($path))) {
+            throw new LogException(sprintf('cannot access or create file %s', $path));
+        }
+
+        $message = $withDate === true ? time() . ': ' . $message : $message;
+        if ($append === false) {
+            $flag &= ~FILE_APPEND;
+        }
+
+        return file_put_contents($path, $message . "\n", $flag);
+    }
+
+
+    /**
+     * @param int         $linePosition
+     *
+     * @param string|null $path
+     *
+     * @param string|null $fileName
+     *
+     * @return mixed|string
+     */
+    public function tail($linePosition = 0, $path = null, $fileName = null)
+    {
+        $path = $this->getFullPath($path, $fileName);
+
+        if (null === $path || !file_exists($path)) {
+            throw new LogException(sprintf('File %s cannot be found!', $path));
+        }
+        $output = '';
+        if (($xData = file($path, FILE_SKIP_EMPTY_LINES)) && count($xData) > 0) {
+            $key = (int)$linePosition === 0 ? count($xData) - 1 : $linePosition;
+            if (!array_key_exists($key, $xData)) {
+                throw new LogException(sprintf('Offset %d is missing', (int)$linePosition));
+            }
+            $output = $xData[$key];
+        }
+
+        return $output;
+    }
+
+    /**
+     * @param string|null $path
+     *
+     * @param string|null $fileName
+     *
+     * @return bool|false|string
+     */
+    public function getContent($path = null, $fileName = null)
+    {
+        $path = $this->getFullPath($path, $fileName);
+
+        if (null === $path || !file_exists($path)) {
+            throw new LogException(sprintf('File %s cannot be found!', $path));
+        }
+
+        return file_get_contents($path);
+    }
+
+    /**
+     * @param null        $path
+     *
+     * @param string|null $fileName
+     *
+     * @throws LogException
+     * @return bool
+     */
+    public function delete($path = null, $fileName = null)
+    {
+        $path = $this->getFullPath($path, $fileName);
+        if (null !== $path && !file_exists($path)) {
+            return false;
+            //throw new LogException(sprintf('File %s cannot be deleted!', $path));
+        }
+
+        return unlink($path);
+    }
+
+    /**
+     * @param null $path
+     * @param null $fileName
+     *
+     * @return string|null
+     */
+    private function getFullPath($path = null, $fileName = null)
+    {
+        if ($path === null && $fileName === null) {
+            return $this->fullPath;
+        }
+        if ($path !== null && $fileName !== null) {
+            return rtrim($path, DIRECTORY_SEPARATOR) . DIRECTORY_SEPARATOR . $fileName;
+        }
+
+        if ($fileName !== null && $path === null && $this->storagePath !== null) {
+            return rtrim($this->storagePath, DIRECTORY_SEPARATOR) . DIRECTORY_SEPARATOR . $fileName;
+        }
+
+        if ($path !== null && $fileName === null && $this->fileName !== null) {
+            return rtrim($path, DIRECTORY_SEPARATOR) . DIRECTORY_SEPARATOR . $this->fileName;
+        }
+
+        return null;
+    }
+
+    /**
+     * @param string $message
+     *
+     * @return void
+     */
+    public function writePersistent($message)
+    {
+        $this->write($message, null, self::$persistentFile, true, false);
+    }
+
+    /**
+     * @return string
+     */
+    public function getPersistentFileName()
+    {
+        return self::$persistentFile;
+    }
+}

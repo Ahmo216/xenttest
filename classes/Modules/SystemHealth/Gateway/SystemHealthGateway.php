@@ -1,90 +1,225 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-X7Rv1fvSR32J6/lEyQmKa2ztewsF0HUV
+<?php
+
+namespace Xentral\Modules\SystemHealth\Gateway;
+
+use Xentral\Components\Database\Database;
+
+final class SystemHealthGateway
+{
+    /** @var Database $db */
+    private $db;
+
+    /**
+     * @param Database $database
+     */
+    public function __construct(Database $database)
+    {
+        $this->db = $database;
+    }
+
+    /**
+     * @param $systemHealthId
+     *
+     * @return array
+     */
+    public function getById($systemHealthId)
+    {
+        $sql = 'SELECT sh.*, scel.status AS custom_status 
+                FROM `systemhealth` AS `sh` 
+                LEFT JOIN `systemhealth_custom_error_lvl` AS `scel` ON sh.id = scel.systemhealth_id 
+                WHERE sh.id = :systemhealth_id
+                LIMIT 1';
+
+        return $this->db->fetchRow($sql, [
+            'systemhealth_id' => $systemHealthId,
+        ]);
+    }
+
+    /**
+     * @param int $systemHealthCategoryId
+     *
+     * @return array
+     */
+    public function getCategoryById($systemHealthCategoryId)
+    {
+        $sql = 'SELECT sh.* 
+                FROM `systemhealth_category` AS `sh` 
+                WHERE sh.id = :systemhealth_category_id
+                LIMIT 1';
+
+        return $this->db->fetchRow($sql, [
+            'systemhealth_category_id' => $systemHealthCategoryId,
+        ]);
+    }
+
+    /**
+     * @param int $systemHealthId
+     *
+     * @return int|float|string|false false on empty result
+     */
+    public function getCustomStatusLvlFromId($systemHealthId)
+    {
+        $sql = 'SELECT scel.status 
+            FROM `systemhealth_custom_error_lvl` AS `scel` 
+            WHERE scel.systemhealth_id = :systemhealth_id 
+            LIMIT 1';
+
+        return $this->db->fetchValue($sql, ['systemhealth_id' => $systemHealthId]);
+    }
+
+    /**
+     * @param int    $systemHealthId
+     * @param string $status
+     *
+     * @return array
+     */
+    public function getUserNotificationsByIdAndStatus($systemHealthId, $status)
+    {
+        if ($status !== 'warning' && $status !== 'error') {
+            return [];
+        }
+        if ($status === 'warning') {
+            $sql = "SELECT sni.user_id, sh.name, sh.description 
+            FROM `systemhealth_notification_item` AS `sni`
+            INNER JOIN `systemhealth` AS `sh` ON sni.systemhealth_id = sh.id
+            WHERE sni.systemhealth_id = :systemhealth_id
+            AND sni.status = 'warning'";
+        } else {
+            $sql = "SELECT sni.user_id, sh.name, sh.description
+            FROM `systemhealth_notification_item` AS `sni` 
+            INNER JOIN `systemhealth` AS `sh` ON sni.systemhealth_id = sh.id
+            WHERE sni.systemhealth_id = :systemhealth_id
+            AND (sni.status = 'warning' OR sni.status = 'error')";
+        }
+
+        return $this->db->fetchAll($sql, ['systemhealth_id' => $systemHealthId]);
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return array
+     */
+    public function getCategoryByName($name)
+    {
+        $sql = 'SELECT shc.* 
+                  FROM `systemhealth_category` AS `shc` 
+                  WHERE shc.name = :name
+                  LIMIT 1';
+
+        return $this->db->fetchRow($sql, [
+            'name' => $name,
+        ]);
+    }
+
+    /**
+     * @param int    $systemHealthCategoryId
+     * @param string $name
+     *
+     * @return array
+     */
+    public function getByName($systemHealthCategoryId, $name)
+    {
+        $sql = 'SELECT sh.* 
+               FROM `systemhealth` AS `sh`
+               WHERE sh.`name` = :name AND sh.systemhealth_category_id = :systemhealth_category_id
+               LIMIT 1';
+
+        return $this->db->fetchRow($sql, [
+            'name'                     => $name,
+            'systemhealth_category_id' => $systemHealthCategoryId,
+        ]);
+    }
+
+    /**
+     * @param int $systemHealthCategoryId
+     *
+     * @return array
+     */
+    public function getEntriesByCategoryId($systemHealthCategoryId)
+    {
+        return $this->db->fetchAll(
+            'SELECT sh.*, scel.status AS custom_status
+            FROM `systemhealth` AS `sh`
+            LEFT JOIN `systemhealth_custom_error_lvl` AS `scel` ON sh.id = scel.systemhealth_id 
+            WHERE sh.systemhealth_category_id = :systemhealth_category_id
+            ORDER BY sh.name',
+            ['systemhealth_category_id' => $systemHealthCategoryId]
+        );
+    }
+
+    /**
+     * @param int $userId
+     * @param int $systemHealthCategoryId
+     *
+     * @return array
+     */
+    public function getItemNoticiationsByUserId($userId, $systemHealthCategoryId = 0)
+    {
+        return $this->db->fetchGroup(
+            'SELECT sni.systemhealth_id, sni.status, sni.email 
+            FROM `systemhealth_notification_item` AS `sni`
+            INNER JOIN `systemhealth` AS `sh` ON sni.systemhealth_id = sh.id 
+              AND (systemhealth_category_id = :systemhealth_category_id OR :systemhealth_category_id = 0) 
+            WHERE sni.user_id = :user_id
+            ORDER BY sni.user_id DESC',
+            [
+                'user_id'                  => (int)$userId,
+                'systemhealth_category_id' => (int)$systemHealthCategoryId,
+            ]
+        );
+    }
+
+    /**
+     * @param int $systemHealthId
+     * @param int $userId
+     *
+     * @return array
+     */
+    public function getItemNotificationByUserIdSystemHealthId($systemHealthId, $userId = 0)
+    {
+        return $this->db->fetchRow(
+            'SELECT sni.* 
+            FROM `systemhealth_notification_item` AS `sni` 
+            WHERE sni.systemhealth_id = :systemhealth_id AND sni.user_id = :user_id
+            LIMIT 1',
+            ['systemhealth_id' => (int)$systemHealthId, 'user_id' => (int)$userId]
+        );
+    }
+
+    /**
+     * @return array
+     */
+    public function getCategories()
+    {
+        return $this->db->fetchAll(
+            'SELECT shc.* 
+            FROM `systemhealth_category` AS `shc`
+            ORDER BY shc.name'
+        );
+    }
+
+    /**
+     * @param int $systemCategorieId
+     *
+     * @return array
+     */
+    public function getStatusCount($systemCategorieId = 0)
+    {
+        if ($systemCategorieId > 0) {
+            return $this->db->fetchPairs(
+                'SELECT sh.status, COUNT(sh.id) 
+                FROM `systemhealth` AS `sh` 
+                WHERE sh.systemhealth_category_id = :systemhealth_category_id
+                GROUP BY sh.status',
+                ['systemhealth_category_id' => $systemCategorieId]
+            );
+        }
+
+        return $this->db->fetchPairs(
+            'SELECT sh.status, COUNT(sh.id) 
+                FROM `systemhealth` AS `sh` 
+                GROUP BY sh.status'
+        );
+    }
+}

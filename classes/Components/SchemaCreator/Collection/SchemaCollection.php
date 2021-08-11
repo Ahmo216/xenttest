@@ -1,36 +1,31 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\SchemaCreator\Collection;
+
+use ArrayIterator;
+use IteratorAggregate;
+use Xentral\Components\SchemaCreator\Schema\TableSchema;
+
+final class SchemaCollection implements IteratorAggregate
+{
+    /** @var array|TableSchema[] */
+    private $values = [];
+
+    /**
+     * @param TableSchema $schema
+     */
+    public function add(TableSchema $schema): void
+    {
+        $this->values[] = $schema;
+    }
+
+    /**
+     * @return ArrayIterator|TableSchema[]
+     */
+    public function getIterator()
+    {
+        return new ArrayIterator($this->values);
+    }
+}

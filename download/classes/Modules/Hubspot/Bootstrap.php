@@ -165,6 +165,7 @@ final class Bootstrap
     {
         return new HubspotProcessSchedulerTask(
             $container->get('HubspotRequestQueuesService'),
+            $container->get('HubspotConfigurationService'),
             new TaskMutexService($container->get('Database'))
         );
     }

@@ -1,30 +1,8 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+namespace Xentral\Modules\ScanArticle\Exception;
+
+use InvalidArgumentException;
+
+class ArticleNotFoundException extends InvalidArgumentException implements ScanArticleExceptionInterface
+{
+}

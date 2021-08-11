@@ -358,7 +358,7 @@ $erg = [
 'create', 'delete', 'edit', 'list', 'minidetail', 'multibuttonchange', 'multibuttons'
   ],
   'Produktion' => [
-'abschicken', 'abschluss', 'alleetiketten', 'arbeitsanweisung', 'ausversand', 'beistellung', 'beistellungenuebersicht', 'berechnen', 'chargen', 'chargendelete', 'chargenedit', 'chargenschnellsuche', 'checkdisplay', 'copy', 'copy', 'copyproduktionposition', 'create', 'create', 'data', 'dateien', 'delete', 'delete', 'deleteetikett', 'deletefunktion', 'deletepaposition', 'delproduktionposition', 'downfunktion', 'downpaposition', 'downproduktionposition', 'edit', 'edit', 'editable', 'einlagern', 'etiketten', 'etikettendrucken', 'eventdata', 'externeproduktionbestellen', 'freigabe', 'funktionsprotokoll', 'getetikett', 'getfunktion', 'getpaposition', 'getproduktionslabel', 'getproduktionwidgetconfig', 'inlinepdf', 'lagerbestand', 'lieferschein', 'list', 'list', 'livetabelle', 'minidetail', 'minidetailarbeitsanweisung', 'nachlieferung', 'nachlieferung', 'pdf', 'pdfanhang', 'positionen', 'positioneneditpopup', 'posloeschen', 'proforma', 'protokoll', 'rechnung', 'reservieren', 'savefunktion', 'savepaposition', 'schreibschutz', 'search', 'seriennummern', 'settings', 'stuecklisteetiketten', 'teillieferung', 'teilproduktion', 'tracking', 'update', 'upfunktion', 'uppaposition', 'upproduktionposition', 'uststart', 'verfuegbar', 'versand', 'zahlungsmail', 'zeitplanung'
+'abschicken', 'abschluss', 'alleetiketten', 'arbeitsanweisung', 'ausversand', 'beistellung', 'beistellungenuebersicht', 'berechnen', 'chargen', 'chargendelete', 'chargenedit', 'chargenschnellsuche', 'copy', 'copy', 'copyproduktionposition', 'create', 'create', 'data', 'dateien', 'delete', 'delete', 'deleteetikett', 'deletefunktion', 'deletepaposition', 'delproduktionposition', 'downfunktion', 'downpaposition', 'downproduktionposition', 'edit', 'edit', 'editable', 'einlagern', 'etiketten', 'etikettendrucken', 'eventdata', 'externeproduktionbestellen', 'freigabe', 'funktionsprotokoll', 'getetikett', 'getfunktion', 'getpaposition', 'getproduktionslabel', 'getproduktionwidgetconfig', 'inlinepdf', 'lagerbestand', 'lieferschein', 'list', 'list', 'livetabelle', 'minidetail', 'minidetailarbeitsanweisung', 'nachlieferung', 'nachlieferung', 'pdf', 'pdfanhang', 'positionen', 'positioneneditpopup', 'posloeschen', 'proforma', 'protokoll', 'rechnung', 'reservieren', 'savefunktion', 'savepaposition', 'schreibschutz', 'search', 'seriennummern', 'settings', 'stuecklisteetiketten', 'teillieferung', 'teilproduktion', 'tracking', 'update', 'upfunktion', 'uppaposition', 'upproduktionposition', 'uststart', 'verfuegbar', 'versand', 'zahlungsmail', 'zeitplanung'
   ],
   'Gruppen_kategorien' => [
 'copy', 'create', 'create', 'delete', 'delete', 'edit', 'edit', 'list', 'list'
@@ -482,6 +482,9 @@ $erg = [
   ],
   'Drucker' => [
 'copy', 'create', 'create', 'delete', 'delete', 'edit', 'edit', 'list', 'list', 'spooler', 'spoolerdelete', 'spoolerdownload', 'spoolerdownloadall', 'spoolerdownloadzip', 'spoolerleeren', 'testseite'
+  ],
+  'Logviewer' => [
+'deleteall', 'list', 'minidetail', 'settings'
   ],
   'Preisanfrage' => [
 'abschicken', 'abschliessen', 'archivierepdf', 'bestellung', 'copy', 'copy', 'copypreisanfrageposition', 'create', 'create', 'createfromproject', 'dateien', 'delete', 'delete', 'delpreisanfrageposition', 'downpreisanfrageposition', 'edit', 'edit', 'editable', 'freigabe', 'inlinepdf', 'lieferanten', 'list', 'list', 'livetabelle', 'minidetail', 'pdf', 'positionen', 'positioneneditpopup', 'protokoll', 'schreibschutz', 'uppreisanfrageposition'
@@ -770,9 +773,6 @@ $erg = [
   ],
   'Verbindlichkeit' => [
 'automatisch', 'bezahlt', 'copy', 'copy', 'copyverbindlichkeitposition', 'create', 'create', 'createbestellung', 'dateien', 'delete', 'delete', 'delverbindlichkeitposition', 'downverbindlichkeitposition', 'edit', 'edit', 'editable', 'editreadonly', 'einstellungen', 'freigabe', 'inlinepdf', 'kontierungen', 'kostenstelle', 'list', 'list', 'minidetail', 'offen', 'pdfanhang', 'positionen', 'positioneneditpopup', 'schreibschutz', 'upverbindlichkeitposition'
-  ],
-  'Log' => [
-'deleteall', 'list', 'minidetail', 'settings'
   ],
   'Elo' => [
 'einstellungen', 'log'

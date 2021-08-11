@@ -1,54 +1,66 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Database\Parser;
+
+/**
+ * @example
+ *      self::rebuild('SELECT * FROM foo WHERE id IN (:ids)', ['ids' => [1, 2, 3]])
+ *      Erzeugt:
+ *          [
+ *              'statement' => 'SELECT * FROM foo WHERE id IN (:ids_expl_0_, :ids_expl_1_, :ids_expl_2_)',
+ *              'values' => [
+ *                  '_ids_expl_0_' => 1,
+ *                  '_ids_expl_1_' => 2,
+ *                  '_ids_expl_2_' => 3,
+ *              ]
+ *          ]
+ */
+final class MysqliArrayValueParser implements ParserInterface
+{
+    /**
+     * @param string $statement
+     * @param array  $values
+     *
+     * @return array
+     *  - Array key 'statement' contains the rebuild statement
+     *  - Array key 'values' contains the rebuild bind parameters
+     */
+    public function rebuild($statement, array $values = [])
+    {
+        return $this->replaceArrayValues($statement, $values);
+    }
+
+    /**
+     * @param string $statement
+     * @param array  $values
+     *
+     * @return array
+     */
+    private function replaceArrayValues($statement, array $values = [])
+    {
+        foreach ($values as $paramName => $paramValue) {
+            if (is_array($paramValue)) {
+                $counter = 0;
+                $additionalParams = [];
+                foreach ($paramValue as $arrayValue) {
+                    $additionalParamName = '_' . $paramName . '_expl_' . $counter . '_';
+                    $additionalParams[] = ':' . $additionalParamName;
+                    $values[$additionalParamName] = $arrayValue;
+                    $counter++;
+                }
+
+                // Replace original named parameter by exploded parameters in statement
+                $replaceString = implode(', ', $additionalParams);
+                $statement = str_replace(':' . $paramName, $replaceString, $statement);
+
+                // Remove original parameter value
+                unset($values[$paramName]);
+            }
+        }
+
+        return [
+            'statement' => $statement,
+            'values'    => $values,
+        ];
+    }
+}

@@ -1,51 +1,25 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/**
+ * PHPMailer language file.
+ * Hungarian Version
+ */
+
+$PHPMAILER_LANG = array();
+
+$PHPMAILER_LANG["provide_address"]      = 'Meg kell adnod legalább egy ' .
+                                          'címzett email címet.';
+$PHPMAILER_LANG["mailer_not_supported"] = ' levelezõ nem támogatott.';
+$PHPMAILER_LANG["execute"]              = 'Nem tudtam végrehajtani: ';
+$PHPMAILER_LANG["instantiate"]          = 'Nem sikerült példányosítani a mail funkciót.';
+$PHPMAILER_LANG["authenticate"]         = 'SMTP Hiba: Sikertelen autentikáció.';
+$PHPMAILER_LANG["from_failed"]          = 'Az alábbi Feladó cím hibás: ';
+$PHPMAILER_LANG["recipients_failed"]    = 'SMTP Hiba: Az alábbi ' .
+                                          'címzettek hibásak: ';
+$PHPMAILER_LANG["data_not_accepted"]    = 'SMTP Hiba: Nem elfogadható adat.';
+$PHPMAILER_LANG["connect_host"]         = 'SMTP Hiba: Nem tudtam csatlakozni az SMTP host-hoz.';
+$PHPMAILER_LANG["file_access"]          = 'Nem sikerült elérni a következõ fájlt: ';
+$PHPMAILER_LANG["file_open"]            = 'Fájl Hiba: Nem sikerült megnyitni a következõ fájlt: ';
+$PHPMAILER_LANG["encoding"]             = 'Ismeretlen kódolás: ';
+$PHPMAILER_LANG["signing"]              = 'Signing Error: ';
+
 ?>
-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
-0lqN+CdMpkGNgcApqB2pKG==

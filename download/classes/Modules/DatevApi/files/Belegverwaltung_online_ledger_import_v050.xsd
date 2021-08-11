@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Mit XMLSpy v2012 rel. 2 sp1 (x64) (http://www.altova.com) von AC (DATEV e.G.) bearbeitet -->
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://xml.datev.de/bedi/tps/ledger/v050" xmlns:de="http://xml.datev.de/DD/DE/bedi/tps/ledger/v050" targetNamespace="http://xml.datev.de/bedi/tps/ledger/v050" elementFormDefault="qualified">
 	<xsd:import namespace="http://xml.datev.de/DD/DE/bedi/tps/ledger/v050" schemaLocation="Belegverwaltung_online_ledger_types_v050.xsd"/>
 	<xsd:element name="LedgerImport">
@@ -50,10 +51,14 @@
 					<xsd:element name="currencyCode" type="de:p1" minOccurs="1" maxOccurs="1"/>
 					<xsd:element name="invoiceId" type="de:p10040" minOccurs="1" maxOccurs="1"/>
 					<xsd:element name="bookingText" type="de:p10036" minOccurs="0" maxOccurs="1"/>
+					<xsd:element name="typeOfReceivable" type="de:p10001" minOccurs="0" maxOccurs="1"/>
+					<xsd:element name="ownVatId" type="de:p10027" minOccurs="0" maxOccurs="1"/>
+					<xsd:element name="shipFromCountry" type="de:p10014" minOccurs="0" maxOccurs="1"/>
 					<xsd:element name="partyId" type="de:p10011" minOccurs="0" maxOccurs="1"/>
 					<xsd:element name="paidAt" type="de:p10029" minOccurs="0" maxOccurs="1"/>
 					<xsd:element name="internalInvoiceId" type="de:p10" minOccurs="0" maxOccurs="1"/>
 					<xsd:element name="vatId" type="de:p10027" minOccurs="0" maxOccurs="1"/>
+					<xsd:element name="shipToCountry" type="de:p10014" minOccurs="0" maxOccurs="1"/>
 					<xsd:element name="exchangeRate" type="de:p31" minOccurs="0" maxOccurs="1"/>
 					<xsd:element name="bankCode" type="de:p10007" minOccurs="0" maxOccurs="1"/>
 					<xsd:element name="bankAccount" type="de:p10005" minOccurs="0" maxOccurs="1"/>

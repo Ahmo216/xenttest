@@ -1,30 +1,7 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-6W==
+<?php
+
+namespace Xentral\Modules\User\Exception;
+
+class UserConfigKeyNotFoundException extends \InvalidArgumentException implements UserExceptionInterface
+{
+}

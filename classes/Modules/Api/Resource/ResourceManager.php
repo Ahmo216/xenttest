@@ -1,44 +1,69 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-1G==
+<?php
+
+namespace Xentral\Modules\Api\Resource;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Api\Validator\Validator;
+
+class ResourceManager
+{
+    /** @var Database $db */
+    protected $db;
+
+    /** @var Validator $validator */
+    protected $validator;
+
+    /** @var \Api $legacyApi */
+    protected $legacyApi;
+
+    /** @var array $resources Beinhaltet erzeugte Instanzen */
+    protected $resources = [];
+
+    /**
+     * @param Database  $database
+     * @param Validator $validator
+     * @param \Api      $api
+     */
+    public function __construct($database, $validator, $api)
+    {
+        $this->db = $database;
+        $this->validator = $validator;
+        $this->legacyApi = $api;
+    }
+
+    /**
+     * Resource erzeugen
+     *
+     * @param string $className
+     *
+     * @return AbstractResource
+     */
+    public function get($className)
+    {
+        $cleanName = $this->convertClassName($className);
+
+        // Resource erzeugen falls noch nicht vorhanden
+        if (!isset($this->resources[$cleanName])) {
+            $this->resources[$cleanName] = new $className(
+                $this->db,
+                $this->validator
+            );
+
+            if ($className === ArticleResource::class) {
+                $this->resources[$cleanName]->setLegacyApi($this->legacyApi);
+            }
+        }
+
+        return $this->resources[$cleanName];
+    }
+
+    /**
+     * @param string $className
+     *
+     * @return string
+     */
+    protected function convertClassName($className)
+    {
+        return str_replace('\\', '_', strtolower($className));
+    }
+}

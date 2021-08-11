@@ -1,32 +1,7 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-UtL9gClFJhvMVQdX
+<?php
+
+namespace Xentral\Modules\TransferSmartyTemplate\Exception;
+
+class FilesystemFailureException extends \RuntimeException implements TransferTemplateExceptionInterface
+{
+}

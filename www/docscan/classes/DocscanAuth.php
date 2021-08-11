@@ -1,41 +1,40 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Sabre\DAV\Auth\Backend\AbstractBasic;
+
+class DocscanAuth extends AbstractBasic
+{
+    /** @var DB $DB */
+    protected $DB;
+
+    /**
+     * @param DB $DB
+     */
+    public function __construct($DB)
+    {
+        $this->DB = $DB;
+    }
+
+    /**
+     * @param string $username
+     * @param string $password
+     *
+     * @return bool
+     */
+    public function validateUserPass($username, $password)
+    {
+        $username = $this->DB->real_escape_string($username);
+        $password = $this->DB->real_escape_string($password);
+        $docscanPassword = $this->DB->Select(
+            "SELECT u.docscan_passwort 
+            FROM `user` AS u 
+            WHERE u.username = '$username' AND u.docscan_aktiv = 1 AND u.activ = 1
+            LIMIT 1"
+        );
+        if (empty($docscanPassword)) {
+            return false;
+        }
+
+        return $docscanPassword === $password;
+    }
+}

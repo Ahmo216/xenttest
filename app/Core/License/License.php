@@ -18,6 +18,8 @@ interface License
 
     public function isSuspended(): bool;
 
+    public function isCloud(): bool;
+
     public function getVersionName(): string;
 
     public function getCustomProperty(string $key);

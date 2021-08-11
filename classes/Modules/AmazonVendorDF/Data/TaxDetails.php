@@ -1,32 +1,33 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-cYUZDH7iN3Ww0VIu+tBxkG==
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF\Data;
+
+class TaxDetails
+{
+    /** @var string */
+    private $taxType;
+    /** @var string */
+    private $taxRate;
+    /** @var Price */
+    private $taxAmount;
+    /** @var Price */
+    private $taxableAmount;
+
+    public function __construct(string $taxType, string $taxRate, Price $taxAmount, Price $taxableAmount)
+    {
+        $this->taxType = $taxType;
+        $this->taxRate = $taxRate;
+        $this->taxAmount = $taxAmount;
+        $this->taxableAmount = $taxableAmount;
+    }
+
+    public function toArray()
+    {
+        return [
+            'taxType'       => $this->taxType,
+            'taxRate'       => $this->taxRate,
+            'taxAmount'     => $this->taxAmount->toArray(),
+            'taxableAmount' => $this->taxableAmount->toArray(),
+        ];
+    }
+}

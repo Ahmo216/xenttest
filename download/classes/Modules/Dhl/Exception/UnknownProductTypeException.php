@@ -1,35 +1,16 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Dhl\Exception;
+
+use Throwable;
+
+class UnknownProductTypeException extends DhlBaseException
+{
+
+    static public function fromValid($validValues){
+        return new UnknownProductTypeException("ProductType muss eines aus folgenden sein: {$validValues}");
+    }
+    static public function invalidDescription(){
+        return new UnknownProductTypeException('Produktbeschreibung muss gegeben sein');
+    }
+}

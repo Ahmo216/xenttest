@@ -1,106 +1,153 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPmfE+zZ90C0Vquvk+vzAMhuThGJXBBrKbk49CJuqsb2h6JY6uOmPBhiH+Kp/do5ACBdUrbzj
-rQBda/L2dz2JuWZd6XPzm4dUcO4YV1HDZ0NkO1nR6j2MfL58c48wuczTEdt/C3d87tsRuuBzvAA5
-iPhDczaAqi7nGMfFzzhF/U3A6ExDtea1s80eyN/eftxTfd2nfWhb7eQRh1kUyYtRbgSIQphveWz5
-ObaQIMhkazIRGvreN4qqNbDpul/yeM0KFMc7+6Jg+bWd4siKf4zwvJQLsCCrXBOzficO/YZ5+a3Q
-LrbKH2YqJ8TQaEs19zzaizu/vVqjJlMtzVhiBKBid1oMvnMylIDmIt2ANRk/dIXGJqaSvCyqabGt
-2YR9akfh5HBN2NAoBuynKsVp9eM49MxK6BS0ZGqUugXRYRAtAWd2GF7tDnMwPQ12pZYBl64Oo/9l
-ocprX8jgduG9C68RCxGwQ+ciXmIwnB8AHBMUN7nLnLxEnFLXZYmtkIvOgf8Z9KHv4ge5nXaYwJ1w
-xyqcRUMlKEnPEQ7yDId3NZ47kZT0g7lPe6Mph4quyKyaORD8AgHaXaWxUQ0zGJssQHNOnFfGa8K3
-Oi16pRn75Ayo333FucNhj7Mn4+8uWqfYew6DHraoj8QMWk7304FEfqtBS/nL1XsJO9m/Hk5cvcKd
-XH97u1ihbanWP1n5IZFmgKqS1tTrfdIml37NhkTv1xsk7W63IA6/4JhFbHq304csz9ub/z+0wMqs
-WTm8Vx6/TMcX2L3LF/gwFXTJ8rdm1qIxKujO+hXlbvjsOgQJ6wGib1JGQsoFvC0+oAbWd0Xt1IR9
-lS9M9D75VcQYUWOb8OdodmRilC20+t32PtQtf/9R2lrJ67H83zKz/hEYRKmgPQu0lFY0r2Ie4Pr4
-bOMaPQBteS/L4iEMhfpkP5awEpJeYSfZM3GII/VJV8jzg3t5iFPmAzAG+i3yhQ+owZ8rg6veNLg2
-TtAibmk/2zWEjyBnPmsTVWiAO+tGWyR2BuOzJHm3Ts+vRQHAXw3BlmpCl4beSmi3N13/hlCsakFG
-wcVlp1R5TFu9sXiQfAsKxJ+NymhvUqz0BTVHZtOW+b8sQlWFh/Clnbe3Y1Pl1alHgmMtdEfPnpjw
-EdTO+Jy4+h9PslBSSLYYI/0RXz3dl+f/296HuYoQTe+/1hxA7qxdE9FdhyhVVPQakTwwGdz3Bi7A
-M32VFu82CBUKBraaUEGEKoITYnk7eD7dFJUIK066iqcQscMkzvsPtSpREafpPJ08QxjTyrJEUnj7
-M8Fv5mW3Gz1tLUoLgLT4GT6aya/xYm7aEZ9f2MUfy8Wskw7lT08cuMI13o1R6WreVwdbxxUVW6H6
-gwooRuiHO1hpfHqTq9Cn0/9E/JUdHN/6Mps08UmJpzsmxV6lpXGrsnUjfQ/eKHF2YcmAebD11HSP
-1vg+Waj52hA7GO3p9+jiPlFSzygZI8LoV7264UKXHvG974/0DpT9UUtsoW182e/vV5sGNrdhHm7B
-IK6MyrkZb5YTJuaHJ1SGMigxRybqeK3NSGYUsMW4sNOe2aR2RhAZxIK8h7Oi1pctr1wB6byjmp8Q
-dsnyeJDpV78CVChqQoxxG0EMn6vI4LZNdCbPIfzeoD94pMIxhn8atqGF/lMZQWJoYFCjd1Ngjy+g
-uzMDTGqzxahFK0QvMSG6FGNLz5mF3T+WOPT69Q5FUKXFAXv0Fiz/v9J4CnmacHKqArsmvsrKbrFS
-aSEgTLY+e2hVfdeauCQ6yMxjGMZpXOvfeCdpMCJkgKVFnQXoE7lryB5b65gFtNHCvEB9w6zhEu/9
-IzCGvp1xov5rjEdhmy3ab678zbUbFgRc3tDYzXIhSurrejNfqdjOnegpU0i6wDm4iaMmjkjUxfZV
-VJkOCjp0LKVETt/2ZucYfJP2ZnwAi+EDBV9pVjXnlM6mCgx9uOsKP6b1CMiSA2CcRpLeHldRgdlH
-EoibI8Tuh3lTDHOkhkuhIELY0uZiDywtuulQZBT3IHCLL3Zf7hrdKPZF7BiSWX0NJbCkmzHSEZcz
-jONoA4WdLViLTeTm3/YqVqnYRU6v5eSQyqGQGBlhBHeX5JD30qUzOpMLSuiRfpOVQhlBrJaino1g
-oJjFrE31BKIAe5OiUu0FqNSU19uBRpe10NKi3cbVUNQEC9JrMm/EmH8eP5ZuSISoTsby0rTbdQgM
-gs0WOVgqXt7IbQAftX+avAJkSNsY3qeLbtFk9LFix+bN0TA0d1YnvnZJrRhhE/JOIhvg3zuSNwXQ
-BKdOOpDdQVN9aTipb8O0JyE+TONTCT8BK+Mdhb+Nzyxpr3rrUioat26kxJUiBd1ZQQhMTBcQZLG3
-Rru9wTIkmYMsaQMaEZNUyJPLNazk851rfWUc/K2r/lM6bdP9aK41rtZWJQE5+kt8TBjab8DZ1gJG
-qwytoqbZoaucpBiYxN4R95tTzCicz1rqzNzWIv5s8P64ltcWfvOCbneLwrVoKnK+XkivZAtymCuI
-Yuz/b7q8sSlb2g2J8teBP5LzWPynC4bjObYQkIWTWXVogG8pLtAdWc+9eGa9vtujlMlv+UvctajJ
-CZE8PWk+IwWjZ6VmRMfsbNl/nh2p+DOwUBgTgNTIN9MyMDigyAo27xKGKwIBlLOZnI9tpsL0FzSA
-AfKqmZQJBPwXsva70RuCvQgcGAZhtmBVRmdTdVIQwpyzPyfZDBQZrrlUSfxxDBJ1fzhXRvHAl363
-2hVLkiGsimI4mIZeyI7xPlYNxx5Z4ReoKGlI2yVsC/HJGQdhI89gtLwVQhTXQQCxG+QlaJtUuR77
-Uulxd46O5EaY01iS4sPeLLcu2tLwCi5CXuiR7H7zFV4xt6u8wRUyaiEigx11EvtVOwZYR2dtzZUj
-la7ZXZkxZzMopa9tDyrHlZLJYq2ha7sZlmCvdpfEm4091oJIJMq1UZrpvSOmm9XGMjhSpAVSvuEh
-vjw7l2CK1B0Fbrhoot5rIAYwEqqarFwZv8WNIf0Zcetldz4voQYfi8IpBIQ/vwgNP53GRInLfkEJ
-P3Gh1U5YYjCuVH+38WbkSR395CU5UNLzqQkr7KHBWZiJC4tAqo11ADorsugYYWM3tI54GoiH0bVf
-Or7WjyZySpB32yNpW2Tgft/Qu6P7JZtey/mtOdf16PXSRkWxKQRUdrCIRdha5EH3rcQ/0Z7tP+K2
-ceeOkz4BTjjjVKp3AXWA2l5x5LmSrZ06iEqpHfdcynAOzmCYAjEcIsHt4vRXe2IZZIiBx1jdxbmh
-SqBFK9Fol/TwgoOmW+7D9KNn5GzQY5Soeyon0f3fiOed3pO4rSHxQkLiaCvbbBOj+RntyZZCpDC2
-T6OjlfuTQjErW86BSISdE9zRMQQT5kCe6Q3XQYI2QmvmzhYcPIak56jUo/bMk4iAZX8qFuCkXxj0
-OAt0GwvC3O7MZpvkrg+0uQ9Vm1o6reXQz/HNWQCIqabXWpkX17Nw03QoUGFxrFH/kGZkegKgeA5J
-yVTDB2F9HTPhvwx/xUpDcEMuB5i+ORdLRejtnTULZ1HMBrpFqO0Mp3KktgNSmWpnQHVhohYjHFRD
-c+NGOTPC66oeXC3jLy5+FK/wTcEm81UrHZKu1HYHY9N25SFEr6kufMvv43abCUfUy6+54nnnjnwC
-bAxqftv731bbrSzigyTQN/XzZJRLBKpGAubbEuyPtzRVcKRFrL9tcCpm/knQkvDMOqVWNv51EbqT
-gD+vQiqiFlchzzoRBQZUotXxFaus7aM/aa6aasFipu9jtZUriQDgD7TjcS0zy+t+ZPPIlJqWhQal
-t/pwh09T/JWGU/armIw6ZEYNBqgV8/e40CSDoq6mouUTWZHu3ivOTjHOCJ2WLzb4wigFcGzzq2Qe
-UrQL04u1cuwOFGgLGjegofM8qAwMC1FvFOMpEg6n+Bai/eJPHjdEK5svaCe0GYAgQKk6rMjeUwAB
-4s0pmGZfYBPaIr0rW08Wk9N/nwJLjvu+DWoKNuMMQPWxvF/IuMuCarzAXG82UhbQbYH9CLJaZ80v
-SQWZf18PUoSrRR5GQfaW/bZqP/rKWTfNPDloma2W4Vu8Odkz+sppuuZTLTQdmxh3Uc85AfrUEcQU
-kRXjVHl/WZwZ1K9IqOYK4i4uuRlwaaRS+xR3udZsTtliA+PQ1fKD7Nmw/LZSl99LerDqrYRKFJu6
-egECmA7tmEUzOANZ6Q/mCjMtLOhxA9AGKSJ6uBiNTv9yABIxHUnH9mxL84nmGtVk5uVKS8d8ATLA
-//hrLTpa4jYxQ06hrMDCEXSBve6SU3dbAHX4GdvHmIMJkdYDuN40VQiNC0Woc/7fDmPrDpJ5OBia
-Ep1xCRc8Ed68zHOfySehs8zFnuJvsB9unAX27OsSDxVimLCjBz4dlwKNYiSiFa2rs0ffr8dHYurn
-WxZBlupA+jkF4/mH5gO9ATQGu8ilSUBl4yQBmZXgiGnlMKr5Da0dEBdibsFqs8bKYL+FSB3ou33o
-T4jmmohUHnmTk3SLba3VKxo9z4ZTl1Ljl9vPdyjIxHMOZcXWIivIom0fMMwoTAo2cP6rc7IzncLh
-NNj/ZIXQKDHAjzIX4wZeaCjRKB8vBRrMILWFepR/LE73AN323CPBb+Dc+2h0BeJuSVzGLqGJ08W4
-eMDjKk7kuNbwJt07QQATG3Clmi9pZND9sZc4fgMwaBrh2Y9ssDmtI9E83lCHTpwyPb0RxugUmKKm
-ip8RrC7vE4kLXTMp/DluZKe2XiXdRIwJVCy8CSZ+Vvq7VTGQLqBRe7M/0esnsLQNhEkmNmCIuRPN
-FJVKnvCe7J2ebOCmijhIhXzmZk2vCDBsaH9JSNpircGqGuVwLmMzx87HGwJngDs5MFAP8msRD21i
-dsj3KbUYhK75Y609KiBi11kg8jgND5bdpZg6EBzMLgrd4ZJROtO5lMR6ccKfy2Jhul0okMg2bnVr
-TYxwtrmBOfxJ5AUvYJVh6cUeVIKpk8Ov74Ni2FbHAs/htI9yg0kMnDojHNJcijO2bhelq0ix0hIk
-ExiAPF/+IkunHAbgiKRpqd9oyJJRjY57ZZQjVfku3ewX6GU77Md4DKS9/vKCfjR6XfMtG8J7bhhj
-8v6CrNDqCB6v8B3Ve4UliWV2hB564MiBUb8kCUPSdOdDgEC9qDcCB2CqxSXvTJ7HcPptwKag5FnM
-dQILJ2c1sJVfGn6buaSFcCBjOJ7wGOx7VRrOKc1c92MKxITlvqb738x2xLfq4FIMWpKCJo8TiDT9
-0vUEvcUnzwH19rRnFZPU3NCmqUPVU1qkI9CsnszVMuKRjSDPhDZ05q0NIbDZ4aJXASb09sOamaoA
-HlyxrUCP6gkwv6uipjtIXMuXcwcMGwXwpTTbGP5tNcedsPJVZzpjTY3+iuDtgtxZjsAWACNXRGAY
-FGstcJ8WA/a4ol3jDiz3qnT8Zn/vzutYlIiPeM2PaQ6xlVYPZ2sPonk8/ZB9pNyKgJGJaJ98KWr9
-MNhYGzNNHk1hpshM1Wx31ujfzCYKlAEYJI2H996oCufzwn/4CD8Z/FLuXFoRJ2KoWzCcKYawCZgX
-rB7XXNaiDkJQsL0DZDuLvr5zLEDQ3Nn9ilf8P4jSYS1aXGCaj4ik7KU5sNiMiYWlMSeAemm1kgai
-AROHCSIJ2xYZiquNUwC5lkpqhu0mw9lVDN1sZPxpiGZoIZ+EK2VdKSkuFyo/2Hb27i08Ou6TDvov
-6vcT0o80lScHx5EjHTdSCli3x6937QsmkWRZ6gyTvk2mIZ6MCnLfr4TaM1dAwQOecZi5CG3Z8Yu/
-/JEX869UE0FEdNzret1edDkpuDwqx6ZZiPAOZBEfFO9/fQXEylc7VgJuyAhRyPROUQJDkmeSUz6s
-klbLRgF60RF8+Yd2uVWUQld/bapa4eKWfoVmIukKUd2pKaNEBOFTD5SRFh+3Qg83TQjPbgOEDeTs
-KmIZNkAHek1kYyndTFG0Kz7ogvX2SGhcoBPou+mN1STKzNwH387RIkoaDlzIYOtPDHjK414xLMmb
-tSE0RY0kX1NcoxDWzHYJ54YwaQ9/MsHOKGJmBdi9U/fwKS5XfOTfPKIRfJLZrdHrS+r8TYhxyTsY
-u2+qHvmp+L2skZYcO4Sc7bueaFONdyC4BkA8+/eKJQUZa8ruQ8wyYNaompTdNO1idyQFGs9y69+3
-6461ZV6j/eitKMFyAJ+ImzgiRzbCjA05EByopomsUo+AkZfcl6k3y6Cd3r5kvJYlvoi33rdHVBbz
-ooMcaS+H83SSkZ1cVgUWsbfHJfnytDmbMyiiLjYaBxzO3wrWgyE2Ez6cCbUrRi6OIzyfqU74xDLr
-vuAi3hcZKfwkMlK38qT3Ckfv0JZV9/KpCevT+YJUa2azW0xOEADi7nYTvUjLm7UNv05r8PIkVyqn
-HvsWfibBzKFJWuCFpEYz79Sh8XKDpMSINwFUn1xG/Iqk3MmUx+/F+E3oBq4DdTdspmJOUSxRyW2K
-01FOXzLSb8S4HHGCG6prGMrYAVEluoeNaD0+LV6e4jToGDdh/rF1Ayj7jMzALE3v7vx+pZQ6UYhL
-wzTQTutigxTrDMwdRQv6NShV4Lfns78eifNb2kJbReWfMSkK7sN1SJt5r4jO0ErgQCj5fgv2n/t+
-negPesmlgvVCVv6Dg9/Jxjbmhox5Yi/8ZbE//zi17vBcFu4+cdZTaCAngqDUA21F6903aMq0ljGf
-sq42lDbghwVUc9EJ/l9qeq+2q4Xv7I9+6ul9tYY/KfCsY/t0DxTJkB0juVMBeUp1VLWvBfWe9w6s
-EMRfuU3H906IpH5Dte1EFwzjKWlHpMSEV6xQNrXyYiKiyIwRPoDgvcdRePNglU2E5cSdTykv52DR
-PH1p/9gQNxW3AYz8NqjZULPk0qDP8HilVZqIFkWNIu+M/8imhMxIsQZzg/rd7FBUbnydz5uHITm9
-I2ilo7xt6Amdk6/7z7lBlsjMyuSOVWHKaIDssB0mOWkwTgeLeutdgCFb+nxcIlyXV5hWqE2CGxIL
-HzXYuDC8a8pJi+eKkCcJiRbkd+bBBfwjFNbRpzuIbSBnoZAe6gp/IPcgU50Tb6C55iCoxrJYUl3i
-mh3Wlgbzx7DSNuzWGbj3uxv3t5g+R6JBOdq45XldMMXb+nw2d1NGpo1uJCPqnMhGbTlg0rvFH5rx
-uQ2kyjHny1WmyTWMUl8NvPC60IbnTOEvi37vLTQUNSnfoFsUa/TQfCUb/IBdsF5IDFWNMjTpuJua
-3zuhHyQ7XunrBuvwVJkw8RtyVA9aNqD0W+ZZ3VPWcwbsVhRT7dDR9A6iUcBm6A0+9znrLsbjsroT
-iMaPJ35zR/Te+kK32r+XSfq+70RzO2eHhHUSA5CTb8/qDoZcW3h2IHtFWEYaLUqDsu3JluA+4tK7
-Lji5KqdcCa93rLu05/7a9bm8e7DhMX5Ddydc3Lx5y7kT1Kx8DPZpdJq0r7VZnR/jN8kKQhD2WUjK
-i7xhIns++qvBR42jefhSEkNcKW7mDBIwbv43b0NrXOOI2VFywj0umnjPivAABg7nx0LzYkoHJ7wI
-+kdyBqffc6/ratCsY7jUgywhi/vHxMNKqlHfVeO6GUYACrJHoUA/iyf8TuDdpkafva7kN5OTdtF/
-/UPuOTHln8mMYbISUAHbxgT8is9rO4sWu1/MFaCqN5VEOcg03VuKf36s01Yi3MWQB7GWvmW7FKWr
-q4rl0O/zfCf6FiTnkm61InyNhQqepYfRcbzGSchgHChE/n4qSd0+CNRNEaxasnVGQ1seaDeAEyjK
-9c//eiDV4KV6v4iz7RRRCKi5AnZelJMVILjOoLZMiA8Ng680UYuKwHdiaZ2/BDWxsm==
+<?php
+
+namespace Xentral\Components\Http;
+
+use DateTimeInterface;
+use Xentral\Components\Http\Exception\FileNotFoundException;
+use Xentral\Components\Http\Exception\InvalidArgumentException;
+use Xentral\Components\Http\File\FileInfo;
+
+class FileResponse extends Response
+{
+    /** @var FileInfo $file */
+    protected $file;
+
+    /** @var bool $deleteFileAfterDownload */
+    protected $deleteFileAfterDownload = false;
+
+    /**
+     * Creates a Http response to send a file to the client.
+     *
+     * @param string $filePath       server-file to send
+     * @param string $clientFileName filename for the download dialog
+     * @param string $contentType    determined by mimetype of the file if not set
+     * @param bool   $deleteAfterDownload true=remove the file when response was sent
+     *
+     * @return FileResponse
+     */
+    public static function createFromFile($filePath, $clientFileName, $contentType = null, $deleteAfterDownload = false)
+    {
+        $fileResponse = new self();
+        $fileResponse->setContentFile($filePath, $deleteAfterDownload);
+        if ($contentType === null) {
+            $contentType = $fileResponse->file->getMimeType();
+        }
+        $fileResponse->setContentType($contentType);
+        $fileResponse->setContentDisposition(self::DISPOSITION_ATTACHMENT, $clientFileName);
+
+        return $fileResponse;
+    }
+
+    /**
+     * Creates a file response with forced download header
+     *
+     * Useful for images and pdf.
+     * Avoids that browsers open pdfs in viewer but download them directly.
+     *
+     * @param string $filePath
+     * @param string $clientFileName
+     * @param bool   $deleteAfterDownload
+     *
+     * @return FileResponse
+     * @internal Content-Description -> optionaler MIME header https://tools.ietf.org/html/rfc1521#section-1
+     *
+     */
+    public static function createForcedDownload($filePath, $clientFileName, $deleteAfterDownload = false)
+    {
+        $fileResponse = new self();
+        $fileResponse->setContentFile($filePath, $deleteAfterDownload);
+        $fileResponse->setContentDisposition(self::DISPOSITION_ATTACHMENT, $clientFileName);
+        $fileResponse->setContentType('application/force-download');
+        $fileResponse->addHeader('Content-Description', 'File Transfer');
+
+        return $fileResponse;
+    }
+
+    /**
+     * Sets the file as response body.
+     *
+     * @param string $contentFile file to send
+     * @param bool   $deleteFile  delete file after response was sent
+     */
+    public function setContentFile($contentFile, $deleteFile = false)
+    {
+        $fileInfo = new FileInfo($contentFile, true);
+        $this->file = $fileInfo;
+        $this->deleteFileAfterDownload = $deleteFile;
+        $this->setHeader('Content-Length', (string)filesize($fileInfo->getRealPath()));
+        $this->setContentDisposition(self::DISPOSITION_ATTACHMENT, $fileInfo->getFilename());
+    }
+
+    /**
+     * Send the FileResponse to the client.
+     *
+     * @param DateTimeInterface|null $sendTime  leave empty
+     * @param int                    $chunkSize output content will be chunked
+     */
+    public function send(DateTimeInterface $sendTime = null, $chunkSize = 65536)
+    {
+        if ($this->file === null) {
+            throw new FileNotFoundException('No content File Available');
+        }
+        if ($chunkSize < 1) {
+            throw new InvalidArgumentException(sprintf('Invalid chunk size %s', $chunkSize));
+        }
+        parent::send($sendTime);
+        $this->sendStreamedContent($chunkSize);
+
+        if ($this->deleteFileAfterDownload) {
+            unlink($this->file->getRealPath());
+        }
+    }
+
+    /**
+     * Returns the content File
+     *
+     * @return FileInfo|null
+     */
+    public function getContentFile()
+    {
+        return $this->file;
+    }
+
+    /**
+     * Not available in FileResponse. Use setContentFile instead.
+     *
+     * @param string|null $content
+     */
+    public function setContent($content)
+    {
+    }
+
+    /**
+     * obsolete in FileResponse. Use getContentFile instead.
+     *
+     * @return FileInfo|null
+     */
+    public function getContent()
+    {
+        return $this->getContentFile();
+    }
+
+    /**
+     * Send file content in portions to safe RAM.
+     *
+     * @param int $chunkSize
+     */
+    protected function sendStreamedContent($chunkSize = 65536)
+    {
+        $inStream = @fopen($this->file->getRealPath(), 'rb');
+        if ($inStream === false) {
+            throw new FileNotFoundException('Error reading file.');
+        }
+
+        while (!feof($inStream)) {
+            $dataChunk = @fread($inStream, $chunkSize);
+            if ($dataChunk === false) {
+                throw new FileNotFoundException('Error reading file.');
+            }
+            echo $dataChunk;
+        }
+        fclose($inStream);
+    }
+}

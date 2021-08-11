@@ -1,29 +1,11 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPzBXV5B0IqLcsbVfSN/towyDaXA3hW7L+ECNIeZuyFLK8FylGP1TRiBdAdTb8QbKbe0KU+uO
-WeUR3bixVEfeoaMK0AGeBSr/KUds5tx69vHlMotaZB5bBhu7BuWVIwekZcY+xJL04DJxuOSp0X9L
-6QxGIB4Uy2NlOIr84eoIafh8yqA8Ri77DtAl/ces8a3FbITk5VTGMndkllSrKmMUHwI3RWkkJAqh
-th9p8AWRLdoy/dVZHs4sHKwFoQiTiUVHGW9jOO66jkWw7o1JoBDhw+r0nPFESTZd3R5QhiCRunPV
-E8dP8e1Oz6f0yiAGI9q2KEoAGVGjFPlDuT0jGeznWW4TivDI6bKsr0j/kx+TA51FIHpappIIWmHK
-DmeccuWjoFTLQXm+46JceKgbH3Z/gRuPbh2NM7MrzZTiskxqmoNutirVnP4JHXCsdTkcbm/ayTqA
-LdF3qYTJaJKR9sUYiQVt6mTF9QBpq/C9lWfvuLnJb+27Bte4WSSgurUmScsQz2dCBU9EwgbzPbVc
-eWIWfR5DH9UiQu2OKqUYgAPoOCkR3LiDNbaZStVXEhQPLv29jpMdpK3MlGbd4W+RIb8L4DyYdVXu
-bfMZuQmJLl4D2JQPlQ42jFqshYn4eD4XD2k2LClC1j5SNXsRxXlaRI8MiOiAy91C4bSWh62bAgkY
-S+96WGrpnEjembztc2fAX4KznYktvPpVAP9KKtra39BKGJW5oE4rcWGI7VPorMiKTFyxcDmiS9Rj
-jde0s45EjAxCtLleKKODlUcTMzC8IL832EaY2cFCk5Imc1scI9gloWXKiYTBU/Q8HXoYVNU/mpxF
-qX/8Lv9fCCbWDPYA/zUxgKBnYY1mPBbHsmFfaCaU8NMJv4n4C3GA1uIPjk2Sk4VXRb1bOrMZ8/Iu
-wTo83uU5cJ4SbDuNTZG+WlKquM03WpE/V9QlmtnviR8QRbhcYeNza6xiH/M+UXUNjCtvBolq95Vj
-Il1UmhEfKV3mfUT7hFZT3uHgnH9/shpVryBmDfi1ojliVFRiUIvSC1RA1rxC+fXzq1Edzg6lVEXD
-5cow0CzFQ85yOBYv1cZlaT43Ix09tUBeqIWL5MxSOlMNKDyDOErNA8Bj4147FW1Lt6FYidNhJpqW
-wHXjsA1j5cMAvPC6bFS9OBy1odrGZS8YFfXW+fC8XbySGPb1R84aMygBDpgoI9zbz7ZASQhEU0+N
-DJc5HjcwpBfYM7UXG6Q8AINRm/7R/hJdBx5VO+BJzVVkvS0cQufpsk8H8aZa5PtAw/qcbKhQQ4lu
-kYFejxQCfbR0pFDhLHms8Z3syLu/L68L49zALeu07MJzHh1/SFLBMkHp7bL9h4Dg91m5C1DyU0Wp
-+80h8i6Kyso23RoN+Zg2YSWk8HUfyKJcS6FESELQ3xRSi1C8zqyhkpW2jbYlcyzGOqxaA0x/BWGM
-3SIrTP8Rkcd0yxitRcvsntpVH2e4GCmPaDm9H7LhtMGnLOKQ8cKtyCbnHTiQ0K9WrNURzq0rcnBv
-PcP8RZH4lU4Jhb1hbvMJ7e7jOciMwZ9xGlIvr9zKVby8AhM9LZeAHsmIMHWRoVUR44094Qq23qwU
-Sn3g4zCWz+CE28lWcZC4fxGhXzIXGIh8YV4jhZh8o6m+O+ycK5WAjtKdA9rJoB6yePjXKOIJBX3R
-uh8pwBqpBvqiNN2X0HnrXftISPDzQEu7IaSCaOT5hGLMn4xXDi1HRasU+MBEFGcebGYod1IG07t2
-aR55bfbbPOeCYJ8oZyUsuN4W8tXV8guLTtZeIoeaPhkUGrOcUB5pce7kof6m7FYxX39siYzxGAz6
-y/0eGAqNTc+HsEApoRy2WviUB1G6rxf5gGUtew82wqjq9yXlGlm13nKT6vG9MQdmJJgIyEOJK0AM
-391y0WG+ewTrPB6cJ/xHf+SDPZtOlIMTioPx4lFDfYc+7Yslt0==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Ticket\Exception;
+
+use  \RuntimeException as SplRuntimeException;
+
+class NumberGeneratorException extends SplRuntimeException implements TicketExceptionInterface
+{
+}

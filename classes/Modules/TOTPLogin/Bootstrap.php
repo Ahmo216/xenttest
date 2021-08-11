@@ -1,29 +1,32 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPtFD600l5+4tSNkD8uQdQsbuQDXDF+saD/5e5jUZxl9qb3kSjxSHBtZtLlE5b7VEb5WZaTDV
-6ZthmyXQRuEpomO4lcV7fUOW+VJPUa3EvtZoPxaPeKvpw1dCaSNR2g/9xvBo2peC5b+FHL/BMewg
-JBDAYBk8ztBWoOAyFtuFenZ7zHcRbihoKx7cyEERH9sgcjIsSX9ImH17oSMirx1PddrpULaiLwqk
-OfEhNsAM7zU0QfZwvQeS5Ng/HDRG1aU/6FQFNx64jmVaBnRodecigsiVnINo6GNvXgTNwDULo1cn
-aVyBNSQPJOQyMCCqgAEeRbr+TWstUfVGdVau7HF9W2v9Pq2WCztJ50OGkx+TA51FIHpappIIL3SA
-9h+Gd+ep9wX3um64tQ7Ae4HSJpwFx273IAjtQtzXUTeC4CSqY7PXbNX+M1Wl3/KL5nwzUTIThYha
-i6u3Xx32sZtg7xZA9j+XbEeGnpKXmdZu61HmjVaY4W2AzQ5DMKtImwsSTXg7A0uYDxkbW+iWgO2B
-eEYSdsneAtHplYvNJs0GUcHHNSIVRVNyVJx+QhcIsLerBSweX6dptrzaQdT5bZwIsoT8KaAbADT/
-0iYr51TO6Gsz+98D9CtfnyxAfVdui8dYzj6Sy2rQTQY+R+2/Q4/xgNpOczbjWrKpgdlG8zYrN12S
-EHO/gVQAA1/ocgu69vMJzsOCyz3l4mrgqxet2RC8DeJE7boZPtvG+UGdJG0Rt1aCk9JYvHN/RSWO
-UOOWW3xWEFhBaovHCaCiZ8vCCPgDz5PVtAuOhP1xjH5fG9JSRPu+mrDRXDxdXPMWNytvXzYULRiL
-R0HnXirjnFCR0r05TPAgC/sDA5nP22ZcTRyKEGwtKfcSVs2I9ZBaeHYnTa34FJEmKUGPwlDQSHhG
-yiXvtyTL/nFsGtlUyLxaw+x7cA8IFjAW3aFbOJh9hbjrnjHM402zRzodt2KA5IDmS4iUa6VPzJR+
-ry1Kz+CXyWtEgTk55XyPFeUFl+TFAJ70BnyihYVQG4Awam0DT8w3upZG/6xUFpFDcDWmxT8W3E1p
-9a/dRqSn7+Gl9zpNR9zQcBdbPNtOSNhOE3FZYZanp8fkFcu0awQhFfCpct2xZf5XMBPSDAi9TUU+
-2/sxdlH89dj3QkhtUz6GxQK7iyIOa5hBWDk+DpMVtC0QdkS9CRjzdXyZP2m0abQ4u22g5A5oBxbj
-QI/aLM+Cc9urbDEcMS30tXRy04aBJySQBPJDB2BqNFD9PcuwAG6gKmVRqBQip277g17jrthKs1Xc
-piMv9ce4BjkV03ApyGHaTTQ50w5gi4MutcdquM/el62ggUPNDwuc6mUKCOrCiuaXZyemaCDLsscL
-2de4pRFy8MQ1SFrqIwsndQJA7mOMby70X2wWXAAqDaIr4PtYPD3HNJ6wFrn9OcYGX4ivHPp5XI9L
-/wcMBNsuqKXfM7zu/s/hr3UvJq75WqhPIZ7a87e8m/Gtq+pa+f4YwDdsuymNhJOpqR5BK6uWaLXS
-SoklkJFx2YGjBh3B9gL9G6EgA7p2UvBhxFVqxTKl/ctU/5Vac5l6atMHdsPw8eoPLbWRwCJR4RlN
-x6lDf6KH7h9OwlkhvCRwnB+nXxT9IxPgQcqmulY4EYjD9J7H0qAIQtpQZQ9KVu6QiWWoKg/ksFyJ
-NvMBVMQvPbL4tyJCGIEiuTCzHj1sxO2uBA81mK6gPajppfkyNRzA/Dv7+vQjoEUfoxEyjhe9KoEd
-fYxznie/PJWBlJVe7oAjh8eV0X4SlbSG4MP1GIvwZR3iKWR48Z8DCEE3dQwiJtlSLAFzYmotZaJk
-MF4iHQvtXFaEuAsy6BGsock+cLyQRTPvtYxsJfJdUWr0UgpFpbXGWsVV6eSNrVeiit9RGOFVtemD
-3+wKTYiFEKWQzI2IDu7nAfSwwHSix19N98Ar8DOas31a4sVOvpQYyqQ6RG==
+<?php
+
+namespace Xentral\Modules\TOTPLogin;
+
+use Xentral\Core\DependencyInjection\ContainerInterface;
+
+final class Bootstrap
+{
+    /**
+     * @return array
+     */
+    public static function registerServices()
+    {
+        return [
+            'TOTPLoginService' => 'onInitTOTPLoginService',
+        ];
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return TOTPLoginService
+     */
+    public static function onInitTOTPLoginService(ContainerInterface $container)
+    {
+        return new TOTPLoginService(
+            $container->get('Database'),
+            $container->get('BarcodeFactory'),
+            $container->get('TOTPTokenManager')
+        );
+    }
+}

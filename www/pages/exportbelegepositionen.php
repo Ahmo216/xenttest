@@ -1,180 +1,270 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php
+
+class Exportbelegepositionen
+{
+  /** @var Application $app */
+  var $app;
+  var $belegnummer;
+  var $headerwritten = false;
+
+  /**
+   * Exportbelegepositionen constructor.
+   *
+   * @param Application $app
+   * @param bool        $intern
+   */
+  public function __construct($app, $intern = false)
+  {
+    $this->app = $app;
+    if ($intern == true) {
+      return;
+    }
+    $this->app->ActionHandlerInit($this);
+    $this->app->ActionHandler("export", "ExportbelegepositonenExport");
+    $this->app->ActionHandlerListen($app);
+    $this->app->erp->Headlines('Belegepositionen Export');
+  }
+
+
+  private function getCSVData($typ, $projekt, $von, $bis)
+  {
+    $csvdata = '';
+    if ($typ == "auftrag") {
+      $ihrebestellnummer = "r.ihrebestellnummer as beleg_ihrebestellnummer,";
+      $lieferdatum = "r.datum as beleg_lieferdatum, r.lieferdatum as beleg_tatsaechlicheslieferdatum,";
+      $aktion = "r.aktion as beleg_aktion,";
+      $preis = "Replace(format(rp.preis,2),'.',',')  as artikel_preis,";
+      $waehrung = "rp.waehrung  as artikel_waehrung,";
+      $umsatzsteuer = "if(ifnull(rp.umsatzsteuer,'') = '', art.umsatzsteuer,rp.umsatzsteuer)  as artikel_umsatzsteuer,";
+      $rabatt = "replace(ifnull(rp.rabatt,0),'.',',')  as artikel_rabatt,";
+    }
+    elseif ($typ == "rechnung") {
+      $lieferdatum = "r.datum as beleg_lieferdatum, r.lieferdatum as beleg_tatsaechlicheslieferdatum,";
+      $ihrebestellnummer = "r.ihrebestellnummer as beleg_ihrebestellnummer,";
+      $aktion = "r.aktion as beleg_aktion,";
+      $preis = "rp.preis  as artikel_preis,";
+      $waehrung = "rp.waehrung  as artikel_waehrung,";
+      $umsatzsteuer = "if(ifnull(rp.umsatzsteuer,'') = '', art.umsatzsteuer,rp.umsatzsteuer)  as artikel_umsatzsteuer,";
+      $rabatt = "replace(ifnull(rp.rabatt,0),'.',',')  as artikel_rabatt,";
+    }
+    elseif ($typ == "angebot") {
+      $lieferdatum = "r.datum as beleg_lieferdatum, r.lieferdatum as beleg_tatsaechlicheslieferdatum,";
+      $ihrebestellnummer = "'' as beleg_ihrebestellnummer,";
+      $aktion = "r.aktion as beleg_aktion,";
+      $preis = "rp.preis  as artikel_preis,";
+      $waehrung = "rp.waehrung  as artikel_waehrung,";
+      $umsatzsteuer = "if(ifnull(rp.umsatzsteuer,'') = '', art.umsatzsteuer,rp.umsatzsteuer)  as artikel_umsatzsteuer,";
+      $rabatt = "replace(ifnull(rp.rabatt,0),'.',',')  as artikel_rabatt,";
+    }
+    elseif ($typ == "gutschrift") {
+      $lieferdatum = "r.datum as beleg_lieferdatum, r.lieferdatum as beleg_tatsaechlicheslieferdatum,";
+      $ihrebestellnummer = "r.ihrebestellnummer as beleg_ihrebestellnummer,";
+      $aktion = "r.aktion as beleg_aktion,";
+      $preis = "rp.preis  as artikel_preis,";
+      $waehrung = "rp.waehrung  as artikel_waehrung,";
+      $umsatzsteuer = "if(ifnull(rp.umsatzsteuer,'') = '', art.umsatzsteuer,rp.umsatzsteuer) as artikel_umsatzsteuer,";
+      $rabatt = "replace(ifnull(rp.rabatt,0),'.',',')  as artikel_rabatt,";
+    }
+    elseif ($typ == "lieferschein") {
+      $lieferdatum = "r.datum as beleg_lieferdatum,";
+      $ihrebestellnummer = "r.ihrebestellnummer as beleg_ihrebestellnummer,";
+      $aktion = "'' as beleg_aktion,";
+      $preis = "'' as artikel_preis,";
+      $waehrung = "'' as artikel_waehrung,";
+      $umsatzsteuer = "'' as artikel_umsatzsteuer,";
+      $rabatt = "''  as artikel_rabatt,";
+    }
+    if(in_array($typ, array('auftrag','rechnung','gutschrift','bestellung')))
+    {
+      $steuersatz = " replace(ifnull(rp.steuersatz,-1),'.',',') as artikel_steuersatz ,";
+    }else{
+      $steuersatz = " -1 as artikel_steuersatz ,";
+    }
+    if($typ == 'auftrag')
+    {
+      $art = "r.art as beleg_art";
+    }else{
+      $art = "'' as beleg_art";
+    }
+    $and = false;
+    if ($projekt || $von || $bis) {
+      $where = "WHERE ";
+
+      if ($projekt) {
+        $where .= "r.projekt='$projekt'";
+        $and = true;
+      }
+      if ($von) {
+        if ($and) {
+          $where .= " AND ";
+        }
+        $where .= "r.datum >= '$von' ";
+        $and = true;
+      }
+      if ($bis) {
+        if ($and) {
+          $where .= " AND ";
+        }
+        $where .= "r.datum <= '$bis' ";
+      }
+      $where = rtrim($where, " AND");
+    }
+    $sql = "SELECT 
+                '$typ' as art,
+                r.belegnr as beleg_belegnr, 
+                $lieferdatum
+                r.versandart as beleg_versandart, 
+                r.status as beleg_status, 
+                r.belegnr as beleg_hauptbelegnr, 
+                if(r.kundennummer != '',r.kundennummer,(SELECT kundennummer FROM adresse WHERE id=r.adresse LIMIT 0,1)) as beleg_kundennummer, 
+                r.name as beleg_name,
+                r.abteilung as beleg_abteilung,
+                r.unterabteilung as beleg_unterabteilung,
+                r.adresszusatz as beleg_adresszusatz,
+                r.ansprechpartner as beleg_ansprechpartner,
+                r.telefon as beleg_telefon,
+                r.email as beleg_email,
+                r.land as beleg_land,
+                r.strasse as beleg_strasse,
+                r.plz as beleg_plz,
+                r.ort as beleg_ort,
+                pr.abkuerzung as beleg_projekt,
+                $ihrebestellnummer
+                $aktion
+                r.internebemerkung as beleg_internebemerkung,
+                r.internebezeichnung as beleg_internebezeichnung,
+                r.freitext as beleg_freitext,
+                r.lieferbedingung as beleg_lieferbedingung,
+                ".$art.",                
+                rp.nummer as artikel_nummer,
+                rp.bezeichnung  as artikel_bezeichnung,
+                rp.beschreibung  as artikel_beschreibung,
+                Replace(format(rp.menge,2),'.',',')  as artikel_menge,
+                $preis
+                '1'  as artikel_preisfuermenge,
+                $waehrung
+                rp.lieferdatum  as artikel_lieferdatum,
+                rp.sort  as artikel_sort,
+                $umsatzsteuer
+                rp.einheit as artikel_einheit,
+                $rabatt
+                $steuersatz
+                rp.zolltarifnummer  as artikel_zolltarifnummer,
+                rp.herkunftsland  as artikel_herkunftsland,
+                rp.artikelnummerkunde  as artikel_artikelnummerkunde,
+                rp.freifeld1  as artikel_freifeld1,
+                rp.freifeld2  as artikel_freifeld2,
+                rp.freifeld3  as artikel_freifeld3,
+                rp.freifeld4  as artikel_freifeld4,
+                rp.freifeld5  as artikel_freifeld5,
+                rp.freifeld6  as artikel_freifeld6,
+                rp.freifeld7  as artikel_freifeld7,
+                rp.freifeld8  as artikel_freifeld8,
+                rp.freifeld9  as artikel_freifeld9,
+                rp.freifeld10  as artikel_freifeld10
+             FROM 
+                $typ r 
+             INNER JOIN {$typ}_position rp on rp.$typ = r.id 
+             LEFT JOIN artikel art ON rp.artikel = art.id
+             LEFT JOIN projekt pr ON r.projekt = pr.id
+             $where
+             ORDER BY r.belegnr,r.id, rp.sort
+             ";
+    $arr = $this->app->DB->Query($sql);
+    while ($row = $this->app->DB->Fetch_Assoc($arr)) {
+      if(!$this->headerwritten)
+      {
+        foreach ($row as $key => $value) {
+          $csvdata .= html_entity_decode($key) . ';';
+        }
+        $csvdata .= "\r\n";
+        $this->headerwritten = true;
+      }
+      $colcounter = 0;
+      foreach ($row as $key => $value) {
+        if ($key == 'beleg_belegnr') {
+          if ($this->belegnummer == $value) {
+            $value = 'PARENT';
+          } else {
+            $this->belegnummer = $value;
+          }
+        }
+        if(is_null($value))
+        {
+          $csvdata .= '"";';
+        }else{
+          $csvdata .= '"' . html_entity_decode($value) . '";';
+        }
+      }
+      $csvdata .= "\r\n";
+    }
+    return $csvdata;
+  }
+
+
+  function ExportbelegepositonenExport()
+  {
+    if ($this->app->Secure->GetPOST("download") == 'Download') {
+      $projektkuerzel = $this->app->Secure->GetPOST("projekt");
+      $projekt = $this->app->DB->Select("SELECT id FROM projekt WHERE abkuerzung='$projektkuerzel' LIMIT 0,1");
+      $von = $this->app->Secure->GetPOST("von");
+      $bis = $this->app->Secure->GetPOST("bis");
+      if ($von != '' && strpos($von, '.') !== false) {
+        $von = $this->app->String->Convert($von, "%3.%2.%1", "%1-%2-%3");
+      }
+      if ($bis != '' && strpos($bis, '.') !== false) {
+        $bis = $this->app->String->Convert($bis, "%3.%2.%1", "%1-%2-%3");
+      }
+      $typ = '';
+      if (
+          (!$this->app->Secure->GetPOST("auftrag")) &&
+          (!$this->app->Secure->GetPOST("rechnung")) &&
+          (!$this->app->Secure->GetPOST("angebot")) &&
+          (!$this->app->Secure->GetPOST("gutschrift")) &&
+          (!$this->app->Secure->GetPOST("lieferschein"))
+      ) {
+        $msg = $this->app->erp->base64_url_encode("<div class=error>Sie müssen mindestens eine Belegart auswählen.</div>");
+        header("Location: ./index.php?module=exportbelegepositionen&action=export&msg=$msg");
+        exit;
+      }
+      $filename = date('Ymd') . "_Belege_export.csv";
+      header("Content-Disposition: attachment; filename=" . $filename);
+      header("Pragma: no-cache");
+      header("Expires: 0");
+      $this->headerwritten = false;
+      $csv = "";
+      if ($this->app->Secure->GetPOST("auftrag") == "1") {
+        $csv .= $this->getCSVData("auftrag", $projekt, $von, $bis);
+      }
+      if ($this->app->Secure->GetPOST("rechnung") == "1") {
+        $csv .= $this->getCSVData("rechnung", $projekt, $von, $bis);
+      }
+      if ($this->app->Secure->GetPOST("angebot") == "1") {
+        $csv .= $this->getCSVData("angebot", $projekt, $von, $bis);
+      }
+      if ($this->app->Secure->GetPOST("gutschrift") == "1") {
+        $csv .= $this->getCSVData("gutschrift", $projekt, $von, $bis);
+      }
+      if ($this->app->Secure->GetPOST("lieferschein") == "1") {
+        $csv .= $this->getCSVData("lieferschein", $projekt, $von, $bis);
+      }
+      echo $csv;
+      $this->app->ExitXentral();
+    }
+    $this->app->erp->MenuEintrag("index.php?module=exportbelegepositionen&action=export","&Uuml;bersicht");
+    $this->app->Tpl->Parse('PAGE', "exportbelegepositionen_export.tpl");
+    $this->app->YUI->AutoComplete("projekt", "projektname", 1);
+    $this->app->YUI->DatePicker("von");
+    $this->app->YUI->DatePicker("bis");
+  }
+}
+

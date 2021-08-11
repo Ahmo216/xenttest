@@ -1,31 +1,68 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-/Eriusj+RC3QI95B6+Woh/PpwXW=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Datanorm\Handler;
+
+use Xentral\Modules\Datanorm\Data\DatanormATypeData;
+use Xentral\Modules\Datanorm\Data\DatanormBTypeData;
+use Xentral\Modules\Datanorm\Data\DatanormDTypeData;
+use Xentral\Modules\Datanorm\Data\DatanormPTypeData;
+use Xentral\Modules\Datanorm\Data\DatanormTTypeData;
+use Xentral\Modules\Datanorm\Data\DatanormVTypeData;
+use Xentral\Modules\Datanorm\Exception\WrongPriceFormatException;
+
+interface DatanormReaderHandlerInterface
+{
+
+    /**
+     * @param string $line
+     *
+     * @throws WrongPriceFormatException
+     *
+     * @return DatanormATypeData
+     */
+    public function transformToTypeA(string $line): DatanormATypeData;
+
+    /**
+     * @param string $line
+     *
+     * @throws WrongPriceFormatException
+     *
+     * @return DatanormPTypeData
+     */
+    public function transformToTypeP(string $line): DatanormPTypeData;
+
+    /**
+     * @param string $line
+     *
+     * @return DatanormVTypeData
+     */
+    public function transformToTypeV(string $line): DatanormVTypeData;
+
+    /**
+     * @param string $line
+     *
+     * @return DatanormBTypeData
+     */
+    public function transformToTypeB(string $line): DatanormBTypeData;
+
+    /**
+     * @param string $line
+     *
+     * @return DatanormTTypeData
+     */
+    public function transformToTypeT(string $line): DatanormTTypeData;
+
+    /**
+     * @param string $line
+     *
+     * @return DatanormDTypeData
+     */
+    public function transformToTypeD(string $line): DatanormDTypeData;
+
+    /**
+     * @return int
+     */
+    public function getVersion(): int;
+}

@@ -1,50 +1,98 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-g5i=
+<?php
+
+namespace Xentral\Widgets\DataTable\Service;
+
+use Xentral\Widgets\DataTable\DataTableBuildConfig;
+use Xentral\Widgets\DataTable\DataTableInterface;
+use Xentral\Widgets\DataTable\Result\DataTableDataResult;
+use Xentral\Widgets\DataTable\Result\DataTableHtmlResult;
+
+final class DataTableService
+{
+    /** @var DataTableBuilder $builder */
+    private $builder;
+
+    /** @var DataTableRenderer $renderer */
+    private $renderer;
+
+    /** @var DataTableFetcher $fetcher */
+    private $fetcher;
+
+    /**
+     * @param DataTableBuilder  $builder
+     * @param DataTableRenderer $renderer
+     * @param DataTableFetcher  $fetcher
+     */
+    public function __construct(DataTableBuilder $builder, DataTableRenderer $renderer, DataTableFetcher $fetcher)
+    {
+        $this->builder = $builder;
+        $this->renderer = $renderer;
+        $this->fetcher = $fetcher;
+    }
+
+    /**
+     * @param DataTableBuildConfig $buildConfig
+     *
+     * @return bool
+     */
+    public function canFetchData(DataTableBuildConfig $buildConfig)
+    {
+        return $this->fetcher->canFetchData($buildConfig);
+    }
+
+    /**
+     * @param DataTableBuildConfig $buildConfig
+     *
+     * @return DataTableDataResult
+     */
+    public function fetchData(DataTableBuildConfig $buildConfig)
+    {
+        $dataTable = $this->buildTable($buildConfig);
+
+        return $this->fetcher->fetchData($dataTable);
+    }
+
+    /**
+     * @param DataTableBuildConfig $buildConfig
+     *
+     * @return bool
+     */
+    public function canExportData(DataTableBuildConfig $buildConfig)
+    {
+        return $this->fetcher->canExportData($buildConfig);
+    }
+
+    /**
+     * @param DataTableBuildConfig $buildConfig
+     *
+     * @return string Path to temporary file
+     */
+    public function exportData(DataTableBuildConfig $buildConfig)
+    {
+        $dataTable = $this->buildTable($buildConfig);
+
+        return $this->fetcher->exportData($dataTable);
+    }
+
+    /**
+     * @param DataTableBuildConfig $buildConfig
+     *
+     * @return DataTableHtmlResult
+     */
+    public function renderHtml(DataTableBuildConfig $buildConfig)
+    {
+        $dataTable = $this->buildTable($buildConfig);
+
+        return $this->renderer->createHtmlResult($dataTable);
+    }
+
+    /**
+     * @param DataTableBuildConfig $buildConfig
+     *
+     * @return DataTableInterface
+     */
+    private function buildTable(DataTableBuildConfig $buildConfig)
+    {
+        return $this->builder->buildTable($buildConfig);
+    }
+}

@@ -1,47 +1,64 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\SuperSearch\SearchIndex\Data;
+
+use Xentral\Modules\SuperSearch\Exception\InvalidArgumentException;
+
+final class IndexIdentifier
+{
+    /** @var string $name */
+    private $name;
+
+    /** @var int $id */
+    private $id;
+
+    /**
+     * @param string     $name
+     * @param int|string $id
+     *
+     * @throws InvalidArgumentException
+     */
+    public function __construct($name, $id)
+    {
+        if (empty($name)) {
+            throw new InvalidArgumentException('Invalid argument value. $name parameter can not be empty.');
+        }
+        if (empty($id)) {
+            throw new InvalidArgumentException('Invalid argument value. $id parameter can not be empty.');
+        }
+        if (strlen($name) > 16) {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid argument value "%s". Max length for $id is 16 characters.', $name
+            ));
+        }
+        if (strlen($id) > 38) {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid argument value "%s". Max length for $id is 38 characters.', $id
+            ));
+        }
+        if (preg_match('/[^a-z]+/', $name) === 1) {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid argument value "%s". Valid characters for $name parameter: a-z', $name
+            ));
+        }
+
+        $this->name = (string)$name;
+        $this->id = is_numeric($id) ? (int)$id : (string)$id;
+    }
+
+    /**
+     * @return string
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
+
+    /**
+     * @return int|string
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+}

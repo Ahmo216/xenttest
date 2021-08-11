@@ -1,88 +1,228 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\GoogleCalendar\Data;
+
+use DateTime;
+use DateTimeInterface;
+
+final class GoogleCalenderSyncValue
+{
+    /** @var int $id */
+    private $id;
+
+    /** @var int $eventId */
+    private $eventId;
+
+    /** @var string|null $googleId */
+    private $googleId;
+
+    /** @var bool $isFromGoogle */
+    private $isFromGoogle;
+
+    /** @var DateTimeInterface|null $eventDate */
+    private $eventDate;
+
+    /** @var int $owner */
+    private $owner;
+
+    /** @var string|null $htmlLink */
+    private $htmlLink;
+
+    /**
+     * @param int                    $id
+     * @param int                    $eventId
+     * @param string|null            $googleId
+     * @param int                    $owner
+     * @param bool                   $isFromGoogle
+     * @param DateTimeInterface|null $eventDate
+     * @param string|null            $htmlLink
+     */
+    public function __construct(
+        int $id = 0,
+        int $eventId = 0,
+        string $googleId = null,
+        int $owner = 0,
+        bool $isFromGoogle = false,
+        DateTimeInterface $eventDate = null,
+        string $htmlLink = null
+    ) {
+        $this->id = $id;
+        $this->eventId = $eventId;
+        $this->googleId = $googleId;
+        $this->isFromGoogle = $isFromGoogle;
+        $this->eventDate = $eventDate;
+        $this->owner = $owner;
+        $this->htmlLink = $htmlLink;
+    }
+
+    /**
+     * @return string
+     */
+    public function getEventDateAsString(): string
+    {
+        if ($this->eventDate === null) {
+            return '';
+        }
+
+        return $this->eventDate->format('Y-m-d H:i:s');
+    }
+
+    /**
+     * @param array $data
+     *
+     * @return GoogleCalenderSyncValue
+     */
+    public static function fromDbState(array $data): GoogleCalenderSyncValue
+    {
+        $instance = new self(
+            $data['id'],
+            $data['event_id'],
+            $data['foreign_id'],
+            $data['owner'],
+            $data['from_google'] === 1,
+            null,
+            $data['html_link']
+        );
+        if ($data['event_date'] !== null) {
+            $instance->setEventDate(DateTime::createFromFormat('Y-m-d H:i:s', $data['event_date']));
+        }
+
+        return $instance;
+    }
+
+    /**
+     * @return int
+     */
+    public function getId(): int
+    {
+        return $this->id;
+    }
+
+    /**
+     * @param int $id
+     *
+     * @return void
+     */
+    public function setId(int $id): void
+    {
+        $this->id = $id;
+    }
+
+    /**
+     * @return int
+     */
+    public function getEventId(): int
+    {
+        return $this->eventId;
+    }
+
+    /**
+     * @param int $eventId
+     *
+     * @return void
+     */
+    public function setEventId(int $eventId): void
+    {
+        $this->eventId = $eventId;
+    }
+
+    /**
+     * @return string
+     */
+    public function getGoogleId(): string
+    {
+        if ($this->googleId === null) {
+            return '';
+        }
+
+        return $this->googleId;
+    }
+
+    /**
+     * @param string $googleId
+     *
+     * @return void
+     */
+    public function setGoogleId(string $googleId): void
+    {
+        $this->googleId = $googleId;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isFromGoogle(): bool
+    {
+        return $this->isFromGoogle;
+    }
+
+    /**
+     * @param bool $isFromGoogle
+     *
+     * @return void
+     */
+    public function setIsFromGoogle(bool $isFromGoogle): void
+    {
+        $this->isFromGoogle = $isFromGoogle;
+    }
+
+    /**
+     * @return DateTimeInterface|null
+     */
+    public function getEventDate(): ?DateTimeInterface
+    {
+        return $this->eventDate;
+    }
+
+    /**
+     * @param DateTimeInterface $eventDate
+     *
+     * @return void
+     */
+    public function setEventDate(DateTimeInterface $eventDate): void
+    {
+        $this->eventDate = $eventDate;
+    }
+
+    /**
+     * @return int
+     */
+    public function getOwner(): int
+    {
+        return $this->owner;
+    }
+
+    /**
+     * @param int $owner
+     *
+     * @return void
+     */
+    public function setOwner(int $owner): void
+    {
+        $this->owner = $owner;
+    }
+
+    /**
+     * @return string
+     */
+    public function getHtmlLink(): string
+    {
+        if ($this->htmlLink === null) {
+            return '';
+        }
+
+        return $this->htmlLink;
+    }
+
+    /**
+     * @param string $htmlLink
+     *
+     * @return void
+     */
+    public function setHtmlLink(string $htmlLink): void
+    {
+        $this->htmlLink = $htmlLink;
+    }
+}

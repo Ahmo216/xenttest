@@ -1,266 +1,399 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-BCqHjjjLLVbtERK6adEb
+<?php
+
+namespace Xentral\Modules\DemoExporter;
+
+use Exception;
+use RecursiveDirectoryIterator;
+use RecursiveIteratorIterator;
+use SplFileInfo;
+use stdClass;
+use Throwable;
+use Xentral\Components\Backup\Logger\BackupLog;
+use Xentral\Components\Database\Database;
+use Xentral\Components\Database\Exception\DatabaseExceptionInterface;
+use Xentral\Components\Database\Exception\QueryFailureException;
+use Xentral\Components\Exporter\Csv\CsvExporter;
+use Xentral\Components\Exporter\Exception\ExporterExceptionInterface;
+use Xentral\Modules\Backup\BackupService;
+use Xentral\Modules\Backup\BackupSystemConfigurationService;
+use Xentral\Modules\Backup\Exception\RuntimeException as BackupModuleRuntimeException;
+use Xentral\Modules\DemoExporter\Exception\DemoExporterCleanerException;
+use Xentral\Modules\DemoExporter\Exception\DemoExporterException;
+use ZipArchive;
+
+
+final class DemoExporterService
+{
+    const DEMO_EXPORTER_CONFIG_NAME = 'demo_exporter';
+
+    /** @var DemoExporterCleanerService $cleanerService */
+    private $cleanerService;
+
+    /** @var string $tmpDir */
+    private $tmpDir;
+
+    /**
+     * @var BackupSystemConfigurationService
+     */
+    private $configurationService;
+    /** @var array $customDemoExporter */
+    private $customDemoExporter;
+    /**
+     * @var BackupService
+     */
+    private $backupService;
+    /**
+     * @var DemoExporterGateway
+     */
+    private $gateway;
+    /**
+     * @var Database
+     */
+    private $db;
+
+    /** @var null|string $sqlTmpArticle */
+    private $sqlTmpArticle = null;
+
+    /**
+     * @var DemoExporterDateiService
+     */
+    private $dateiService;
+
+    /** @var null|string $zipFile */
+    private $zipFile = null;
+    /**
+     * @var BackupLog
+     */
+    private $logger;
+
+    /**
+     * DemoExporterService constructor.
+     *
+     * @param DemoExporterDateiService         $dateiService
+     * @param DemoExporterCleanerService       $cleanerService
+     * @param Database                         $db
+     * @param BackupSystemConfigurationService $configurationService
+     * @param BackupService                    $backupService
+     * @param DemoExporterGateway              $gateway
+     * @param BackupLog                        $logger
+     */
+    public function __construct(
+        DemoExporterDateiService $dateiService,
+        DemoExporterCleanerService $cleanerService,
+        Database $db,
+        BackupSystemConfigurationService $configurationService,
+        BackupService $backupService,
+        DemoExporterGateway $gateway,
+        BackupLog $logger
+    ) {
+        $this->dateiService = $dateiService;
+        $this->cleanerService = $cleanerService;
+        $this->tmpDir = $dateiService->getTmpPath();
+        $this->db = $db;
+        $this->configurationService = $configurationService;
+        $this->backupService = $backupService;
+        $this->gateway = $gateway;
+        $this->logger = $logger;
+    }
+
+    /**
+     * @param array $options
+     *
+     * @throws DemoExporterException
+     * @return void
+     */
+    public function setDumpOptions($options = [])
+    {
+        try {
+            $default = [
+                'artikel' => 'artikel.geloescht !=1',
+            ];
+
+            $options = array_merge($default, $options);
+            foreach ($options as $table => $where) {
+                $tableCleaned = $this->cleanerService->tryXssClean($table);
+                $whereCleaned = '';
+                if (trim($where) !== '') {
+                    $whereCleaned = $this->cleanerService->tryXssClean($where);
+                }
+                $this->customDemoExporter[$tableCleaned] = $whereCleaned;
+            }
+        } catch (DemoExporterCleanerException $exception) {
+            throw new DemoExporterException($exception->getMessage());
+        }
+
+        $value = $this->valueToDB($this->customDemoExporter);
+
+        $this->configurationService->trySetConfiguration(static::DEMO_EXPORTER_CONFIG_NAME, $value);
+    }
+
+    /**
+     * @param array $value
+     *
+     * @return string
+     */
+    private function valueToDB($value)
+    {
+        return base64_encode(serialize($value));
+    }
+
+    /**
+     * @param stdClass $config
+     *
+     * @return void
+     */
+    public function export(stdClass $config)
+    {
+        $this->logger->write('--Begin--');
+
+        $customDemoExporter = $this->valueFromDB($config->demo_exporter_config);
+        $this->zipFile = $config->options->zip_file;
+        $tmpDirectory = $this->tmpDir . uniqid('', true) . DIRECTORY_SEPARATOR;
+        if (!@mkdir($tmpDirectory, 0777, true) && !is_dir($tmpDirectory)) {
+            throw new DemoExporterException(sprintf('Failed to create tmp Dir %s', $tmpDirectory));
+        }
+        $this->db->perform("SET SESSION SQL_MODE='ALLOW_INVALID_DATES'");
+
+        $this->logger->write('Export DB data');
+
+        try {
+            foreach ($customDemoExporter as $table => $where) {
+                $tableTmpName = $table . '_' . time();
+                $sqlTableAndWhere = empty($where) ? $table : $table . ' WHERE  ' . stripslashes($where);
+                $sqlFrom = 'SELECT * FROM ' . $sqlTableAndWhere;
+                if ($table === 'artikel') {
+                    $articleWhere = !empty($where) ? 'WHERE ' . stripslashes($where) . ' AND ' : 'WHERE ';
+
+                    $articleWhere .= '(v.gueltig_bis ="0000-00-00" OR v.gueltig_bis >NOW()) AND v.adresse IN(0,NULL) 
+                                AND v.gruppe IN(0,NULL) AND artikel.geloescht !=1';
+                    $sqlFrom = 'SELECT artikel.* FROM artikel AS `artikel` INNER JOIN verkaufspreise AS `v` 
+                            ON(artikel.id=v.artikel) 
+                            ' . $articleWhere . '
+                       ORDER BY v.ab_menge';
+                    $tmpSQL = 'CREATE TEMPORARY TABLE IF NOT EXISTS ' . $tableTmpName . ' ' . $sqlFrom;
+                    $this->db->perform($tmpSQL);
+                    $this->sqlTmpArticle = $tableTmpName;
+                }
+                $this->sqlToCSV($sqlFrom, $tmpDirectory, $table);
+            }
+        } catch (QueryFailureException $exception) {
+            $this->logger->write('ERROR');
+            throw new DemoExporterException($exception->getMessage());
+        } catch (ExporterExceptionInterface $exception) {
+            $this->logger->write('ERROR');
+            throw new DemoExporterException($exception->getMessage());
+        }
+
+        $this->logger->write('Grab Data and files');
+
+        if (!empty($this->sqlTmpArticle)) {
+            $this->grabArticleData($this->sqlTmpArticle, $tmpDirectory);
+        }
+
+        if ($this->zipExport($tmpDirectory)) {
+            $this->logger->write('Create achieve');
+            $this->deleteDir($tmpDirectory);
+        }
+        $this->logger->write('--END--');
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return mixed
+     */
+    private function valueFromDB($value)
+    {
+        return unserialize(base64_decode($value));
+    }
+
+    protected function sqlToCSV($sqlFrom, $tmpDirectory, $tableName)
+    {
+        $tableName = $tmpDirectory . $tableName . '.csv';
+
+        $data = $this->db->yieldAll($sqlFrom);
+        $exporter = new CsvExporter();
+        $exporter->export($tableName, $data);
+    }
+
+    /**
+     * @param $tableTmpName
+     * @param $tmpDirectory
+     */
+    private function grabArticleData($tableTmpName, $tmpDirectory)
+    {
+        if (empty($tableTmpName)) {
+            throw new DemoExporterException('Table for grabbing is missing');
+        }
+        $sql = 'SELECT a.id, dv.dateiname, dv.version, a.nummer FROM ' . $tableTmpName . ' AS `a` 
+        LEFT JOIN datei_stichwoerter AS `ds` ON (a.id=ds.parameter)
+        INNER JOIN datei AS `d` ON (ds.datei=d.id)
+        LEFT JOIN datei_version AS `dv` ON (d.id=dv.datei)
+        WHERE LOWER(ds.objekt) =:object AND d.geloescht !=:deleted AND a.geloescht !=:deleted';
+
+        // SQL verkaufpreise
+        $salePrices = 'SELECT v.* FROM ' . $tableTmpName . ' AS `a` INNER JOIN verkaufspreise AS `v` ON(a.id=v.artikel) 
+                       WHERE (v.gueltig_bis ="0000-00-00" OR v.gueltig_bis >NOW()) AND v.adresse IN(0,NULL) 
+                       AND v.gruppe IN(0,NULL) ORDER BY v.ab_menge';
+
+        $this->sqlToCSV($salePrices, $tmpDirectory, 'verkaufspreise');
+
+        try {
+            $rows = $this->db->fetchAll($sql, ['object' => 'artikel', 'deleted' => 1]);
+
+        } catch (DatabaseExceptionInterface $exception) {
+            throw new DemoExporterException($exception->getMessage());
+        }
+
+        $filesDir = $tmpDirectory . 'files' . DIRECTORY_SEPARATOR;
+        if (!@mkdir($filesDir, 0777, true) && !is_dir($filesDir)) {
+            throw new DemoExporterException(sprintf('Failed to create tmp Dir %s', $filesDir));
+        }
+
+        foreach ($rows as $row) {
+            $id = $row['id'];
+            $articleNumber = $row['nummer'];
+            $fileName = $row['dateiname'];
+            $pathFile = $this->dateiService->tryGetDateiPfad($id);
+            $finalName = $filesDir . $articleNumber . '_' . $fileName;
+
+            if (file_exists($pathFile) && !copy($pathFile, $finalName)) {
+                $this->logger->write('ERROR');
+                throw new DemoExporterException(sprintf('Failed to copy  %s into tmp Dir %s', $pathFile, $finalName));
+            }
+        }
+        $this->db->perform('DROP TABLE IF EXISTS ' . $tableTmpName);
+    }
+
+    /**
+     * @param string $tmpDirectory
+     *
+     * @throws DemoExporterException
+     *
+     * @return bool
+     */
+    private function zipExport($tmpDirectory)
+    {
+        $rootPath = realpath($tmpDirectory);
+
+        $oZip = new ZipArchive();
+
+        $zipFile = $this->tmpDir . $this->zipFile;
+        if ($this->openZipObject($oZip, $zipFile, ZipArchive::CREATE | ZipArchive::OVERWRITE) !== true) {
+            $this->logger->write('ERROR');
+            throw new DemoExporterException(sprintf('Failure to create temporary file in "%s"', $this->tmpDir));
+        }
+
+        try {
+
+            /** @var RecursiveIteratorIterator $oFiles */
+            $oFiles = new RecursiveIteratorIterator(
+                new RecursiveDirectoryIterator($rootPath),
+                RecursiveIteratorIterator::LEAVES_ONLY
+            );
+
+            foreach ($oFiles as $name => $oFile) {
+                /** @var SplFileInfo $oFile */
+                if (!$oFile->isDir()) {
+                    $filePath = $oFile->getRealPath();
+                    $relativePath = substr($filePath, strlen($rootPath) + 1);
+                    $oZip->addFile($filePath, $relativePath);
+                }
+            }
+
+            return $oZip->close();
+        } catch (Throwable $exception) {
+            $this->logger->write('ERROR');
+            throw new DemoExporterException($exception->getMessage());
+        }
+    }
+
+    /**
+     * @param ZipArchive $oZip
+     * @param string     $fileName
+     * @param int        $flags
+     *
+     * @return mixed
+     */
+    protected function openZipObject($oZip, $fileName, $flags = 0)
+    {
+        return $oZip->open($fileName, $flags);
+    }
+
+    /**
+     * @param string $dirPath
+     *
+     * @return bool
+     */
+    private function deleteDir($dirPath)
+    {
+        if (is_dir($dirPath)) {
+
+            if (substr($dirPath, strlen($dirPath) - 1, 1) !== '/') {
+                $dirPath .= '/';
+            }
+            $files = glob($dirPath . '*', GLOB_MARK);
+            foreach ($files as $file) {
+                if (is_dir($file)) {
+                    $this->deleteDir($file);
+                } else {
+                    unlink($file);
+                }
+            }
+
+            return rmdir($dirPath);
+        }
+        $this->logger->write('ERROR');
+        throw new DemoExporterException(sprintf('Deleted DIR %s failed', $dirPath));
+    }
+
+    /**
+     * @param string $zipFileName
+     *
+     * @throws DemoExporterException
+     *
+     * @return string
+     */
+    public function getZippedFile($zipFileName)
+    {
+        $zippedFile = $this->tmpDir . $zipFileName;
+        if (!file_exists($zippedFile)) {
+            $this->logger->write('ERROR');
+            throw new DemoExporterException(sprintf('Zipped file %s cannot be found!', $zipFileName));
+        }
+
+        return $zippedFile;
+    }
+
+    /**
+     * @param array  $xConfig
+     * @param string $identifier
+     * @param string $sParam
+     * @param string $cronFile
+     *
+     * @throws Exception
+     */
+    public function addToProcessStarter(
+        $xConfig,
+        $identifier = 'Demo Exporter Konfigurartion',
+        $sParam = 'demo_exporter_cron',
+        $cronFile = 'demo_exporter'
+    ) {
+        try {
+            $rowDemoExporter = $this->gateway->getDemoExporterConfigurationValue(static::DEMO_EXPORTER_CONFIG_NAME);
+            if (empty($rowDemoExporter)) {
+                $this->logger->write('ERROR');
+                throw new DemoExporterException(
+                    sprintf('configuration value %s cannot be found !', static::DEMO_EXPORTER_CONFIG_NAME)
+                );
+            }
+            $xConfig['demo_exporter_config'] = $rowDemoExporter['wert'];
+            $value = json_encode($xConfig);
+
+            $this->backupService->addToProcessStarter($value, $identifier, $sParam, $cronFile);
+        } catch (BackupModuleRuntimeException $exception) {
+            $this->logger->write('ERROR');
+            throw new DemoExporterException($exception->getMessage());
+        }
+    }
+}

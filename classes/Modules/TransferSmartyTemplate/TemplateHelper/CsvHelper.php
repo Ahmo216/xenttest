@@ -1,31 +1,32 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\TransferSmartyTemplate\TemplateHelper;
+
+use Xentral\Modules\TransferSmartyTemplate\Exception\InvalidArgumentException;
+
+final class CsvHelper
+{
+    /**
+     * Quotes and escapes an CSV value
+     *
+     * @param string $string
+     * @param string $enclosure
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return string
+     */
+    public function quoteCsv($string, $enclosure = '"')
+    {
+        if (!is_string($enclosure)) {
+            throw new InvalidArgumentException('Invalid argument. Enclosure need to be type string.');
+        }
+        if (strlen($enclosure) !== 1) {
+            throw new InvalidArgumentException('Invalid argument. Enclosure can only be a single character.');
+        }
+
+        $escapedString = (string)str_replace($enclosure, $enclosure . $enclosure, $string);
+
+        return $enclosure . $escapedString . $enclosure;
+    }
+}

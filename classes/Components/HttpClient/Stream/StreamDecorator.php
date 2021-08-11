@@ -1,29 +1,11 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPrT7zdLuhSfwGl5ZLaPqAHv43HDiLaARu+iMiMQsBQUY0/XlLUvucirKAsas451TGTaXme9z
-QOvbOIHRg30aSPSujPhJstP+RlbtUW8tMQQ+Ar1RlSO3R9Dk3gLFcq1t4l12mDiaKFhwQbb8oJdO
-eu+WK8n9KhEn2Sq5NuLAQY9ttRFivYrwtYKdVG+ki+BaeVCs+vWJwU4QL+UYht5d7g6hV5OvYdQR
-GzsG+yCpX3yAemCPhqTdFN4nN7bFYhRaXFhpYEim+b3gbQOIDdRcEjklHISSmaB3XThLuBFQ46W4
-n1ESsj9iZFZq7KWb4T8DeCV1ZlRTGInILobdUStTbxEpvUSGGh45UH3Nsxk/dIXGJqaSvCyqabGt
-2YR1Yeju9rWvRfTwx8qn4tJpJG/uTO1gXOcW26OPuzyTfLYDVrRlGToxakx1cds8VKoge+88sE8N
-sC5cKp/0UFh/UZMvRif4Er8loqnDeS/2e6/zj+m7qoWhbQxDVVufECKTJUM4zM8Uw+k3KZc1mnuR
-G5lIfzYAoKAyTrXm3NXBVy0XbzHKqJ8zZp2c/D/+NfTFYOoNdO2sKm3guAr25vlRtTN9YaG/UDam
-RU6ADOmt581ueHIKhTIsPrWgFcb7ht42U9jNg3Tt7ypS1VVJp87Q18OcGUXlPW5inXED4MAuQtdN
-iFdvSXK0nrflHSHrxad94QgtxWGXDMPNy+MbTrs9sjRr03ZqSZdnrivfEp1ye2R2rO1j/mHcQ0VE
-48yiKTxLXQcwWALQmL7R+RtS1mVc0HSDmS0Tw3Zq5LVdCvtjUwRvKlcRyjF+9x6tpbGlabmud0Aw
-oHbo2Zdtr40E/fKtPM6KJiU/QD5cjIt76I7UYvzcsCJpwI4zO6JDfCqv2gt0+AcpLLwFij56czPl
-gsOZEAjOuNNhmBWxHBSdPCA88GE5y6g18NFGYwN34q11npjCN8v4rpiPOxU9JQSBtHi/Z06u0NuT
-BOGtVSQjDdWiXvD+SmcSPsrecJkVtzYsDQw00tH8hKP4KEtDSd+IYBmp9UvOuQL4oDflMQqLLLI1
-ynGocQL+YTZH2UP+1lWZZmJ2QJyCnWEwIB0IklYbdSTk2/LzZLpy2x/4B0SF+OGCOuuwqeRl//K7
-HQRQuqlruBSSebXN5blphO57Sx2Ph+jtH7cfGqQjRmth3dsAJtKFYn7R3qDczZZWYfzC9OcLHHjF
-sCj6biZYcxuEr3B75nUHmdK4K6r4HA+QSQ8B1HbxYlekPnbyleNLXL+oSY3HUUKsXq6OFj6twtd/
-JB7dm1rDgMA4cGRsosQ/QXvmPLUjjWn+OKLS3AYP3y5ad6endcqwWzPvH5YfqVc/dgEw8TKrYH/M
-EfSuycUoMi0PRD7llfnVUXYDv5mgxrQhbt1yhbDfhn5InSERTuHxNGPwaMnW1kjymGieI5b76+9M
-dCX00RDjljxqe0udQ0Ko4SkjFUbY/3BySCb2GNS1U4f1xR2XHOLa4xXP1Fxuz6eTQvJZ6r21d/hj
-wbC9azYKh5TC5LOc68qOyFt3O6nCZRk9UqH3NMuHbCpS2rnkW9eY+s5dfJ+cZ6rjUlyf+VSWdbKz
-80KqfSvGrkQ3VFN+4BfEH3djQgbxwfyjN29SqIoRgOQwl9rx2lDHhdzL4K3b4xmbK2CDkfaCU3FG
-EB9q3shTYSU+Cu2EXcoPZCmqPp6wm4hsVQcLHxQhRMs7mDjgFpf1v1ncHv1iO7mdd3MJdMPKcs0W
-7FGE2wDOaBsNtzUlPdWRiK6nakOsK7xJLF2H5+GEI7SoXDojSMFZ+8PNLoOWJOm24ET9MIWqitfM
-B3NercziJDc1yL/IOYT4kvRZU1VD+dpeD+njcdzpVg7HnXp/bC866NwXjHOp3uuX5HmZ/zFrAj9D
-0edwNez1m0VuHuPUsXxSeUCNtKVzjrytawG=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\HttpClient\Stream;
+
+use GuzzleHttp\Psr7\Stream;
+
+final class StreamDecorator extends Stream implements StreamInterface
+{
+}

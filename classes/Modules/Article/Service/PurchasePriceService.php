@@ -1,150 +1,250 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-tm==
+<?php
+
+namespace Xentral\Modules\Article\Service;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Article\Exception\ArticleNotFoundException;
+use Xentral\Modules\Article\Exception\InvalidArgumentException;
+use Xentral\Modules\Article\Gateway\ArticleGateway;
+
+final class PurchasePriceService
+{
+    /** @var ArticleGateway $gateway */
+    private $gateway;
+
+    /** @var Database $db */
+    private $db;
+
+    /**
+     * @param ArticleGateway $gateway
+     * @param Database       $database
+     */
+    public function __construct(ArticleGateway $gateway, Database $database)
+    {
+        $this->gateway = $gateway;
+        $this->db = $database;
+    }
+
+    /**
+     * @param int       $articleId
+     * @param int|float $quantity
+     *
+     * @throws InvalidArgumentException|ArticleNotFoundException
+     *
+     * @return float
+     */
+    public function calculateCalculatedPurchasePrice($articleId, $quantity)
+    {
+        $quantity = (float)$quantity;
+        $articleId = $this->ensureArticleId($articleId);
+        if ($quantity <= 0.0) {
+            throw new InvalidArgumentException(sprintf('Quantity must be greater than 0. Actual: %s', $quantity));
+        }
+
+        $calculatedPurchasePrice = $this->db->fetchValue(
+            'SELECT a.berechneterek FROM artikel AS a WHERE a.id = :article_id AND a.verwendeberechneterek = 1',
+            ['article_id' => $articleId]
+        );
+        
+        $calculatedPurchasePrice = (float)$calculatedPurchasePrice * $quantity;
+
+        if ($calculatedPurchasePrice > 0) {
+            return $calculatedPurchasePrice;
+        }
+
+        if (!$this->gateway->isPartsListArticle($articleId)) {
+            return 0;
+        }
+
+        $calculatedPurchasePrice = 0;
+        $partsListArticles = $this->db->fetchAll(
+            'SELECT s.artikel, s.menge FROM stueckliste AS s WHERE s.stuecklistevonartikel = :article_id',
+            ['article_id' => $articleId]
+        );
+        foreach($partsListArticles as $articles=>$article){
+            $calculatedPurchasePrice += $this->calculateCalculatedPurchasePrice($article['artikel'], $article['menge']);
+        }
+
+        return $calculatedPurchasePrice;
+    }
+
+    /**
+     * @param int $articleId
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return int
+     */
+    private function ensureArticleId($articleId)
+    {
+        if (empty($articleId) || (int)$articleId < 1) {
+            throw new InvalidArgumentException('Required argument "articleId" is empty or invalid.');
+        }
+
+        return (int)$articleId;
+    }
+
+    /**
+     * @param int    $articleId
+     * @param int    $addressId
+     * @param float  $price
+     * @param string $currencyCode
+     * @param float  $quantityFrom
+     * @param string $purchaseNumber
+     * @param string $purchaseName
+     *
+     * @return int
+     */
+    public function setPurchasePrice($articleId,
+        $addressId,
+        $price,
+        $currencyCode = 'EUR',
+        $quantityFrom = 1.0,
+        $purchaseNumber = '',
+        $purchaseName = '')
+    {
+        $this->ensureArticleId($articleId);
+        if(empty($currencyCode)) {
+            $currencyCode = 'EUR';
+        }
+        if($quantityFrom <= 0) {
+            $quantityFrom = 1.0;
+        }
+        $select = $this->db->select();
+        $select
+            ->cols(['pp.id', 'pp.preis as price','IF(pp.waehrung <> \'\', pp.waehrung, \'EUR\') AS currency_code',
+                    'pp.artikel AS article_id','pp.ab_menge AS quantity_from','pp.bestellnummer AS purchase_number',
+                    'pp.bezeichnunglieferant AS purcase_name'
+            ])
+            ->from('einkaufspreise AS pp')
+            ->where("ab_menge=:quantity_from AND adresse=:address_id AND artikel=:article_id AND waehrung = :currency_code
+            AND (IFNULL(gueltig_bis='0000-00-00','0000-00-00') OR gueltig_bis >= NOW()) AND geloescht!=1")
+            ->bindValue('quantity_from', (float)$quantityFrom)
+            ->bindValue('address_id', (int)$addressId)
+            ->bindValue('article_id', (int)$articleId)
+            ->bindValue('currency_code', $currencyCode);
+
+        $oldPrice = $this->db->fetchRow(
+            $select->getStatement(),
+            $select->getBindValues()
+        );
+
+
+        if(!empty($oldPrice)) {
+            $isPriceDifferent = round($oldPrice['price'],8) !== round($price,8);
+            $isNumberOrNameDiffernt = (String)$oldPrice['purchase_number'] !== (String)$purchaseNumber ||
+                (String)$oldPrice['purcase_name'] !== (String)$purchaseName;
+            if(!$isPriceDifferent && !$isNumberOrNameDiffernt) {
+                return $oldPrice['id'];
+            }
+            if(!$isPriceDifferent) {
+                return $oldPrice['id'];
+            }
+            $this->db->perform(
+                'UPDATE einkaufspreise SET gueltig_bis = DATE_SUB(CURDATE(), INTERVAL 1 DAY) WHERE id = :id',
+                ['id'=>$oldPrice['id']]
+            );
+        }
+
+        $this->db->perform('INSERT INTO einkaufspreise (artikel, adresse, objekt, projekt, preis, waehrung, ab_menge,
+                 bestellnummer, bezeichnunglieferant, nichtberechnet)  
+            VALUES (:article_id, :address_id, :object, :project_id, :price, :currency, :quantity_from,
+                    :purchase_number,:purchase_name, 1)',
+            [
+                'article_id'      => (int)$articleId,
+                'address_id'      => (int)$addressId,
+                'object'          => '',
+                'project_id'      => 0,
+                'price'           => (float)$price,
+                'currency'        => $currencyCode,
+                'quantity_from'   => (float)$quantityFrom,
+                'purchase_number' => (String)$purchaseNumber,
+                'purchase_name'   => (String)$purchaseName
+
+            ]
+        );
+
+        return $this->db->lastInsertId();
+    }
+
+    /**
+     * @param array $purchasePriceArray [article_id, address_id, price, quantity_from, currency_code,purchase_number,purchase_name]
+     */
+    public function setPurchasePriceByArray($purchasePriceArray)
+    {
+        if(empty($purchasePriceArray)) {
+            return;
+        }
+
+        $articleIds = [];
+        $addressIds = [];
+
+        foreach($purchasePriceArray as $purchasePrice) {
+            if(!in_array($purchasePrice['article_id'], $articleIds)) {
+                $articleIds[] = $purchasePrice['article_id'];
+            }
+            if(!in_array($purchasePrice['address_id'], $addressIds)) {
+                $addressIds[] = $purchasePrice['address_id'];
+            }
+        }
+        $select = $this->db->select();
+        $select
+            ->cols(
+                [
+                    'pp.id',
+                    'pp.preis as price',
+                    'IF(pp.waehrung <> \'\', pp.waehrung, \'EUR\') AS currency_code',
+                    'pp.artikel AS article_id',
+                    'pp.adresse AS address_id',
+                    'pp.ab_menge AS quantity_from',
+                    'pp.bestellnummer AS purchase_number',
+                    'pp.bezeichnunglieferant AS purcase_name'
+                ]
+            )
+            ->from('einkaufspreise AS pp')
+            ->where("adresse IN (:address) AND artikel IN (:article) 
+            AND (IFNULL(pp.gueltig_bis,'0000-00-00')='0000-00-00' OR pp.gueltig_bis >= CURDATE()) AND pp.geloescht!=1")
+            ->bindValue('address', $addressIds)
+            ->bindValue('article', $articleIds);
+
+        $oldPrices = $this->db->fetchAll(
+            $select->getStatement(),
+            $select->getBindValues()
+        );
+
+        $priceTree = [];
+        foreach($oldPrices as $oldPrice) {
+            $articleId = (int)$oldPrice['article_id'];
+            $addressId = (int)$oldPrice['address_id'];
+            $currencyCode = $oldPrice['currency_code'];
+            $quantityFrom = round($oldPrice['quantity_from'],8);
+            $priceTree[$articleId][$addressId][$currencyCode][$quantityFrom] = $oldPrice['price'];
+        }
+        unset($oldPrices);
+
+        foreach($purchasePriceArray as $purchasePrice) {
+            $articleId = (int)$purchasePrice['article_id'];
+            $addressId = (int)$purchasePrice['address_id'];
+            $currencyCode = $purchasePrice['currency_code'];
+            $quantityFrom = round($purchasePrice['quantity_from'],8);
+            $price = round($purchasePrice['price'], 8);
+            $purchaseNumber = !empty($purchasePrice['purchase_number'])?$purchasePrice['purchase_number']:'';
+            $purchaseName = !empty($purchasePrice['purchase_name'])?$purchasePrice['purchase_name']:'';
+            $aricleExists = !empty($priceTree[$articleId]);
+            $addressExists = $aricleExists && !empty($priceTree[$articleId][$addressId]);
+            $currencyExists = $addressExists && !empty($priceTree[$articleId][$addressId][$currencyCode]);
+            $quantityFromExists = $currencyExists && !empty($priceTree[$articleId][$addressId][$currencyCode][$quantityFrom]);
+            if(!$quantityFromExists || round($oldPrice['price'],8) !== $price) {
+                $this->setPurchasePrice(
+                    $articleId,
+                    $addressId,
+                    $price,
+                    $currencyCode,
+                    $quantityFrom,
+                    $purchaseNumber,
+                    $purchaseName
+                );
+            }
+        }
+    }
+}

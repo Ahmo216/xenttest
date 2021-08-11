@@ -1,67 +1,65 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-CahQ6EhnfclA4QKISGmL
+<?php
+
+class Avocadostore {
+  /** @var erpooSystem $app */
+  var $app;
+
+  function __construct($app, $intern = false) {
+    $this->app=$app;
+    if($intern)return;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("list", "AvocadostoreList");
+
+    $this->app->ActionHandlerListen($app);
+  }
+
+  function AvocadostoreMenu()
+  {
+    $this->app->erp->MenuEintrag("index.php?module=avocadostore&action=list","Zur&uuml;ck zur &Uuml;bersicht");
+    $this->app->erp->MenuEintrag("index.php?module=avocadostore&action=list","&Uuml;bersicht");
+  }
+
+  function AvocadostoreList()
+  {
+    $this->AvocadostoreMenu();
+    $this->app->Tpl->Set("KURZUEBERSCHRIFT","Avocadostore");
+
+    $this->app->Tpl->Set("WIKITEXT", $this->getWikiPageContent());
+
+    $this->app->Tpl->Parse("PAGE","avocadostore_list.tpl");
+  }
+
+  public function getWikiPageContent()
+  {
+    $this->app->DB->DisableHTMLClearing(true);
+    $wikiPageExists = $this->app->DB->Select("SELECT `id` FROM wiki WHERE name='avocadostore' LIMIT 1");
+    if($wikiPageExists > 0 && $wikiPageExists !== ''){
+      $wikiDefaultText = '';
+      $this->app->DB->Insert("INSERT INTO wiki (name,content) VALUES ('avocadostore','".$wikiDefaultText."')");
+    }
+
+    $wikiPageExists = $this->app->DB->Select("SELECT `id` FROM wiki WHERE name='avocadostore' LIMIT 1");
+    if($wikiPageExists > 0 && $wikiPageExists !== ''){
+      $this->app->DB->Insert("INSERT INTO wiki (name) VALUES ('avocadostore')");
+    }
+
+    $wikiPageContent = $this->app->DB->Select("SELECT content FROM wiki WHERE name='avocadostore' LIMIT 1");
+    $this->app->DB->DisableHTMLClearing(false);
+    $wikiPageContent = $this->app->erp->ReadyForPDF($wikiPageContent);
+    $wikiParser = new WikiParser();
+    $parsedWikiPageContent = $wikiParser->parse($wikiPageContent);
+
+    return $parsedWikiPageContent;
+  }
+
+}

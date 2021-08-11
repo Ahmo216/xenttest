@@ -1,31 +1,12 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-3c04QwWafkQnKt/8SnfLU8IjwN1ACG==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\PaymentMethod\Exception;
+
+use RuntimeException;
+
+final class PaymentMethodNotFoundException extends RuntimeException implements PaymentMethodExceptionInterface
+{
+}
+

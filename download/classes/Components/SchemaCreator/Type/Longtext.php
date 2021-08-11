@@ -1,61 +1,91 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-0Y++Mu+X86x0yRztnC4s76WEi4QhhRQFPW==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\SchemaCreator\Type;
+
+use Xentral\Components\SchemaCreator\Exception\SchemaCreatorInvalidArgumentException;
+use Xentral\Components\SchemaCreator\Interfaces\ColumnInterface;
+use Xentral\Components\SchemaCreator\Interfaces\ColumnTextInterface;
+
+final class Longtext implements ColumnInterface, ColumnTextInterface
+{
+
+    /** @var string $type */
+    private $type = 'LONGTEXT';
+
+    /** @var string $name */
+    private $name;
+
+    /** @var array $options */
+    private $options;
+
+    /** @var bool $nullable */
+    private $nullable;
+
+    /**
+     * @param string $name
+     * @param bool   $nullable
+     * @param array  $options
+     */
+    public function __construct(string $name, bool $nullable = true, array $options = [])
+    {
+        $this->name = $name;
+        $this->nullable = $nullable;
+        $options['default'] = null;
+
+        $this->options = $options;
+    }
+
+    /**
+     * @param array $options
+     *
+     * @return ColumnInterface
+     *
+     * @internal Use constructor instead
+     */
+    public static function fromDBColumn(array $options): ColumnInterface
+    {
+        if (empty($options)) {
+            throw new SchemaCreatorInvalidArgumentException('Options cannot be empty');
+        }
+
+        return new self(
+            $options['field'],
+            $options['nullable'],
+            $options
+        );
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getType(): string
+    {
+        return $this->type;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getField(): string
+    {
+        return $this->name;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getOptions(): array
+    {
+        return $this->options;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function isNullable(): bool
+    {
+        return $this->nullable;
+    }
+}

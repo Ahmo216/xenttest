@@ -1,62 +1,66 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP/BMMYU8TRy84XZF12Aer8btDTpkRLnJsTe6K4EQwd5m6vCbTUjVa3tv8geiU0DnA+ERSLXu
-rnvLywfA+fhUY7Defh1y10TVjeYwPVgvy0k6sTYs1IAXlVULI3A1inf6PnWtNxtKh42v12Si+ZAK
-7PyLkfeVbsVNeQAF7BiGsPbzAap5i6NgDIMnvRB/feJOAkXQ/hZQIGi6Fnm6ytUIaWHK6ESCPLR5
-3cUaiZjnYu4nOMCczuQUnTMQx7SE/h+paX2X7pPDUBzBnfE0pnhOGwHVrllSuIYzBFeocsoaRs9k
-T/uTt/11LPN6+lkYPmIL+dCDfhfzL2sWKpLg6ZExKR1rmHQSfPqLzcHpAsoxlvqeK4z97EJFD99K
-DmecR8jXp63e5RagGRzHCPFFzdeURQvSELsswElfd5Y3zYgEQOF7ngdtHycn0UgpEPsLcgXxuEio
-dDzuLxGslNYPNzMa0fNKhQdjKZex/2IB+3cvrfVIVIVhdKG423V6sq5pMnYyXqHg9doG7hs7spTF
-Dh12Ri3ou5em/ZscIAOaKsKKQqUzxesmIz7rA7Lo3xQcQIIhnNgeGX5hYZH0MWQev17e6TIB7/ES
-4Dr4qsVAbifWB+ooGHUELdjll6O0ZOTnQjpiqgnHCifwPz1lQlue8Y9VgSFXQ4I5DEWxEhfbUIFE
-XW6fPtAsd5LSFRF5AGd8CroX5woZ6tnJGHy8QMYs8EVXp7GFbWWSR5+XAw1Bo4yslDuKSlzC/ydx
-ObOcnJSY/aJ9NQv7qFt7PwnYXIKnrlLWttieRuHO0Pf6UjHpfEtndaBkZxO40ngr89LHSD/dJtD0
-b8YKDHGvaTtEUupTOf5+OOrMavdPeUNVVTJdAvEUoFCApwo/GUqhDN2rBcMqEqXzHVDqg/Fl3Isx
-ATYz+ucyZ6AytMXyRlt9j/HipDgCtfBPrThoT203YKfI88vkdH4cd8gIHo96K+hXNFfHMugMrLWq
-ZZ0SbI6CLOfDD7Nv++ZVKbAuSR/jDwU0gmrhoYxidpRuAxC5uq1UCfgftBIXiJs0SDnsaIjR/U4i
-ZRtfXKXKnNlLik2pDDP/JdNPKk496D9T8nwscMVwvCclYHnJ78lGzrRiQR9PtOcJaDTQIb8Cn743
-QbnLdTrl9TcjRy8NDIRQeL8Ndo9cIFd0Tz8z4m6n6MtYnV3rhQnuXjVHANwF/GfxMIrNT2qqAnEE
-BN+IQaJ+WotKwPz+TN4pLYmYQECgzEkMr8PduX/PIc+q6u97+JQSmi/zmlBg1xLyQI1NKmDSVB16
-2maAMKT6iljxYbE9FXRo7qxa623Nkixyyh5X4OHUBSUIgVv6DF3prGSdm2+3X9h6kVifY6drpfKR
-YlCEEL6LklNl0cL23nQqXSJQ/sJy/X5XYNfrYwF9KiSacMT5L4Jbs12szcObIc78LA/cepGYR9sz
-nI64pZrCDXcLhOvXjyb/fVfaw+I/HoDV5QddSup6KaNZc3C7y6z1K2+cg6Mu6z9C8wLaNd1yLWEp
-4JgRFYX7JOMidebwZYv4fmnJ15zZ6TmmWfqoDhA3Q9osZi0r3cdi/KRtm7ZOVKdmEq0j+6xff6dD
-II8mkveUKn0kN/F5rQQdyjbx7HlLVpSc80iYKgf8bTrgHQTQuFHKnCn7nwSpsViI938PTS8uu/n6
-Uh+eKPX5sklOZhgqI99PsJksyjnU2/b7Urb+a0bDH9MS09R9hVCqYMiYEEmcPtzM1VFMd47LoP+Z
-gbRbsjwAfOxfVOoLuTtqmC3nPMwnX/LpOHW2utLSI1G8ob0w9KDW3la3WUEkZudasGRk4NVr4Kh6
-ewju3C6e0QGsFvswMORtiQlZg5emBN1TvWMe8eL7tivhUFv0EjiUk3HjFgIP4yURXLXJkxhXpzot
-H8vqyPJUE+G8mtzTMBzokD/Y48ptl8TvWoGswO82XmklKon5qZ4Rnjao2j2lQnnlMEIZL7gi+miZ
-35Lrr0P35tHBzcW7RlbjMQqFQtCNo52AseeSLxUcgVd36Gmf/8FB3dMSGzw3BdNrglTugJtwZsxM
-sBQO2nigqL7uj5kzPO8/yP3ep5HWSBTPqXrXadf1vnb9XAjAlMkivfBGaCK4yN9E3HV7SdRCffyb
-GUr6EAvI5coMYS8v/vSEY+8Gv1DfMawflEfOR/JWvlSj6eR6UYrVB37fE8e5Q7yCgjPuDdK+sH4V
-VZIwguMtpl6KxTqOXKepLclVf6hhl1KMzvl+Qxidn96aEVQKTSg3OZY8ASkqFjgcJybjNITEA1ht
-pYEFra2hf6ujG4WrFG0un/WuoLnsO3gR+K9KS5vJ6oGeq7Pg4a7cFfhqxEo1yDzEK7FqETNDv28Q
-IdRFQXcPEdY4/UlLWZusxL1vaONFlD3ooC3IdbW7olNEzFdPMJXsIcPvHKxli8Bf5I8NzI7arFyP
-xLyBsdSkL6TwftWum1PNBzCbiOxIUoSeR6YdWlsaaZW+YbNGxRYBSryD8OvLBrgvhjPIZHg5sv+c
-MNSGzMlo7MzHMMR73M/OAKoXcfC48Cy8hroech6dOuqLTtZTh2et1Gopxbo9Al2UnYOYtbg7hohQ
-PtINYSK7u3EaftzkBsyaBaD3sAC21s1H9of6m+jwi0FisI/7FNHPuctw2rh5s0FdGFjqKQM2gxCm
-TTM+Lm2YvPd48dcPloL0EuQc+GicO3kM5jQY9Hj+fzUbLmnUURkVr/nebP31nG5eGirN1pdg/LxY
-56hUWSLvhhQFhaPM9/FoeeUY+jYe0Xkk89n4H4u/OgWjpwnb18ms6hznmDjUj5hFsMp3UsGkEzPb
-mLD6p1B3hRzQy74pGMMEAfZZ3VWsREeMR4ML4FRcWYg7KtA+s5VpSw5gKQaAFd0sPNE4K/44eLMq
-coAgoWZS0rMxeAcBtUNImJMXrqIrykylPXjEZdEPlBpLt7/1bNiWMC1kj0xn2Deme/vShBpXA6ps
-C3Egb9xDMPCS/FkYSG5QZdPgXvhMqys2mMiZW6lkOtn4j9I889cHqekeWdrKgVY4oYk1DFTB76Bt
-bknJZjXgBeEUECgU4oDfERcWei1RS5Xsq+vv+DDDy4XAVyrnt7zGLpTNj7rqwha0yrplCQOf0CZG
-wRGmPbtYfek6WaqVCuS5zOY6f2EN1jDo2O6qepcmhtjX/czJ21KeV8qmPWPMnS3F/iOu/qGTm+Xh
-c1OU1B3fdgivwSWt1lwI58OZda2W8Svw8BUcpIJZeqKsfurhmV/RXDJhgR+Kz7Jl4l/fDn0+/opR
-S0sSAmpXEMbD5RLcMUAO9nqQe6rittSlGTmisQF4GhqBautAN6KkBdnxaPWLLHBRjeLbT7axMwGr
-d/zzQiDSmUvtD88icmtpOe/4oIdTVqevui6hC6F4ot/VKS0u90fstLmIxCytimvkOnzqn1520NqE
-bioeLxeHl6xCcOQwO7PRzdRayoaXxEgE2xxI4Hyui7lOjQ0NxCvyU/njbXWE8WnUFl9tzbkcRC9G
-x7DoW6XwVJXivf0npFF5kz5J1iw0bb1CVExlYG2SJduMEeZuCW0DGTN3Vv/kEYDy7EPgIhLqSH6d
-kT47zwP/3iwvj8pQCSq7hljrlRw22VdjfycvdKgWcyEl2HLPnVv7XViORv3iMhAJm7qwdSl2+KGk
-nWyYI8ostn4I7AJzZKIORSghK/ambe3dS5e5yrBmXGtThmcAAcnrLDasplE7rqFACOubAvrVc6YY
-bfzaL6hIVmwmFo5J2picZ5te2VheMyJumk+5nm3/5PAf+mQpQ36ETzASpqt7Or01C4JvoFAT53uZ
-WKC6moHRN/aerTl7kl7qKVIGBFH+KFcI6Gx6aZOqh/3JCIAeeW9g4647j3JNESZWtfR7OOGB5LDr
-KdAY2IItCR4VjiFZ34hQsqbjlsmalEhf74wAAXsAdIAYQxGAAnTlCE8TPJ/G2+jMz4n0I3eeJXUX
-GP3wfCVu9oL4+vs4Iusxpl5jLUWd1BdfVvLM6Ai12gKzdTCFSusw+1GwviwERJ/uX6CQPFebkPqB
-LOIm7MjsOur+JtZVQaJDzqGSbnS+csSriBBwcnUp+QSrMvWD/8XA8/xhrWts8S/CT4v4MpkDcj7m
-PV97fKOx2feMTw4eiOjA6iaZuRCwCkvwhgxPtmEpmSvV70Y0EuYejPmGj+nmJLqnuls9SuM0PV9f
-uo1hfm4+RXbqvpaak8HUdAaQ5a21KzE9I4JHdxDQSku6nQSFm5XQJJclP7xxNPXQaXPlc+CTWsEn
-cpWL12XAsguoSTwsCG8/sG5ZAI4qPVCaO4EaI4BAAqFy2maiamgeJ3+cgDZUJSPq9RpCgQHUeTQE
-AaFkEzCYSL137vui1J6MSelIHB6ie7lubwFYiim4jfh194NAOYCqnhtn7Ladyrjp8gzw6zhPAUfb
-JChjFuESyCxw3XMLOHlygqPOEKKdLluvKx6uY82OJ4UDzzkcA3vPGFRE8eVFvrIYgFgOOG==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\Logger;
+
+use Xentral\Components\Logger\Context\ContextHelper;
+use Xentral\Components\Logger\Exception\InvalidArgumentException;
+use Xentral\Components\Logger\Handler\LogHandlerInterface;
+
+final class Logger extends AbstractLogger
+{
+    /** @var LogHandlerInterface[] $levelHandlers */
+    private $logHandlers;
+
+    /** @var ContextHelper $contextHelper */
+    private $contextHelper;
+
+    /**
+     * @param ContextHelper $contextHelper
+     */
+    public function __construct(ContextHelper $contextHelper)
+    {
+        $this->contextHelper = $contextHelper;
+        $this->logHandlers = [];
+    }
+
+    /**
+     * @param LogHandlerInterface $handler
+     *
+     * @return void
+     */
+    public function pushHandler(LogHandlerInterface $handler): void
+    {
+        $this->logHandlers[] = $handler;
+    }
+
+    /**
+     * @param string  $level
+     * @param mixed $message
+     * @param array  $context
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return void
+     */
+    public function log($level, $message, array $context = []): void
+    {
+        if (!in_array($level, self::LOGLEVELS, true)) {
+            throw new InvalidArgumentException(sprintf('Unrecognised loglevel "%s".', $level));
+        }
+        if (!is_string($message) && !method_exists($message, '__toString')) {
+            throw new InvalidArgumentException('Cannot convert Message to String.');
+        }
+        if (count($this->logHandlers) === 0) {
+            return;
+        }
+        $interpolated = $this->contextHelper->interpolateMessage($message, $context);
+        $contextObj = $this->contextHelper->createContext($context);
+        foreach ($this->logHandlers as $handler) {
+            if ($handler->canHandle($level)) {
+                $handler->addLogEntry($level, $interpolated, $contextObj);
+            }
+        }
+    }
+}

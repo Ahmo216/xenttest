@@ -1,46 +1,44 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-NiI9A4m6duj3GxtZUWvOg0sCRtEoLIhlFG==
+<?php
+
+namespace Xentral\Modules\Api\Converter;
+
+use Xentral\Modules\Api\Converter\Exception\ConvertionException;
+
+class JsonConverter implements ConverterInterface
+{
+    /**
+     * Array zu JSON
+     *
+     * @param array $array
+     *
+     * @return string
+     */
+    public function fromArray($array)
+    {
+        $data = json_encode($array);
+
+        if ($data === false || json_last_error() !== JSON_ERROR_NONE) {
+            throw new ConvertionException('JSON could not be encoded.');
+        }
+
+        return $data;
+    }
+
+    /**
+     * JSON zu Array
+     *
+     * @param string $json
+     *
+     * @return array
+     */
+    public function toArray($json)
+    {
+        $data = json_decode($json, true);
+
+        if ($data === null && json_last_error() !== JSON_ERROR_NONE) {
+            throw new ConvertionException('JSON could not be decoded.');
+        }
+
+        return $data;
+    }
+}

@@ -1,52 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-tyG8Dp2dz+B2vQeLniof
+<?php 
+
+class GenVerrechnungsart { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","VerrechnungsartCreate");
+    $this->app->ActionHandler("edit","VerrechnungsartEdit");
+    $this->app->ActionHandler("copy","VerrechnungsartCopy");
+    $this->app->ActionHandler("list","VerrechnungsartList");
+    $this->app->ActionHandler("delete","VerrechnungsartDelete");
+
+    $this->app->Tpl->Set('HEADING',"Verrechnungsart");    $this->app->ActionHandlerListen($app);
+  }
+
+  function VerrechnungsartCreate(){
+    $this->app->Tpl->Set('HEADING',"Verrechnungsart (Anlegen)");
+      $this->app->PageBuilder->CreateGen("verrechnungsart_create.tpl");
+  }
+
+  function VerrechnungsartEdit(){
+    $this->app->Tpl->Set('HEADING',"Verrechnungsart (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("verrechnungsart_edit.tpl");
+  }
+
+  function VerrechnungsartCopy(){
+    $this->app->Tpl->Set('HEADING',"Verrechnungsart (Kopieren)");
+      $this->app->PageBuilder->CreateGen("verrechnungsart_copy.tpl");
+  }
+
+  function VerrechnungsartDelete(){
+    $this->app->Tpl->Set('HEADING',"Verrechnungsart (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("verrechnungsart_delete.tpl");
+  }
+
+  function VerrechnungsartList(){
+    $this->app->Tpl->Set('HEADING',"Verrechnungsart (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("verrechnungsart_list.tpl");
+  }
+
+} 
+?>

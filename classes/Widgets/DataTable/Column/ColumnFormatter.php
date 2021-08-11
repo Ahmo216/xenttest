@@ -1,103 +1,142 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Widgets\DataTable\Column;
+
+use Closure;
+use DateTime;
+use Exception;
+
+class ColumnFormatter
+{
+    /**
+     * @param mixed $ifEmpty
+     *
+     * @return Closure
+     */
+    public static function ifEmpty($ifEmpty)
+    {
+        return static function ($value) use ($ifEmpty) {
+            if (empty($value)) {
+                return $ifEmpty;
+            }
+
+            return $value;
+        };
+    }
+
+    /**
+     * @example Format::sprintf('row_id_%s') %s will be replaced with the current value
+     *
+     * @param mixed $sprintf
+     *
+     * @return Closure
+     */
+    public static function sprintf($sprintf)
+    {
+        return static function ($value) use ($sprintf) {
+            return sprintf($sprintf, $value);
+        };
+    }
+
+    /**
+     * @param string $template
+     *
+     * @return Closure
+     */
+    public static function template($template)
+    {
+        return static function ($value, $rowAssoc) use ($template) {
+            $templateVars = [];
+            foreach ($rowAssoc as $assocKey => $assocValue) {
+                $templateVar = '{' . strtoupper($assocKey) . '}';
+                $templateVar = str_replace('-', '_', $templateVar);
+                $templateVars[$templateVar] = $assocValue;
+            }
+
+            return strtr($template, $templateVars);
+        };
+    }
+
+    /**
+     * @param int    $decimals
+     * @param string $decimalSeperator
+     * @param string $thousandsSeperator
+     *
+     * @return Closure
+     */
+    public static function number($decimals = 2, $decimalSeperator = ',', $thousandsSeperator = '.')
+    {
+        return static function ($value) use ($decimals, $decimalSeperator, $thousandsSeperator) {
+            return number_format($value, $decimals, $decimalSeperator, $thousandsSeperator);
+        };
+    }
+
+    /**
+     * @param int    $decimals
+     * @param string $decimalSeperator
+     * @param string $thousandsSeperator
+     *
+     * @return Closure
+     */
+    public static function bytes($decimals = 1, $decimalSeperator = ',', $thousandsSeperator = '.')
+    {
+        return static function ($bytes) use ($decimals, $decimalSeperator, $thousandsSeperator) {
+            $bytes = (float)$bytes;
+            $base = log($bytes, 1024);
+            $suffixes = ['Bytes', 'KB', 'MB', 'GB', 'TB'];
+            $suffixIndex = (int)floor($base);
+            $suffix = $suffixes[$suffixIndex];
+            $number = pow(1024, $base - floor($base));
+
+            return number_format($number, $decimals, $decimalSeperator, $thousandsSeperator) . ' ' . $suffix;
+        };
+    }
+
+    /**
+     * @param string $dateFormat https://www.php.net/manual/de/function.date.php
+     *
+     * @return Closure
+     */
+    public static function date($dateFormat)
+    {
+        return static function ($dateString) use ($dateFormat) {
+            try {
+                $date = new DateTime($dateString);
+
+                return $date->format($dateFormat);
+            } catch (Exception $exception) {
+                return $exception->getMessage();
+            }
+        };
+    }
+
+    /**
+     * @return Closure
+     */
+    public static function htmlEscape()
+    {
+        return static function ($value) {
+            return htmlspecialchars($value, ENT_QUOTES, 'UTF-8');
+        };
+    }
+
+    /**
+     * @todo Fixen
+     *
+     * @return Closure
+     */
+    public static function dump()
+    {
+        return static function ($value, $row) {
+            $data = [
+                'value' => $value,
+                'row'   => $row,
+            ];
+
+            return sprintf(
+                '<pre class="dump">%s</pre>',
+                htmlspecialchars(var_export($data, true))
+            );
+        };
+    }
+}

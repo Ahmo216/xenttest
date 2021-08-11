@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Barcode\Exception;
+
+use RuntimeException;
+
+class BarcodeCreationFailedException extends RuntimeException implements BarcodeExceptionInterface
+{
+}

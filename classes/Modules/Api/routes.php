@@ -19,7 +19,7 @@ return [
     [
         ['GET', 'POST', 'PUT', 'DELETE'],
         '/assets/{assetfile}',
-        ['Version1', null, 'Start', 'docsAssetsAction', 'handle_assets']
+        ['Version1', null, 'Start', 'docsAssetsAction']
     ],
     // ArticleSubscriptions
     [

@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Filesystem\Exception;
+
+use RuntimeException;
+
+class DirNotFoundException extends RuntimeException implements FilesystemExceptionInterface
+{
+}

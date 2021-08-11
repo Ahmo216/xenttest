@@ -1,99 +1,179 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPu1yEBoMru2pABgjdn9ts8M6ys772LJsNlw24aV9cmtjSPZ72O8WFqiX2D1pOl9bXS1+qFlT
-t7ziOB+C2ZtzKN16N/AtnVKhmYE0EDmBcMux7Z/19xkxcx01Dz3iG5uHA/bSCFTcXIZo57wfgcdj
-ky0NB3OgBzgJGUiTQLCHiHkm2H9ScFTn3sfqBvv2ySzYxE/t45a5bJ5+C6wI9SyklWGk7nFkeLZK
-oxHQXLfsDeDr4yb+KN3UKBcxYgzGfV9rnVFYgc/9n6uctrh7wieliOE15X3NXm29xwCU4SoU+Ntq
-Vv79kI+2TLmt8BzbFPiZi2Eqi6gj2grQwwrlALcb7KZboAQ4tVXC1Wk4s9gxlvqeK4z97EJFD99K
-Dmec5Op7dkiazWqqLyyKaH7ocnaAxHLZIWi9AuOG9PbUOVH5zRRIBCKjYGjH3CTUaV5Gse+Giysz
-pInxVAunlRam2qmIW/ZLD14X26MI2Sj4TVw+fiXHiXi/Qkzc+3+Bm+W2rdTU/FRdnd83oyrSIq0R
-1WeT/h0EUEpNeC1Ytz6ZO7cy0iMvBeRB86aBgmO2SitseyeOZC5rdnmvhtZOQgWH9/VcrKsIW88D
-fnMtWGBFK7eQncTazhGSdZrDjo3d8oGT5VFWDGNSsNNfgisgE1F9qCDbkrcQxTxIBJ6uJv9dCiQn
-/rz1bdAQ1W6+kLeL+kL8xISJrB+2jGVXrEKYIdLBaieAHfcwzXz//AtYYdghEz/PGhAkKFzpRv0S
-vLH1L058n51Sd3kq0Yv/upbULiAL/UN0P+crXg0f0kD/7/t5Gg3lzKldFyjFGN2qGe+q7VCX1dzM
-cqFMmVocApTxROagtCArKJ/XAO0JMiarSIBc+w7avu2YFmORXlSiCVFznA7qEVuD1tQfrqtqusDn
-LG3bVMvacyW+efTT4R2r+W+m3L3vSjxna8gLNWVN5+hcLsnAc1hcBgdY8+/ZruuB0cOIWLaFD+sx
-bPqXSKw/uE+2SDa8DmRZwgzc9kMJbMXf2WnoDK/zL73wmx1nhTl4RRAqm2Vw/MJl4oXA2CuSDlV/
-PQxoJX/pTrR6mPtEdXhC37pCMCYFJsHKJmFWqhCZW4b30g5R9CCXR8VqyYFVC2oEboH5yVxoMmjh
-TqOX7IlDoahbBt3ytMhCq0T24a7//B5gx2u1QLfLM2lqKLT0FZ5aWp/2Xb26oZ+KXrIb8v4D8g+0
-UTRrYcN89zbGMrR8NYnuO+vhnYIxXF2Ldb8Tzn9BmMpmC39LMU/nRMCmJIlXPRUdiao/h103sLIf
-jjubD//YaL+zZ0Phxa1w4GwF8tc9/Udc4MZ8Z1MXFa4F9KrXpkhcz1K0BYadcSsQ4ORd3Ykaaasj
-8wDrHTm41LnEzBkB0U2/l7oxhBH9Ua1jaGrMZ7GlsrCg5DN1iTQS5SKsPeAAbALC2GQZEN1VE5p4
-Spt/RtaYiHQ9iAADurh5O+eBEatvnyz41naHtiRb+solfSyk7h4YWWHoi3SgN3H9UxbKW/6Ix7J+
-w73hYhkeVvq9morWFRQmynwikiHtXYLEOLy/MW+HqKZH3K5nz4J7Gh7fnfhikB+CtUD/PF1By4pA
-/izjKwPzzpKZdPrJNoaJJRK8RZh2KBGqpcoMtgR/oVeqSiazu7Qt7hXLYC8HvEMvdJ0Zz1b/JEMH
-GwNwTNsbnlQEeeRAurqhwdoWE4DohtZCujKeKibf37247C1xHEH5UQt7itc35gJyOrIwElkSbVF9
-Lqs8Nx7CPaKwyBhOaZdzQX8Dx0a46Lvg+SMRffMZ4fVIIQHleQDyYeUTrfwu0EpXbLuVxDMum9oa
-WpGRSjRy+gTGuhqkLThVcR1+7FocVHz03CF5dI2FlA+8yeogssdmHPWJlyQ+/9SzZqzQpKN4+vhp
-c60zhGMTG61dEXA43W9i1iLYSLDj3j7gX39AgtnMQvQ6d48XWqflGhAfRSasISivqe3vSqjmsIt7
-2BpehVeg4asGr68RaZWaPnJ3SAx5jy7VQU5nQBiIkNkRg1PwwIlBLgnRCPxINPXhuGLhj5cwhGWE
-/0zbg11rCbPmm05WBT4CRICZfX9GyT9SwSPbdojU7LIm0I6GIljkkCbzS1c7uFn8yu/kPidiObyU
-XYmIBUCD3N+q9pk9kMkoEJgWZcQDj2lnWrZCGF2tjDJYv0oHTAGpdgL6eWJam9fG0irpSqjTYy7z
-Y2NQRjNbNlf5pqgEbTzN3yqxEFHtAs8kH9IscrvP6wFO4VxE44t9cpiuuLQSlbNflRa+YPeoGpJe
-aJuRBeJuEisjQhGWfAyaZgTAhsEH3UgL9JelDcVLw+D9N3ql/dd3HY5Oq9eO01IpyfVpH59Hrl2M
-My3BHai0R4f7ZYNfxw/2vcDTGVl4uFWpnSjlyDw1W/yBC1KUJ1q3TRcfTLwX29cu+iehXrCijViA
-iblSBscD/OnZrNJOdNT1SiL3fMLtfsJAMzpQW4gHoAnqFQHH7KKRHfex7DvzUL/IsQxRfJHeu5br
-gRt8RNLFs5CvXUfaWPHAc5MLJ22O5Q+qpL7uFWZIZvvxMLqNaqVSDAoAdqKJTKRbDqbxo+Qkj0DW
-zGeWUi8+1JjrD/MmM9AYlKYU2AazUaQUiFbAos0bLcSBbTFlsuCOQhhCyVuldcSUuy5oP4mlWyIH
-aOWuO+pqCes+JB11CuuPMoLkef6jUYafyZWubeHIN0Xj3FhCMms5i9pE9rSo4yNaBwYA5qmYRWMH
-HmGIBYIl6ns9QvqCoRnRDHoKpOhKl4Odm/7CJXWYOYYzKoHelW2L39PaU4RW5B7bXpTQjwnX/rv3
-Qq8PtqKaRsb2qYqFnm/TUpU7fap/olqGrYqJD/oPQmJHyqfmCCsCuPSB+7S9fdU+B5+S+EWiZNwf
-ZJztg1ThCQRwfclpiQKa0WuPMuIuIxnPEWiC9HpivUWIhrFZyTpSUoBfJoL3xO+VNBmuTJO1WH/+
-8IxI4u8xh8pxd+T8g+5Wc7+RdwjqfRjXNrN4tKKOsO/gSvo2Wfs4TGkk83j2EJl6hQoCOgAobGUS
-ezcxxsxoGvDAWdLzlUvN+XmeGnwnC9w+npQHMdRs2SnVa9kAAR2vf6SzbMoGf6FafZaVmu3kBJG5
-gKUYKxLv0ZitiBSYI+KQXRCYJ8aL8oLdTxePrPQ2sIVTJXa5hu41qIiOBBGlUigFBFyGmTzAiVih
-l/xv4GenfCk/68tToAawid1B3FXxneqY7+dLKx9GgZDZNOPt7JKHQH7CgOcj+0EKspar8oDNk7jq
-x8+YObvJtuXZHC7tyGLvOmlH/1Hyu6PepzbahioOQPtaY5btS1LdGcu8wOCFMV0iiy1U5jyehI6H
-7/KCQw90+Is7UQF6GVwIneGeW8pEwWYyjCtgYvH7vgh8HZdkOS2SLmkn3I28fba9wlSP5hgnxKXc
-vTZ81ESWBfG3Q4IMb6rbqDeMdC1ZrqJmESmE/6kh2RhJHPVa8OvC3gqMS+ublexxuQVYw7mFLJgf
-U2sYuoWLUIoxs2LR8FzWkv/SW/WrGwEyNYsinVV3xxMwPsq4hrykRbVwnoomlFJeQ6RqWnxuvCo9
-9K4jxpUEBEMLb9iC1BKqpQSZejLsxZR+ALHxZ/PYmBoLCK+xuh0YJgKoDJvdpUeYWBNY57inyVha
-EYiNZFJ9t4Vu7yUBkDbeEkG/uyLBWJiWg/sCUAPq5KkReKf/p2BKUzKcKPVdxwKLExAbAzeH8YM/
-UFH8rjoMPtgvVHTAuSnAwJkYnVftihqSFNKfxPIpqguQh4mSXgfkxpfrLisjot9EaX+M9swgEDLi
-sGPTx8dEM3czU9VVgNIm2Df+AHwS/RPo0/entQHLF/75zE91tQOLCyw3kqu0BnDlI6kgKL//UGgP
-tHpIShdRe77zIEBdJXgui5MSzF4lylYEbrFryMyaSNsrq1BandC1G6QSdhojdfQn7gn+bFHwH5Y7
-EshYNNklVGX7qucdqWiqevFhH/icf0MGbiFokZJiHYhzm0mVsfOGZ47j3aFlW8F39+KGSGs1q8xB
-qmL2l+RUbBgEVFWJ9eRK5oOCcZe3YX9rOlV7g5sZ/MoTDaU6joOaDdCSfOeUj/e0zs4UQM3HDH+0
-4EzWSOGexnoU6DW8GSnI3MviiKO6YNtt69f7L5dXE4CrcxUQjvehozObs2NNa1qDqyWDe1U6CwJF
-2AoG9pgSQrP9CGvzt07anzuJm2pjVnyRHVzbEARbCtxouSEayVT4mqCg+dLJG+W4yKWYOpI2yLfY
-WiTyWtTRx0dTEuPbFgFd3HtICWqGNek3NYexKT7pwXrilpuLivSCzDTaH1u72dia3qfVuwi7faHM
-EVhAeayDXB67a6Bi1xriDzq8qm8VanYkrcYwAKNC7VCHymW3JQXHXsShwKGGL/9u4AKsIZ+PqIwd
-SBqxXgaSAgY3Va9cLR6rT9LDe/mClc+sJHvwPdrK22REfaet48Jtr+ztO21s4jTtZdpVsKN5nuCN
-qcxQlhUMnUKUwVUQVpUq8qeLvbqHxntAJkB82lTWq6dZsr/UI6dHwm9VoC32PiL+8Ojl4JKJ/zXf
-ZLI0hB93lZSaYIT/p3kalg1vUQO75HGNu1Ju9pT+6DbkOJSdr6i0EW3hIDleRBYBEMZ6NBEOi4mw
-3gnej4h5N71Xefz+reSB69Y6+rwpzCsrctoZlfHB6DuZeW0hOVIV5WxVuRbI2Ts6Gjx28O2b8OSt
-GOTZcdXBhb8DCweV/V+EV3aN5AkI3RcOs1m3EqYGUl/7kJV26m+ZzAqVbM1ZKBOquQDvgrDmtOWJ
-//JhfDltkQXvIgxhAeInhLsB+kxmYdByE85MLK6syBtyMr+T/QwcQA+bZD1GditnnXk1ePkR3fRf
-m6dMqLWkyjzH+P2XmQLovGti4wZB1ljq4ZDWN3BBPKpx1e+40Ew8RMsrb4sC0gTTKTwf5jzrLzLf
-eZqj8FIkitdkcuj1Acz3kjCp/Ug+ZVy4KIDsdpRrjkBUbWlVez7HQ9xbVfEneNuk1HhBS8d/V+fF
-I2K4XGzWPQJAamjZ3lsl/tMebr6a9Kuf4xMOWtCCZxh8vMbzOaeRoxE0M9mCP3zNP5Pj1Mo+t8ym
-lPk0AdIEu9JB0kiBhVlaZNlzqWnq9qk24hvLO8D1lgY1lDDIXAa2BxKCAP7p8jAirqO4BPrzx7hX
-AawtKNk5m0tUaSF2PXT9QkUW/azO7azyN1+SsAFzqDlUkijd9Yqve1fPc4ZVQaJggLIETu4SaLs+
-O6r54l+CQsWKQcr877uc7iqevJkL5P7vx7wA1MsG7NW8zwImDguuI2uR7TxOg0WqYX0OvatyZU7D
-574EVaVxjQ83IMSJzhF0Jp+7o/1ivTyGISQnzWfJtFIPGeZqcrXyhEfk+5KuRAtV3rZU1QFt+AdQ
-iWzWIFWLUyX5robpP/Fse/hwcKnOyGekcSxQMPizdxjL36+0lHAWY5g/Ml6lzZYBZtPY8rNmD2zI
-xZ9irVDScyv4FX/2RPPpg+VW/nn67QsNkTt/kDaUixBx4/M+xvgKAOWtaEtDfH5uRaQ2FaQ3yphb
-K+EEV2vWm7DWUNYL46tMwGszzMfjhif1c+wo+9de3EnF/vIxvM3xy2d+03yaDexSM7RuVJQJMA+/
-fGMfEgWedUYkamrxekFAhxC8fHH3c29kUEgXnBpA0XPUNa9DqEduGOmwFOmgf08R34XZ0SWSje05
-l6gQ15RPsTnHlQxFCpqelQmO5VwAUHcMrrZsHWfOb637kYXth/NKawPuEHHtJxhWw18AuU3j5MBA
-xf1XZaYqt9RHp30SiRtmI4cLYLENlUqzHeW7yhzZ+1Hue0/eC+cnXMF2As7ysYg8V17B0emxEyZi
-fc0X+jdBQL+Lq0ZoNABkLR92DGAuTf4fnWF9qVbhA6Sj+CP0eurtB1/nyI5hoVgTyTrkzXEy1QlE
-e+9zM4J/Ir8YayPBvDKnKVQ1dXN3OMlIQdYTCD1VuVVzfZ5F9whTcOrzNaKptFryBRkB/N2XyGss
-7E+hURbzcL+EVCaxBAFVHOTHMi0n5Csb4n+VcNAYoFEvN6UgbmzGgotUMgQYooLTxAiUHk8iGYXk
-fyCQEqvA/C0oaQVvj7lv/225xfTRcXkNFHvn/ujLTKfIM83NEc8uPL2f+1bnOemPu+1Bi/1GVmF+
-bCVhctOofYajVGS1TNl/vFcP3pdqqqlfG28Gern0+BXJecXckj4UVm5KKACs63Ru6hQ3nyWX8GGO
-vat0mNngywl4hZhrYhNHLStgehZfbdC38lnMDdVpbuuaRVz3oC4V7ftf7Vqo1+IuWpJ7jretA4Z7
-J3KDhlvqpiy5LOM6B0KOJU9D02QiR6baKMTKtsu1nCbYTdsSxHQIi0HD2FVBFY+H7IIUIycd1pVX
-LKJjZGotRtpKm2g1Hq/HRF8kfArDZRmBNpZwM5od7luZcjGqUKYx5dBC/vNhPth5g5x39aZIj9hV
-MVWAfD77UilLSuJrG8UMuZrnFnpdFMVRXtXFCfFUM8IoPHUn703EV+AC3IWLdFERBnzL6dVhI86q
-Ly6gUDZ2dCEqxSUlHYJD4xDD2J2y4doOXtsPdWFoTj4QJMPMEXD2qV8dpjXdh4deV9LlVxK4p16Z
-GzgbFtfk/qMDlvFxvfwbpA8ja5TklE2liCjjq3fq9CyfpJZdbMU5iB9WaLJveSZryxlHUBNfKzqP
-8c8Y+eTbxzPw70svoE59GBc6ciXnS57KOOPt+yCLFdVYGPdh7vDn+M1dIdJHjdkCY1TDRQfJQ0Cg
-tJgRW9W4+XK8VMLCVaCalnh92HlTphSmpf0iuBw1LGFtphFps33HtxPiQuSxoHurdgf0MhJS7z5t
-OncsxBZdsqcAg0y6GrJiuWGwJCIMi/CBjnBiGgEIDYOhK7ADQKsLIU2Ilw0w7is8K58GYyYi+GUJ
-xlWuP3F3S1eYxmidLlyGGpRsGcjW8HEepN5XC2g+WcN0edBgUfQMbeRQKH1OtweJshIoh6FxSbng
-5SJoH5M4qpsfQbHrNECgGOEtnWMNzDToEk39Q8/xkUToe7OPtsCZmjAXNHD9oYteQaIDfPnSLqka
-MeSa7evDG7NuQ02aLW+OfTLvZdI/jBEBka3nXvPAmpV/hik+KRKIcSl90y3oq27Xdq7MZTlYyC60
-r6oVtf9E7/3YS4dH+nvg454RrboIp6NQCh2HKhX/+t4exGP/ljBZNd4Cv9dK9wzvoJel+75nB2+O
-t6KlZUWAyYc5bST8UoJNKCWF418UFcc9pFRTX/CSwi1IeR6J8e4s5uf+eKObCT4=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\PartialDelivery\Service;
+
+use Xentral\Components\Database\Database;
+
+class PartialDeliveryService
+{
+    private const PARTIAL_DELIVERY_SETUP_FIELDS = [
+        'aktion',
+        'internet',
+        'internebezeichnung',
+        'art',
+        'ust_ok',
+        'keinsteuersatz',
+        'ustid',
+        'projekt',
+        'aktion',
+        'angebotid',
+        'angebot',
+        'ihrebestellnummer',
+        'standardlager',
+        'kommissionskonsignationslager',
+        'shopextid',
+        'shop',
+        'shopextstatus',
+    ];
+
+    /** @var Database $database */
+    private $database;
+
+    /**
+     * @param Database $database
+     */
+    public function __construct(Database $database)
+    {
+        $this->database = $database;
+    }
+
+    /**
+     * @param int $partialDeliveryId
+     *
+     * @return int
+     */
+    public function getParentIdRecursive(int $partialDeliveryId): int
+    {
+        $timeout = 0;
+        $parentId = $partialDeliveryId;
+        $sql = 'SELECT `teillieferungvon` FROM `auftrag` WHERE `id`= :parent_id LIMIT 1';
+        while ($timeout < 100) {
+            $currentParentId = (int)$this->database->fetchValue($sql, ['parent_id' => $parentId]);
+            if ($currentParentId <= 0) {
+                break;
+            }
+            $parentId = $currentParentId;
+            $timeout++;
+        }
+
+        return $parentId;
+    }
+
+    /**
+     * @param int $deliveryNoteId
+     *
+     * @return array
+     */
+    public function getOrderToDeliveryNotePositionsMap(int $deliveryNoteId): array
+    {
+        $sqlStatement = 'SELECT lp.auftrag_position_id, lp.id 
+                        FROM `lieferschein_position` AS `lp`
+                        WHERE lp.lieferschein = :delivery_note_id AND lp.auftrag_position_id > 0
+                        ORDER by lp.sort';
+        return $this->database->fetchPairs($sqlStatement, ['delivery_note_id' => $deliveryNoteId]);
+    }
+
+    /**
+     * @param array $deliveryNotePositionsDelta
+     * @param array $orderToDeliveryNotePositionMap
+     *
+     * @return array
+     */
+    public function mapDeltaToOrderPositions(
+        array $deliveryNotePositionsDelta,
+        array $orderToDeliveryNotePositionMap
+    ): array
+    {
+        $orderPositionsDelta = [];
+        $flippedMap = array_flip($orderToDeliveryNotePositionMap);
+        foreach ($deliveryNotePositionsDelta as $key => $value) {
+            if (in_array($key, $orderToDeliveryNotePositionMap, false)) {
+                $orderPositionsDelta[$flippedMap[$key]] = $value;
+            }
+        }
+
+        return $orderPositionsDelta;
+    }
+
+    /**
+     * @param int   $orderId
+     * @param array $data
+     *
+     * @return void
+     */
+    private function updatePartialDelivery(int $orderId, array $data): void
+    {
+        $update = ($this->database->update())
+            ->table('auftrag')
+            ->cols($data)
+            ->where('id = :order_id')
+            ->getStatement();
+        $data['order_id'] = $orderId;
+        $this->database->perform($update, $data);
+    }
+
+    /**
+     * @param int $originalOrderId
+     * @param int $partialDeliveryId
+     *
+     * @return int
+     */
+    public function setupPartialDeliveryAfterCreation(int $originalOrderId, int $partialDeliveryId): int
+    {
+        $setupValues = $this->getSetupValues($originalOrderId);
+        $this->updatePartialDelivery($partialDeliveryId, $setupValues);
+
+        return array_key_exists('projekt', $setupValues) ? (int)$setupValues['projekt'] : 0;
+    }
+
+    /**
+     * @param int $orderId
+     *
+     * @return array
+     */
+    private function getSetupValues(int $orderId): array
+    {
+        $select = ($this->database->select())
+            ->cols(self::PARTIAL_DELIVERY_SETUP_FIELDS)
+            ->from('auftrag')
+            ->where('id = :order_id')
+            ->getStatement();
+        return $this->database->fetchRow($select, ['order_id' => $orderId]);
+    }
+
+    /**
+     * @param int   $positionId
+     * @param array $fields
+     *
+     * @return void
+     */
+    public function updateOrderPositionAttributes(int $positionId, array $fields): void
+    {
+        // these fields must not be overwritten
+        $restrictedFields = [
+            'id',
+            'menge',
+            'auftrag',
+            'sort',
+            'artikel',
+            'webid',
+            'explodiert',
+            'explodiert_parent',
+        ];
+        foreach ($restrictedFields as $restrictedField) {
+            unset($fields[$restrictedField]);
+        }
+        if (!isset($fields['steuersatz'])) {
+            $fields['steuersatz'] = null;
+        }
+        $update = ($this->database->update())
+            ->table('auftrag_position')
+            ->cols($fields)
+            ->where('id = :position_id')
+            ->getStatement();
+        $fields['position_id'] = $positionId;
+        $this->database->perform($update, $fields);
+    }
+}

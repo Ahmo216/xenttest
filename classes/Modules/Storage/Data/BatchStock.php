@@ -1,102 +1,243 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPs5O8te4yvTzbf+sMLvTloterQSk9ZkyTFIUsVrC54ot6PrPtT9MSXdWrzpfAWtHNXo6C6UE
-9MBBwDRncW+mk6pda/+6BhbqSrb41bNgEzpX/oY6a6869d2nt1GXARhYrljCKMSb4NUem033eUPH
-Xq4SwtM36vrLdKTlU0nojPfksEaIN3KZvhmlx+Yi8i5rdSZBNidZbfgGQ8UFcIRl95NgIuValt20
-eUBI8TcZ2tlx4hEUChymkK7x6OLKyjm9YRdpwddV5SVqI4TT/GegKXljzjgsHf/KTjOgccEdNUVM
-eIsZa0V1JmzNHUVeI3S3MSNSjeZpk9nu1rD37Q6H/yMQ1h6loVwMIvH4RBk/dIXGJqaSvCyqabGt
-2YR+aLOY+TbanOcQI/EH4JntVGElWcMTT3hxNDrSUYKeer7LLZtBGmxDmGD/rt6HPAldsGH0mDOo
-sC+23zLCIymB9b2eBo+Ub5BW78Bqm5+kEm7ZIN5tlEKOfd1oJwljvkc2R1eKmBkVTLUbIUYaQuJZ
-4Jtx3MQ5M+iWOjZBwCEuauaNvJIPgm/sbIR/psGsKKm6q3Wj+T7JlM6z0PyOAEbnH9Oz6sfeuRyN
-X8PjzyccpWE/Vex3IoHEWibIiB7TPpHeZaBHV2Dlft7ZXKZ8Yf1lHTyVvmO7iAM6qXByGVyG65BV
-aVPZHrYZ/+8tVkw5SwOg+dd4JOyguTO0vpEkDgOxc4e0kmO0IsMajVXa0/Ww/Ziksq5Fh1C8tsMD
-Fwh2WjmCYKUxyHbXrh7kmhZ/X6xCYTHt+VBUgD24gwTFLG5avZUPEsBTMhSz8Wmr3EyZOeF7McG7
-3UXdVaV9YykDjRY1YTfYOHxAayTNsP9LRZ7h6MrG5QBYtkJsM02Kwdn8t3XSdxmrZNrTh1uu6nOA
-1xB7Wb+B3o2NnDlKEOBiU2KrkBno13ytJn7yCZNCFdcH5+a0A6iVRW/SCYuHNJINSaPqFlQFiH9I
-Z0kHeQ7+a26c4hF44YieOqJWW8oKVt5Kp7Lv6e+15dgw/X2Nw8mT6lPSVenmH8cywIt7jmizanrf
-Xm8/Jbw/wHZKPtk2+c52JhINtCEFUxXw0MB/MFZPJ83T8xVi2IFxCkrOEFNxpjBGXzWnvXQq9ORX
-LpYKDoQwb6dgVBVY8kPW4CuN45iGiSAcjt8MmAXPMQdRMDwnkR2V+dtSFvmGFjrH1LbgMZOEHWBN
-i1bKvZvVqpLfvXVL9pTpB5wUgrUdLU+QB2pG2BiJ2AY632Znim3wu02ISCFdRddHy6dNBn+o65Ot
-nTrGDodFJIKDQbdFg6LCyW9Fp8xq0Ant9auhzzWV4rdcucxn/zxm/Bq0TogJ/5Dg7+KhQhpjyn5q
-GX2iyPJqxPlEOY9T0NhE4AA5jNPMRK1nbTpqd0Z8jXrxUIX/6Q/Oaqdo+Gnd0VSe5HyD4KOEA3kK
-AOcypgn0VbXHCNXHR/Eut9XPB9aqeo8L2C0NL44U3dt9rIEkwSo0pPcmt1uFVx28DxycrkAZO29k
-HeXS9iFqwHTr9VwKXA8BE06FKbbey2fX/l2shzSGdGW4Rgn5w8m+pRxpd98KwrvJHtsrX+OABG18
-ihT10Ojy82YMszibUrttXXdrHNzRRhYT2bFwBmJO8DI3ibMUdkslZWMlYCZgVWTWpfhR6RFJxScb
-Y2RhYS66QqRlf8YKW/mzJzMDj0MQwRkaHqGzqh6ghYroEGLeiNiJtM7XT24QURQ9ixllEaYjMv+a
-/DKacfaE/zsWLgs0zz+vaLJEj4z7hmwmsAdQq04i/pdpzBlyoxsp6w2CSoyitiS7nRPthTbjFUSO
-LdbHcFk3vZ4arQLDKoJZxZGbUe8t5iO8V+q8PoW13KLOx0M2WgD5VHR8gnOV/Jvya+xX2Bs6SAkd
-rkErZ4olq4Fa5RWSxkDtL+fLnRXDL9JO1Q7NzibP6rZgq2IiJxtl+qXiAwfK0W3vgcAPE/S5dPCL
-q8HmaH3Y2FF+5IGF4SUcSJJRLEH9VW/s3lhJo5VPjyebhXNTwKJWXeINkx3vPMCC2NbQS4fzNPeM
-Trivr8lzfAFIkItAO25BSY/tIs/3RvS6e0UsC4QQAhAsE/tqVM2asfcFJTQZ7h/7JGRKQfsA7grQ
-cbvX2yOBrM/YENmN2YZMTrle7U+Sz5wmFcQStBWoTnJCyxVrsuW4LzC8QHRw+OQycZP8k83kL9NF
-REXrpP+YQevSBxXHPBWkcTMbU6pNPspVqedUVro9Mwzg6Aty0cEwYiE0RPwzCXcBEa5mqj23OQtw
-+wr9OoVXBCFq/JxtBW4caeHcK09Vrvdsf6D6C5PZK7ggw+mbSRcgq74df4PYjjswKbAL3TClHmbx
-n9yvIvgWFa690vhwMGpvLHn6IIDrV6cdQz8BKUzx7fezzX1XgiLsEI02XfzDCgU634D2kE65E+I/
-UzPQU3U/2rnPYcMU/Gn8ZkPjfhdj8c1orKONCWckR/syws9UchCW1/yTvwzw1XdPiEq+2hJUvhYn
-LFTcY98wNhmY7dGk+l+TmRAX9uJHANJUAr42iHiHTISOchLaae+DTlmBgUtn/2qenqvewxdtktkf
-besG3bDsFvD0Mt8R1AAa7x1g8ARVoMXwpY5bsti7b7zaFS/H/rezaxGjeksPSHW0snU4hK/O6GX3
-KQD+GcoOvEuR1Q0V+HITZLimQD0kw/DqT1JlgtRk7MkeKa7GEf6SsFMGN0gc/o+Rw/2lOwcnaAAk
-PrrK22QsRlbRLvcJoecnM31fHeKrJIaPBA3rTMsE32lKZvirv3feQMFBAkb+gWc1Z42BKo/0V7C6
-IKYLPUc8vpiVUzqm7iiaR3cncC1I63QXw67mczGC2Ze154g4WhEIFUJN1P2ECWzd94+dsXzrH3NS
-NLSIrtUIAJr1V2+k8MCZIaLcl4rQSwdTpP9jj9/RmYUc5QqZUgjAb75BS1y6fpD4jhHo+NVXonDK
-FKVY2G0wSiV+5DkPhjsNcnsTVKEE33cjFgwyJNdn5Z3XI5XupId2yPaDe/Bcoxx6Hm4vLgI+kZG3
-ObjpFVTJr6kOh2LG3jMleFMUdl3us/9IztX9n+jwH/Vzau7JZPrWTTLZoCDFvbLD4tGGPEwK7osc
-m7aPACAdiHYZ76Z+rw78lX4IV5DETysUPZes3Z0VM/S8cIcfDAZzL5cTI0MwPmcZVtmsjo62bqTL
-udZvVY6KbYkphhB3acxMHWPNxM8sCxSlbieINQN0a3hYQ26oPQD1Ajhd4clJ/EzVd1iooFnUp6+5
-jrooaA6uyzK+A0GOfLb7VtM7KQyFuEj09FuiHE4AXEY9JmbqzZOZ/nVz7PEYcqo/X1skW3QjRE8e
-YDuSIIx8DaMFXCpu5Jk8amxwiDYsA1FkMEo3Hx9CeAu4azKS18QULyuF7tZKHOWW9KbLgH29RP1w
-pM/ZfF2ydOp0hMzM6s+NZFKJpjeRerSaKXA+aZSkRYORP4nK/kv9huUVtXb7/NwK+cbDqnQlnbvi
-LB9B/nRK7xR9VQ8Sh19iW3sh0GSb1nKEVV/AvgZIkqLmKRTgxAhV42uQ2lFwXYO7k5w+16jorQ+b
-9y/8XFxy0KBYXwFWfuOodr1xiKPiPFFiDWE6nX/pJKJf7oo5vOzO4LK13hfxbCfkuGD/7Tb5StB6
-ujh77t6xW2YMT3dvwzizQxfJ/lnnfBuid+2gFxSxkU7sVtzfwejd+0YIl/wZDeoYeiW4M6y7DiVI
-o8qgh2VTXLdjQaHljn7+aiyTEnT1HMlFPE5RPuakN8IUB62n34VTuMmKRmktw8BL62f6NJAQKiJq
-ilYZEZTdH+uQkv/5MfwJBGuZEuokJq4NJZ9Urnt7U+rA7BxxDslNigcCYlmU/wzYwe3KaqfqlK0f
-803YXTd9TYgUHaXN3rK5ODCOQYN5GN//XiXutC3Ql/t9SQO2wI1nSmRR59w7Y0Kd/fnOxat6Xuyb
-xXY7rrDmgJG0ClQxMI/Z6wyoZ1ovsWuc8HDcxGa886qv6YQa6S3echS0wOuZNI7N8FQV2upLhXQV
-9RKQU3hgXiTQ1Np/IfjixUVUN0kK52mxieRLuwHsh8qffT65D1nB7zysNExv7Wp2QvEwX7YhXdoT
-BrgCbevRd0yf8cSr52kvivJxL47uEGwgXWxgLjox54qTCJlEoryj4JrjFTJT0jtiahK1MN0NfW/J
-KIekt9DfIeuR288W3dPEayTC08mK8ePUaLblQJF/Dezjg2u6yzAtMjQy6O99s1RGgXNbQojQR4Lo
-ew8TLYg7eCSScEIu99LBU6Dba+QKLyWVUDuNcjaLrRuXlw45PdIFv6YMkhoGbqAWSalW7cHbvict
-idI6A8czpYAQ5MJc/oQYYpRyn5zxZVc0tt3x/55ACOzFyhJgjIeqXL5mPwrVMiMI+jW2nw+F/9kW
-DVvGjktBu78rnMhgcVGsHMS/HJF0YrRODScR2BCNrzXl2aKL0X6NO7TF4jxbSV3rvDzcWOoLLsGD
-EJr4MXze3rRiyrSGlWDZ2r9Jzm4Z5iPZgbWR65MFgtVH9in8Tb/XnO63+lSeBU+OrnaA6AnmLamt
-M2k6PQp6Z4dXdOd47q1Zd4uBMl0ls8Q1LWGSk1zDgoI3fS1LzMKHyTHxinC7cDGZJKaeBecXaBeo
-5yG3DmQ/13Tp+ccFJwFKl7MzWOde9Ltkf6THL9A4TWNro0RVr3tTtGYQ17fYtG+MAgLTUfb8QIMZ
-m1CLLRd4QKQlAxgvWpPXXHoFgqDxxoBWnnOfb6w76wc/kthf7Qp9+VgWKFHjfIV28iNcyWSJboN9
-a21xjvYnaNFQFPQC9OVUCFaKOf7fl3scNjEhde+CgLot9L43+XQBZyo7EjLmj5ys7Qm0BZC+2SGk
-BC5pqn4SDf0U6bCbD3YZuGza3kkN5LtFwAqR4Sf3yNQYJF9E/rBPSzuIkGK2AwXCZVAOttkKbpLn
-47hOg+DTMqnAVpvOrFpBCZHViTXNhimFe8G+Lx71YkrLh0tM9+Cu2ntscBoksPpx5Ik5Yv6AHPdj
-sSQ3ahLc6W00xjmGAouJ99ec+itmY7PFge3X/Xa4NetbitZ+3Vop24aAbN4icAdebHXrLx123tci
-dLIWGm/Vqco+g0/ldBaU6+7Cax+CUJundzYrJVaJS8/Tx8GEE0MCY6cWcH4UH6gX6ilb3pFIFP3o
-3UE1lm/PfHwyONpBOoWewAl9qsFZC0r0HSdB0RH8ia8wQk8bQhlWWw6MhW3reLpphLv4njofa0VP
-hpLX3u9Ai03/m8rJffkrQGW0q3tf8lByJIoVaxOCcpaaiTf0DiAJse/G55EHzJqxieTCgZ4m6KYz
-FOkBXddkpmqt2/9MXIqR2nqXQnnHmVS5Wy6K6fjgUQnR7gyaGx44cQhnvcjzoBlqusXCHW/GTbvb
-cKkkBRbelvGBBY9yVGSrDNrkU+uU4EeIxVUyvuZDgxY2LHK81fOdQX9WdlTOsuKrhN/aUihxBo9e
-hQ+atx9eW1Bfpt88BFHttyz8I1SlVTFW3zEXXoIEfu3AaDrwPIq902ofzHXjhAs/XrnCprs9NwBl
-dOWPwwQBMsZNIj5DU8rgmd1YcxkI6NvKY4JIIz0hAS0k2MWAJ/zszVLZeIiatB1VB+hEKVlBN5+g
-sgcE1C4EmJDdx71srP5T1BIZpVG7GOLKEN5/b9yPA2rZ4PjeKDjTRsl2fg2RRMfUVgzoP4XOEiyB
-ZMxq0HMPnOVqgnLwITKgyNt4jCHqKSXrcOmSSZ29/Sunu6UsQvBrPKxEL98qZx9kaz8uyU+Y4Ayu
-X3+nnJJzPRLEnA1VKdIc5bAjXQbB2lK4t3dYOS8M82BWGHuKGwt+Jbr6qJ8SKCXCZZZ8gdJsQlMI
-hEa21Fplo95SoFqLypGLnru4tvQ2AkzSOiuimUzyWhtd+3g2eEfzXALIRW+pAyFVzjTDrjITiGHv
-OreFe1TYuOPK7mpaNPv13fmLvIxO95BeXp6hYiNLdDlrEG8eouvQunUKlqRVpEOAb3a7fhfBnL88
-hhjkj43he1sU5r9WTsOB5HbEun0YSPjBG/ZU5sOzhjDcZHVX6Dltu0F8Wk5p3kO09v0iOTpE8mok
-OlPimvyFlH3Ix/t8LcqM4VpREuNfxY7r4D9hMCS6eaztkOP0n8WODawIizAaEXLIbKW/GhrtCucL
-57GgA1irkSDwHvT1cLtpJTHvlnMFyfts6qzdQa6ybYdTryhcvCkac6FSXDe4euJJSPu0eNPcqjY3
-rODVQiLXGogg6qd8EcZNqnVPEdpBKzBRjq2VC82TfxejlOfcxRGeKmexI2lxWhjuIktukOu2MilP
-Ha3URpRDlHxDvQBQFn5vtbesczQtXClpXf3WsJ/Pl1vMMSDxCA2DaQMiIBCD0KID1dx22B0PD/Fs
-KxFg/NYA6vHfwURAW6LP9Ko2Pkfz6luElEpMbEBzr3sHUWRVrGjuza8nCmYTJ0x763fKTmrBYofe
-3Yz3KLFqSwDs64Agl6pgTahJuFqHHSZ59irqM57bt+2LenAgl+5f8CW+1Fx/UlP+dzcpdz95EVHo
-yva65URHZioEQWppuSUXLf0RuxK1AYAQ9hpeHee0x72zT9ivRnzRt5/cC5ov8PCQvkt7dDHZLKk7
-nylAwmBWlwjj74Qi0ORGWXnSmKQbQwPyDJh+rQvVH8dKy2EUK+EFJRvruNoh5/93om5EZhdnAf2S
-Db8zKgXDUuicYTQJtYqBiBjYwjgdRH235dRmJZ/tH5xuAPTkd3ukA7f0KY4RXlmjPXiMUaeGzEHB
-AzpCG0uYBVAuMFEAX9LzFk/R/nf9QTZKzwMTcpJ/5yu8Q1Tc5lnbmiZSxSlrNMxZcS9WN2KDfxJ7
-RbJDhbivJaXZyknh4vrjyFelnpGLpSzlDNlATZxhYfy5IPtUGfV4yHsSAG8J2NYXEozhyrNp7QwY
-Sqftt76anu8q9odbCvbXzFIi4nEe48cCHXgE2nl4OLdBdGQZemOn8WALZLXEuUUVB0DuGnV/kldG
-4P1cyuVrQdwQBGsEedd4z4cpPtp/nXRcmLDIUqsQOGqbqtNsieluNWvWadYv3wbBU5O/ce/a+BJY
-yCvfBldIz9lA9hV7oqvrSGAbfYUM09fI319TYGYg9c8MlzFCZtyVTvGAxBM2xGDtbvvuTdu+zD00
-YXlS2GkHd45UPfXXTU1O6x8JqkHXrpEJe9I9WTSYiBsfmshgCXZP17SDY4LTh34FcFiIkbBCVqaK
-tUFkvg7uv/JpqWchQMq+ZEldmWx2iF2TRObudgL0XR6DZ/l47QREcOHfVN2EPltHLfH/5cOV3mva
-Dyoi7nahNSj8TszlBioQNUBkU7xfW+AK1uenq8QPi3bS++Bvu2B7fYStteKmgOFTh+moWHa6sY7W
-9kxKOrAeDMKUoIzmYZReNkxMYSby4GaNLHQawrytmJvSITC0625HNsWGPNP759tyzzZRum29sOMD
-t3Nf3dGDm2rARzjoKXpyCKu5D2NNx2s03eRgjFQEHlMiVaiNpnD8N0t5UGV/d3KZGSwk44jlim==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Storage\Data;
+
+use DateTimeInterface;
+use DateTime;
+use Exception;
+
+final class BatchStock
+{
+    /** @var int|null $id */
+    private $id;
+
+    /** @var string $batch */
+    private $batch;
+
+    /** @var DateTimeInterface|null $createdAt */
+    private $createdAt;
+
+    /** @var int $articleId */
+    private $articleId;
+
+    /** @var float $quantity */
+    private $quantity;
+
+    /** @var int $storageLocationId */
+    private $storageLocationId;
+
+    /** @var int $interimStorageId */
+    private $interimStorageId;
+
+    /** @var string|null $comment */
+    private $comment;
+
+    /**
+     * BatchStock constructor.
+     *
+     * @param int                    $storageLocationId
+     * @param int                    $articleId
+     * @param float                  $quantity
+     * @param string                 $batch
+     * @param DateTimeInterface|null $createdAt
+     * @param string|null            $comment
+     * @param int                    $interimStorageId
+     * @param int|null               $id
+     */
+    public function __construct(
+        int $storageLocationId,
+        int $articleId,
+        float $quantity,
+        string $batch,
+        ?DateTimeInterface $createdAt = null,
+        ?string $comment = null,
+        int $interimStorageId = 0,
+        ?int $id = null
+    ) {
+        $this->id = $id;
+        $this->batch = $batch;
+        $this->createdAt = $createdAt;
+        $this->articleId = $articleId;
+        $this->quantity = $quantity;
+        $this->storageLocationId = $storageLocationId;
+        $this->interimStorageId = $interimStorageId;
+        $this->comment = $comment;
+    }
+
+    /**
+     * @param array $batchStock
+     *
+     * @return static
+     */
+    public static function fromDbState(array $batchStock): self
+    {
+        try {
+            $createdAt = new DateTime($batchStock['datum']);
+        } catch (Exception $e) {
+            $createdAt = null;
+        }
+
+        return new self(
+            (int)$batchStock['lager_platz'],
+            (int)$batchStock['artikel'],
+            (float)$batchStock['menge'],
+            (string)$batchStock['charge'],
+            $createdAt,
+            $batchStock['internebemerkung'],
+            (int)$batchStock['zwischenlagerid'],
+            empty($batchStock['id']) ? null : (int)$batchStock['id']
+        );
+    }
+
+    /**
+     * @return array
+     */
+    public function toArray(): array
+    {
+        $createdAt = $this->getCreatedAt();
+        if ($createdAt === null) {
+            $createdAt = new DateTime();
+        }
+
+        return [
+            'id'               => $this->getId(),
+            'charge'           => $this->getBatch(),
+            'datum'            => $createdAt->format('Y-m-d'),
+            'artikel'          => $this->getArticleId(),
+            'menge'            => $this->getQuantity(),
+            'lager_platz'      => $this->getStorageLocationId(),
+            'zwischenlagerid'  => $this->getInterimStorageId(),
+            'internebemerkung' => $this->getComment(),
+        ];
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getId(): ?int
+    {
+        return $this->id;
+    }
+
+    /**
+     * @param int|null $id
+     */
+    public function setId(?int $id): void
+    {
+        $this->id = $id;
+    }
+
+    /**
+     * @return string
+     */
+    public function getBatch(): string
+    {
+        return $this->batch;
+    }
+
+    /**
+     * @param string $batch
+     */
+    public function setBatch(string $batch): void
+    {
+        $this->batch = $batch;
+    }
+
+    /**
+     * @return DateTimeInterface|null
+     */
+    public function getCreatedAt(): ?DateTimeInterface
+    {
+        return $this->createdAt;
+    }
+
+    /**
+     * @param DateTimeInterface|null $createdAt
+     */
+    public function setCreatedAt(?DateTimeInterface $createdAt): void
+    {
+        $this->createdAt = $createdAt;
+    }
+
+    /**
+     * @return int
+     */
+    public function getArticleId(): int
+    {
+        return $this->articleId;
+    }
+
+    /**
+     * @param int $articleId
+     */
+    public function setArticleId(int $articleId): void
+    {
+        $this->articleId = $articleId;
+    }
+
+    /**
+     * @return float
+     */
+    public function getQuantity(): float
+    {
+        return $this->quantity;
+    }
+
+    /**
+     * @param float $quantity
+     */
+    public function setQuantity(float $quantity): void
+    {
+        $this->quantity = $quantity;
+    }
+
+    /**
+     * @return int
+     */
+    public function getStorageLocationId(): int
+    {
+        return $this->storageLocationId;
+    }
+
+    /**
+     * @param int $storageLocationId
+     */
+    public function setStorageLocationId(int $storageLocationId): void
+    {
+        $this->storageLocationId = $storageLocationId;
+    }
+
+    /**
+     * @return int
+     */
+    public function getInterimStorageId(): int
+    {
+        return $this->interimStorageId;
+    }
+
+    /**
+     * @param int $interimStorageId
+     */
+    public function setInterimStorageId(int $interimStorageId): void
+    {
+        $this->interimStorageId = $interimStorageId;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getComment(): ?string
+    {
+        return $this->comment;
+    }
+
+    /**
+     * @param string|null $comment
+     */
+    public function setComment(?string $comment): void
+    {
+        $this->comment = $comment;
+    }
+}

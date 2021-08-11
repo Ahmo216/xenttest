@@ -1,40 +1,51 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php
+class Paketmarke {
+  /** @var Application $app */
+  var $app;
+
+  /**
+   * Paketmarke constructor.
+   *
+   * @param Application $app
+   * @param bool        $intern
+   */
+  public function __construct($app, $intern = false) {
+    //parent::GenPaketmarke($app);
+    $this->app=$app;
+    if($intern) {
+      return;
+    }
+
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","PaketmarkeCreatePopup");
+    $this->app->ActionHandler("tracking","PaketmarkeTracking");
+
+    $this->app->ActionHandlerListen($app);
+
+  }
+
+  function PaketmarkeTracking()
+  {
+    $this->app->erp->Headlines('Paketmarken Drucker');
+
+    $this->app->Tpl->Set('PAGE',"Tracking-Nummer: <input type=\"text\" id=\"tracking\"><script type=\"text/javascript\">document.getElementById(\"tracking\").focus(); </script>");
+    //$this->app->BuildNavigation=false;
+  }
+
+  function PaketmarkeCreatePopup()
+  {
+    $this->app->erp->Headlines('Paketmarken Drucker');
+      $this->app->erp->PaketmarkeDHLEmbedded('PAGE','lieferschein');
+  }
+}
+

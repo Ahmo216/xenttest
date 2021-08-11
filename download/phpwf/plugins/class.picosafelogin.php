@@ -1,116 +1,240 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php
+/**
+* Login + Accesslayer for OTP Keys
+*
+* @package    picosafeaes
+* @subpackage class.picosafe.php
+* @author     WaWision GmbH
+* @version    1.0
+* ...
+*/
+
+class PicosafeLogin {
+
+  var $error_message;
+  var $timestamp_valid_password;
+
+	var $user_aes;
+	var $user_datablock;
+	var $user_counter;
+
+	var $last_valid_counter;
+
+  function __construct($timezone="Europe/Berlin")
+  {
+    // time zone for server + picosafe aes
+    date_default_timezone_set($timezone);
+
+    // 3 minutes
+    $this->seconds_valid_password=180;
+  }
+
+  // please overload these methods
+  function GetUserAES()
+  {
+		// PLEASE FILL WITH YOUR DATA!!
+	
+		// 32 signs
+    //return "soopu9goBoay9vongooth2ooLu8keed1";
+    return $this->user_aes;//"soopu9goBoay9vongooth2ooLu8keed1";
+  }
+
+  function GetUserCounter()
+  {
+		// PLEASE FILL WITH YOUR DATA!!
+    return $this->user_counter;//179;
+  }
+
+ 	function GetUserDatablock()
+  {
+		// PLEASE FILL WITH YOUR DATA!!
+		// 10 signs
+    return $this->user_datablock;//"eeng5jo7th";
+  }
+
+  function SetUserLastCounter($username,$counter)
+  {
+		// PLEASE FILL WITH YOUR DATA!!
+		// set internal counter from user to new value givn from givenOtp
+  }
+
+  function IsPicosafeLocked($username)
+  {
+		// PLEASE FILL WITH YOUR DATA!!
+    return false;
+  }
+
+
+  function GetServerTimestamp()
+  {
+    // instead of the local time function a server time or something other can be used
+		date_default_timezone_set("UTC");
+    return time();
+  }
+
+	/************************************************/
+	// or use set methods to load user values from external
+
+	function SetUserAES($aes)
+	{
+		$this->user_aes = $aes;
+	}
+
+	function SetUserDatablock($datablock)
+	{
+		$this->user_datablock = $datablock;
+	}
+
+
+	function SetUserCounter($counter)
+	{
+		$this->user_counter = $counter;
+	}
+
+
+	function GetLastValidCounter()
+	{
+		return $this->last_valid_counter;
+	}
+
+
+  /************************************************/
+
+  function LoginOTP($givenOtp)//,$aes,$datablock,$counter)//$username)
+  {
+    $aes = $this->GetUserAES();
+
+ //   $aes  = substr($server_aes, 0, 32);
+ //   $data = substr($server_aes, 32, 10);
+
+    $counter = $this->GetUserCounter();
+    $data = $this->GetUserDatablock();
+    $locked = $this->IsPicosafeLocked();
+
+
+    // check if device is locked? perhaps the user lost his device ....
+    if($locked) 
+    {
+      $this->error_message = "Picosafe is locked";
+      return false;
+    }
+    $datablock = null;
+    $result = $this->ParseOTP($givenOtp,$aes,$datablock);
+
+    //check if is the right aes for the given user
+    if($result['datablock']!=$datablock && $datablock!="")
+    {
+      $this->error_message = "Wrong Key to given username";
+      return false;
+    }
+
+    // server counter is greater than aes counter
+    if($result['counter'] < $counter)
+    {
+      $this->error_message = "Server counter is greater than aes counter";
+      return false;
+    }
+
+    // time differences
+    $time_diff_abs_between_aes_server = abs($this->GetServerTimestamp() - $result['timestamp']);
+
+    if($time_diff_abs_between_aes_server > $this->seconds_valid_password)
+    {
+      $this->error_message = "Time difference between server and aes greater than ".$this->seconds_valid_password." seconds";
+      return false;
+    }
+
+    // Update Counter in server
+    //$this->SetUserLastCounter($username,$result['counter']);
+		$this->last_valid_counter = $result['counter'];
+
+    return true;
+  }
+
+  function ParseOTP($givenOtp,$aes,$datablock = null)
+  {
+    // base64 Kodierung des Sticks korrigieren
+    $givenOtp = rtrim($givenOtp);
+
+    // Sonderzeichen in korrekte Sonderzeichen umwandeln
+    // (diese werden vom Stick anders vorgegeben, um von
+    // unterschiedl. Tastaturlayouts unabhängig zu werden)
+    $cgivenOtp = strlen($givenOtp);
+    for($i = 0; $i < $cgivenOtp; $i++) {
+      if($givenOtp[$i] == "!")     { $givenOtp[$i] = "/"; }
+      elseif($givenOtp[$i] == ".") { $givenOtp[$i] = "="; }
+      elseif($givenOtp[$i] == "-") { $givenOtp[$i] = "+"; }
+    }
+
+    // erstes Zeichen pruefen ob z oder y
+    // abhaengig davon alle y durch z ersetzen und umgekehrt
+    $z = $givenOtp[0];
+    $crypted = substr($givenOtp, 1);
+
+    if($z == "y" or $z == "Y") {
+      $ccrypted = strlen($crypted);
+      for($i = 0; $i < $ccrypted; $i++) {
+        if    ($crypted[$i] == 'y') { $crypted[$i] = "z"; }
+        elseif($crypted[$i] == 'Y') { $crypted[$i] = "Z"; }
+        elseif($crypted[$i] == 'z') { $crypted[$i] = "y"; }
+        elseif($crypted[$i] == 'Z') { $crypted[$i] = "Y"; }
+      }
+    }
+
+    if($z == "Y" or $z == "Z") {
+      $ccrypted = strlen($crypted);
+      for($i = 0; $i < $ccrypted; $i++) {
+        if(ctype_upper($crypted[$i])) {
+            $crypted[$i] = strtolower($crypted[$i]);
+        } else {
+            $crypted[$i] = strtoupper($crypted[$i]);
+        }
+			}
+    }
+
+    $crypted = base64_decode($crypted);
+    // gegebenes One Time Passwort mit AES entschluesseln
+    $td = mcrypt_module_open("rijndael-128", "", "ecb", "");
+    $iv = mcrypt_create_iv(mcrypt_enc_get_iv_size($td), MCRYPT_DEV_URANDOM);
+    mcrypt_generic_init($td, $aes, $iv);
+    $plain = mdecrypt_generic($td, $crypted);
+
+    
+    // aktueller Zaehlstand
+    $i   = substr($plain, 0,1);
+    $j   = substr($plain, 1,1);
+    $n   = ord($i) + (ord($j) << 8);
+    $timestamp = (ord($plain[12]) << 24) + (ord($plain[13]) << 16) + (ord($plain[14]) << 8) + ord($plain[15]);
+
+    // entschluesseltes Passwort aufteilen in
+    // und Datenblock
+    $plain = substr($plain, 2, 10);
+    
+    $result['counter']=$n;
+    $result['datablock']=$plain;
+    $result['timestamp']=$timestamp;
+ 
+
+		/*	
+		echo "<br>"; 
+    echo "Nummer: " . $n . "<br>";
+    echo "Datenblock: " . $plain . " (" . $data . ") <br>";
+    echo "Timestamp: " . $timestamp . "<br>";
+    echo "Datetime: " . date("d.m.Y H:i:s",$timestamp) . "<br>";
+		*/
+    //printf("4 Byte: %x \n", substr($plain,10));
+    return $result;
+  }
+
+}
+
+

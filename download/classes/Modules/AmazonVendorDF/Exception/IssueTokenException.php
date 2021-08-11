@@ -1,33 +1,14 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ebN6LAaBe8Qcwcy=
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF\Exception;
+
+use Psr\Http\Message\ResponseInterface;
+use RuntimeException;
+
+class IssueTokenException extends RuntimeException
+{
+    public static function fromResponse(?ResponseInterface $response = null): self
+    {
+        return new self($response ? 'exception with response info' : 'exception without response info');
+    }
+}

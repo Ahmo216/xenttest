@@ -38,6 +38,11 @@ class IonCubeLicense implements License
         return !empty($this->licenseProperties['testlizenz']['value']);
     }
 
+    public function isCloud(): bool
+    {
+        return !empty($this->licenseProperties['iscloud']['value']);
+    }
+
     public function isExpired(): bool
     {
         return now()->isAfter($this->expiresAt());

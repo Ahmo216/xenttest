@@ -1,53 +1,104 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\GoogleApi\Data;
+
+use Xentral\Modules\GoogleApi\Exception\InvalidArgumentException;
+
+final class GoogleAccountData
+{
+    /** @var int */
+    private $id;
+
+    /** @var int */
+    private $userId;
+
+    /** @var string $refreshToken */
+    private $refreshToken;
+
+    /** @var string $identifier */
+    private $identifier;
+
+    /**
+     * @param int|null               $id
+     * @param int                    $userId
+     * @param string|null            $identifier
+     * @param string|null            $refreshToken
+     */
+    public function __construct(
+        ?int $id,
+        int $userId,
+        ?string $identifier,
+        string $refreshToken = null
+    ) {
+        $this->id = $id;
+        $this->userId = $userId;
+        $this->identifier = $identifier;
+        $this->refreshToken = $refreshToken;
+    }
+
+    /**
+     * @param array $dataSet
+     *
+     * @return GoogleAccountData
+     */
+    public static function fromDbState($dataSet): GoogleAccountData
+    {
+        if (!isset($dataSet['user_id'], $dataSet['id'])) {
+            throw new InvalidArgumentException('Invalid or incomplete Dataset.');
+        }
+
+        return new self(
+            $dataSet['id'],
+            $dataSet['user_id'],
+            $dataSet['identifier'],
+            $dataSet['refresh_token']
+        );
+    }
+
+    /**
+     * @return array
+     */
+    public function toArray(): array
+    {
+        return [
+            'id'            => $this->getId(),
+            'user_id'       => $this->getUserId(),
+            'identifier'    => $this->getIdentifier(),
+            'refresh_token' => $this->getRefreshToken(),
+        ];
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getId(): ?int
+    {
+        return $this->id;
+    }
+
+    /**
+     * @return int
+     */
+    public function getUserId(): int
+    {
+        return $this->userId;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getRefreshToken(): ?string
+    {
+        return $this->refreshToken;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getIdentifier(): ?string
+    {
+        return $this->identifier;
+    }
+}

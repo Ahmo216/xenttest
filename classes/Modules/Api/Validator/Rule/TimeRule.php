@@ -1,41 +1,39 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Api\Validator\Rule;
+
+use Rakit\Validation\MissingRequiredParameterException;
+use Rakit\Validation\Rule;
+
+/**
+ * Regel prüft ob ein valides Zeitformat vorliegt.
+ */
+class TimeRule extends Rule
+{
+    /** @var string $message */
+    protected $message = "The attribute ':attribute' is not valid time format. Format ':format' is required.";
+
+    /** @var array $fillable_params */
+    protected $fillable_params = ['format'];
+
+    /** @var array $params */
+    protected $params = [
+        'format' => 'H:i:s',
+    ];
+
+    /**
+     * @param mixed $value
+     *
+     * @throws MissingRequiredParameterException
+     *
+     * @return bool
+     */
+    public function check($value)
+    {
+        $this->requireParameters($this->fillable_params);
+
+        $format = $this->parameter('format');
+
+        return date_create_from_format('Y-m-d ' . $format, '2019-01-01 ' . $value) !== false;
+    }
+}

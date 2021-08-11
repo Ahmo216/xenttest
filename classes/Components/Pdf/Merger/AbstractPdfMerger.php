@@ -1,49 +1,74 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Pdf\Merger;
+
+use Xentral\Components\Pdf\Exception\FileExistsException;
+use Xentral\Components\Pdf\Exception\FileNotFoundException;
+use Xentral\Components\Pdf\Exception\FileNotWritableException;
+use Xentral\Components\Pdf\Exception\InvalidArgumentException;
+use Xentral\Components\Pdf\Exception\PdfComponentExceptionInterface;
+
+abstract class AbstractPdfMerger
+{
+    /**
+     * @param array|string[] $sourceFiles
+     * @param string         $targetFile
+     *
+     * @throws PdfComponentExceptionInterface
+     *
+     * @return void
+     */
+    abstract public function mergeFiles(array $sourceFiles, $targetFile);
+
+    /**
+     * @param array|string[] $sourceFiles
+     * @param string         $targetFile
+     *
+     * @throws InvalidArgumentException
+     * @throws FileExistsException
+     * @throws FileNotWritableException
+     * @throws FileNotFoundException
+     *
+     * @return void
+     */
+    protected function preCheckMergeFiles(array $sourceFiles, $targetFile)
+    {
+        if (empty($sourceFiles)) {
+            throw new InvalidArgumentException('Can not merge PDFs. Required parameter "sourceFiles" is empty.');
+        }
+        if (empty($targetFile)) {
+            throw new InvalidArgumentException('Can not merge PDFs. Required parameter "$targetFile" is empty.');
+        }
+        if (is_file($targetFile)) {
+            throw new FileExistsException(sprintf(
+                'Can not merge PDFs. Target file "%s" already exists.', $targetFile
+            ));
+        }
+        if (!$this->isFilePathWriteable($targetFile)) {
+            throw new FileNotWritableException(sprintf(
+                'Can not merge PDFs. Unable to create target file "%s" .', $targetFile
+            ));
+        }
+
+        foreach ($sourceFiles as $sourceFile) {
+            if (!is_file($sourceFile)) {
+                throw new FileNotFoundException(sprintf(
+                    'Can not merge PDFs. Source file "%s" does not exist.', $sourceFile
+                ));
+            }
+        }
+    }
+
+    /**
+     * @param string $filePath
+     *
+     * @return bool
+     */
+    protected function isFilePathWriteable($filePath)
+    {
+        $result = @fopen($filePath, 'wb');
+        @unlink($filePath);
+
+        return $result !== false;
+    }
+}

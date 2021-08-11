@@ -1,51 +1,63 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-VqzVJSOJA3HX2wH5OQh6DI8WWzkllBiFI0==
+<?php
+
+namespace Xentral\Components\Http\Session;
+
+use Xentral\Components\Http\Exception\SessionException;
+
+class SessionHandler
+{
+    /**
+     * Create a session object with actual session data
+     *
+     * @throws SessionException
+     *
+     * @return Session Session object
+     */
+    public static function createSession()
+    {
+        if (!extension_loaded('session')) {
+            throw new SessionException('PHP extension "session" is missing.');
+        }
+
+        if (self::isSessionStarted()) {
+            throw new SessionException('Failed to create session. Session can be started only once.');
+        }
+        if (session_status() === PHP_SESSION_DISABLED) {
+            throw new SessionException('Failed to create session. Sessions are disabled.');
+        }
+
+        $isStarted = session_start();
+        if ($isStarted === false) {
+            throw new SessionException('Failed to create session. Initialization failed.');
+        }
+
+        if (session_status() === PHP_SESSION_NONE) {
+            throw new SessionException('Failed to create session. Unexpected status: PHP_SESSION_NONE');
+        }
+
+        return new Session($_SESSION);
+    }
+
+    /**
+     * @return bool
+     */
+    public static function isSessionStarted()
+    {
+        $status = session_status();
+
+        return $status === PHP_SESSION_ACTIVE;
+    }
+
+    /**
+     * Save and close the session
+     *
+     * @param Session $session
+     *
+     * @return void
+     */
+    public static function commitSession(Session $session)
+    {
+        $session->dumpSession($_SESSION);
+        session_write_close();
+    }
+}

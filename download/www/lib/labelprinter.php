@@ -1,179 +1,306 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-jmy8+FNIUdc/LP7t+m==
+<?php
+/*
+
+$printer = new LabelPrinter();
+$printer->Configure(203,50,18,3,0,6);
+$printer->Printpath("/dev/lp0");
+$printer->Printamount(1);
+
+// mit Barcode (links), darunter 2 Zeilen:
+//$printer->Barcode(5,0,10,12345678);
+//$printer->Line(0,12,3,"Lager");
+//$printer->Line(15,110,2,"1,2,3,4,5,6,7,8,9,10,11,12,");
+//$printer->Qrcode(40,0,3,"123456");
+
+*/
+
+$xmlconfig = '
+<printer>
+<label width="50" height="80" />
+<setting dpi="50" offsetx="0" offsety="0" />
+</printer>
+';
+
+$xml ='
+<label>
+<line x="5" y="0" size="3" rotation="1">Blabla</line>
+</label>
+';
+
+$printer = new LabelPrinter();
+$printer->ConfigureXML($xmlconfig);
+//$_POST['label'] = trim($_POST['label']);
+$printer->LoadXML($_POST['label']);
+//$printer->LoadXML($xml);
+$printer->Output($_POST['amount']);
+
+class LabelPrinter
+{
+	private $ppath;				// Print path
+	private $pamount;			// Print amount
+	private $width;				// Label width
+	private $height;			// Label height
+	private $height_between; 	// Height between the labels
+	private $variable;			// "Variable" of the printer
+	private $lines;				// a line for the printer variable
+	private $contents;			// the content that should be printed
+
+	/*
+		203 dpi oder 300 dpi
+		GK420t hat 203 dpi
+		dpi / 25.4 mm
+
+		8 punkte pro millimeter bei 203
+	*/	
+
+	function __construct($simulate=false)
+	{
+		$this->simulate=$simulate;
+		$this->ppath="/dev/lp0";
+		$this->pamount=1;
+		$this->max_line_chars = 99; // only for internal variables!
+	}
+
+
+	function ConfigureXML($xml)
+	{
+		$this->Configure(203,50,18,3,0,6);
+	}
+
+
+	function LoadXML($xml)
+	{
+		$xml_data = simplexml_load_string("<xml>".$xml."</xml>");
+
+		foreach($xml_data->children() as $label)
+		{ 
+  		foreach($label->children() as $commands)
+  		{
+	unset($parameter);
+        foreach($commands->attributes() as $attribute => $value)
+                $parameter[$attribute] = $value;
+
+        $content = $commands;
+
+        switch($commands->getName())
+        {
+                case "line":
+									$this->Line($parameter['x'],$parameter['y'],$parameter['rotation'],$parameter['size'],$content);
+                break;
+                case "barcode":
+									$this->Barcode($parameter['x'],$parameter['y'],$parameter['rotation'],$parameter['size'],$content,$parameter['type']);
+                break;
+                case "qrcode":
+									$this->Qrcode($parameter['x'],$parameter['y'],$parameter['type'],$content);
+                break;
+                default: // unkown
+        }
+  		}
+		}
+	}
+
+	// Laenge und Hoehe des Labels werden im Konstruktor initialisiert in mm
+	function Configure($dpi,$qwidth, $qheight, $qheight_between,$offset_x=0,$offset_y=0) 
+	{
+		$this->scale = ($dpi/25.4);	
+
+		// offset for real label in the real world
+		$this->width = $this->ScaleValue($qwidth)+$offset_x;
+		$this->height = $this->ScaleValue($qheight)+$offset_y;
+		$this->height_between = $this->ScaleValue($qheight_between);
+	}
+
+	function ScaleValue($value)
+	{
+	  $value = round($value*$this->scale);
+	  return $value;
+	}
+	
+	
+	
+	// Label definieren:
+	
+	// erstellt einen Barcode
+	// B<X-Wert_in_Px>,<Y-Wert_in_Px>,<Rotation>,<Bar Code Selection>,<duenner_Balken_Breite_in_Px>,<dicker_Balken_Breite_in_Px>,<Hoehe_in_Px>,<Lesbarer Code (B=yes, N=no)>,"Daten_als_String"
+	function Barcode($pos_x, $pos_y, $rotation, $height,$text,$type="1")
+	{
+		$pos_x = $this->ScaleValue($pos_x);
+		$pos_y = $this->ScaleValue($pos_y);
+
+		$height = $this->ScaleValue($height);
+
+		$rotation = $rotation + 0;
+		if(!is_numeric($rotation)) $rotation=0;
+
+
+
+		// 0 = rot (3.), 1 = typ (4.), 2.=blackwidth (5.), 8 whitewidth (6.)
+		switch($type)
+		{
+			case 1: $barcode = 'B'.$pos_x.','.$pos_y.','.$rotation.',1,2,8,'.$height.',N,'; break;
+			case 2: $barcode = 'B'.$pos_x.','.$pos_y.','.$rotation.',1,3,8,'.$height.',N,'; break;
+			default: $barcode = 'B'.$pos_x.','.$pos_y.','.$rotation.',1,2,8,'.$height.',N,'; break;
+		}
+		$this->AddLabel($barcode, $text);
+		
+	}
+	
+	// erstellt einen 2D Bar Code
+	// b<X-Wert_in_Px>,<Y-Wert_in_Px>,Q (fuer QR Code),s<1-99> (Groesse des QR-Codes (s = scale)),[optional p4,p5,p6,p7,p8,p9],"Daten_als_String"
+	
+	function Qrcode($pos_x, $pos_y, $type, $text)
+	{
+		$pos_x = $this->ScaleValue($pos_x);
+		$pos_y = $this->ScaleValue($pos_y);
+
+		$qrcode = 'b'.$pos_x.','.$pos_y.',Q,s'.$type.',';
+		$this->AddLabel($qrcode, $text);
+		
+		//$this->errprint($errcode);
+	}
+	
+	// erstellt eine Zeile mit Inhalt (ohne Angabe der Schriftgroesse, diese wird automatisch auf "2" gesetzt)
+	function Line($pos_x, $pos_y, $rotation, $size,$text)
+	{
+		$pos_x = $this->ScaleValue($pos_x);
+		$pos_y = $this->ScaleValue($pos_y);
+
+		$rotation = $rotation + 0;
+		if(!is_numeric($rotation)) $rotation=0;
+
+		$size = $size + 0;
+		if(!is_numeric($size)) $size=0;
+
+		if(!is_numeric($size))
+		{
+			$size = 2;
+		}
+		else if($size <= 1)
+		{
+			$size = 1;
+		}
+		else if($size >= 5)
+		{
+			$size = 5;
+			// alle schriftgroessen >= 5 sind immer grossbuchstaben
+			$text = strtoupper($text);
+		}
+		
+		$line = 'A'.$pos_x.','.$pos_y.','.$rotation.','.$size.',1,1,N,';
+		$this->AddLabel($line, $text);
+	}
+	
+	
+	// setzt die Labelvariablen fuer den Drucker
+	/* 	es wird zuerst die zu erstellende Druckervariable in definiert ($this->variable[]), anschliessend die Variable selbst ($this->lines[])
+		in $this->contents[] wird der Text abgespeichert, der spaeter in den Output-Funktionen hinzugefuegt wird		
+	*/
+	function AddLabel($vartext, $linetext)
+	{
+		$varcounter = 0;
+		$varcounter = count($this->variable);
+
+		$varnumber = "V".str_pad($varcounter, 2, "0", STR_PAD_LEFT);
+
+		$this->variable[] = $varnumber.','.$this->max_line_chars.',N,"Var'.$varnumber.'"';
+		$this->lines[] = $vartext.''.$varnumber;
+		$this->contents[] = $linetext;
+	}
+		
+	
+	// gibt das zusammengebaute Label zurueck
+	function OutputLabel()
+	{
+		$label = 'FK"Label1"'."\r\n"
+				.'FK"Label1"'."\r\n"
+				.'FS"Label1"'."\r\n";
+		
+		for($i=0; $i<count($this->variable); $i++)
+		{
+			$label .= $this->variable[$i]."\r\n";
+		}
+
+		
+		// label breite und hoehe + abstand zwischen labels
+		$label .= 'q'.$this->width."\r\n"
+				.'Q'.$this->height.','.$this->height_between."\r\n";
+		
+		for($i=0; $i<count($this->lines); $i++)
+		{
+			$label .= $this->lines[$i]."\r\n";
+		}
+	
+		// label form end	
+		$label .= "FE";
+			
+		return $label;
+	}
+			
+	
+	// gibt den zu druckenden Inhalt zur�ck
+	function OutputContent()
+	{
+		$inhalt = 'FR"Label1"'."\r\n"
+					.'?'."\r\n";
+			
+		for($i=0; $i<count($this->lines); $i++)
+		{
+			$inhalt .= $this->contents[$i]."\r\n";
+		}
+			
+		$inhalt .="P1";
+			
+		return $inhalt;
+	}
+	
+	function Output($amount)
+	{
+		if(!is_numeric($amount)) $amount=1;
+		$this->pamount = $amount;
+		$label = $this->OutputLabel();
+		$inhalt = $this->OutputContent();
+
+		if(!$this->simulate)
+		{
+			system("echo '$label' > $this->ppath");
+
+		for($i=0;$i<$this->pamount;$i++)
+			system("echo '$inhalt' > $this->ppath");
+		} else {
+			echo "\r\n-->$label<--\r\n";
+			echo "\r\n-->$inhalt<--\r\n";
+		}
+
+	}
+
+	// Error ausgeben
+	function errPrint($text)
+	{
+		//echo "<p>$text</p>";
+	}
+	
+	// Error des Array ausgeben
+	function errprintarr($text)
+	{
+		//echo "<pre>$text</pre>";
+	}
+	
+	
+	// Predruckvariablen definieren:
+	
+	// Druckerpfad definieren:
+	function Printpath($path)
+	{
+		$this->ppath = $path;
+	}
+	
+	// Druckanzahl definieren:
+	function Printamount($amount)
+	{
+		$this->pamount = $amount;
+	}
+	
+
+}
+
+

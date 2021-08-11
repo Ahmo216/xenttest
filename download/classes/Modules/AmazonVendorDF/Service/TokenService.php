@@ -1,37 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-u50WGYikUwkM6HVH
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF\Service;
+
+use GuzzleHttp\ClientInterface;
+use GuzzleHttp\Exception\BadResponseException;
+use Xentral\Modules\AmazonVendorDF\Data\Token;
+use Xentral\Modules\AmazonVendorDF\Exception\IssueTokenException;
+
+class TokenService
+{
+    /** @var ClientInterface */
+    private $client;
+
+    public function __construct(ClientInterface $client)
+    {
+        $this->client = $client;
+    }
+
+    public function requestToken(string $refreshToken, string $clientId, string $clientSecret)
+    {
+        try {
+            $response = $this->client->request(
+                'POST',
+                'https://api.amazon.com/auth/o2/token',
+                [
+                    'form_params' => [
+                        'grant_type'    => 'refresh_token',
+                        'refresh_token' => $refreshToken,
+                        'client_id'     => $clientId,
+                        'client_secret' => $clientSecret,
+                    ],
+                ]
+            );
+        }catch (BadResponseException $badResponseException){
+            throw IssueTokenException::fromResponse($badResponseException->getResponse());
+        }
+
+        return Token::fromResponse($response);
+    }
+}

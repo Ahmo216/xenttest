@@ -1,68 +1,144 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\DocuvitaApi;
+
+use Xentral\Modules\DocuvitaApi\Exception\UnsupportedFileTypeException;
+
+/**
+ * @property string       OBJ_MAILTO
+ * @property string       OBJ_VOUCHERDATE
+ * @property string       OBJ_VOUCHERNUMBER
+ * @property string       OBJ_PARENTOBJECT
+ * @property bool|string  OBJ_NAME
+ * @property false|string OBJ_DATECREATED
+ * @property int          OBJ_OBJECTTYPE
+ */
+class DocuvitaObject
+{
+    /** @var array PROPERTYTYPES */
+    const PROPERTYTYPES = [
+        'S' => 'FieldValueString',
+        'N' => 'FieldValueNumeric',
+        'D' => 'FieldValueDateTime',
+    ];
+
+    /** @var mixed $originalObject */
+    private $originalObject;
+
+    /**
+     * @param array  $originalObject
+     * @param string $sessionGUID
+     */
+    public function __construct($originalObject, $sessionGUID)
+    {
+        $this->originalObject = $originalObject;
+        $this->originalObject->SessionGuid = $sessionGUID;
+        $this->setVersionOriginalFilename('');
+    }
+
+    /**
+     * @param string $propertyName
+     * @param string $propertyValue
+     *
+     * @throws UnsupportedFileTypeException
+     *
+     * @return void
+     */
+    public function __set($propertyName, $propertyValue)
+    {
+        foreach ($this->originalObject->ObjectPropertyList as $property) {
+            if ($property->FieldName === $propertyName) {
+                $propertyValueFieldName = self::PROPERTYTYPES[$property->FieldType];
+                if (!isset($propertyValueFieldName)) {
+                    throw new UnsupportedFileTypeException(sprintf(
+                        'Field type "%s" not supported',
+                        $property->FieldType
+                    ));
+                }
+                $property->$propertyValueFieldName = $propertyValue;
+
+                return;
+            }
+        }
+    }
+
+    /**
+     * @param $propertyName
+     *
+     * @throws UnsupportedFileTypeException
+     *
+     * @return string|null
+     */
+    public function __get($propertyName)
+    {
+        foreach ($this->originalObject->ObjectPropertyList as $property) {
+            if ($property->FieldName === $propertyName) {
+                $propertyValueFieldName = self::PROPERTYTYPES[$property->FieldType];
+                if (!isset($propertyValueFieldName)) {
+                    throw new UnsupportedFileTypeException(sprintf(
+                        'Field type "%s" not supported',
+                        $property->FieldType
+                    ));
+                }
+
+                return $property->$propertyValueFieldName;
+            }
+        }
+
+        return null;
+    }
+
+    /**
+     * @param string $propertyName
+     *
+     * @return bool
+     */
+    public function __isset($propertyName)
+    {
+        return $this->$propertyName !== null;
+    }
+
+    /**
+     * @return string
+     */
+    public function getDocUploadGuid()
+    {
+        return $this->originalObject->DocUploadGuid;
+    }
+
+    /**
+     * @param string $sessionGuid
+     *
+     * @return void
+     */
+    public function setSessionGuid($sessionGuid)
+    {
+        $this->originalObject->SessionGuid = $sessionGuid;
+    }
+
+    /**
+     * @param string $fileName
+     *
+     * @return void
+     */
+    public function setVersionOriginalFilename($fileName)
+    {
+        $this->originalObject->VersionOriginalFilename = $fileName;
+    }
+
+    /**
+     * @returns string
+     */
+    public function getVersionOriginalFilename()
+    {
+        return $this->originalObject->VersionOriginalFilename;
+    }
+
+    /**
+     * @return false|string
+     */
+    public function toJSON()
+    {
+        return json_encode($this->originalObject);
+    }
+}

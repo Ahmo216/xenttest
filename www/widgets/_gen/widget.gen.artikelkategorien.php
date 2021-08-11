@@ -1,180 +1,155 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php 
+
+class WidgetGenartikelkategorien
+{
+
+  private $app;            //application object  
+  public $form;            //store form object  
+  protected $parsetarget;    //target for content
+
+  public function __construct($app,$parsetarget)
+  {
+    $this->app = $app;
+    $this->parsetarget = $parsetarget;
+    $this->Form();
+  }
+
+  public function artikelkategorienDelete()
+  {
+    
+    $this->form->Execute("artikelkategorien","delete");
+
+    $this->artikelkategorienList();
+  }
+
+  function Edit()
+  {
+    $this->form->Edit();
+  }
+
+  function Copy()
+  {
+    $this->form->Copy();
+  }
+
+  public function Create()
+  {
+    $this->form->Create();
+  }
+
+  public function Search()
+  {
+    $this->app->Tpl->Set($this->parsetarget,"SUUUCHEEE");
+  }
+
+  public function Summary()
+  {
+    $this->app->Tpl->Set($this->parsetarget,"grosse Tabelle");
+  }
+
+  function Form()
+  {
+    $this->form = $this->app->FormHandler->CreateNew("artikelkategorien");
+    $this->form->UseTable("artikelkategorien");
+    $this->form->UseTemplate("artikelkategorien.tpl",$this->parsetarget);
+
+    $field = new HTMLInput("bezeichnung","text","","40","","","","","","","","0","2","");
+    $this->form->NewField($field);
+    $this->form->AddMandatory("bezeichnung","notempty","Pflichfeld!","MSGBEZEICHNUNG");
+
+    $field = new HTMLInput("next_nummer","text","","40","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLCheckbox("externenummer","","","1","0","0");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("projekt","text","","40","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuersatz_erloese_normal","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_erloese_inland_normal","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_aufwendung_inland_normal","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuersatz_erloese_ermaessigt","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_erloese_inland_ermaessigt","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_aufwendung_inland_ermaessigt","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_erloese_inland_nichtsteuerbar","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_aufwendung_inland_nichtsteuerbar","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_erloese_inland_steuerfrei","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_aufwendung_inland_steuerfrei","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuersatz_erloese_innergemeinschaftlich","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_erloese_inland_innergemeinschaftlich","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuertext_innergemeinschaftlich","text","","30","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_aufwendung_inland_innergemeinschaftlich","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuersatz_erloese_eunormal","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_erloese_inland_eunormal","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_aufwendung_inland_eunormal","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuersatz_erloese_euermaessigt","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_erloese_inland_euermaessigt","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_aufwendung_inland_euermaessigt","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuersatz_erloese_export","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_erloese_inland_export","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuertext_export","text","","30","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("steuer_aufwendung_inland_import","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+
+  }
+
+}
+
+?>

@@ -156,7 +156,7 @@ final class ApiRequestService
             $idsToDelete[] = $apiRequest->getId();
         }
 
-        return $this->db->fetchAffected('DELETE FROM `api_request` WHERE `id` = (:ids)', ['ids' => $idsToDelete]);
+        return $this->db->fetchAffected('DELETE FROM `api_request` WHERE `id` IN (:ids)', ['ids' => $idsToDelete]);
     }
 
     /**

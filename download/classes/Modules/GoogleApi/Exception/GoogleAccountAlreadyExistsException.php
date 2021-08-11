@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\GoogleApi\Exception;
+
+use RuntimeException;
+
+class GoogleAccountAlreadyExistsException extends RuntimeException implements GoogleApiExceptionInterface
+{
+}

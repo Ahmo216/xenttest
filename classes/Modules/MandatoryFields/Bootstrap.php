@@ -1,42 +1,69 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\MandatoryFields;
+
+use Xentral\Core\DependencyInjection\ContainerInterface;
+use Xentral\Modules\MandatoryFields\Service\MandatoryFieldsGateway;
+use Xentral\Modules\MandatoryFields\Service\MandatoryFieldsService;
+use Xentral\Modules\MandatoryFields\Service\MandatoryFieldsValidator;
+
+final class Bootstrap
+{
+    /**
+     * @return array
+     */
+    public static function registerServices(): array
+    {
+        return [
+            'MandatoryFieldsModule' => 'onInitMandatoryFieldsModule',
+        ];
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return MandatoryFieldsModule
+     */
+    public static function onInitMandatoryFieldsModule(ContainerInterface $container): MandatoryFieldsModule
+    {
+        return new MandatoryFieldsModule(
+            self::onInitMandatoryFieldsGateway($container),
+            self::onInitMandatoryFieldsService($container),
+            self::onInitMandatoryFieldsValidator($container)
+        );
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return MandatoryFieldsGateway
+     */
+    private static function onInitMandatoryFieldsGateway(ContainerInterface $container): MandatoryFieldsGateway
+    {
+        return new MandatoryFieldsGateway($container->get('Database'));
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return MandatoryFieldsService
+     */
+    private static function onInitMandatoryFieldsService(ContainerInterface $container): MandatoryFieldsService
+    {
+        return new MandatoryFieldsService($container->get('Database'));
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return MandatoryFieldsValidator
+     */
+    private static function onInitMandatoryFieldsValidator(ContainerInterface $container): MandatoryFieldsValidator
+    {
+        return new MandatoryFieldsValidator(
+            self::onInitMandatoryFieldsGateway($container)
+        );
+    }
+}

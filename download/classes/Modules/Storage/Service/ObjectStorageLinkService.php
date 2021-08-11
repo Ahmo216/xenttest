@@ -1,120 +1,208 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-tWepFtJRQ6ms72NaIX9YN7BR166ZrT1lkK9In24=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Storage\Service;
+
+
+use DateTime;
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Storage\Data\ObjectStorageLink;
+use Xentral\Modules\Storage\Data\ObjectStorageLinkCollection;
+use Xentral\Modules\Storage\Exception\InvalidArgumentException;
+use Xentral\Modules\Storage\Exception\RuntimeException;
+
+class ObjectStorageLinkService
+{
+    /** @var Database $db */
+    private $db;
+
+    /**
+     * ObjectStorageLinkService constructor.
+     *
+     * @param Database $db
+     */
+    public function __construct(Database $db)
+    {
+        $this->db = $db;
+    }
+
+    /**
+     * @param string $documentType
+     * @param int    $documentId
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return ObjectStorageLinkCollection
+     */
+    public function getObjectStorageCollectionFromDocument(
+        string $documentType,
+        int $documentId
+    ): ObjectStorageLinkCollection {
+        $this->ensureDocumentType($documentType);
+        $positionIds = $this->db->fetchCol(
+            "SELECT `id` FROM `{$documentType}_position` WHERE `{$documentType}` = :document_id",
+            ['document_id' => $documentId]
+        );
+        $positionIds = array_map('intval', $positionIds);
+
+        $objectStrorageLinksArray = $this->db->fetchAll(
+            'SELECT * FROM `objekt_lager_platz` WHERE `objekt` = :document_type AND `parameter` IN (:position_ids)',
+            ['document_type' => $documentType, 'position_ids' => $positionIds]
+        );
+        $objectStrorageLinks = [];
+        foreach ($objectStrorageLinksArray as $objectStrorageLinksRow) {
+            $objectStrorageLinks[] = ObjectStorageLink::fromDbState($objectStrorageLinksRow);
+        }
+
+        return new ObjectStorageLinkCollection($objectStrorageLinks);
+    }
+
+    /**
+     * @param string $documentType
+     * @param int    $positionId
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return ObjectStorageLinkCollection
+     */
+    public function getObjectStorageCollectionByPosition(
+        string $documentType,
+        int $positionId
+    ): ObjectStorageLinkCollection {
+        $this->ensureDocumentType($documentType);
+        $objectStrorageLinksArray = $this->db->fetchAll(
+            'SELECT * FROM `objekt_lager_platz` WHERE `objekt` = :document_type AND `parameter` = :position_id',
+            ['document_type' => $documentType, 'position_id' => $positionId]
+        );
+        $objectStrorageLinks = [];
+        foreach ($objectStrorageLinksArray as $objectStrorageLinksRow) {
+            $objectStrorageLinks[] = ObjectStorageLink::fromDbState($objectStrorageLinksRow);
+        }
+
+        return new ObjectStorageLinkCollection($objectStrorageLinks);
+    }
+
+    /**
+     * @param ObjectStorageLink $objectStrorageLink
+     *
+     * @return int
+     */
+    public function create(ObjectStorageLink $objectStrorageLink): int
+    {
+        if ($objectStrorageLink->getId() !== null) {
+            throw new InvalidArgumentException('id must be null');
+        }
+        $createdAt = $objectStrorageLink->getCreatedAt();
+        if ($createdAt === null) {
+            $createdAt = new DateTime();
+        }
+        $this->db->perform(
+            'INSERT INTO `objekt_lager_platz` 
+            (`parameter`, `objekt`, `artikel`, `lager_platz`, 
+             `menge`, `kommentar`, `bearbeiter`, `zeitstempel`) 
+            VALUES (:position_id, :document_type, :article_id, :storage_location_id, 
+                    :quantity, :comment, :employee, :created_at)',
+            [
+                'position_id'         => $objectStrorageLink->getPositionId(),
+                'document_type'       => $objectStrorageLink->getDocumentType(),
+                'article_id'          => $objectStrorageLink->getArticleId(),
+                'storage_location_id' => $objectStrorageLink->getStorageLocationId(),
+                'quantity'            => $objectStrorageLink->getQuantity(),
+                'comment'             => $objectStrorageLink->getComment(),
+                'employee'            => $objectStrorageLink->getEmployee(),
+                'created_at'          => $createdAt->format('Y-m-d H:i:s'),
+            ]
+        );
+
+        return $this->db->lastInsertId();
+    }
+
+    /**
+     * @param ObjectStorageLink $objectStrorageLink
+     */
+    public function update(ObjectStorageLink $objectStrorageLink): void
+    {
+        if ($objectStrorageLink->getId() === null) {
+            throw new InvalidArgumentException('id must be not null');
+        }
+        $createdAt = $objectStrorageLink->getCreatedAt();
+        if ($createdAt === null) {
+            $createdAt = new DateTime();
+        }
+        $this->db->perform(
+            'UPDATE `objekt_lager_platz` 
+            SET `parameter` = :position_id, 
+                `objekt` = :document_type, 
+                `artikel` = :article_id, 
+                `lager_platz` = :storage_location_id, 
+                `menge` = :quantity, 
+                `kommentar` = :comment, 
+                `bearbeiter` = :employee, 
+                `zeitstempel` = :created_at 
+            WHERE `id` = :id',
+            [
+                'position_id'         => $objectStrorageLink->getPositionId(),
+                'document_type'       => $objectStrorageLink->getDocumentType(),
+                'article_id'          => $objectStrorageLink->getArticleId(),
+                'storage_location_id' => $objectStrorageLink->getStorageLocationId(),
+                'quantity'            => $objectStrorageLink->getQuantity(),
+                'comment'             => $objectStrorageLink->getComment(),
+                'employee'            => $objectStrorageLink->getEmployee(),
+                'created_at'          => $createdAt->format('Y-m-d H:i:s'),
+                'id'                  => $objectStrorageLink->getId(),
+            ]
+        );
+    }
+
+    /**
+     * @param int $objectStrorageLinkId
+     *
+     * @thows RuntimeException
+     *
+     * @return ObjectStorageLink
+     */
+    public function getFromId(int $objectStrorageLinkId): ObjectStorageLink
+    {
+        $entry = $this->db->fetchRow(
+            'SELECT * FROM `objekt_lager_platz` WHERE `id` = :id',
+            ['id' => $objectStrorageLinkId]
+        );
+        if (empty($entry)) {
+            throw new RuntimeException("storageLink with id {$objectStrorageLinkId} not found");
+        }
+
+        return ObjectStorageLink::fromDbState($entry);
+    }
+
+    /**
+     * @param ObjectStorageLink $objectStrorageLink
+     *
+     * @thows InvalidArgumentException
+     */
+    public function delete(ObjectStorageLink $objectStrorageLink): void
+    {
+        if ($objectStrorageLink->getId() === null) {
+            throw new InvalidArgumentException('id must be not null');
+        }
+        $this->db->perform(
+            'DELETE FROM `objekt_lager_platz` WHERE `id` = :id',
+            ['id' => $objectStrorageLink->getId()]
+        );
+    }
+
+    /**
+     * @param string $documentType
+     *
+     * @throws InvalidArgumentException
+     */
+    private function ensureDocumentType(string $documentType): void
+    {
+        if ($documentType === '') {
+            throw new InvalidArgumentException('documentType must be not empty');
+        }
+        if (strpos($documentType, '`') !== false) {
+            throw new InvalidArgumentException("documentType {$documentType} is not valid");
+        }
+    }
+}

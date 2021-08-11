@@ -1,125 +1,137 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Hubspot\Validators;
+
+use Xentral\Modules\Hubspot\Exception\HubspotException;
+
+final class ContactValidator implements ValidatorInterface
+{
+
+    /** @var string */
+    private $rules;
+    private $data;
+
+    public function __construct($rules = 'default')
+    {
+        $this->rules = $rules;
+    }
+
+    /**
+     * @return array
+     */
+    public function validatorRuleDefault()
+    {
+        return [
+            'email'     => [
+                'rule'     => static function ($data) {
+                    return !empty($data['email']) && is_string($data['email']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'Email'),
+            ],
+            'firstname' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['firstname']) && is_string($data['firstname']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'First name'),
+            ],
+            'lastname'  => [
+                'rule'     => static function ($data) {
+                    return !empty($data['lastname']) && is_string($data['lastname']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'Last name'),
+            ],
+
+            'website' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['website']) && is_string($data['website']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'Website'),
+            ],
+
+            'company' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['company']) && is_string($data['company']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'company'),
+            ],
+
+            'phone' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['phone']) && is_string($data['phone']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'phone'),
+            ],
+
+            'address' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['address']) && is_string($data['address']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'Address'),
+            ],
+
+            'city'  => [
+                'rule'     => static function ($data) {
+                    return !empty($data['city']) && is_string($data['city']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'city'),
+            ],
+            'state' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['state']) && is_string($data['state']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'state'),
+            ],
+            'zip'   => [
+                'rule'     => static function ($data) {
+                    return !empty($data['zip']) && is_string($data['zip']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'zip'),
+            ],
+        ];
+    }
+
+    /**
+     * @param array $data
+     *
+     * @return bool
+     */
+    public function isValid($data = [])
+    {
+        $this->data = $data;
+        $validatorMethod = 'validatorRule' . ucfirst($this->rules);
+        if (!method_exists($this, $validatorMethod)) {
+            throw new HubspotException(sprintf('Validator method %s is missing', $validatorMethod));
+        }
+
+        $rules = $this->{$validatorMethod}();
+        foreach ($rules as $field => $rule) {
+            if (array_key_exists('rule', $rule)) {
+                $validation = call_user_func($rule['rule'], $this->data);
+                if (!$validation && (!empty($this->data[$field]) || !empty($rule['required']))) {
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+
+    public function getData()
+    {
+        return array_filter($this->data, static function ($value) {
+            return $value !== null && trim($value) !== '';
+        });
+    }
+
+}
+

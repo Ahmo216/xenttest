@@ -1,37 +1,26 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-qNQfUlwjWGkgdinUMrBdypkiLGKCb0==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\HttpClient\Exception;
+
+use Xentral\Components\HttpClient\Request\ClientRequestInterface;
+use Xentral\Components\HttpClient\Response\ServerResponseInterface;
+
+interface TransferErrorExceptionInterface extends HttpClientExceptionInterface
+{
+    /**
+     * @return bool
+     */
+    public function hasResponse(): bool;
+
+    /**
+     * @return ServerResponseInterface|null
+     */
+    public function getResponse(): ?ServerResponseInterface;
+
+    /**
+     * @return ClientRequestInterface
+     */
+    public function getRequest(): ClientRequestInterface;
+}

@@ -1,61 +1,133 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Resubmission\Service;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Resubmission\Exception\ResubmissionNotFoundException;
+use Xentral\Modules\Resubmission\Exception\TaskTemplateNotFoundException;
+
+final class ResubmissionTaskTemplateGateway
+{
+  /** @var Database $db */
+  private $db;
+
+  /** @var ResubmissionGateway $resubmissionGateway */
+  private $resubmissionGateway;
+
+  /**
+   * @param Database            $database
+   * @param ResubmissionGateway $resubmissionGateway
+   */
+  public function __construct(Database $database, ResubmissionGateway $resubmissionGateway)
+  {
+    $this->db = $database;
+    $this->resubmissionGateway = $resubmissionGateway;
+  }
+
+  /**
+   * @param int $taskTemplateId
+   *
+   * @return bool
+   */
+  public function existsTaskTemplate($taskTemplateId)
+  {
+    $sql =
+      'SELECT COUNT(wav.id) AS `task_template_count` 
+            FROM `wiedervorlage_aufgabe_vorlage` AS `wav`
+            WHERE wav.id = :task_template_id';
+    $taskTemplateCount = (int)$this->db->fetchValue($sql, ['task_template_id' => (int)$taskTemplateId]);
+
+    return $taskTemplateCount === 1;
+  }
+
+  /**
+   * @param int $taskTemplateId
+   *
+   * @throws TaskTemplateNotFoundException
+   *
+   * @return array
+   */
+  public function getTaskTemplateById($taskTemplateId)
+  {
+    $sql =
+      'SELECT
+                wav.id,
+                wav.required_from_stage_id,
+                wav.add_task_at_stage_id,
+                CONCAT(adr.mitarbeiternummer, \' \', adr.name) AS `employee`,
+                wav.project_id,
+                wav.subproject_id,
+                wav.title,
+                wav.submission_date_days,
+                TIME_FORMAT(wav.submission_time, \'%H:%i\') AS `submission_time`,
+                wav.state,
+                wav.priority,
+                wav.description
+       
+            FROM `wiedervorlage_aufgabe_vorlage` AS `wav`
+            LEFT JOIN `adresse` AS `adr` ON wav.employee_address_id = adr.id
+            WHERE wav.id = :task_template_id';
+
+    $result = $this->db->fetchRow($sql, ['task_template_id' => (int)$taskTemplateId]);
+    if (empty($result)) {
+      throw new TaskTemplateNotFoundException(sprintf(
+        'Task template not found: ID %s', $taskTemplateId
+      ));
+    }
+
+    if (empty($result['required_from_stage_id'])) {
+      $result['required_from_stage_id'] = 0;
+    }
+    if (empty($result['add_task_at_stage_id'])) {
+      $result['add_task_at_stage_id'] = 0;
+    }
+    if (empty($result['employee_address_id'])) {
+      $result['employee_address_id'] = 0;
+    }
+    if (empty($result['project_id'])) {
+      $result['project_id'] = 0;
+    }
+    if (empty($result['subproject_id'])) {
+      $result['subproject_id'] = 0;
+    }
+    if (empty($result['submission_time']) || $result['submission_time'] === '00:00') {
+      $result['submission_time'] = null;
+    }
+
+
+    return $result;
+  }
+
+
+    function getTaskTemplatesByStageId($stageId){
+        $sql =
+            'SELECT
+                wav.id,
+                wav.required_from_stage_id,
+                wav.add_task_at_stage_id,
+                IFNULL(wav.employee_address_id, 0) AS employee_address_id,
+                wav.project_id,
+                wav.subproject_id,
+                wav.title,
+                wav.submission_date_days,
+                TIME_FORMAT(wav.submission_time, \'%H:%i\') AS `submission_time`,
+                wav.state,
+                wav.priority,
+                wav.description
+       
+            FROM `wiedervorlage_aufgabe_vorlage` AS `wav`
+            LEFT JOIN `adresse` AS `adr` ON wav.employee_address_id = adr.id
+            WHERE wav.add_task_at_stage_id = :stage_id';
+
+        $result = $this->db->fetchAll($sql, ['stage_id' => (int)$stageId]);
+        if (empty($result)) {
+            throw new TaskTemplateNotFoundException(sprintf(
+                                                        'Task template with following stage id not found: ID %s', $stageId
+                                                    ));
+        }
+
+        return $result;
+    }
+
+
+}

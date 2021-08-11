@@ -1,31 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-/fLCliXZlEe=
+<?php
+
+namespace Xentral\Modules\GoogleCalendar\Exception;
+
+use RuntimeException;
+
+class GoogleCalendarSyncException extends RuntimeException implements GoogleCalendarExceptionInterface
+{
+}

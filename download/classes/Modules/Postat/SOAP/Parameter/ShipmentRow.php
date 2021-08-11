@@ -1,37 +1,26 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPneKak8i/cRLRgG7mJhJnWew4bVb7gd0IKpv94aDGGYY4SJTLiqI8guPyshUHNxlzBzghH2l
-o0YYakvmBiu6wEkMXyyJWosNeDzpe+gOvJew7m9dUDBEkjWe2vYlX02czHu6Cft/YDc44o5jagdG
-NIF354tuBjAnn5ugTYulqqlIFWc/9/WsorJd9XKIJQTM0Neo5Q5+zjooilNjQkyMWyB/XSUy8oiD
-K7RIzgifRMNIxiG0uaj902s95r5RLpV3U61osYkiRdktkdDaxN6BaAUC7LKHhMm38qc5IHgAT3zT
-Pii6oJAxnZB9viZAeRtwpY8ZQY4KaLOrf2Ikpg2B70sHCIEMUalVT4xochk/dIXGJqaSvCyqabGt
-2YRQXX03s6k9Wi5fZYUH4JLZH7xZkhtXy8Y+hkA6+qQAtSgs2VAPBd40bJaXbV3mYopIV/Yd8tlD
-3jTNJKNMVM6oBEod//Q5sj+tXQlKXDrbQZaCNRfP+zMfXxVJPDLNmoFJnMk3NXpWcIbVx0dstpRi
-aR2dkf+DuQBRTL/dskqT8pAKnwDyNuvXcsKxacg3Dzk4iHc001BRy5iOzSK4G9Lj8qd+TK/9V/CD
-PdBUzsWe924ZZx+Sst4xHG2moLDwpmoHt+J+0wR0IZivRSVmdezkgv5LBNliJEenGnBPerOKFeMh
-A2CargRoNCxX3NeQgRjQ0/5Zl9h+WiUcqoTV8zovzeeMHZWQwvAMu2pH7p7dZ9s+06u+efLLOw2o
-QEsX625bjUxfcNkwjFEQIw/gopxnkJXr9icEzHwh/viPoFn2quiXkXZwb4ZBAsCdBNMB5GJUlfOw
-bVY7VuObD8h56Kom1wsvxrr5ErKlnMraS1i4CnhKBrON9eRlfIyRbvS14Zr59z602J0xELck38DD
-8XjOvNE8a4KkLaN7MRnxdtUQbMbIwgVq634OZFcT1eHLr24RBird6xXPIvuxEKhdfXLi3MLAgThB
-hLOOnDmlVYpfnAC4JvWBa0o2UicPLo5LsVEqmnyVsUC7Z/ceZOtp964+DqLQks24tVflewXli3qZ
-/59NUa3Ij9d6Bn5B2+WjJK+8Q8+dEaStKMIcu5RHC3wgFvEhxqEVSXAoaiNBJ++sHps1KChPitH/
-F/V2D/aBCkGDyD5fKbUMWjrP6gh9Kgc7rrf2nId4hIKPQ2ZQ1vtqeh0hzXjWaG2U1KHbQPSA/tsG
-NAHjn0sF92CnT+k3H/J8L4ntTGZ7uatTWp69apGczTuUi2s/OWZr/F0fX+A8UoDBeGtAzhkblEni
-4DuLyr9Kvg9fJII8BY6lmXTUFuOOTg7I+WhK6Boipjs9WdIUy7SC0j5ad2EVOvXKH+EnvF6OVKk6
-O1FYoFdk1eC/R46MqWKjSKcgJCGNNque5GnbZJF/YIMOjd+MsXhrafCu+8p4Gb0NxROC85JbC81N
-NhgDLdPyJFCN4gTWA012Ee/Ad9FVjKsWpAl18wef777RbZl5NQil6vJFtxqCtpd/AJSK7PKX9jQf
-FKWxKYRfN4Wk8eT0nUbU70m/ccMNW0W8ftkem8mhaDfk58uDruFljBTAFoDT2q0kbMNuxGAEp6H3
-fhA7pXA/IzN1bZ02YFrGFMBtxSwgVn45czEWG09t0kVfRHpTls8e9TDKbXyab2cxAoE5/NcRbak7
-7Y+u2kyvV/6Rk6sap+Crmp/S56ZVIFr9ZqwREPjas839U1kioyEV+rGaksjYlgPhlSi0SUm/Knac
-lhWb3VutVvQsD8LejSdva4d43PVQEmi2ExQcHKV/NvHHYt5uNUIIPNOLj+/qPpiY0esv3dM+QM2T
-a+EKZ7VmR/9IVaFC6RHQe/1Q0BHstMwHQuxwYa96i4mNowQdgpPHWU0TCC0qrpqO9F++LupPVVY+
-H2VGVNii9JbpueBPbsJdtPWiTw7eKgG5Wd2+0bZ56Gv3gglI5OZffxbaEsOrvFIwtcAytzKN219n
-cCWq+Yzi8h9AAXBMoqcSW8elOPZNqjVWxQENgKlpc8ThaqSam0wVeAG0sQxUCPgGONx686lp+rY/
-MNLHMvT2LhJBCsU7wQC46zqXrGM7SLHrmZc/BNApfBMs96G/cneRSAQ4We8uoxWmCzi/o7uaM8zH
-QwEdlkGdJZEH25dFD2xplJMFBd9TZbRhETRjCGtvVUVdaPtiO0aX493akEgSOFTMS1/tlQLsEwak
-wVtHaAAiFRVEqRo0grQj2+JMTQcgCkY8F+vgipU899zUKZwgEvBlY/uOkwVr3XjzFn/8odGTgxpw
-XTehoKecWB0w4/rpFiJOUg0qx8GxUZ3Q949Iu/JpruYty+BaoQ29f/SEoyOib73tgIQFQNXHIWr3
-p3XvcdsuRJNJrWW0bNsrs4S8zrcJ7jhoYAYNyr7lU/9Je8duqU1yQR6eOAUj46twcLXNAweeI12h
-b8i3PTFD+OQsm3G2Ab/d5hV5/wyiWIh/yyJvJoCOJGsOe69mN/MNRNy3JUQsLJRwlmPhGc2zFxUd
-6fuIWttA1Fys2IZMpvQMez7kdumcgxg4p/AvKMndcVFVeVmjbImH+/FnyNgyQJ3ZM0==
+<?php
+
+namespace Xentral\Modules\Postat\SOAP\Parameter;
+
+use Xentral\Modules\Postat\SOAP\ParameterInterface;
+use Xentral\Modules\Postat\SOAP\PostAtException;
+
+class ShipmentRow implements ParameterInterface
+{
+    /** var array $shipmentRow */
+    private $shipmentRow;
+
+    public function __construct(array $shipmentRow)
+    {
+        if (empty($shipmentRow['row'])) {
+            throw new PostAtException('The given shipment data is invalid');
+        }
+
+        $this->shipmentRow = $shipmentRow;
+    }
+
+    public function getData(): array
+    {
+        return $this->shipmentRow;
+    }
+}

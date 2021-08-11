@@ -1,44 +1,71 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\SystemConfig;
+
+use Xentral\Core\DependencyInjection\ContainerInterface;
+use Xentral\Modules\SystemConfig\Gateway\SystemConfigGateway;
+use Xentral\Modules\SystemConfig\Helper\SystemConfigHelper;
+use Xentral\Modules\SystemConfig\Service\SystemConfigService;
+
+final class Bootstrap
+{
+    /**
+     * @return array
+     */
+    public static function registerServices(): array
+    {
+        return [
+            'SystemConfigModule' => 'onInitSystemConfigModule',
+        ];
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return SystemConfigService
+     */
+    public static function onInitSystemConfigModule(ContainerInterface $container): SystemConfigModule
+    {
+        return new SystemConfigModule(
+            self::onInitSystemConfigService($container),
+            self::onInitSystemConfigGateway($container)
+        );
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return SystemConfigService
+     */
+    private static function onInitSystemConfigService(ContainerInterface $container): SystemConfigService
+    {
+        return new SystemConfigService(
+            self::onInitSystemConfigGateway($container),
+            $container->get('Database'),
+            self::onInitSystemConfigHelper()
+        );
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return SystemConfigGateway
+     */
+    private static function onInitSystemConfigGateway(ContainerInterface $container): SystemConfigGateway
+    {
+        return new SystemConfigGateway(
+            $container->get('Database'),
+            self::onInitSystemConfigHelper()
+        );
+    }
+
+    /**
+     * @return SystemConfigHelper
+     */
+    private static function onInitSystemConfigHelper(): SystemConfigHelper
+    {
+        return new SystemConfigHelper();
+    }
+}

@@ -1,208 +1,309 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-cbuPCxYiiM/S5rIzqQZwYYwnJHUvsW==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Datanorm\Handler;
+
+use Xentral\Modules\Datanorm\Data\DatanormATypeData;
+use Xentral\Modules\Datanorm\Data\DatanormBTypeData;
+use Xentral\Modules\Datanorm\Data\DatanormDTypeData;
+use Xentral\Modules\Datanorm\Data\DatanormPTypeData;
+use Xentral\Modules\Datanorm\Data\DatanormTTypeData;
+use Xentral\Modules\Datanorm\Data\DatanormVTypeData;
+use Xentral\Modules\Datanorm\Exception\InvalidLineException;
+use Xentral\Modules\Datanorm\Exception\WrongDiscountFormatException;
+use Xentral\Modules\Datanorm\Exception\WrongPriceFormatException;
+
+final class DatanormReaderVersionFourHandler extends AbstractDatanormReaderHandler
+    implements DatanormReaderHandlerInterface
+{
+
+    /**
+     * @param string $line
+     *
+     * @throws WrongPriceFormatException
+     *
+     * @return DatanormATypeData
+     */
+    public function transformToTypeA(string $line): DatanormATypeData
+    {
+        $split = explode(';', $line);
+
+        if (count($split) < 12) {
+            throw new InvalidLineException('The A-record has not the right amount of columns.');
+        }
+
+        $atype = new DatanormATypeData();
+
+        $atype->setWorkflowState($split[1]);
+        $atype->setArticleNumber($split[2]);
+        $atype->setTextkey($split[3]);
+        $atype->setShortdescription1($split[4]);
+        $atype->setShortDescription2($split[5]);
+        $atype->setPriceMark($split[6]);
+        $atype->setPriceAmount($this->transformPriceAmountCode($split[7]));
+        $atype->setPackingUnit($split[8]);
+        $atype->setPrice($this->convertPrice($split[9]) / $this->transformPriceAmountCode($split[7]));
+        $atype->setDiscountGroup($split[10]);
+        $atype->setMainProductGroup($split[11]);
+        $atype->setLongDecriptionKey($split[12]);
+
+        return $atype;
+    }
+
+    /**
+     * @param string $line
+     *
+     * @throws WrongPriceFormatException
+     * @throws WrongDiscountFormatException
+     *
+     * @return DatanormPTypeData
+     */
+    public function transformToTypeP(string $line): DatanormPTypeData
+    {
+        $split = explode(';', $line);
+
+        if (count($split) < 29) {
+            throw new InvalidLineException('The P-record has not the right amount of columns.');
+        }
+
+        $pType = new DatanormPTypeData();
+
+        $pType->setArticleNumber1($split[2]);
+        $pType->setPriceMark1($split[3]);
+        $pType->setPriceAmount1(1);
+        $pType->setPrice1($this->convertPrice($split[4]));
+
+        $pType->setDiscountKey1a($split[5]);
+        if (!empty($split[5]) && $split[5] !== '0') {
+            $pType->setDiscount1a($this->convertDiscount($split[5], $split[6]));
+        }
+
+        $pType->setDiscountKey1b($split[7]);
+        if (!empty($split[7]) && $split[7] !== '0') {
+            $pType->setDiscount1b($this->convertDiscount($split[7], $split[8]));
+        }
+
+        $pType->setDiscountKey1c($split[9]);
+        if (!empty($split[9]) && $split[9] !== '0') {
+            $pType->setDiscount1c($this->convertDiscount($split[9], $split[10]));
+        }
+
+        $pType->setArticleNumber2($split[11]);
+        $pType->setPriceMark2($split[12]);
+        $pType->setPriceAmount2(1);
+        $pType->setPrice2($this->convertPrice($split[13]));
+
+        $pType->setDiscountKey2a($split[14]);
+        if (!empty($split[14]) && $split[14] !== '0') {
+            $pType->setDiscount2a($this->convertDiscount($split[14], $split[15]));
+        }
+
+        $pType->setDiscountKey2b($split[16]);
+        if (!empty($split[16]) && $split[16] !== '0') {
+            $pType->setDiscount2b($this->convertDiscount($split[16], $split[17]));
+        }
+
+        $pType->setDiscountKey2c($split[18]);
+        if (!empty($split[18]) && $split[18] !== '0') {
+            $pType->setDiscount2c($this->convertDiscount($split[18], $split[19]));
+        }
+
+        $pType->setArticleNumber3($split[20]);
+        $pType->setPriceMark3($split[21]);
+        $pType->setPriceAmount3(1);
+        $pType->setPrice3($this->convertPrice($split[22]));
+
+        $pType->setDiscountKey3a($split[23]);
+        if (!empty($split[23]) && $split[23] !== '0') {
+            $pType->setDiscount3a($this->convertDiscount($split[23], $split[24]));
+        }
+
+        $pType->setDiscountKey3b($split[25]);
+        if (!empty($split[25]) && $split[25] !== '0') {
+            $pType->setDiscount3b($this->convertDiscount($split[25], $split[26]));
+        }
+
+        $pType->setDiscountKey3c($split[27]);
+        if (!empty($split[27]) && $split[27] !== '0') {
+            $pType->setDiscount3c($this->convertDiscount($split[27], $split[28]));
+        }
+
+        return $pType;
+    }
+
+    /**
+     * @param string $line
+     *
+     * @param InvalidLineException
+     *
+     * @return DatanormVTypeData
+     */
+    public function transformToTypeV(string $line): DatanormVTypeData
+    {
+        if (strlen($line) > 130) {
+            throw new InvalidLineException('The V-record has the wrong length.');
+        }
+
+        $creationDate = trim(substr($line, 2, 6));
+        $info1 = trim(substr($line, 8, 40));
+        $info2 = trim(substr($line, 48, 40));
+        $info3 = trim(substr($line, 88, 35));
+        $currency = trim(substr($line, 125, 3));
+
+        $creationDateFormat = '';
+        if (!empty($creationDate)) {
+            $creationDateFormat =
+                '20' . substr($creationDate, 4, 2) .
+                substr($creationDate, 2, 2) .
+                substr($creationDate, 0, 2);
+        }
+
+        $vType = new DatanormVTypeData();
+
+        $vType->setAdress2($info2);
+        $vType->setDate($creationDateFormat);
+        $vType->setCurrency($currency);
+        $vType->setDescription(trim($info1 . ' ' . $info2 . ' ' . $info3));
+
+        return $vType;
+    }
+
+    /**
+     * @param string $line
+     *
+     * @throws InvalidLineException
+     *
+     * @return DatanormBTypeData
+     */
+    public function transformToTypeB(string $line): DatanormBTypeData
+    {
+        $split = explode(';', $line);
+
+        if (count($split) < 16) {
+            throw new InvalidLineException('The B-record has not the right amount of columns.');
+        }
+
+        $bType = new DatanormBTypeData();
+
+        $bType->setProcessingFlag($split[1]);
+        $bType->setArticleNumber($split[2]);
+        $bType->setMatchcode($split[3]);
+        $bType->setAltArticleNumber($split[4]);
+        $bType->setCopperWeightIndicator($split[6]);
+        $bType->setCopperRawPrice($split[7]);
+        $bType->setCopperWeight($split[8]);
+        $bType->setEan($split[9]);
+        $bType->setGraphicNumber($split[10]);
+        $bType->setProductGroup($split[11]);
+        $bType->setCostIndicator($split[12]);
+        $bType->setOrderAmount($split[13]);
+        $bType->setCreatorReferenceNumber($split[14]);
+        $bType->setReferenceNumber($split[15]);
+
+        return $bType;
+    }
+
+    /**
+     * @param string $priceAmountCode
+     *
+     * @return int
+     */
+    private function transformPriceAmountCode(string $priceAmountCode): int
+    {
+        $priceAmount = 1;
+
+        if ($priceAmountCode === '1') {
+            $priceAmount = 10;
+        } elseif ($priceAmountCode === '2') {
+            $priceAmount = 100;
+        } elseif ($priceAmountCode === '3') {
+            $priceAmount = 1000;
+        }
+
+        return $priceAmount;
+    }
+
+    /**
+     * @return int
+     */
+    public function getVersion(): int
+    {
+        return 4;
+    }
+
+    /**
+     * @param string $line
+     *
+     * @return DatanormTTypeData
+     */
+    public function transformToTypeT(string $line): DatanormTTypeData
+    {
+        $split = explode(';', $line);
+
+        $tType = new DatanormTTypeData();
+
+        if (isset($split[1])) {
+            $tType->setProcessingFlag($split[1]);
+        }
+        if (isset($split[2])) {
+            $tType->setTextnumber($split[2]);
+        }
+        if (isset($split[4])) {
+            $tType->setLinenumber1($split[4]);
+        }
+        if (isset($split[6])) {
+            $tType->setText1($split[6]);
+        }
+        if (isset($split[7])) {
+            $tType->setLinenumber2($split[7]);
+        }
+        if (isset($split[9])) {
+            $tType->setText2($split[9]);
+        }
+
+        return $tType;
+    }
+
+    /**
+     * @param string $line
+     *
+     * @return DatanormDTypeData
+     */
+    public function transformToTypeD(string $line): DatanormDTypeData
+    {
+        $split = explode(';', $line);
+
+        $dType = new DatanormDTypeData();
+
+        if (isset($split[1])) {
+            $dType->setProcessingFlag($split[1]);
+        }
+        if (isset($split[2])) {
+            $dType->setArticleNumber($split[2]);
+        }
+        if (isset($split[3])) {
+            $dType->setLineNumber1($split[3]);
+        }
+        if (isset($split[4])) {
+            $dType->setTextIndicator1($split[4]);
+        }
+        if (isset($split[5])) {
+            $dType->setTextblockNumber1($split[5]);
+        }
+        if (isset($split[6])) {
+            $dType->setText1($split[6]);
+        }
+        if (isset($split[8])) {
+            $dType->setTextIndicator2($split[8]);
+        }
+        if (isset($split[9])) {
+            $dType->setTextblockNumber2($split[9]);
+        }
+        if (isset($split[10])) {
+            $dType->setText2($split[10]);
+        }
+
+        return $dType;
+    }
+}

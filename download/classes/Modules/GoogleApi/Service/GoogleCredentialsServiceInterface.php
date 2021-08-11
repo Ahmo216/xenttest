@@ -1,29 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPwPFLT4HbQtcg/d0yjzw5S+Vby0csNQFLKZtp2ZSndZUA/zNkr+oHM4gwPgXO/JQYGb3pHbc
-L8SIZl/BCgG2w+b85AeQU/pdb9wIgs+PxJd2P0b9j7VWlhyJORZYIpue+fzLoJb8YVIpHphLkLZM
-LONBvYC6NIITLoAh/3Y2BuZG+UJGddoeEglw635guYGdq1n2nMNwGajdBaSCdX1Ojpeq51bPHil1
-VAn4Xw3y+7t66nplo+OREw+2zPGOrA7XYDKTknDH4VyCAveeqJdw2gXNdf6qqT07+sQyOf1X30kd
-4N4aaLMJOTreB8cqQWiZG7X3tT5YLy+qCWbh7XkM730pS6/WGG1SlnN1Exk/dIXGJqaSvCyqabGt
-2YRfYYmE2oSsCNGEE1kHKI6GIXXyxpzGwmPpOdOu9lVMEkont/SiQA8ROQkAPpZcfbSh4CRZCU7N
-Z9NP1f3sZfOnIuu2JaZmU+Lz5LmYWwdblQjbbGstloP+CDsIFRHnjaglgPI5XxfsAx+VII8Xrql/
-erCJ6Ph06qV6rMp8gm/WaKgEs/dlLq8soR3zJdu2Zkb1KU37hu5vsgnH96/+olaEp4t+GazZUIUt
-Sy5DNlwmUOt3aGBIvDvC8SQV8i6YGE72oGkj4tWIyfXLyAvZvcdAVzNE/E8t/X82scyOPRAuiJ7n
-MDoIWYZ/xqWknnV41y6XI4Fm3E9VQ/XrGhGJoUiFE+izYUjMbPaqiY+pL2nR5Wp7+jaP/s6XCW52
-1UKXtx/tWETW75DQe+MTfJZBxO+j0EqjhapO2tDZYoajQrMMQ+mSfx9534YqaRwG4KIYfi+e/oNH
-OhAAbZDowfmzyNOT4e/KXd+eW6M6aCLE07A4L4YIrgNyTpkkemVyI7hX/vWTJrsZwPKTz6eTYR4F
-1FPS3QTmonzzanfIhi3HOeMe9eWTu27Cv2WHRDkOpCInOcFmaM0QEi+4pLksO5OSRLPwu+uth21N
-aPdlTKHyxm7HLamv4tzUB7jwMyXELcbcQ4qoyg3BLCyIAYgt/cJRP5bfLers5a2QbpHO7irlXIVR
-GpjG32Bnvw+EawBDpFCZBCYjcuLNObN/OVRdlq/h23gnvyoWrWl5lp5H7cfX6cS3bK1JoajYgQyH
-kVrkr8Dll0bvK2oe+ZuOVLrcQ1Ir/91ivflAdjCFs84GGqYwBhxjW+xzY/vTkU7DgfqXmLCLOXNl
-TZJ4LwiLeVJRZDcmccB346vrCbv14hqY58lSmeKt+be1nef0GigT2E7LUay6z4kWjfZYPCdvx8U7
-hOjk+7PPJNF/5b7vjBcbxH9MdbgABb9kLC5VdyBn+DAiFH7l8SrYsrjoa5/Kf8DtbARU0l8kzQ8+
-v2MzdiHOV/HONvqu5gJf4ZXLe4MsdNzOAFYHJDuPZibiyNfFOW3VblHJ7eKkg7o2z5wuIKdTuVEv
-XAXwhwPahUMcix8uWPDks1oOrDpcrRN9N/Ytp8GQOl+ySQC1YFKfxYQnv6DFmwT7GQQ6ujRrLF32
-DXeRT66zQ59ISs1RYHbWjI/+9LAN1TxqgRQdMjBBU7Gmes7R6OV0dLjiuBpljkKYlNqtKDPOQ9x6
-Cua3zHd65NYoM4uBr8uK7RIdg1ggQ84aaFqdiqrqeCISm6/nSMI8JNM+GdOLJ29jdiVu3PJDFvmU
-jc+7Mdl8RMxPzKwOeoYuSWp6oNiVGj1Qal2dGF9BGVMkbPCEH3b+QS2omNFTdihf2G6uE+1cQkra
-a0dXjOcg8PbNh0YbifRj2lbYb0uAkTGwGxiwJjxFrpwSBSyfA6gCfnvwfsL0UOIaQUYxgsuLBUOi
-abCKcv5Zz131FcR+DuRo8hsqH2golld39Boiw7jjngk5Lk3ai0LCk83xCH+EJ5HlzPhgRWssAZwA
-zMN+1TRnj2gKZdmo42bOxefsnQD9C4l/Qp4SGpAwR53RRG==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\GoogleApi\Service;
+
+use Xentral\Modules\GoogleApi\Data\GoogleCredentialsData;
+
+interface GoogleCredentialsServiceInterface
+{
+    /** @var string KEY_CLIENT_ID */
+    public const KEY_CLIENT_ID = 'googleapi_client_id';
+
+    /** @var string KEY_CLIENT_SECRET */
+    public const KEY_CLIENT_SECRET = 'googleapi_client_secret';
+
+    /** @var string KEY_REDIRECT_URI */
+    public const KEY_REDIRECT_URI = 'googleapi_redirect_uri';
+
+    /**
+     * @return GoogleCredentialsData
+     */
+    public function getCredentials(): GoogleCredentialsData;
+
+    /**
+     * @return bool
+     */
+    public function existCredentials(): bool;
+
+    /**
+     * @param GoogleCredentialsData $account
+     *
+     * @return void
+     */
+    public function saveCredentials(GoogleCredentialsData $account): void;
+
+    /**
+     * @return void
+     */
+    public function deleteCredentials(): void;
+}

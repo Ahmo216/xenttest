@@ -1,57 +1,97 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-kW==
+<?php
+
+namespace Xentral\Modules\SuperSearch\Scheduler;
+
+use Xentral\Modules\SuperSearch\SuperSearchIndexer;
+use Xentral\Modules\SuperSearch\SuperSearchService;
+use Xentral\Modules\SuperSearch\Wrapper\CompanyConfigWrapper;
+
+final class SuperSearchDiffIndexTask
+{
+    /** @var SuperSearchService $service */
+    private $service;
+
+    /** @var SuperSearchIndexer $indexer */
+    private $indexer;
+
+    /** @var CompanyConfigWrapper $config */
+    private $config;
+
+    /**
+     * @param SuperSearchService   $service
+     * @param SuperSearchIndexer   $indexer
+     * @param CompanyConfigWrapper $config
+     */
+    public function __construct(SuperSearchService $service, SuperSearchIndexer $indexer, CompanyConfigWrapper $config)
+    {
+        $this->service = $service;
+        $this->indexer = $indexer;
+        $this->config = $config;
+    }
+
+    /**
+     * @return void
+     */
+    public function execute()
+    {
+        $fullIndexCronjobActive = (int)$this->config->get('supersearch_full_index_task_mutex');
+
+        // Diff-Index nur ausführen wenn Full-Index-Cronjob gerade nicht läuft
+        if ($fullIndexCronjobActive === 0) {
+            $this->updateIndexes();
+        }
+
+        // Full-Index läuft gerade > Zähler erhöhen
+        if ($fullIndexCronjobActive > 0) {
+            $this->config->set('supersearch_full_index_task_mutex', (string)($fullIndexCronjobActive + 1));
+        }
+
+        // Full-Index läuft schon sehr lange (eher ein Fehler) > Zähler zurücksetzen
+        if ($fullIndexCronjobActive > 3) {
+            $this->config->set('supersearch_full_index_task_mutex', '0');
+        }
+    }
+
+    /**
+     * @return void
+     */
+    private function updateIndexes()
+    {
+        $meta = $this->indexer->getProviderMetaData();
+        foreach ($meta as $row) {
+            $indexName = $row['name'];
+            $indexTitle = $row['title'];
+            $moduleName = $row['module'];
+
+            // Sicherstellen dass die Indexe für die registrierten Provider vorhanden sind
+            if (!$this->service->existsIndex($indexName)) {
+                $this->service->createIndex($indexName, $indexTitle, $moduleName);
+            }
+
+            /*
+             * Such-Index befüllen
+             */
+
+            // Diff-Index wurde schon einmal ausgeführt > Diff-Index wieder ausführen
+            $lastDiffIndexTime = $this->indexer->getLastDiffIndexTime($indexName);
+            if ($lastDiffIndexTime !== null) {
+                $this->indexer->updateIndexSince($indexName, $lastDiffIndexTime);
+                continue;
+            }
+
+            // Diff-Index und Full-Index wurden noch nie ausgeführt => FullIndex ausführen
+            $lastFullIndexTime = $this->indexer->getLastFullIndexTime($indexName);
+            if ($lastDiffIndexTime === null && $lastFullIndexTime === null) {
+                $this->indexer->updateIndexFull($indexName);
+            }
+        }
+    }
+
+    /**
+     * @return void
+     */
+    public function cleanup()
+    {
+        // Nothing to do
+    }
+}

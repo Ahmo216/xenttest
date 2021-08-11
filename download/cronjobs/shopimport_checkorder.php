@@ -94,36 +94,53 @@ if(empty($app->User)){
 }
 
 
-$app->DB->Update("UPDATE prozessstarter SET mutexcounter = mutexcounter+1 WHERE mutex=1 AND parameter='shopimport_checkorder' AND aktiv=1");
-if($app->DB->Select("SELECT mutex FROM prozessstarter WHERE parameter = 'shopimport_checkorder' LIMIT 1") == 1){
+$app->DB->Update("UPDATE `prozessstarter` SET `mutexcounter` = `mutexcounter` + 1 WHERE `mutex` = 1 AND `parameter` = 'shopimport_checkorder' AND `aktiv`=1");
+if($app->DB->Select("SELECT `mutex` FROM `prozessstarter` WHERE `parameter` = 'shopimport_checkorder' LIMIT 1") == 1){
   return;
 }
 
-$app->DB->Update("UPDATE shopimport_checkorder s 
-    JOIN auftrag a ON s.order_id = a.id
-    LEFT JOIN rechnung r ON r.id = a.rechnungid
-    LEFT JOIN lieferschein l ON l.auftragid = a.id
+$app->DB->Update(
+    "UPDATE `shopimport_checkorder` AS `s` 
+    JOIN `auftrag` AS `a` ON s.order_id = a.id
+    LEFT JOIN `rechnung` AS `r` ON r.id = a.rechnungid
+    LEFT JOIN `lieferschein` AS `l` ON l.auftragid = a.id
     SET s.status='order completed'
-    WHERE (s.status='paid' OR s.status='canceled' OR s.status='deleted') AND  
-      (a.status = 'abgeschlossen' OR a.status='versendet' OR a.status='storniert' OR NOT ISNULL(l.id) OR NOT ISNULL(r.id))");
+    WHERE s.status IN ('paid', 'canceled','deleted') AND
+          (a.status IN ('abgeschlossen', 'storniert', 'versendet') OR l.id IS NOT NULL OR r.id IS NOT NULL)"
+);
 
-$orderstocheck = $app->DB->SelectArr("SELECT suo.*, a.adresse,a.projekt FROM shopimport_checkorder suo 
-  JOIN (SELECT id FROM shopimport_checkorder 
-    WHERE (status='unpaid' OR status='') AND date_last_modified < (NOW() - INTERVAL 30 MINUTE) 
-    ORDER BY fetch_counter ASC LIMIT 15) AS suox ON suo.id=suox.id
-  LEFT JOIN auftrag a ON a.id = suo.order_id
-  ORDER by suo.shop_id");
+$orderstocheck = (array)$app->DB->SelectArr(
+  "SELECT suo.*, a.adresse, a.projekt
+  FROM `shopimport_checkorder` AS `suo` 
+  JOIN (
+    SELECT `id`
+    FROM `shopimport_checkorder` 
+    WHERE `status` IN ('unpaid', '') AND `date_last_modified` < (NOW() - INTERVAL 30 MINUTE) 
+    ORDER BY `fetch_counter` ASC
+    LIMIT 15
+  ) AS `suox` ON suo.id=suox.id
+  LEFT JOIN `auftrag` AS `a` ON a.id = suo.order_id
+  ORDER BY suo.shop_id"
+);
 
 $lastShopId = null;
 $importer = null;
 foreach ($orderstocheck as $order){
-  $app->DB->Update("UPDATE prozessstarter SET letzteausfuerhung=NOW(), mutex=1,mutexcounter=0 
-    WHERE parameter='shopimport_checkorder'");
-  $app->DB->Update('UPDATE shopimport_checkorder SET fetch_counter=fetch_counter+1, date_last_modified=NOW() 
-    WHERE id='.$order['id']);
+  $app->DB->Update(
+    "UPDATE `prozessstarter` SET `letzteausfuerhung` = NOW(), `mutex` = 1, `mutexcounter`=0 
+    WHERE `parameter` = 'shopimport_checkorder'"
+  );
+  $app->DB->Update(
+    'UPDATE `shopimport_checkorder` SET `fetch_counter` = `fetch_counter` + 1, `date_last_modified` = NOW() 
+    WHERE `id` = '.$order['id']
+  );
   if($lastShopId !== $order['shop_id']){
-    $module = $app->DB->Select("SELECT modulename FROM shopexport 
-      WHERE id='".$order['shop_id']."' LIMIT 1");
+    $module = $app->DB->Select(
+      "SELECT `modulename`
+      FROM `shopexport` 
+      WHERE `id` = '{$order['shop_id']}'
+      LIMIT 1"
+    );
     if(!$app->erp->ModulVorhanden($module))
     {
       continue;
@@ -155,20 +172,21 @@ foreach ($orderstocheck as $order){
 			if(empty($shopOrder)){
 				continue;
 			}
-			$app->DB->Delete("DELETE FROM auftrag_position WHERE auftrag='".$order['order_id']."'");
-			$auftragspositionen = $app->DB->SelectArr("SELECT id FROM auftrag_position WHERE auftrag='".$order['order_id']."'");
+			$app->DB->Delete("DELETE FROM `auftrag_position` WHERE `auftrag` = '{$order['order_id']}'");
+			$auftragspositionen = $app->DB->SelectFirstCols("SELECT `id` FROM `auftrag_position` WHERE `auftrag` = '{$order['order_id']}'");
 			foreach ($auftragspositionen as $position){
-				$app->erp->DeleteBelegPosition('auftrag', $position['id']);
+				$app->erp->DeleteBelegPosition('auftrag', $position);
 			}
 			$app->erp->ImportAuftrag($order['adresse'], $shopOrder, $order['projekt'], $order['shop_id'], $order['order_id']);
       $app->erp->AuftragProtokoll($order['order_id'], 'Kaufabwicklung abgeschlossen, Auftrag wurde nachimportiert');
 		}
-		$app->DB->Update("UPDATE shopimport_checkorder SET status='$status', date_last_modified=NOW()
-    WHERE id=".$order['id']);
-	}elseif($newOrderData ['orderStatus'] === 'deleted' || $newOrderData['orderStatus'] === 'canceled'){
-		//TODO storno
+		$app->DB->Update(
+		  "UPDATE `shopimport_checkorder` SET `status` = '{$status}', `date_last_modified` = NOW()
+      WHERE `id`=".$order['id']
+    );
 	}
-
 }
-$app->DB->Update("UPDATE prozessstarter SET letzteausfuerhung=NOW(), mutex = 0,mutexcounter=0 
-  WHERE parameter = 'shopimport_checkorder'");
+$app->DB->Update(
+  "UPDATE `prozessstarter` SET `letzteausfuerhung` = NOW(), `mutex` = 0, `mutexcounter` = 0 
+  WHERE `parameter` = 'shopimport_checkorder'"
+);

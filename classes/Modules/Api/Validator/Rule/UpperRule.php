@@ -1,35 +1,27 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-x/PScH/HHlxYIdCHsjLwkUznCgfY+qyu
+<?php
+
+namespace Xentral\Modules\Api\Validator\Rule;
+
+use Rakit\Validation\Rule;
+
+/**
+ * Regel prüft ob alle Zeichen Grossbuchstaben sind.
+ *
+ * - Deutsche Umlaute sind nicht zulässig.
+ * - Regel wurde für Fälle wie Länder ISO-Code erstellt.
+ */
+class UpperRule extends Rule
+{
+    /** @var string $message */
+    protected $message = "The attribute ':attribute' must be in uppercase letter.";
+
+    /**
+     * @param mixed $value
+     *
+     * @return bool
+     */
+    public function check($value)
+    {
+        return ctype_upper($value);
+    }
+}

@@ -1,62 +1,107 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPu0/UysSh5/Z7l7kxks2C5gAb3A5TBHDLpkzKSINEdRFWycF/ltuGw32wWT3k9VINaRisX4V
-bYKeH5RzMxEDz0mOVTR9/0FU2dQB7LIfFc/63lN2yvbEz0WQh4OgqKFsAFYE5V8C1BAStAj/4007
-wk1rnoh9YgryUFzdQTGZoi56D67zrjQDLAxm6HiczdeU5v5H63T0lNLL9J+nrlWp8UMLTwZVvwpP
-afIsbEgQtgkGx7/B+yVKSr0BIQoI97kebNDO+dr8QynI0KxjBImHVLXhChyk4LnBctfJYALdsz1y
-o6sNYRsXepZnyERmn+Icg8BOVmJzcEzzxBInMvUi7BPRsK0IjYZe4YYl8xk/dIXGJqaSvCyqabGt
-2YQeaqdTDYDyHetBZykXYXhhRVywrk6dCmkhuNL/L0LBvtP7vmA7P2Hw1uo191r6B80wBzqeIG1T
-jqwIY9lNIM+R1dhuUlWL9YJ6uSWIONfLI+XS3GP+Q5GjIIRBEeCgRJ4PYF6Ol1UzP0beslgSFbHm
-RK8kY+C/95Bzsp0Kzcf27vv8ofm3p5zrwNkuhKOGl5wFOoSwK8CjdWT1eRXw1rxT89Qr/xEK576e
-Eihgkv/ggwCDiSXdv7TL/NHlt4zHysDJxxKM0tXeXCKw3uhvSmnmFvsxlUwiu9sk5QQvBKGm5kYE
-tzagTCjPvk2PZOvxrJtYzwSX5y0seUB449cuCT8YrJShsWrx0Olt9Nc+QUVqknWuMP2E4bUdN7tX
-fQCGXMMnPRzfRegpP+g0RygUhlOKEFLauPSYTzcsT01tD6NO4yWzh0a+jtzeqVKt6bhGzrXesTY3
-LsD5RQJHjJqUQMZEg4VmoPEw6iK5zIJNc2jpHvk2ZRhZVKAigDZAiCA2oCQn/1KQAUaMoz6A14yU
-ua/5n6zOo8owIOuxqFCBiSoEJ+arsmRq75yfgBuNJg/Kx4ONbXza/BlQaq8ANM7y7NFKArrvZaOb
-dk3RB4ydMyGZblyaC4za4U0ZFI0xbzkJnjRqWxne5P5Bjc+YzECVdKUT+UyAwyVbhL8WJONQObAg
-qcaea2r9NXhQxNry0f6YEp+5rp5AXSQFhGG8efXYrQXkPE34Uqkio2GoKA3U5MGTEwy8RYBcLrsc
-/ebLvhW5vw4BC0lIvYbzRKqb0NoWy/6SorBof7WkKpT9/wo9AK6V7VKsZeJfkF2zvuubWul7tZsz
-/mu3Y+E9QILsiFJAYmZCQqY1Lxq+ImN9tuo4koKKZLT7PWgQf+TRIzZavJaAjDHgfX+hhg8lATmW
-0lXtO2xvxY7ao90auTfQcF8c7Oha+PEWDNEgijHOHN9Ox8Dyl/AKHOlpCacMFsiWE+iR2ctRvijr
-qwDHA2jymGrZmSwKZjANzwbHDMiPNnwOtMKlO/+XbEV6gpjgnGGIG2e1JwdT2vipQG5HG+f1Trtw
-iw943Lan2evE1JxhHqetTc/U581/pllM7P/3l8KopxmNNxtMxaoIvExmOFEOY/Mq7MuFVbqOSeZu
-VeJVUPgPHyXVUoKYVoIYrTDJ95kZ4BDefiSeBIoXf5HFZX5NsOqb6gKmHZuomErBlARwV/RTDQHF
-Ic6dD66L/Xb9mjRSGmdtmCRnaFIG82FBec7I0UpiNVW7V1K3T2BGuf6EpDkdxau3skH0hT1n3cIf
-omkGflsTMvoeosaV4O/gnDTMAZL5KQ78HFoRM9thM0HGsmkiRVeZGIEiYbtgI5Ch+RJCxn94JCKC
-FKw9KhGpTOCTTdrdDCg+udTtQEOPdbJyTlIJl6I4g4WUUNSk/mr5Sw8UNTjIv9bnw/qnR5kwyy7c
-E/szctHRqn0CcdaJYLLXew+ce52HEl2p44d4nmRThS9YoiM8BHwn9RNEC9SEOwIjKH9UAnQkvarN
-qs1SRNAndYAdlNJFXzuY5ymYSgeopYbTOfU8zn3dtdYBspg6l2eoGutc3XME0CzYHi8lKgBpUUL9
-m3UiwtYaf+0mS5lfWKYndjCSI4quNt1E+ZsLYLkDkEEwReY445qBPA6i1LNjPBtOLzz9TBEZd0qx
-TH+ptvwSCcHiguuaYxPR7Z7vPDCJ91o/iEAzT+wswYKz30CFuI5IkyiR0vdY2FmqJuphFWD1/6Ua
-Y4A8Rfs5rqQLop16dP9dr2n1q8o8psknRuymA5l6sPDYdfY8z7meMhY3KCcIJQoHtRiLMlqiA0aV
-UwuHE3sNtdnG5eipNSXrgjsCNtpMZ21cXY1js+fVGloPO5P2clZ7kZwMhP0WkgeCyZ+tnhMWIS4d
-cmmhjEBMQETBikB3b8vbpm1PloGo41FUmBbI0EvLQb10jrL65Oeh4zY7uUM6I41ffLYv5OJNVpWG
-9kjm+TuEc5qNA3zLzLUHPNRBvek9/CQQtj5wKTQYY9L545hO5sbAOs5Q5oaO9UG6fm5H06IAX5q2
-8fu5rVye5eyDrIQDzYYZTfWayDlyb0AzrDPCrCE+AjyHB+8DeDwXTZLsDJJfJdezQVWRCru4PTy6
-UmGZNFh9BX6qkgyBbbAgPYRq53XHM/HLhaWs4ZCoIt//LYjmWvQGV3NtnoRyKyQb7gp/3sGd6V0f
-9uzJbFYdJepByXA6blkZz+EXSgmd9J5uIraOdJTrEAg/f350+voi2PCowLSVtUXiSzADBiFSV0oz
-9K/GQvm3Q2yGz2v7lAbcZlVklUVMLSCx+q0cOpdw8Ol76MrVc0VNZAKUy/MmA+h6Tvo3bkI7V733
-cpsF6QP2aGcbpp27SdRXBhrnhVvXQpsqQ726s7mLWvyYyqSvCsFfJhSS1xhBjqGMfoYaoYu+PKWO
-sv4clGTDlTVJRnrHI/to70uWq36F19yTW22Ou9S3iAvwcXV/8FKn48Nem1WnKBaFUE1EpFOFS0bv
-p5Xokyz1WlHjYEDcAcLxwXmG455gq93+ZsFlAF17AWr3YejKGohRHlde9W/eW+QnnkS16bawgJD5
-rKK/q8AnJhpA+q41tpDQEjg0OW6Yjmoy3BKOmDQimRjibb49ROfaBI+1LqKHcz+0n7Lpafwvi7ca
-zFDbhFi4nT9Kl6nHHWok+ckhQv0Lgu9kqCFxKKy35xCpqtQ8+j6nPqKhI5c0ZF1SsbBBz4yAAPY0
-ZH4kBSuC91SMt0dArRfkMoN4CVR4dj2BvwZFognKXfZGBpL71eLNbbmtwkWMUP3Y/aF/oEm8jv80
-eW7kB1FQFwzonY6uwqXZQgjPOabpotndFNPem2a8Rb8VBQLhAV8Mm5N0p3wU4g1r77rWietPHRt0
-g6Ydu4+2MBCIeZddDdCIKbgC7Ib554Y9e20EPyNlllS7Efgmw6sZaMz2oVrUb0Ty0YqhKeYZZG/R
-KgdMdVv09hLagxwPZLcgHmxfq03vkIxleZiGpzUKCeQ1x1x1vOnymR6odv2PYueml+/z07c1bWWU
-ku/pYGNRp8iYyPLxTTguX20IgRLFvLvQfwvAUKb9bJRFjIfRW2C8Q+HZkhERK+IOV/AJHqwQw6mC
-YMvuGYMfgS+tp0fAQRztTfcbgDtIJ/+7a9CePIvMWYo3RMp6m8lEYecFnajMiBg8C9R1h1PftzE5
-NsX+zjRDvuGDrEPi4sL6Tg5SQ1FXr30E5T8UQeWp2bh1R6gPKRdMgjxr621SKjy3UJgo/kfp8RF8
-NZRNEpSUpGUf+ZifMN7RUFOOik3t4kCqafQU7jEIIwzGol+5/vLU2xcAjkJTQ+suiFs417M6xrWl
-fKwDj19BBEGsI9h+VATSzM8FpECpvqogV7AQu3AuNI1qN0x2vVw6yaeh6oIc5J3lMghUeorDTuVA
-/+SSYei16pqExckzmji2EvS9UClVDyWpmDdKem3WC5aYeChh+N+HHzXWSUnAbOp3e7zR3KwMsIx7
-fSMo8iSAGq+ROW3nL2w+yzHYOyGoaXhuvn4Di3RwcMgYeNmMlVYf+YeCnHNJ7u6lnOFnhIclcUhm
-cFwgGOK31WXXywKX+6MXwsWEYPuXHkJiG+zCnS7Jg95Ew9QKKbpqF/tGOsJ0hlfq3hFl3d7f/sc1
-OYtkIR4xlzozMx885CHDH+YADVvXbccpH2tXlAzc7N94/Y4D1FqGM7R371oT1ugJSV1yGBOAgzpC
-McLSObK4t3efsyRl3o4SAIhlvT1yyF9KzUwXt35OJYeNYuD5P+eCBrDhQXlwqBibEO30DHj2Zzod
-Ck5HBaM3JqnYJY8hcEKbOoit33JEsnSEVZN1yoDre/NaVSMdB08hUj54mBqB2J0L7Ogfacx5OMLB
-P2FbllR4Yg9EM/ehCOO/Fhop1iN7u5StCotAB45SndnyJFhF6p9BCqOhRJ9X00FISgoPi7fJdUxK
-UhtgLxLiboYcwBWG2Om7HFIJaBVKbEFwyxdBYp9tkhRyW/kougBAhPwGo5GTNE1Yj2gH/hUjpB//
-nDfXEmE0qRDQZmhoFVllAYpS4ny5VR2IdD9Ie8Eb79zEIPOGHEm/nN3j1asZJaf8ZhFbxPVP
+<?php
+
+use Sabre\DAV\IFile;
+
+class DocscanFile implements IFile
+{
+    /** @var string $name */
+    var $name;
+
+    /** @var int $id */
+    var $id;
+
+    /** @var ApplicationCore $app */
+    var $app;
+
+    /**
+     * @param string          $name
+     * @param int             $id
+     * @param ApplicationCore $app
+     */
+    public function __construct($name, $id, $app)
+    {
+        $this->name = $name;
+        $this->id = $id;
+        $this->app = $app;
+    }
+
+    /**
+     * @inheritdoc
+     */
+    function put($data)
+    {
+        $path = $this->app->erp->GetDateiPfad($this->id);
+        file_put_contents($path, $data);
+    }
+
+    /**
+     * @inheritdoc
+     */
+    function get()
+    {
+        $path = $this->app->erp->GetDateiPfad($this->id);
+
+        return file_get_contents($path);
+    }
+
+    /**
+     * @inheritdoc
+     */
+    function getContentType()
+    {
+        $path = $this->app->erp->GetDateiPfad($this->id);
+
+        return mime_content_type($path);
+    }
+
+    /**
+     * @inheritdoc
+     */
+    function getETag()
+    {
+        // TODO: Implement getETag() method.
+    }
+
+    /**
+     * @inheritdoc
+     */
+    function getSize()
+    {
+        $path = $this->app->erp->GetDateiPfad($this->id);
+
+        return filesize($path);
+    }
+
+    /**
+     * @throws LogicException
+     */
+    function delete()
+    {
+        throw new LogicException('Bitte nur über Xentral löschen');
+        //$this->app->erp->DeleteDatei($this->id);
+    }
+
+    /**
+     * @inheritdoc
+     */
+    function getName()
+    {
+        return $this->name;
+    }
+
+    /**
+     * @inheritdoc
+     */
+    function setName($name)
+    {
+        return;
+    }
+
+    /**
+     * @inheritdoc
+     */
+    function getLastModified()
+    {
+        return null;
+    }
+}

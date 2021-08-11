@@ -1,83 +1,128 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-pwSdVISFcZPqgqDs8RPNN60uOstDgpyRddG=
+<?php
+
+namespace Xentral\Modules\SuperSearch\SearchIndex\Collection;
+
+use ArrayObject;
+use Closure;
+use Exception;
+use Iterator;
+use IteratorAggregate;
+use Xentral\Modules\SuperSearch\Exception\InvalidArgumentException;
+use Xentral\Modules\SuperSearch\Exception\InvalidReturnTypeException;
+use Xentral\Modules\SuperSearch\SearchIndex\Data\IndexItem;
+
+final class ItemFormatterCollection implements Iterator
+{
+    /** @var Iterator $data */
+    private $data;
+
+    /** @var callable $callback */
+    private $callback;
+
+    /**
+     * @param array|Iterator   $data
+     * @param callable|Closure $callback
+     *
+     * @throws InvalidArgumentException
+     */
+    public function __construct($data, $callback)
+    {
+        if (!is_callable($callback, false)) {
+            throw new InvalidArgumentException('Callback is not callable');
+        }
+        $this->callback = $callback;
+
+        $type = gettype($data);
+        if ($type === 'object') {
+            $type = get_class($data);
+            if ($data instanceof Iterator) {
+                $type = 'Iterator';
+            }
+            if ($data instanceof IteratorAggregate) {
+                $type = 'IteratorAggregate';
+            }
+        }
+
+        switch ($type) {
+            case 'array':
+                $this->data = (new ArrayObject($data))->getIterator();
+                break;
+
+            case 'Iterator':
+                $this->data = $data;
+                break;
+
+            case 'IteratorAggregate':
+                try {
+                    $this->data = $data->getIterator();
+                } catch (Exception $exception) {
+                    throw new InvalidArgumentException($exception->getMessage(), $exception->getCode(), $exception);
+                }
+                break;
+
+            default:
+                throw new InvalidArgumentException(sprintf('Unsupported type "%s".', $type));
+                break;
+        }
+    }
+
+    /**
+     * Return the current element
+     *
+     * @throws InvalidReturnTypeException
+     *
+     * @return IndexItem
+     */
+    public function current()
+    {
+        $result = call_user_func($this->callback, $this->data->current(), $this->data->key());
+        if (!$result instanceof IndexItem) {
+            throw new InvalidReturnTypeException(sprintf(
+                'Formatter return type is invalid . Callable must return an object with type "%s".',
+                IndexItem::class
+            ));
+        }
+
+        return $result;
+    }
+
+    /**
+     * Move forward to next element
+     *
+     * @return void
+     */
+    public function next()
+    {
+        $this->data->next();
+    }
+
+    /**
+     * Return the key of the current element
+     *
+     * @return mixed scalar on success, or null on failure.
+     */
+    public function key()
+    {
+        return $this->data->key();
+    }
+
+    /**
+     * Checks if current position is valid
+     *
+     * @return boolean Returns true on success or false on failure.
+     */
+    public function valid()
+    {
+        return $this->data->valid();
+    }
+
+    /**
+     * Rewind the Iterator to the first element
+     *
+     * @return void
+     */
+    public function rewind()
+    {
+        $this->data->rewind();
+    }
+}

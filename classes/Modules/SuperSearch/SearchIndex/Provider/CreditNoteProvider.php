@@ -1,102 +1,118 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPoLXBb6p+f9c3QUxSfFafSVPt3OW1opFWDH2xOD0S3Zj76Kgz1wNJv73u2xt5t5KJ9XACNDg
-YpCl+jKmZIiXC3lWSdWAHti6nzPanKfS3PrRMLNAGSficgT9+YuYiBpOe6HF1YeHwotRdAdSmFvC
-rgNdcdxqUr8xkouId+3JUV/R7Ua64n4XDfUXZDV69vlhjt9YuCTdU4m7DJ1LojZ/oYOgme33AM6+
-U6ia2OjWzpgNu3U9MHgZBhaiXzrBIhATU7sGPDD1csKJln/ka6vq0zz3Am6pCA98rsh9iUSMZH7P
-dSRTJ3RNIvTxuIugyQkq5WPTpZwdZ4JbJ0sZFvdXKG1A3XIdaflYczd8kx+TA51FIHpappIIL3SA
-9ko7C9oRJK2b9QJe4f4HsNvI/tVov3tsDAGOPUXxbDxVC0lCQPV01lTLMaEOlnXHr9a9lr7Y0hU2
-gQ0LUE1qhCsVIo5yqb3H7GgmfPS7UtarHLKquBdbyA37dtNlSrFp+jfrBGbB3mjog0yWdYY3sSCc
-iOWYOqgurXCQPiFAkvgIEsYkInGTH6cWGEG4h2tqphEDH6KEoOsKC3zhCF9VgukHnNX8v26H33TT
-FV3Yu2YOHP/qpNqqg+pFouDeWwrknifq9i+9TVZ+h5lOZXnaKMpftgEqDDZ4nThNPY/kMiTAyqN8
-RYk36nK+0bVGhZ9GEgbdzZAAed7pXTvW+kvYxctuk3AjNnFDxlL5BRIU9BXuHbQIytHBjJX4LXcT
-iTL9s648B0O/waFpGTwhGNhXG+BHDxARNTD8va3oL3w7iMMn95GbDkU+B9iaWQh0ozH37CAMJQBU
-771hrFncdXrmcPMYH1+yx50nh+cCU+95uxb3oPRGkYEYEdlEj+0Gx9YZlR+qjvG1v10QNWUTSHFs
-3OAgML5QjBABdITWQX/xs2uSIC8ZAfcMT1PijG5wekCQmXvn6+Wr5Fzy/8Plnx+Z0yF863GtGdhI
-ahyN8x7BStc4x63YW/IXsgX9EFTv/XPfGTsl3dZkFG0xcyDxex9MUg7uRWpXQqpq4ZAyj/y2FTqc
-GcOKxHpkpZ+2i9hHmFvhDCovx/h4VbP/U1mh4nsIcVW9QpNxvUEIVsf3cNh4niQ6FmLSBMX4C9Yt
-D6xjFp90m7upL2kroY+FaI1lhp1eQjE2x5WNDLvWeGZjzlJyk+CSDjfm+SFcv+eXCNlPHfvdOX95
-/nmfGRVsL4lkjAa/PAIItx22x6gLfaRvIlEdk6UtnZMi0X8orWsu1MBTNoUkedpx5ZwcLaQyv85T
-2pj1s5Al//OCpcU3R5cZLG5bulQi3rVoVCjmpjqd2o68/UfhY/thf1eJksMSX/VeKp/Vp57t4iJ8
-qvJXYNFJ2vgIiK5M2JxRGHZA3pdE/bsW51fgrf5hHUzyDdSe81qbK3GaJUTxtX7tCNYVf7b3zKLg
-itvBFYRb5I9zvToKOXS8uTUR4TixPaSgV3VmhW1kds3Ga7yg2bGtvka+qeO2JekoMSdMTgqHSLkE
-CQiYNYUP+3tFGIXWl1lyvvF7bIbsIlJQwA19mDqONiHXq4bidmXhfdrjr7q+QO4HJ8j3ZB8w4AXu
-UImOpF6oL/XOVIVeO7WY05tRnvtvL9HDRhHt/OCLbh3ciLz763THc7m9MDJyzxWfRy71IlPs4Qkc
-xdYvtKQrbnRoYkOdE3HBQhMLhI1ybJVAiKHlvkQevVwvGSrzR2zMFMMDTj0ZvONY2LNzNtRVvzU/
-Dc+ENFwr0X4+VBcFXmyc4X/J6yPeadWce7z5A4uMNSc5XpfXvjaQKEmn5fIstukwe07/XUjezF1x
-KjurRhWV5V1jxaC3WcFTqzxP98FxjHqiAglfCjpWvvTVFdo9ljw/kV/I9WcGh/co9iOYzVoQl8ah
-MTDrxrBgRgHDqUdV4ybk3dw0IPhHP0eZqyLXRr9soi99X9ae1sDmV6b969/8Upams3F9dfwpVfRh
-epFsC7GCYEY0KUlT6NLb9t7/qrtmslOg/UY97Q73BxAyDQpnYwjEcMTbKZl4CNLjjgVc/PVkI3xh
-OR+6h+Hud1D6ZB4YEdm7u6fsiA8jIv6c8z0ZZMFcgle4ZncKey+2Vkl/n/GeucXn80xyKMwB9Tf8
-YGLCRs8km90RIHk5W1S6Zsreoa3wD63TcQhTsYRK+lu4M5XKesfOaKb+9IyJuFRQ7kT0zRvY/Gsx
-Id+4HWDtMnk3dZf/aRHqeVXhrL2mqqhNqXcU3KjX+0km8P11voSZ1AqEI8S2EuVIL657GXD0k1ZD
-ejHkSo6K6bWoeLNZip8EyzpuUTNSs7C0u4wWoGIR/4915SOW6TyYqkuwcLsOSwvX9bwP+y1oRPwm
-reoO125hI3cOx+LAac3Ra2W2ILTKH6xyXshaSn90lli3uGdR30+ok40VGBYVOVhN3C77vA3zWAvR
-r7niFTgjSK3c7181grN2z7RTRjYdENy121Vnh0LXNj8Aqdh+/kze7SeSf+RY2UurZodWz+3/4rzC
-SEOKSQcIKYWVINJdGGUeE96tUy+MH7twxUCfvOxqgez+7glo+NpZoYRa5DPpQScwPMI5rRlJn0pr
-FQYoErJxvUD5gmQ/8QhBbRL9OkO1PQVf85CfDXh7KKu4ARh0Zo8h2+SXat9x6AFK9T2ImJOoUe2C
-W0DuSF6SW7oubRV8h50nGNS+4YClhNwnFpLVmAQsbwx/tmkUidUAGmkG78LCqLcbXnzLDrnCcnZn
-ffvd/QHt2S7NBGih9EoBs1WvV5gR80MeyfOhyAokm+cJzZcDMjHS4BeAHgNqSqBmoaFuRE8O1gRP
-kTSE6vglqPNkWsKW5Mud2/1k6bAx3Bch2pjNWmz3rQ7W3nt/Us5CfF4l+8Tqjz0dcOYQHYkVpxIf
-vCAfxtVBsRkx42L2FV7/8i1fubZsS5OF9tlIf0Ohzdxp9+cDdtgyNp/ryeeFZ7j/7l8438xAsHoM
-d3w0I6Y8Ai9sZKifLl0veyxUZQWK7U6hwSSBt1OmAf2DpCpolcIvCQGFbdlx4qd1vdrVXpXdMt3k
-nEaCtJGkla22e19vjTeuNZeBu+ZyRRNy3MRlKkrfnAxJfHW4E2Y4vyjXGqoVeF84YieXZoP7mrxa
-QDboqunVYdwtcHzKTDwMcbJK2Iq5eoMpS0J7fvmT1hSEbldpZocc0fbTqp5RCwY4WZ4vHGvK+OoG
-n3+AUskC6fPeIfKN3WwJET/99lPnuVKT3UXePUqduieY8KO0ZPRr4Lfei4inKuWp9W96azBTBpfx
-3dN1vlwH7JiHrOziUPxr3kfi936UblwcgZcChC+6PLljxQi3JUBgQzE481fnlvD5+vT1BPFBLsvB
-DAN2UHcWcLZwdtmuiuy3uYa6synfSR1tkvfERz9ouEuKqM6o6ygigOhgC8MQabTeTXjmliQn5mOt
-x5ajno8liSkUgQKqfNCEqpa/BRCsC1iGxNdGD0LX42J/Mtz0ER+oQ1yexBh1IXUp3IxNns56ijnP
-4+BKk8W6mzaxpultSzz7241LJEY+vEzdn0mGJHyUcYr6eXvMX4jh28VH8ikj4BVAYxymsfkwNO0V
-O9iY7rsUYeOPOMHsvFAakz3BnFUwI+W1MwrcCIHMI78dwPCFNP+UYU7EdVJ2KlFzeyep2Lnjx6Qe
-TqJJlEvWwp6+e84Pd8zFy6zSFIpUSsLLAS+SyJCFnfOQBTDdrTFjM7pfbZ4euI/BeMGASi+0VUwQ
-RFIQFYSqQi0B1zAFCFD68soayzOsH+i/KWukdCSg/xWqnYsWyDhi1cQytUhzmeqtcmcMcz6z9JJs
-nJU5sh5LngpCeshn24qpFxObh0lu5DmL+0XPcquICG6WKVVW2OEwCssoaD4o6sBf/bLGyVeNgUgR
-A78DGaMiuA0jFuqOpjh9uZR/kR1rXna0sIzmp7RaBLsKfYv+ov1tvopd4oWg2gdlrk92n1+W7Nou
-SvD1UyIZ8PrdkZ5WYlgIkMAwZKaH/7f8DVvT67GbPQMXg/zg3+x1Au0auN5fVTG7yHCYXZh4/JE7
-1i/Uusdf9Q+yYSv6NgC62s61W6LsU3xOtNXC0r6YsdiP3TrPgvf12OWg7yUkuNSGQEtgWO2vJs0z
-A+IJlPbX8A5gn/SoxDllhFVwZyVaCsGTbwwCjdsFEBlDK/M5VuG4RVRsTMi+hTBmJUJNkSS84QSq
-reetAlACjkllkZNMHf5rbShvB55dtljX9yI7RFIvlaFlA9CDpRveXvvYExZsPe1XQbg6k6QEziY+
-M20AM8Awr60/bf67LPBqs8pW4b1kA2z6dBf1uU/HB4ToJ+/NVvJoBpl2PDKb//O3bgr3JJaHNvm+
-t2Izg0WtXaWzZOwN8LEKh3wxENcgUxEgxP2ihKDWeOmx+cybxetdDInUHfDb0egyC6gl45sL9HpU
-dN8DHeOCU7wleb1S21a2RGn9yH2Uv2//Y7LUjh64Nx2dXa4W01dcS4frvv3MM6PikH2KRbrf7SA/
-JBbUJXhB6zV/qlBiDnRBSkh03y+Bl6Ga9ApPVBY+eQEH4h/7qbChcmDeEPDWguaUSm0L50/4oQAn
-dZKfm8TXvA03SmekHJ8mV7n2804n/tooiNdDm06SkvwASRHcR/HkeWTkYVqwjNflfaC+8jLPZq6h
-CWWsaewwPimqAXdbmKx1QALS+8OPFnHrQHz6XlvjNUGKNo3pqIbiEH8UYIK6wv4pUiaf85gWdmyH
-cRsl/17y/NyIz574aBxE2Eb8PSBo8DOE52sHV8H3or2vtmJMMlWK8AI/IG18rmGWUFUplrbbRGyv
-b2A9qWfn6q/Q2jNVrqc4G/aMKtrpAig6hmW4ncD7yvuVWZ2bRVbLoCnjrPTD9nLOtxr+Fl1C/js0
-I0ZwpurBlogCMRReDovaofx+kRXxUwrepumcUNuTJ+Q+7cZTRBrDCxL4soinuDsqlNB/SXwTpwa5
-VAT34OsoLgplQno9MA8gdNYOAdHdJK3g0cMwvWDUyT3BfIbpOXMjC+2Pln/NEyKMHk0gQRo0p/M8
-IRCW7w94v7hODdMAx9CmVkcrFUZRg80pw/Fi5rNUMtSxB/OGczekgRbRQ7g98HfkBMd5NOKll9u6
-5sv14j+39o5CdO6nBc5R36Vz2mt7Z/IYQsSJlDXE2R57nFEOVMkeb4oUuuS1e11exURqvVs833Z2
-4mO8+nvdERlcxkLJpZCDTMv5PFk5gp9ADX/cj2Evy2EP0SmVSVqu66XmneRhCdnqumwyOpjcdoW9
-ihsml2cT9++YcHuSPAqKL1HxDBzL7JW1RKyc41XqW5Y+AjCGtfp6dckyn1U0plfAr0IHFzRNJtAG
-7/YPh9SXyA5sTsaDoD27VslWVl4N99q8LqmSaiCsrJDzE9IiYGOUIRAdwzzYOg/WVwsd+tS/k2Sf
-rz3rSftiaDbAfj3aOLSC/2QDcM4n17jpJaKsph7EXCXKY3YlZMF9fRU63yyqbm45UOieZKJoIULN
-Aqgon9Tqgp5o1v+oPLL87UwS7QOktZLBfkta2xptxPaX3wFVi2jBWielaKxfPPBVMQig2PPubJ7W
-R4Jx4anHjTzd4QI7sC3MeYcqgOE1RB92w8cKnidV5dVilhQ54iteuuAhk0p3AmoZTaZoWOI1dC8g
-vk69OOkuc37nTb2XB7OQzIOFMe0iI9wkVOBwhuTS6ISPjlldL+9YMMe47Eo/dBMsifwqgFzHXo7k
-UuDKbfsk2/6vRQ4W/VPEO42hopx+wQ+Qfvm9qmGuNsRTPmiaUFCEVgv/0OQUMWk8YEu4FoVs8j9t
-MjBN+56M9S47aLBHpC2np7/znnO6Mbe8ma2+6rW0geYo89533kURQz9HAKCz0M9mTVlHyM4JVkaO
-QOjnbXqV/LFtqoYrU6vxvXWENDVc22pV3MgLQs3aqqecYMxWIuUrw+oNOxiShtPxOlrlvG/dSomi
-uygzYgar64P/x3C2Pwu8rg/xZYgIAzc+KM3uw5eBtKt/nwszvbi9/DJ2JX2F7liJrKklGrIsSwEP
-eEIwlHT6SDChfYYaqjI9dEUkPH7q8icfdpJYrqcHbzsjP9GGRhL3wh3q9VIHp3TpKzfS1diT+z7L
-jcn6bWlJcTErZB94eg+e0o8ztLWqTWN91O1Qw4jJg3RJveLOKSH4+htEnWCKFQldnqVh2XShIaaf
-H9kCPUIq9N3Og2ywAZVOM7awDZady8ibjnIgWTjBhGKmce/zl49XcZ4JTdn3Zg5LUd5BSiJ6nh7Z
-BuMGN51Z0fzZROqwmJUV7RiTfO2XXlEGadzC7E/tqCUq0brDJp2C1Dvlxh5TebHG0GHHDQzoHZBP
-7jsn3F+NOmFUZrws8yAAyuBQ3d4j5uZ9JIW3RABHtDo75q0BxIhPtfhMFsFRkgUxRJUWymrhZA3N
-QN68lsvQQClRWrTQZGsfBi2RCxvPhzx/CQSEs2OvruB46XugOUt9wIAANwYvdLjDPFwceaEgtIGk
-b3u8TKJyF+LzxYDMnh81pgm704IO2H8VJbbgEdfPhFmJKwyUKJFODrg1HxY+yfiAHuxQXxaG/iXZ
-bVi33V4m7aGiYMePQ1az0YnnfHAP9M9RjqDSfTahjtaaZZDaGiw+QELnVcBNju3MBC7nKl7xne9+
-KzqHo0lXSubZ/mgfKiFnULZWAdpF0iXt045eKx72lR536xTDdBPT3iTvQh00ucBhQrK0elXT6SOY
-A+gN0uCdG+ENIRRxfrkHnwvfLXaH72L2lPr8q0qxMqvlYSP494gdIosPZ6+Y+IG/Ga4hJU466AF7
-O8DIxUC0VpOpXE8Ibe9f7QKH+NRrnYHxpO6TfIv/S4hWkV+m54zlnJaY8JU+A3xi/VNKeC9w7B9O
-yi5cN4TgkhZvWK6ka1nSbI65PrGUnMbY9mQ1TiWtDqD2igIZiXBR2C6q1Vb+OfTLByR6YQgh3XQc
-f7aFUiR4rHdiQqUW+86omEmZReRWp9txDC4AdGxlJ8r6XOGDNfJ/WSvR7xlvqy5cxkSWW7GIBL8t
-1sQ+kWa7ObJ/E0tekSubyFlFC3d9E941Y2JGnjrFSGoXBQCVjwm6A5FaXXXlDpJU/UdkFWuqxHZo
-90RgtFojbZviAdWWCN20eExrad/X/NcNCtlFSuFQz2js306026rJv7+67wbCdsnow8DplOtcbrrM
-/PJb4fB6vYMnHdrV1ZSVQllRg7nCP0I1oG7af9wd/lWjexvg0ky/j63a88kLT/xJ7uzmbfN1CUZ8
-khKoNPLaWakd4AUkYmaAHlaY+8WSWJ/LIRYsWDKnxMJWcUbqyyb+V6lw4raVpgEjEFTb/RR5K7vH
-VDDyzadgckUVp28rgom0zLBxbqS+qWZpm8Fei70KwZaJmUhQ4qkwli5YLW8wjKFD/+k0ZjwtiSXQ
-VqX4S0hLA5yP8OMztEIiLeKUjXY88X58N2MHmUAFHQ1YOOhtOtSjw38XRxArBsKJerxKeOuWhJIu
-SrAS80==
+<?php
+
+namespace Xentral\Modules\SuperSearch\SearchIndex\Provider;
+
+use DateTimeInterface;
+use Xentral\Components\Database\SqlQuery\SelectQuery;
+use Xentral\Modules\SuperSearch\SearchIndex\Data\IndexData;
+use Xentral\Modules\SuperSearch\SearchIndex\Data\IndexIdentifier;
+use Xentral\Modules\SuperSearch\SearchIndex\Data\IndexItem;
+
+final class CreditNoteProvider extends AbstractBulkIndexDatabaseProvider
+{
+    /**
+     * @inheritDoc
+     */
+    public function getModuleName()
+    {
+        return 'gutschrift';
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getIndexName()
+    {
+        return 'creditnotes';
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getIndexTitle()
+    {
+        return 'Gutschriften';
+    }
+
+    /**
+     * @inheritDoc
+     */
+    protected function configureBaseQuery(SelectQuery $query)
+    {
+        $query
+            ->cols([
+                'gs.id',
+                'gs.projekt',
+                'gs.status',
+                'gs.datum',
+                'gs.belegnr',
+                'gs.rechnung',
+                'gs.name',
+                'gs.kundennummer',
+                'gs.internebemerkung',
+                'gs.ihrebestellnummer',
+                'gs.soll',
+                'gs.zahlungsstatus',
+                'gs.waehrung',
+            ])
+            ->from('gutschrift AS gs')
+            ->where('gs.belegnr != ?', '');
+    }
+
+    /**
+     * @inheritDoc
+     */
+    protected function configureItemQuery(SelectQuery $baseQuery, $indexId)
+    {
+        $baseQuery->where('gs.id = ?', (int)$indexId);
+    }
+
+    /**
+     * @inheritDoc
+     */
+    protected function configureCountQuery(SelectQuery $baseQuery)
+    {
+        $baseQuery->cols(['COUNT(gs.id)' => 'total_count']);
+    }
+
+    /**
+     * @inheritDoc
+     */
+    protected function configureSinceQuery(SelectQuery $baseQuery, DateTimeInterface $since)
+    {
+        $baseQuery->where('gs.logdatei > ?', $since->format('Y-m-d H:m:i'));
+    }
+
+    /**
+     * @inheritDoc
+     */
+    protected function getRowFormatter()
+    {
+        return static function (array $row) {
+
+            $projectId = (int)$row['projekt'];
+            $rechnungsDatum = date('d.m.Y', strtotime($row['datum']));
+            $title = $row['belegnr'];
+            $link = sprintf('index.php?module=gutschrift&action=edit&id=%d', $row['id']);
+
+            $data = new IndexData($title, $link, $projectId);
+            $data->setSubTitle($row['name']);
+            $data->addAdditionalInfo($rechnungsDatum);
+            $data->addAdditionalInfo(ucfirst($row['status']));
+            $data->addAdditionalInfo(sprintf('%s %s', number_format($row['soll'], 2, ',', '.'), $row['waehrung']));
+
+            $data->addSearchWord('gutschrift');
+            $data->addSearchWord($row['belegnr']);
+            $data->addSearchWord($row['rechnung']);
+            $data->addSearchWord($row['status']);
+            $data->addSearchWord($row['name']);
+            $data->addSearchWord($row['kundennummer']);
+            $data->addSearchWord($row['internebemerkung']);
+            $data->addSearchWord($row['ihrebestellnummer']);
+
+            $identifier = new IndexIdentifier('creditnotes', (int)$row['id']);
+
+            return new IndexItem($identifier, $data);
+        };
+    }
+}

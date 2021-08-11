@@ -8,6 +8,8 @@
 */
 ?>
 <?php
+use Xentral\Components\Http\RedirectResponse;
+
 include '_gen/exportvorlage.php';
 
 class Exportvorlage extends GenExportvorlage {
@@ -752,16 +754,6 @@ ean;';
 
   public function generateExport($xls, $sql, $exporterstezeilenummer, $exportdatenmaskierung, $exporttrennzeichen, $ziel, $returnResultByFunction = false, $maxMemory = 0, $maxTime = 0)
   {
-    if(!$returnResultByFunction) {
-      if($xls)
-      {
-        header('Content-Type: application/excel');
-        header('Content-Disposition: attachment; filename="export.csv"');
-      }else{
-        header('Content-Type: text/plain;');
-        header('Content-Disposition: attachment; filename=export.csv');
-      }
-    }
     $returnValue = '';
 
     $limit = 10000;
@@ -780,7 +772,10 @@ ean;';
       }
 
       $query = $this->app->DB->Query($workingQuery);
-
+      if($offset === 0 && !$returnResultByFunction) {
+        $this->locateBackOnSqlError();
+        $this->addHeader(!empty($xls));
+      }
       if(!$firstLinePassed && $exporterstezeilenummer=='1') {
         foreach($this->app->DB->Fetch_Assoc($query) as $value=>$tmp)
         {
@@ -1646,4 +1641,26 @@ ean;';
     $this->app->Tpl->Add('ERGEBNIS','</tr>');
   }
 
+  protected function addHeader(bool $xls): void
+  {
+    if($xls){
+      header('Content-Type: application/excel');
+      header('Content-Disposition: attachment; filename="export.csv"');
+    }else{
+      header('Content-Type: text/plain;');
+      header('Content-Disposition: attachment; filename=export.csv');
+    }
+  }
+
+  protected function locateBackOnSqlError(): void
+  {
+    $error = $this->app->DB->error();
+    if(empty($error)) {
+      return;
+    }
+    $id = $this->app->Secure->GetGET('id');
+    $msg = $this->app->erp->base64_url_encode("<div class=\"error\">SQL-Error: " . htmlspecialchars($error) . "</div>");
+    (RedirectResponse::createFromUrl("index.php?module=exportvorlage&action=edit&id={$id}&msg={$msg}"))->send();
+    $this->app->ExitXentral();
+  }
 }

@@ -1,38 +1,55 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-CAmA
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\TimeManagement\Service;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\TimeManagement\Data\WorkDayData;
+use Xentral\Modules\TimeManagement\Exception\InvalidQueryException;
+
+final class TimeManagementSettingGateway
+{
+
+    /** @var Database $db */
+    private $db;
+
+    /**
+     * @param Database $db
+     */
+    public function __construct(Database $db)
+    {
+        $this->db = $db;
+    }
+
+    /**
+     * @param int $addressId
+     *
+     * @throws InvalidQueryException
+     *
+     * @return WorkDayData
+     */
+    public function getWorkingDaysForAddress(int $addressId): WorkDayData
+    {
+        $sql =
+            'SELECT
+            e.vorlagemo > 0 AS `is_monday_workday`, 
+            e.vorlagedi > 0 AS `is_tuesday_workday`, 
+            e.vorlagemi > 0 AS `is_wednesday_workday`, 
+            e.vorlagedo > 0 AS `is_thursday_workday`, 
+            e.vorlagefr > 0 AS `is_friday_workday`, 
+            e.vorlagesa > 0 AS `is_saturday_workday`, 
+            e.vorlageso > 0 AS `is_sunday_workday`
+            FROM `mitarbeiterzeiterfassung_einstellungen` AS `e`
+            WHERE e.adresse = :address_id
+            ORDER BY e.id DESC
+            LIMIT 1';
+
+        $result = $this->db->fetchRow($sql, ['address_id' => $addressId]);
+        if (empty($result)) {
+            throw new InvalidQueryException('Address is not valid: ' . $addressId);
+        }
+
+        return WorkDayData::fromDbState($result);
+    }
+}

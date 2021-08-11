@@ -1,73 +1,80 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-+gxRfHSDiDupGE9hmawTvB8XJxvtDu8H
+<?php
+declare(strict_types=1);
+
+namespace Xentral\Modules\Report;
+
+use Xentral\Components\Exporter\Csv\CsvConfig;
+use Xentral\Components\Exporter\Csv\CsvExporter;
+use Xentral\Components\Exporter\Csv\CsvWriter;
+use Xentral\Modules\Report\Data\ReportData;
+
+class ReportCsvExportService extends AbstractReportExportService
+{
+    /** @var string $fileExtension */
+    protected $fileExtension = 'csv';
+
+    /**
+     * @param ReportData $report
+     * @param array      $parameterValues
+     * @param string     $filename
+     *
+     * @return string
+     */
+    public function createCsvFileFromReport(ReportData $report, $parameterValues = [], $filename = '')
+    {
+        $filename = $this->generateFileName($report, $filename);
+        $defaultHeaders = [];
+        $headersKeyMap = [];
+        foreach ($report->getColumns() as $column) {
+            $defaultHeaders[] = $column->getTitle();
+            $headersKeyMap[$column->getKey()] = $column->getTitle();
+        }
+        $delimiter = $report->getCsvDelimiter();
+        if ($delimiter === '') {
+            $delimiter = null;
+        }
+        $enclosure = $report->getCsvEnclosure();
+        if ($enclosure === '') {
+            $enclosure = null;
+        }
+        $csvConfig = new CsvConfig(
+            $delimiter,
+            $enclosure,
+            null,
+            null,
+            null,
+            true
+        );
+        $filePath = $this->genereateFilePath($filename);
+        $resource = @fopen($filePath, 'x+b');
+        $writer = new CsvWriter($resource,$csvConfig);
+        $prepareHeaderLine = true;
+        foreach ($this->db->yieldAll($this->service->resolveParameters($report, $parameterValues), []) as $row) {
+            if($prepareHeaderLine){
+                $this->writeHeaderLine($writer, $row, $defaultHeaders ,$headersKeyMap);
+                $prepareHeaderLine = false;
+            }
+            $writer->writeLine($row);
+        }
+        fclose($resource);
+
+        return $filePath;
+    }
+
+    /**
+     * @param CsvWriter $writer
+     * @param array     $row
+     * @param array     $headers
+     * @param array     $headersKeyMap
+     */
+    protected function writeHeaderLine(CsvWriter $writer, array $row, array $headers, array $headersKeyMap): void
+    {
+        if (count($row) > 0) {
+            $headers = [];
+            foreach ($row as $columnName => $value) {
+                $headers[] = $headersKeyMap[$columnName];
+            }
+        }
+        $writer->writeLine($headers);
+    }
+}

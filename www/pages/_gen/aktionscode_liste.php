@@ -1,53 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-zaw8n8EFJEHhuX/bgf7GWr0=
+<?php 
+
+class GenAktionscode_Liste { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","Aktionscode_ListeCreate");
+    $this->app->ActionHandler("edit","Aktionscode_ListeEdit");
+    $this->app->ActionHandler("copy","Aktionscode_ListeCopy");
+    $this->app->ActionHandler("list","Aktionscode_ListeList");
+    $this->app->ActionHandler("delete","Aktionscode_ListeDelete");
+
+    $this->app->Tpl->Set('HEADING',"Aktionscode_Liste");    $this->app->ActionHandlerListen($app);
+  }
+
+  function Aktionscode_ListeCreate(){
+    $this->app->Tpl->Set('HEADING',"Aktionscode_Liste (Anlegen)");
+      $this->app->PageBuilder->CreateGen("aktionscode_liste_create.tpl");
+  }
+
+  function Aktionscode_ListeEdit(){
+    $this->app->Tpl->Set('HEADING',"Aktionscode_Liste (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("aktionscode_liste_edit.tpl");
+  }
+
+  function Aktionscode_ListeCopy(){
+    $this->app->Tpl->Set('HEADING',"Aktionscode_Liste (Kopieren)");
+      $this->app->PageBuilder->CreateGen("aktionscode_liste_copy.tpl");
+  }
+
+  function Aktionscode_ListeDelete(){
+    $this->app->Tpl->Set('HEADING',"Aktionscode_Liste (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("aktionscode_liste_delete.tpl");
+  }
+
+  function Aktionscode_ListeList(){
+    $this->app->Tpl->Set('HEADING',"Aktionscode_Liste (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("aktionscode_liste_list.tpl");
+  }
+
+} 
+?>

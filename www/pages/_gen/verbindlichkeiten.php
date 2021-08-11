@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-sQjk0BLWcU+G
+<?php 
+
+class GenVerbindlichkeiten { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","VerbindlichkeitenCreate");
+    $this->app->ActionHandler("edit","VerbindlichkeitenEdit");
+    $this->app->ActionHandler("copy","VerbindlichkeitenCopy");
+    $this->app->ActionHandler("list","VerbindlichkeitenList");
+    $this->app->ActionHandler("delete","VerbindlichkeitenDelete");
+
+    $this->app->Tpl->Set("HEADING","Verbindlichkeiten");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function VerbindlichkeitenCreate(){
+    $this->app->Tpl->Set("HEADING","Verbindlichkeiten (Anlegen)");
+      $this->app->PageBuilder->CreateGen("verbindlichkeiten_create.tpl");
+  }
+
+  function VerbindlichkeitenEdit(){
+    $this->app->Tpl->Set("HEADING","Verbindlichkeiten (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("verbindlichkeiten_edit.tpl");
+  }
+
+  function VerbindlichkeitenCopy(){
+    $this->app->Tpl->Set("HEADING","Verbindlichkeiten (Kopieren)");
+      $this->app->PageBuilder->CreateGen("verbindlichkeiten_copy.tpl");
+  }
+
+  function VerbindlichkeitenDelete(){
+    $this->app->Tpl->Set("HEADING","Verbindlichkeiten (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("verbindlichkeiten_delete.tpl");
+  }
+
+  function VerbindlichkeitenList(){
+    $this->app->Tpl->Set("HEADING","Verbindlichkeiten (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("verbindlichkeiten_list.tpl");
+  }
+
+} 
+?>

@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-54tt3cswmAAvcAk1
+<?php 
+
+class GenWawisioneinrichtung { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","WawisioneinrichtungCreate");
+    $this->app->ActionHandler("edit","WawisioneinrichtungEdit");
+    $this->app->ActionHandler("copy","WawisioneinrichtungCopy");
+    $this->app->ActionHandler("list","WawisioneinrichtungList");
+    $this->app->ActionHandler("delete","WawisioneinrichtungDelete");
+
+    $this->app->Tpl->Set("HEADING","Wawisioneinrichtung");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function WawisioneinrichtungCreate(){
+    $this->app->Tpl->Set("HEADING","Wawisioneinrichtung (Anlegen)");
+      $this->app->PageBuilder->CreateGen("wawisioneinrichtung_create.tpl");
+  }
+
+  function WawisioneinrichtungEdit(){
+    $this->app->Tpl->Set("HEADING","Wawisioneinrichtung (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("wawisioneinrichtung_edit.tpl");
+  }
+
+  function WawisioneinrichtungCopy(){
+    $this->app->Tpl->Set("HEADING","Wawisioneinrichtung (Kopieren)");
+      $this->app->PageBuilder->CreateGen("wawisioneinrichtung_copy.tpl");
+  }
+
+  function WawisioneinrichtungDelete(){
+    $this->app->Tpl->Set("HEADING","Wawisioneinrichtung (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("wawisioneinrichtung_delete.tpl");
+  }
+
+  function WawisioneinrichtungList(){
+    $this->app->Tpl->Set("HEADING","Wawisioneinrichtung (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("wawisioneinrichtung_list.tpl");
+  }
+
+} 
+?>

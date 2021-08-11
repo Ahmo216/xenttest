@@ -1,73 +1,77 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php
+include ("_gen/artikeleinheit.php");
+
+class Artikeleinheit extends GenArtikeleinheit {
+  var $app;
+  
+  function __construct(&$app) {
+    //parent::GenArtikeleinheit($app);
+    $this->app=&$app;
+
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","ArtikeleinheitCreate");
+    $this->app->ActionHandler("edit","ArtikeleinheitEdit");
+   	$this->app->ActionHandler("list","ArtikeleinheitList");
+   	$this->app->ActionHandler("delete","ArtikeleinheitDelete");
+
+    $this->app->ActionHandlerListen($app);
+  }
+
+
+  function ArtikeleinheitCreate()
+  {
+    $this->ArtikeleinheitMenu();
+    parent::ArtikeleinheitCreate();
+  }
+
+	function ArtikeleinheitDelete()
+	{
+		$id = $this->app->Secure->GetGET("id");
+		if(is_numeric($id))
+		{
+			$this->app->DB->Delete("DELETE FROM artikeleinheit WHERE id='$id'");
+		}
+
+		$this->ArtikeleinheitList();
+	}
+
+
+  function ArtikeleinheitList()
+  {
+    $this->ArtikeleinheitMenu();
+    parent::ArtikeleinheitList();
+  }
+
+  function ArtikeleinheitMenu()
+  {
+    $id = (int)$this->app->Secure->GetGET("id");
+    $this->app->erp->MenuEintrag("index.php?module=artikeleinheit&action=create","Neu");
+    if($this->app->Secure->GetGET("action")=="list")
+      $this->app->erp->MenuEintrag("index.php?module=artikeleinheit&action=list","&Uuml;bersicht");  
+    if($this->app->Secure->GetGET("action")=="list")
+    $this->app->erp->MenuEintrag("index.php?module=einstellungen&action=list","Zur&uuml;ck zur &Uuml;bersicht");
+    else
+    $this->app->erp->MenuEintrag("index.php?module=artikeleinheit&action=list","Zur&uuml;ck zur &Uuml;bersicht");
+  }
+
+  function ArtikeleinheitEdit()
+  {
+    $this->ArtikeleinheitMenu();
+    parent::ArtikeleinheitEdit();
+  }
+
+
+
+
+
+}

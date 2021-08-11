@@ -1,74 +1,107 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\SystemMailer\Service;
+
+use Xentral\Components\Database\Database;
+use Xentral\Components\Mailer\Data\EmailMessage;
+use Xentral\Modules\SystemMailer\Data\MailAccountInterface;
+
+final class MailLogService
+{
+    /** @var int LOGTYPE_DEFAULT */
+    const LOGTYPE_DEFAULT = 0;
+
+    /** @var int LOGTYPE_CC */
+    const LOGTYPE_CC = 1;
+
+    /** @var int LOGTYPE_BCC */
+    const LOGTYPE_BCC = 2;
+
+    /** @var Database $db */
+    private $db;
+
+    /**
+     * @param Database $database
+     */
+    public function __construct(Database $database)
+    {
+        $this->db = $database;
+    }
+
+    /**
+     * @param EmailMessage         $email
+     * @param MailAccountInterface $account
+     * @param string               $status
+     *
+     * @return void
+     */
+    public function logOutgoingMail(EmailMessage $email, MailAccountInterface $account, $status):void
+    {
+        $status .= sprintf(
+            ' (Host:%s User: %s)',
+            $account->getServerAddress(),
+            $account->getUsername()
+        );
+        $insert = $this->db->insert();
+        $insert->into('mailausgang');
+        foreach ($email->getRecipients() as $recipient) {
+            $insert->addRow()
+                ->cols(
+                    [
+                        'subject' => $email->getSubject(),
+                        'body'    => $email->getBody(),
+                        'from'    => $account->getSenderEmailAddress(),
+                        'to'      => (string)$recipient,
+                        'status'  => $status,
+                        'art'     => self::LOGTYPE_DEFAULT,
+                    ]
+                )
+                ->set('zeit', 'NOW()');
+        }
+        foreach ($email->getCcRecipients() as $recipient) {
+            $insert->addRow()
+                ->cols(
+                    [
+                        'subject' => $email->getSubject(),
+                        'body'    => $email->getBody(),
+                        'from'    => $account->getSenderEmailAddress(),
+                        'to'      => (string)$recipient,
+                        'status'  => $status,
+                        'art'     => self::LOGTYPE_CC,
+                    ]
+                )
+                ->set('zeit', 'NOW()');
+        }
+        foreach ($email->getBccRecipients() as $recipient) {
+            $insert->addRow()
+                ->cols(
+                    [
+                        'subject' => $email->getSubject(),
+                        'body'    => $email->getBody(),
+                        'from'    => $account->getSenderEmailAddress(),
+                        'to'      => (string)$recipient,
+                        'status'  => $status,
+                        'art'     => self::LOGTYPE_BCC,
+                    ]
+                )
+                ->set('zeit', 'NOW()');
+        }
+
+        $sql = $insert->getStatement();
+        $values = $insert->getBindValues();
+
+        $this->db->perform($sql, $values);
+    }
+
+    /**
+     * @param int $days
+     *
+     * @return int
+     */
+    public function deleteLogsOlderThan(int $days = 90):int
+    {
+        $sql = 'DELETE FROM `mailausgang` WHERE DATE_SUB(CURDATE(), INTERVAL :dayInterval DAY) >= zeit';
+
+        return $this->db->fetchAffected($sql, ['dayInterval' => $days]);
+    }
+}

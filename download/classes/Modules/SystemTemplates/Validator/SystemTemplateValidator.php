@@ -1,36 +1,58 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-lBTuqaYBiis/0sk4/eOzj+m5klm=
+<?php
+
+
+namespace Xentral\Modules\SystemTemplates\Validator;
+
+
+use Xentral\Modules\SystemTemplates\Validator\Exception\SystemTemplateValidatorException;
+
+final class SystemTemplateValidator
+{
+
+    /** @var SystemTemplateValidatorInterface $validator */
+    private $validator;
+
+
+    /**
+     * SystemTemplateValidator constructor.
+     *
+     * @param SystemTemplateValidatorInterface $validator
+     */
+    public function __construct(SystemTemplateValidatorInterface $validator)
+    {
+        $this->validator = $validator;
+    }
+
+    /**
+     * @param array $data
+     *
+     * @return SystemTemplateValidator
+     */
+    public function fromMeta($data = [])
+    {
+        $this->validator->setData($data);
+
+        return $this;
+    }
+
+    /**
+     * @param string|null $validateConfig
+     *
+     * @throws SystemTemplateValidatorException
+     * @return bool
+     */
+    public function isValid($validateConfig = null)
+    {
+        $this->validator->applyRules($validateConfig);
+
+        return $this->validator->isValid($validateConfig);
+    }
+
+    /**
+     * @return array
+     */
+    public function getErrors()
+    {
+        return $this->validator->getErrors();
+    }
+}

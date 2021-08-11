@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-CmZErGs4Y5rrrB0+Igmz
+<?php
+
+namespace Xentral\Components\Logger\Exception;
+
+use RuntimeException;
+
+class InvalidArgumentException extends RuntimeException implements LoggerExceptionInterface
+{
+}

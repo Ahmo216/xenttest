@@ -1,36 +1,66 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\Logger\Context;
+
+final class Invocation
+{
+    /**  @var string $class */
+    private $class;
+
+    /** @var string $function */
+    private $function;
+
+    /** @var int $line */
+    private $line;
+
+    /** @var string $file */
+    private $file;
+
+    /**
+     * @param string $file
+     * @param string $function
+     * @param int    $line
+     * @param string $class
+     */
+    public function __construct(string $class, string $function, int $line, string $file)
+    {
+        $this->class = $class;
+        $this->function = $function;
+        $this->line = $line;
+        $this->file = $file;
+    }
+
+    /**
+     * @return string
+     */
+    public function getClass(): string
+    {
+        return $this->class;
+    }
+
+    /**
+     * @return string
+     */
+    public function getFunction(): string
+    {
+        return $this->function;
+    }
+
+    /**
+     * @return int
+     */
+    public function getLine(): int
+    {
+        return $this->line;
+    }
+
+    /**
+     * @return string
+     */
+    public function getFile(): string
+    {
+        return $this->file;
+    }
+}

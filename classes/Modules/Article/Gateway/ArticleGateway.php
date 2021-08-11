@@ -1,126 +1,349 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Article\Gateway;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Article\Exception\InvalidArgumentException;
+use Xentral\Modules\Article\Exception\SellingPriceNotFoundException;
+
+final class ArticleGateway
+{
+    /** @var Database $db */
+    private $db;
+
+    /**
+     * @param Database $database
+     */
+    public function __construct(Database $database)
+    {
+        $this->db = $database;
+    }
+
+    /**
+     * @param int $articleId
+     *
+     * @return bool
+     */
+    public function isPartsListArticle($articleId)
+    {
+        $this->ensureArticleId($articleId);
+
+        $isPartsList = $this->db->fetchValue(
+            'SELECT a.stueckliste FROM artikel AS a WHERE a.id = :article_id',
+            ['article_id' => (int)$articleId]
+        );
+
+        return (int)$isPartsList === 1;
+    }
+
+    /**
+     * @param $sellingPriceId
+     *
+     * @throws SellingPriceNotFoundException
+     * @return array
+     */
+    public function getSellingPriceById($sellingPriceId)
+    {
+        $this->ensurePriceId($sellingPriceId);
+        $sellingPrice = $this->db->fetchRow(
+            'SELECT sp.`id`, sp.`preis` AS `price`, sp.`waehrung` AS `currency`, sp.`ab_menge` AS `quantity_from`, 
+                sp.gueltig_bis AS `valid_to`, sp.gruppe AS `price_group_id`, sp.`art` AS `price_type`, 
+                sp.adresse AS `address_id` 
+            FROM verkaufspreise  AS sp
+            WHERE sp.id = :id',
+            ['id' => $sellingPriceId]
+        );
+        if (empty($sellingPrice)) {
+            throw new SellingPriceNotFoundException('Sellingprice not found: ID' . $sellingPriceId);
+        }
+
+        return $sellingPrice;
+    }
+
+    /**
+     * @param int   $articleId
+     * @param float $quantityFrom
+     *
+     * @return array
+     */
+    public function findLastStandardSellingPrice($articleId, $quantityFrom = 0.0)
+    {
+        $this->ensureArticleId($articleId);
+
+        return $this->db->fetchRow(
+            "SELECT sp.`id`, sp.`preis` AS `price`, sp.`waehrung` AS `currency`, sp.`ab_menge` AS `quantity_from`
+            FROM `verkaufspreise` AS sp
+            WHERE sp.`artikel` = :article_id 
+            AND (
+                sp.`gueltig_bis` >= CURDATE() 
+                OR IFNULL(sp.`gueltig_bis`, '0000-00-00') = '0000-00-00'
+            )
+            AND sp.`adresse` = 0 AND sp.`art` <> 'preisgruppe' 
+            AND sp.`ab_menge` = :quantity_from
+            ORDER BY sp.`id` DESC
+            LIMIT 1",
+            [
+                'article_id'    => (int)$articleId,
+                'quantity_from' => (float)$quantityFrom,
+            ]
+        );
+    }
+
+    /**
+     * @param int   $aricleId
+     * @param int   $currencyCode
+     * @param float $quantityFrom
+     *
+     * @return array
+     */
+    public function findLastStandardSellingPriceByCurrency($aricleId, $currencyCode, $quantityFrom = 0.0)
+    {
+        return [];
+    }
+
+    /**
+     * @param int   $aricleId
+     * @param int   $currencyCode
+     * @param float $quantityFrom
+     *
+     * @return array
+     */
+    public function findMinimumStandardSellingPriceByCurrency($aricleId, $currencyCode, $quantityFrom = 0.0)
+    {
+        return [];
+    }
+
+    /**
+     * @param int   $articleId
+     * @param float $quantityFrom
+     *
+     * @return array
+     */
+    public function findStandardSellingPrices($articleId, $quantityFrom = 0.0)
+    {
+        $this->ensureArticleId($articleId);
+
+        return $this->db->fetchAll(
+            "SELECT sp.`id`, sp.`preis` AS `price`, sp.`waehrung` AS `currency`, sp.`ab_menge` AS `quantity_from` 
+            FROM `verkaufspreise` AS sp 
+            WHERE sp.`artikel` = :article_id 
+                AND (
+                    sp.`gueltig_bis` >= CURDATE() 
+                    OR IFNULL(sp.`gueltig_bis`, '0000-00-00') = '0000-00-00'
+                )
+                AND sp.`adresse` = 0 AND sp.`art` <> 'preisgruppe' 
+                AND sp.`ab_menge` = :quantity_from
+            ORDER BY sp.`ab_menge`, sp.`preis`",
+            [
+                'article_id'    => (int)$articleId,
+                'quantity_from' => (float)$quantityFrom,
+            ]
+        );
+    }
+
+    /**
+     * @param int   $articleId
+     * @param int   $addressId
+     * @param float $quantityFrom
+     *
+     * @return array
+     */
+    public function findLastCustomerSellingPrice($articleId, $addressId, $quantityFrom = 0.0)
+    {
+        $this->ensureArticleId($articleId);
+
+        return $this->db->fetchRow(
+            "SELECT sp.`id`, sp.`preis` AS `price`, sp.`waehrung` AS `currency`, sp.`ab_menge` AS `quantity_from`
+            FROM `verkaufspreise` AS sp
+            WHERE sp.`artikel` = :article_id 
+                AND 
+                (
+                    sp.`gueltig_bis` >= CURDATE() 
+                    OR IFNULL(sp.`gueltig_bis`, '0000-00-00') = '0000-00-00'
+                )
+                AND sp.`adresse` = :address_id AND sp.`art` <> 'preisgruppe' 
+                AND ab_menge = :quantity_from
+            ORDER BY sp.`id` DESC
+            LIMIT 1",
+            [
+                'address_id'    => (int)$addressId,
+                'article_id'    => (int)$articleId,
+                'quantity_from' => (float)$quantityFrom,
+            ]
+        );
+    }
+
+    /**
+     * @param int   $articleId
+     * @param int   $addressId
+     * @param float $quantityFrom
+     *
+     * @return array
+     */
+    public function findCustomerSellingPrices($articleId, $addressId, $quantityFrom = 0.0)
+    {
+        $this->ensureArticleId($articleId);
+
+        return $this->db->fetchAll(
+            "SELECT sp.`id`, sp.`preis` AS `price`, sp.`waehrung` AS `currency`, sp.`ab_menge` AS `quantity_from`
+            FROM `verkaufspreise` AS sp
+            WHERE sp.`artikel` = :article_id 
+                AND 
+                (
+                    sp.`gueltig_bis` >= CURDATE() 
+                    OR IFNULL(sp.`gueltig_bis`, '0000-00-00') = '0000-00-00'
+                )
+                AND sp.`adresse` = :address_id AND sp.`art` <> 'preisgruppe'
+                AND sp.`ab_menge` >= :quantity_from
+            ORDER BY sp.`ab_menge`, sp.`preis`",
+            [
+                'address_id'    => (int)$addressId,
+                'article_id'    => (int)$articleId,
+                'quantity_from' => (float)$quantityFrom,
+            ]
+        );
+    }
+
+    /**
+     * @param int   $articleId
+     * @param int   $groupId
+     * @param float $quantityFrom
+     *
+     * @return array
+     */
+    public function findGroupSellingPrices($articleId, $groupId, $quantityFrom = 0.0)
+    {
+        $this->ensureArticleId($articleId);
+
+        return $this->db->fetchAll(
+            "SELECT sp.`id`, sp.`preis` AS `price`, sp.`waehrung` AS `currency`, sp.`ab_menge` AS `quantity_from`
+            FROM `verkaufspreise` AS sp
+            WHERE sp.`artikel` = :article_id 
+                AND 
+                (
+                    sp.`gueltig_bis` >= CURDATE() 
+                    OR  IFNULL(sp.`gueltig_bis`, '0000-00-00') = '0000-00-00'
+                )  
+                AND sp.gruppe = :group_id AND sp.`gruppe` = 0 AND sp.`art` = 'preisgruppe'
+                AND sp.`ab_menge` >= :quantity_from
+            ORDER BY sp.`ab_menge`, sp.`preis`",
+            [
+                'group_id'      => (int)$groupId,
+                'article_id'    => (int)$articleId,
+                'quantity_from' => (float)$quantityFrom,
+            ]
+        );
+    }
+
+    public function findMinimumGroupSellingPriceByCurrency(
+        $aricleId,
+        $sellingGroupId,
+        $currencyCode,
+        $quantityFrom = 0.0
+    ) {
+    }
+
+    public function findStandardSellingPricesCollectionByArticleIds($articleIds, $quantityFrom = 0.0)
+    {
+    }
+
+    /**
+     * Finds an article-ID by searching in numbers, eans, manufacturing numbers and foreign numbers.
+     * Especially for scannable articles
+     *
+     * @param string $number
+     *
+     * @return array
+     */
+    public function findScannableArticle($number)
+    {
+        $sql = 'SELECT a.id, a.name_de 
+        FROM `artikel` AS `a`
+        LEFT JOIN `artikelnummer_fremdnummern` AS `af` ON a.id = af.artikel AND af.aktiv = 1 AND af.scannable = 1
+        WHERE a.nummer=:number 
+        OR a.ean=:number 
+        OR a.herstellernummer=:number
+        OR af.nummer = :number LIMIT 1';
+
+        return $this->db->fetchRow($sql, ['number' => $number]);
+    }
+
+    /**
+     * Finds an uniqie Article-Id by serarching Serial numbers in Storages
+     *
+     * @param string $serialnumber
+     *
+     * @return array
+     */
+    public function findUniqueArticleBySerial($serialnumber)
+    {
+        $sql = "SELECT DISTINCT art.id, art.name_de
+            FROM `lager_seriennummern` AS `ls`
+            INNER JOIN `artikel` AS `art` 
+                ON ls.artikel = art.id AND art.geloescht <> 1 
+                       AND art.seriennummern <> '' AND art.seriennummern <> 'keine' 
+            WHERE ls.seriennummer <> '' AND ls.seriennummer = :number";
+
+        $result = $this->db->fetchAll($sql, ['number' => $serialnumber]);
+        if(count($result) !== 1) {
+            return [];
+        }
+
+        return array_pop($result);
+    }
+
+    /**
+     * Finds an article-ID by searching in numbers, eans, manufacturing numbers and foreign numbers.
+     * It must have a purchase price.
+     * Especially for scannable articles
+     *
+     * @param string $number
+     *
+     * @return array
+     */
+    public function findScannableOrderPurchaseArticle($number, $purchaseOrderId)
+    {
+        $sql = 'SELECT a.id, a.name_de 
+        FROM `artikel` AS `a`
+        LEFT JOIN `artikelnummer_fremdnummern` AS `af` ON a.id = af.artikel AND af.aktiv = 1 AND af.scannable = 1
+        INNER JOIN `einkaufspreise` ek ON ek.artikel = a.id
+        INNER JOIN `bestellung` b ON b.adresse = ek.adresse 
+        WHERE (
+            a.nummer=:number 
+            OR a.ean=:number 
+            OR a.herstellernummer=:number
+            OR af.nummer = :number
+        )
+        AND b.id=:purchaseOrderId LIMIT 1';
+
+        return $this->db->fetchRow($sql, ['number' => $number, 'purchaseOrderId' => $purchaseOrderId]);
+    }
+
+    /**
+     * @param int $articleId
+     *
+     * @throws InvalidArgumentException
+     */
+    private function ensureArticleId($articleId)
+    {
+        if (empty($articleId) || (int)$articleId < 0) {
+            throw new InvalidArgumentException(
+                'Required argument "articleId" is empty or invalid.'
+            );
+        }
+    }
+
+    /**
+     * @param int $sellingPriceId
+     *
+     * @throws InvalidArgumentException
+     */
+    private function ensurePriceId($sellingPriceId)
+    {
+        if (empty($sellingPriceId) || (int)$sellingPriceId < 0) {
+            throw new InvalidArgumentException(
+                'Required argument "SellingId" is empty or invalid.'
+            );
+        }
+    }
+}

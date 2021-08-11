@@ -21,16 +21,21 @@ final class ValidationResultErrorData
     /** @var string $message */
     private $message;
 
+    /** @var int $line */
+    private $line;
+
     /**
      * @param string $level
      * @param int    $code
      * @param string $message
+     * @param int    $line
      */
-    public function __construct(string $level, int $code, string $message)
+    public function __construct(string $level, int $code, string $message, int $line)
     {
         $this->level = $level;
         $this->code = $code;
         $this->message = $message;
+        $this->line = $line;
     }
 
     /**
@@ -55,5 +60,13 @@ final class ValidationResultErrorData
     public function getMessage(): string
     {
         return $this->message;
+    }
+
+    /**
+     * @return int
+     */
+    public function getLine(): int
+    {
+        return $this->line;
     }
 }

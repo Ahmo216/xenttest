@@ -1,223 +1,446 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-4Tcy6OqrGvTELg5r9jSaAubwgKoXNJ8=
+<?php
+
+  class StringCleaner
+  {
+    private $elements;
+    private $htmlpuriferconfig;
+    private $htmlpurifer;
+    private $ruleregexps;
+    /** @var Application */
+    private $app;
+
+    /**
+     * StringCleaner constructor.
+     *
+     * @param null|Application $app
+     */
+    public function __construct($app = null)
+    {
+      $this->app = $app;
+      if(class_exists('HTMLPurifier_Config')) {
+        $this->htmlpuriferconfig = HTMLPurifier_Config::createDefault();
+        $this->htmlpuriferconfig->set('Core.Encoding', 'UTF-8');
+        $this->htmlpuriferconfig->set('Attr.AllowedFrameTargets', ['_blank']); // Allow hyperlinks with target="_blank"
+        //$this->htmlpuriferconfig->set('HTML.AllowedElements', 'h1,h2,h3,h4,h5,h6,p,a,strong,em,ol,ul,li,img,param,div,br,form,label,fieldset,input,textarea,select,option');
+        $this->htmlpurifer = new HTMLPurifier($this->htmlpuriferconfig);
+      }
+      $this->elements = array('nohtml'=> array('ust_befreit','abweichendelieferadresse','bestellungsart','bearbeiter','datum','lieferdatum','name','anrede','partner','packstation_inhaber','packstation_station','packstation_ident','packstation_plz','packstation_ort','partnerid','kennen','ihrebestellnummer'
+                                        ,'abteilung','unterabteilung','ansprechpartner','adresszusatz','strasse','land','bundesstaat','plz','ort','versandart','internet','transaktionsnummer','vertrieb','zahlungsweise'
+                                        ,'lieferabteilung','lieferunterabteilung','lieferansprechpartner','lieferadresszusatz','lieferstrasse','lieferland','lieferbundesstaat','lieferplz','lieferort'
+                                        ,'bank_inhaber','bank_institut','bank_blz','bank_konto'
+                                        ,'email','telefon','telefax','ustid','partner','projekt','herstellernummer','ean','nummer','name_de','name_ean'),
+                          'nojs' => array('anabregstext','anabregstext_en','uebersicht_de','uebersicht_en','kurztext_de','kurztext_en','internebemerkung','internebezeichnung','freitext'));
+
+      $this->rulechecks = array('digit'=>'/^[0-9]+$/'
+                               ,'alpha'=>'/^[a-zA-Z]+$/'
+                               ,'alphadigit'=>'/^[0-9a-zA-Z]+$/'
+                               ,'username'=>'/^[0-9a-zA-Z\.\-]+$/'
+                               ,'space'=>'/^[\x20]+$/'
+                               ,'module'=>'/^[0-9a-zA-Z\_]$/'
+                               ,'password'=>'/^[^\s\n]{1}[^\n]{5}.*$/'
+                               ,'email'=>'/^[^@\s\x00-\x20]+@[^@\s\x00-\x20\.]+\.[^@\s\x00-\x20\.]+[^@\s\x00-\x20]*$/'
+                               );
+
+      $this->ruleregexps = array(
+                                 'digit'=>'/[^0-9]/'
+                                 ,'username'=>'/[^0-9a-zA-Z\.\-]/'
+                                 ,'alpha'=>'/[^a-zA-Z]/'
+                                 ,'alphadigits'=>'/[^0-9a-zA-Z]/'
+                                 ,'module'=>'/[^0-9a-zA-Z\_]/'
+                                 ,'moduleminus'=>'/[^0-9a-zA-Z\_\-]/'
+                                 ,'alphadigitsspecial'=>'/[^0-9a-zA-Z\_\.\(\)]/'
+                                 ,'base64'=>'/[^0-9a-zA-Z\=\+\-\_\/]/'
+                                );
+    }
+
+    function SyntaxByElement($key, $default = '')
+    {
+      foreach($this->elements as $type => $arr) {
+        if(in_array($key, $arr)) {
+          return $type;
+        }
+      }
+      return $default;
+    }
+
+    function CleanSQLReturn($value, $columnname, $default = '')
+    {
+      if($value == '' || is_numeric($value))
+      {
+        return $value;
+      }
+      if(in_array($columnname, array('nummer','name','kundennummer','bezeichnung','bezeichnunglieferant','lieferantennummer','mitarbeiternummer','name_de','name_en',
+                                     'kurzbezeichnung','abkuerzung',
+                                     'strasse','plz','ort','land','ansprechpartner','abteilung','unterabteilung',
+                                 'liefername','lieferstrasse','lieferplz','lieferort','lieferland','lieferansprechpartner','lieferabteilung','lieferunterabteilung'))){
+        return strip_tags($value);
+      }
+      if($default == 'xss_clean')
+      {
+        return $this->xss_clean($value, false);
+      }
+      if($this->htmlpurifer)
+      {
+        return $this->htmlpurifer->purify($value);
+      }
+      return $value;
+    }
+
+    function RuleCheck($string, $rule = null, &$found = false)
+    {
+      if(isset($this->rulechecks[$rule]))
+      {
+        $found = true;
+        return preg_match_all($this->rulechecks[$rule], $string, $dummy);
+      }
+      switch($rule)
+      {
+        case 'datum':
+          $found = true;
+
+          if(preg_match_all('/([0-9]+)\.([0-9]+)\.$/', $string, $matches))
+          {
+            $string = $matches[1][0].'.'.$matches[2][0].'.'.date('Y');
+          }
+
+          try {
+            if($x = new DateTime($string)) {
+              return $x->format('Y') > 0;
+            }
+          }
+          catch (Exception $e) {
+            return false;
+          }
+          return false;
+        break;
+      }
+    }
+
+    function CheckSQLHtml($sql)
+    {
+      $start = 0;
+      $len = strlen($sql);
+      $lvl = 0;
+      $col = 0;
+      $ret = array(0);
+      $instring = false;
+      for($i = $start; $i < $len; $i++)
+      {
+        $char = $sql[$i];
+        switch($char)
+        {
+          case "'":
+            if($instring)
+            {
+              if($sql[$i-1] != '\\')
+              {
+                $instring = false;
+              }
+            }else{
+              if($sql[$i-1] != '\\'){
+                $instring = true;
+              }
+            }
+          break;
+          case "(":
+            if($instring)
+            {
+
+            }else{
+              $lvl++;
+            }
+          break;
+          case ")":
+            if($instring)
+            {
+
+            }else{
+              $lvl--;
+            }
+          break;
+          case "<":
+            if($instring)
+            {
+              if(preg_match('/<[a-zA-Z]/',$char.$sql[$i+1]))
+              {
+                if($ret[$col] != 2)
+                {
+                  $ret[$col] = 1;
+                }
+              }
+            }
+          break;
+          case ',':
+            if($instring)
+            {
+
+            }else{
+              if($lvl == 0)
+              {
+                $col++;
+                $ret[$col] = 0;
+              }
+            }
+          break;
+          case 'o':
+          case 'O':
+            if($instring)
+            {
+              if($i < $len -4)
+              {
+                if(strtolower(substr($sql, $i, 2)) == 'on')
+                {
+                  if(preg_match('/^on[a-z]+(\s*)=/', substr($sql, $i)))
+                  {
+                    $ret[$col] = 2;
+                  }
+                }
+              }
+            }
+          break;
+          case 'F':
+          case 'f':
+            if($instring)
+            {
+
+            }else{
+              if($lvl == 0)
+              {
+                if($i < $len - 4)
+                {
+                  if(strtolower(substr($sql, $i, 4)) == 'from')
+                  {
+                    break 2;
+                  }
+                }
+              }
+            }
+          break;
+        }
+      }
+      $where = strripos($sql, 'where');
+      $restsql = substr($sql, $i, $where - $i);
+      if(preg_match('/<[a-zA-Z]/', $restsql))
+      {
+        if(preg_match('/on[a-z]+(\s*)=/',$restsql))
+        {
+          if($ret)
+          {
+            foreach($ret as $k => $v)
+            {
+              $ret[$k] = 2;
+            }
+          }
+        }else{
+          if($ret)
+          {
+            foreach($ret as $k => $v)
+            {
+              if($v != 2)
+              {
+                $ret[$k] = 1;
+              }
+            }
+          }
+        }
+      }
+      return $ret;
+    }
+
+    public function CleanString($string, $rule = null, &$found = false)
+    {
+      if(is_null($rule))
+      {
+        $rule = 'nothml';
+      }
+      switch($rule)
+      {
+        case 'email':
+          if($this->RuleCheck($string, $rule))
+          {
+            return $string;
+          }
+          return '';
+        break;
+        case 'nohtml':
+          $found = true;
+          if($string == '' || is_numeric($string))
+          {
+            return $string;
+          }
+          if(strpos($string,'<') === false)
+          {
+            return $string;
+          }
+          return strip_tags($string);
+        break;
+        case 'datum':
+          $found = true;
+          $string_ = $string;
+          if(preg_match_all('/([0-9]+)\.([0-9]+)\.$/', $string, $matches))
+          {
+            $string_ = $matches[1][0].'.'.$matches[2][0].'.'.date('Y');
+          }
+          try
+          {
+            if($x = new DateTime($string_))
+            {
+              if($x->format('Y') <= 0)
+              {
+                return '';
+              }
+              return $string;
+            }
+          } catch (Exception $e) {
+            return '';
+          }
+          return '';
+        break;
+        case 'xss_clean':
+          $found = true;
+          if($string == '' || is_numeric($string))
+          {
+            return $string;
+          }
+          if(strpos($string,'<') === false){
+            return $string;
+          }
+          return $this->xss_clean($string, false);
+        break;
+        case 'nojs':
+          $found = true;
+          if($string == '' || is_numeric($string))return $string;
+          if(strpos($string,'<') === false)return $string;
+          if($this->htmlpurifer)
+          {
+            return $this->htmlpurifer->purify($string);
+          }
+          return $this->xss_clean($string);
+        break;
+        case 'id':
+          $found = true;
+          if((String)$string === '')
+          {
+            return $string;
+          }
+          return (int)$string;
+        break;
+        case 'doppelid':
+          $found = true;
+          if((String)$string === '')
+          {
+            return $string;
+          }
+          $stringa = explode('-', $string, 2);
+          if(count($stringa) == 1)return (int)$stringa[0];
+          return ($stringa[0]===''?'':(int)$stringa[0]).'-'.(int)$stringa[1];
+        break;
+        case 'module':
+          $found = true;
+          return preg_replace ($this->ruleregexps[$rule], '' , $string);
+        break;
+        default:
+          if(isset($this->ruleregexps[$rule]))
+          {
+            $found = true;
+            return preg_replace ($this->ruleregexps[$rule], '' , $string);
+          }
+        break;
+      }
+      return $string;
+    }
+
+    public function xss_clean($data, $usepurify = true)
+    {
+      if($usepurify && !empty($this->htmlpurifer))
+      {
+        return $this->htmlpurifer->purify($data);
+      }
+      // Fix &entity\n;
+      $data = str_replace(array('&amp;','&lt;','&gt;'), array('&amp;amp;','&amp;lt;','&amp;gt;'), $data);
+      $data = preg_replace('/(&#*\w+)[\x00-\x20]+;/u', '$1;', $data);
+      $data = preg_replace('/(&#x*[0-9A-F]+);*/iu', '$1;', $data);
+      $data = html_entity_decode($data, ENT_COMPAT, 'UTF-8');
+      return $data;
+      // Remove any attribute starting with "on" or xmlns
+      $data = preg_replace('#(<[^>]+?[\x00-\x20"\'])(?:on|xmlns)[^>]*+>#iu', '$1>', $data);
+
+      // Remove javascript: and vbscript: protocols
+      $data = preg_replace('#([a-z]*)[\x00-\x20]*=[\x00-\x20]*([`\'"]*)[\x00-\x20]*j[\x00-\x20]*a[\x00-\x20]*v[\x00-\x20]*a[\x00-\x20]*s[\x00-\x20]*c[\x00-\x20]*r[\x00-\x20]*i[\x00-\x20]*p[\x00-\x20]*t[\x00-\x20]*:#iu', '$1=$2nojavascript...', $data);
+      $data = preg_replace('#([a-z]*)[\x00-\x20]*=([\'"]*)[\x00-\x20]*v[\x00-\x20]*b[\x00-\x20]*s[\x00-\x20]*c[\x00-\x20]*r[\x00-\x20]*i[\x00-\x20]*p[\x00-\x20]*t[\x00-\x20]*:#iu', '$1=$2novbscript...', $data);
+      $data = preg_replace('#([a-z]*)[\x00-\x20]*=([\'"]*)[\x00-\x20]*-moz-binding[\x00-\x20]*:#u', '$1=$2nomozbinding...', $data);
+
+      // Only works in IE: <span style="width: expression(alert('Ping!'));"></span>
+      $data = preg_replace('#(<[^>]+?)style[\x00-\x20]*=[\x00-\x20]*[`\'"]*.*?expression[\x00-\x20]*\([^>]*+>#i', '$1>', $data);
+      $data = preg_replace('#(<[^>]+?)style[\x00-\x20]*=[\x00-\x20]*[`\'"]*.*?behaviour[\x00-\x20]*\([^>]*+>#i', '$1>', $data);
+      $data = preg_replace('#(<[^>]+?)style[\x00-\x20]*=[\x00-\x20]*[`\'"]*.*?s[\x00-\x20]*c[\x00-\x20]*r[\x00-\x20]*i[\x00-\x20]*p[\x00-\x20]*t[\x00-\x20]*:*[^>]*+>#iu', '$1>', $data);
+
+      // Remove namespaced elements (we do not need them)
+      $data = preg_replace('#</*\w+:\w[^>]*+>#i', '', $data);
+
+      do
+      {
+          // Remove really unwanted tags
+          $old_data = $data;
+          $data = preg_replace('#</*(?:applet|b(?:ase|gsound|link)|embed|frame(?:set)?|i(?:frame|layer)|l(?:ayer|ink)|meta|object|s(?:cript|tyle)|title|xml)[^>]*+>#i', '', $data);
+      }
+      while ($old_data !== $data);
+
+      return $data;
+    }
+
+    function XMLArray_clean(&$xml, $lvl = 0)
+    {
+      if(is_string($xml))
+      {
+
+      }elseif(is_array($xml))
+      {
+        if(count($xml) > 0)
+        {
+          foreach($xml as $k => $v)
+          {
+            if(is_string($v))
+            {
+              $xml[$k] = $this->CleanString($v, $this->SyntaxByElement($k,'nojs'));
+            }
+            if($lvl < 10)
+            {
+              $this->XMLArray_clean($v, $lvl + 1);
+            }
+          }
+        }
+      }elseif(is_object($xml))
+      {
+        if(count($xml) > 0)
+        {
+          foreach($xml as $k => $v)
+          {
+            if(count($v) > 0)
+            {
+              if($lvl < 10)
+              {
+                $this->XMLArray_clean($v, $lvl + 1);
+              }
+            }elseif((String)$v != '')
+            {
+              if(isset($xml->$k))
+              {
+                //$xml->$k = $this->CleanString($v, $this->SyntaxByElement($k,'nojs'));
+              }
+            }
+          }
+        }
+      }
+      return $xml;
+    }
+  }

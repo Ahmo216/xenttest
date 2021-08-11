@@ -1,55 +1,127 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-fQUdUOsDb6xLHMgmdGVpwW==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\SubscriptionCycle\Service;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\SubscriptionCycle\Data\SubscriptionCycleAutoSubscriptionData;
+use Xentral\Modules\SubscriptionCycle\Exception\AutoSubscriptionNotFoundException;
+
+final class SubscriptionCycleAutoSubscriptionGateway
+{
+    /** @var Database */
+    private $db;
+
+    /**
+     * @param Database $db
+     */
+    public function __construct(Database $db)
+    {
+        $this->db = $db;
+    }
+
+    /**
+     * @param int $autoSubscriptionId
+     *
+     * @throws AutoSubscriptionNotFoundException
+     *
+     * @return SubscriptionCycleAutoSubscriptionData
+     */
+    public function getById(int $autoSubscriptionId): SubscriptionCycleAutoSubscriptionData
+    {
+        $sql =
+            'SELECT 
+                sca.id, 
+                sca.project_id, 
+                sca.article_id, 
+                sca.price_cycle, 
+                sca.document_type, 
+                sca.subscription_group_id, 
+                sca.position, 
+                sca.first_date_type, 
+                sca.prevent_auto_dispatch, 
+                sca.auto_email_confirmation, 
+                sca.business_letter_pattern_id, 
+                sca.add_pdf 
+            FROM `subscription_cycle_autosubscription` AS `sca`
+            WHERE sca.id = :id';
+
+        $data = $this->db->fetchRow($sql, ['id' => $autoSubscriptionId]);
+
+        if (empty($data)) {
+            throw new AutoSubscriptionNotFoundException('No data found for id: ' . $autoSubscriptionId);
+        }
+
+        return SubscriptionCycleAutoSubscriptionData::fromDbState($data);
+    }
+
+    /**
+     * @param int $docId
+     *
+     * @return array
+     */
+    public function findAutoSubscriptionData(int $docId)
+    {
+        $sql =
+            'SELECT 
+            ap.artikel,
+            art.nummer,
+            art.name_de AS `bezeichnung`,
+            ap.menge,
+            ap.preis,
+            ap.rabatt,
+            (CASE sca.first_date_type
+                WHEN \'monatsanfang\' THEN DATE_FORMAT(DATE_ADD(CURDATE(), INTERVAL 1 MONTH), \'%Y-%m-01\')
+                WHEN \'monatsmitte\' THEN (
+                    IF(
+                        DAY(CURDATE()) > 15,
+                        DATE_FORMAT(DATE_ADD(CURDATE(), INTERVAL 1 MONTH), \'%Y-%m-15\'),
+                        DATE_FORMAT(CURDATE(), \'%Y-%m-15\')
+                    )
+                )
+                ELSE au.datum
+            END) AS `startdatum`,
+            1 AS `wiederholend`,
+            \'angelegt\' AS `status`,
+            (CASE sca.price_cycle
+                WHEN \'monatspreis\' THEN \'monat\'
+                WHEN \'jahrespreis\' THEN \'jahr\'
+                ELSE sca.price_cycle
+            END) AS `preisart`,
+            sca.position AS `sort`,
+            sca.project_id AS `projekt`,
+            NOW() AS `angelegtam`,
+            0 AS `experte`,
+            au.waehrung,
+            0 AS `beschreibungersetzten`,
+            art.umsatzsteuer AS `steuerklasse`,
+            1 AS `zahlzyklus`,
+            0 AS `rechnung`,
+            sca.document_type AS `dokument`,
+            sca.subscription_group_id AS `gruppe`,
+            0 AS `angelegtvon`,
+            0 AS `abgerechnet`,
+            sca.auto_email_confirmation,
+            sca.business_letter_pattern_id,
+            sca.add_pdf,
+            sca.prevent_auto_dispatch,
+            au.sprache,
+            gba.subjekt,
+            adr.email,
+            adr.abweichendeemailab,
+            au.adresse
+            FROM `auftrag_position` AS `ap`
+            INNER JOIN `auftrag` AS `au` ON au.id = ap.auftrag
+            INNER JOIN `artikel` AS `art` ON art.id = ap.artikel
+            INNER JOIN `adresse` AS `adr` ON au.adresse = adr.id
+            INNER JOIN `subscription_cycle_autosubscription` AS `sca` ON sca.article_id = ap.artikel
+            LEFT JOIN `geschaeftsbrief_vorlagen` AS `gba` ON gba.id = sca.business_letter_pattern_id
+            LEFT JOIN `abrechnungsartikel` AS `ara` ON ara.artikel = sca.article_id AND ara.adresse = au.adresse
+            WHERE au.id = :docId
+            AND IF(sca.project_id = 0, 1, au.projekt = sca.project_id)
+            AND ara.artikel IS NULL';
+
+        return $this->db->fetchAll($sql, ['docId' => $docId]);
+    }
+}

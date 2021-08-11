@@ -1,38 +1,29 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPpV+9cfjG9jDBqwpIM25wYnq5yqukVsVknnpn/GMH/NYZKQ7Mr9eoc93fk2zsTrGCoBJnb9d
-fKwC9/p755dIq89Qwr7CtcIE6pwg5JlSbaAlze09LIyBijQvsqDjD6zVMtwyk2JP+oiwkgoEJ8qz
-XBJ3cLHDbtGMJaRKXjTJjLvxTj4fNHlP55eauYdPEqx3kfMgeRV0jjuoMBzhQPXdo8oppvaBh8nl
-efABpZCGjvIblLZ3RiSQObCjXGGEZG3N9wS+C2StOE2GSH5UJuxtXewnygXMvzIgKjLAdB0KLOf+
-J+Z0fL9MOGj5Ij+tA78Y/J2ttEcty0I3wGeWEjY27Bya3KYxvJ/LtTsk+Rk/dIXGJqaSvCyqabGt
-2YQtZ4cEGJalCJCbNHcHqI+fAtu1+DYQWHYLZwfmFldbjs3eNcKRXIdvHBZ0J8nPNxBjxSsdH+aU
-gtcw1FRI4yxz8VXEUHxDIys0UfvibMYv5Z+gy1aSTxCn6zIEdwHQb5OSLcghXQ0WQZBK3AoZWKa1
-ARzP0dyrwgGVI0ptOljVIE3dvMbfvn6RQVz9pFQW3AEBd5WQmRFOFryw/Kf5nsSdeYrQXAm/Q9CI
-ZoKsxcAOv1nbXRlYJS1JqnHZsEWFL80QJHtojHFO9IfexejQXxmEFOiPGHm6daqlmu1SxoCOG0HB
-z7XPZ1JB0fx+vLeRDRF9MEdNAOsYgF0oa8s7BrHgrcUEuxUSw1NtZk+gwpZVEAHbZsPyehux/PR9
-UgvpVJaWnq9euTJQICol/Ls/tSwipSyrP5zaj7CEW9t8AApDIZMtB80+9A+5MSj6/0wlIQUTvL1d
-vZ8xbMzo8UH4FtXFTYceUljZgrkq3ajXZvihUjjMyr26w9bZ6jV/rjqt4nJG3wlhcefOgyWLa1eE
-f5dH4vdbMSC6m0sOHtCdPtUKqN8F96vnyTgxFhvxQAuqISF5mmzXy1x91bb9Gg/2Woivk+SjE32Q
-pNdBXMoqQTPifOoJYJtMQozDWcrzXQqOZ46YRpsCZcNFdvKforZ0zhTaYAz4jlljdshwWWd4bkCl
-FkGmZTYRv5ijYsIb9kLpTdsGsNUsXmgRzpa1QY+wUKM6Vltg7plmOBdNZbQwrpMDUUgIKIRsSs9n
-21lpXlQYbPNkyX48FW16mcEQTkorNH1gekm335EHC7WNSex3/H66QuARu0F0slxYXX3vyns/XraF
-7m/Jyxnff1Himn3sHXJbKF0CDPlPR4r+PruxRLK9NpuF4PF5PPSCFZeF0/P//EdVm6bPX09pUuKx
-jpYqXS4fGP8ftR+rfXoY4IG+fz3eWxJ+0ylwaa122Z9IW+P2msNzxBkSGWOkZsS74xQu+nD3U5Y1
-tiacAOrDoyJlmhI7hpymP9Y8NlKe5ucsrFcSZmT+kRlO+WPYfMbMPyi/pDoQr7GHnaD+XvGcnUXK
-NrUWzFKfJ4hCN4qhSErdtiI9cZBkQsilCpxiz/SINtcCkEkqMKpEE18PfosOkvj2Wm4lMT+X+5W5
-7tntelwlowL0P502ZdXuBGceHY81KrYGTupZBbc2EgOngmmKjun+R33/cTZ9hhBaoCcue/sPrizt
-+5W9HkxNj82KgrfVkifMwzMxQAGSJtdRVyB85V+RI0V6Qb6dy2qav2Pip1cqXAKNb8Uu02e/Ova7
-Wn2pbeu2S5fKREmzteroj/udMPCwsXMnbVMBntOZ5yRxWdlpe6RTJAhVydO7AK73Ns8aKHHGRjo+
-Fe/gxOdyueFFmdcKQuzFMfDU7sUGtOalLoryYTWfrFlsbB6aTUHK//LZ3LnZXYRkBndQ6EXhpMQ3
-+X1EvW4Rde2TqMbhZmu27kj1q6h82d6XK79Lq+l1qkYZuo2YuyCp43bPFcMVV9Mpb4uKZ0bl+eWG
-e1nGDDkh1+QIIWiS/MuWLwTQK1eWpV08aBageiAUCf89y2tPx+2wdh4zWWJtFeOxJUIzuJgkMgU1
-D1yNYp31zBfRxKkSlhfwT45n4HII4zBCuwyX8hh06y62BYJ3hiM39yimTMLn0zorQFwlk6X6h0np
-6LgxLrTx/AOCgJFm7vbs0QQvyvf88E39BJqlUtqI8sa5zTRdZi4bMIQBvJCYN1tr4b/bXVNjwqNl
-uBEKWuyI5z+Pj9s9zoUA5AHrgah/i8WmPMCfR3qk0ccNRiDtdsiXfn71hLThQyvazMoXGMLtsCwc
-FbHhMgfnxWbQcWei7SkOHP3oHnX+CY2oyggXIPmzT8rRFj3bv1+wAEVByHQohXGfipWgmiQaXpHD
-jV6blbLJoEvwCrxjo5KHZvwv/8ChBkjDwcEuLj2edVVMLWh79FDNGzck/8/Vi4Bh00E7zHtZTQBP
-6zYBrBUtLx7lyK3jBZ6Z+gEfXdLjWTwkzuSUtY6rGF28mQ8IlmqC/AdB55WoVKvIIPrYuz+3yYcX
-6Po0WDTJnNLKCshrS0tgNFFSnAfyXtcnBSI6ZTzUxD9/TQnskvXvNZNiZM+eSmDn2ayuCVXn3mvQ
-Q00edsjv3J2TZghfE9iAs8YmDLEOMHWg6KF2dNXIkJTzNch5MUkHyZ5UavmXq0fswHVe/KzcR3dn
-yyBKo40YQ2ZjfuXSkbDkkKG+q2O=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\CarrierSelect\Data\FilterField;
+
+
+use Xentral\Modules\CarrierSelect\Data\Order;
+
+final class FastlaneFilter implements FilterFieldInterface
+{
+    /**
+     * @return string
+     */
+    public function getName(): string
+    {
+        return 'fastlane';
+    }
+
+    /**
+     * @param Order $order
+     *
+     * @return array
+     */
+    public function getValuesFromOrder(Order $order): array
+    {
+        return [$order->isFastlane()];
+    }
+}

@@ -1,30 +1,10 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPvSAP016qLmeMBtn8tBQgbN5gQ4J8ftjfMJPUI7A7oOlzr8JowfuKY65x3z4Uw8ko7g+09Ha
-8rTn13jL8yPnysnBhByRq2CKapdhAjnSBRLKSiTTBH1eOPVGN3xmM9lN3dakgVqQACD9WcqNZBen
-KgPkJd8dj3jXYFL56dy76tz6JpKTVXxk7fTah4JPjpcXB88Hu9Sf49b53d0x67V0nmUpFUY1nTC8
-wTeP/HZ7WOQ/1ZD04bfyej/pbsPS49vMR+1RuZ1oH02ms6m+VhZJK4ymljjgaUkWQd57jMf9/BTE
-Q+IYdCGrmtg+Eneffg3+Ujsk0GPnrN6sBkT0FK7F2HaFPqSYz6Z8KOuIFTsxlvqeK4z97EJFD99K
-Dmecy80rGJ3OY5j83G67aH7lctp/+ZG1JGa9xVX8YbHFC11X0OFSVfN213uNR6f+7U02vb97AcQN
-4jkDT4Y6uIZBkdxKtoL2/ILwQlhdmIjFJRrpEDdf2xlg3bcUe/4q4yAzMDh8fGAOLm7SP4mBHAVB
-Hbjs8GuFgxgW8OcIETOOUJTH6T/HRYc/r7m4o9E0nMuqDkux+vCbNccVL0vX0+Hc/sXNRumMV2m6
-GrfSb60Q36RkxnxKKOzTKn6NASBkc2ouIZOAXE1aZa13Ng9g6wg3MM/4h1acJGoxtACPg9xciAMm
-IopeufN350u3iW/AwFKgXmz66CbEQx3XuHrcYWpronOmYnAVFquk/r/e9BtdMtvo9GwduVfKOY/f
-1wQ2U63HHONs46wu0t8OFkBmWRZ8QSa8zK9s3Rn/6szCmltVhiPnPJRviX8nn2I/nijC38FF1h6M
-GW8BvKF78Hc2+Oscq6h4vQq9xrPkA11tKdLN8Ghwh4+0ekLQ/Mbaba1ccl862iImDJ68hQSf/WlW
-fQmN23ftbv3YE852L8jhkpDJusfT4Bn0XVxNo36C13BTCtdxFMDFaRE6LEXud+ygwuYgpbziBVfd
-lXI6K/j0RSJoU23bl9r34O1YbtvI1u2ozJlMtl9DiIZUTQfWpvYaNeZd4NDhwE32vnzaXsKQrI9E
-YZ4dVlZQ0S3NQxHeDjtsoWGSZ0ZI4x6DiEz5/xSKNi1s0OzBJB7l3rO7jLA544GQagcisQRwutq9
-0aw0mo68YLEGjR9RlMEZLiTn27L0V0cQ721cgki5ESGwfI29/uUh3Aug9Mj8tMLfxRupizpNH2zg
-TBj0CCWka2vycNhaHuUTZ7XEq17X9zqM1URrxH7KZBf92EhbGXyFDMhUUM1wUZR7kt8lPtOLcMNm
-mTZAPrXfmVFpiimktPruInlO7qvR/bWrIV6qm3SH8J0QQ5dEwdtweH20voiE6OLgUeffPjbPe/2q
-8IvTuK+SQBMxo+XiX/tjrCmSDX392ArMt+VtfMXtlKldpkEfAmRBwbFhlYoiTSN3ygs4D9dQG5uq
-gjvkp/x8Y06AJ38LPUWIztJq3A3URM4CrFSXAIxQn/+RWa9tGEB4Paj6cu5lF/sS4CKhHPuASSgR
-aCeQe6tuuFvtHDdSoA4vDtFHETBX06ty4dy1Brbc3ainWTogqsQxlc3YIP43qjwLtRMpNF7vc5eP
-LNxJvf6rUBHluNTJVphzw23uxsJub3Pf3TGTmhUDcRn0Fim5UeR2VWY2Z4mNcaU1Y6WTNJdFh794
-oZ+T0RE4YwFGY8XsAiv0RQ2k1l0WYgQQ9Zsa9selERALxj2rh1Bx1tQ/LRpfa1P8qb6cKNQFsr8P
-3C8tZLt97twwjKvPtgZ9kGckeriQuwWNclLKeOoJVnyJmkL9jX+k2PPdOPm6dNpRgDKOdYvQRVHj
-1FtNKNrcds4jCJqHLVzUQo7W5cWVoZSqTYUbcYfItvNuykH6W3PhAsXrnqk1L/9RFeXoOmwCvGY3
-fA+D8LSGO3SPiZPn2lqpDl1VtFqw0vT39XuYKBzqVGmt/6ZKUSOsgwdy8Vc7I/9ih6t/0IP7Bd+6
-uKaVWmVZAcPP6XesEIEufR+XACykVDqbzucw8nlwDApC9Q63K4kc
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Pipedrive\Exception;
+
+use RuntimeException;
+final class PipedriveConfigurationException extends RuntimeException implements PipedriveExceptionInterface
+{
+}

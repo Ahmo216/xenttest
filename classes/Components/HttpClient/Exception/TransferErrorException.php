@@ -1,85 +1,135 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\HttpClient\Exception;
+
+use GuzzleHttp\Exception\ClientException as GuzzleClientException;
+use GuzzleHttp\Exception\ConnectException as GuzzleConnectException;
+use GuzzleHttp\Exception\GuzzleException;
+use GuzzleHttp\Exception\ServerException as GuzzleServerException;
+use GuzzleHttp\Exception\TooManyRedirectsException as GuzzleRedirectsException;
+use RuntimeException;
+use Throwable;
+use Xentral\Components\HttpClient\Request\ClientRequest;
+use Xentral\Components\HttpClient\Request\ClientRequestInterface;
+use Xentral\Components\HttpClient\Response\ServerResponse;
+use Xentral\Components\HttpClient\Response\ServerResponseInterface;
+
+class TransferErrorException extends RuntimeException implements TransferErrorExceptionInterface
+{
+    /** @var ClientRequestInterface $request */
+    protected $request;
+
+    /** @var ServerResponseInterface|null $response */
+    protected $response;
+
+    /**
+     * @param string                       $message
+     * @param int                          $code
+     * @param Throwable|null               $previous
+     * @param ClientRequestInterface|null  $request
+     * @param ServerResponseInterface|null $response
+     */
+    public function __construct(
+        $message = '',
+        $code = 0,
+        Throwable $previous = null,
+        ClientRequestInterface $request = null,
+        ServerResponseInterface $response = null
+    ) {
+        parent::__construct($message, $code, $previous);
+
+        if ($request !== null) {
+            $this->request = $request;
+        }
+        if ($response !== null) {
+            $this->response = $response;
+        }
+    }
+
+    /**
+     * @param GuzzleException $exception
+     *
+     * @return TransferErrorExceptionInterface
+     */
+    public static function fromGuzzleException(GuzzleException $exception): TransferErrorExceptionInterface
+    {
+        switch (get_class($exception)) {
+            case GuzzleConnectException::class:
+                $exceptionClass = ConnectionFailedException::class;
+                break;
+            case GuzzleClientException::class: // HTTP 4xx
+                $exceptionClass = ClientErrorException::class;
+                break;
+            case GuzzleServerException::class: // HTTP 5xx
+                $exceptionClass = ServerErrorException::class;
+                break;
+            case GuzzleRedirectsException::class:
+                $exceptionClass = TooManyRedirectsException::class;
+                break;
+            default:
+                $exceptionClass = TransferErrorException::class;
+                break;
+        }
+
+        $self = new $exceptionClass(
+            $exception->getMessage(),
+            $exception->getCode(),
+            $exception
+        );
+
+        // Request anhängen; immer verfügbar
+        $psrRequest = $exception->getRequest();
+        $request = ClientRequest::fromGuzzleRequest($psrRequest);
+        $self->request = $request;
+
+        // Response anhängen; NICHT immer verfügbar
+        if ($exception->hasResponse()) {
+            $psrResponse = $exception->getResponse();
+            $response = ServerResponse::fromGuzzleResponse($psrResponse);
+            $self->response = $response;
+        }
+
+        return $self;
+    }
+
+    /**
+     * @param ClientRequestInterface  $request
+     * @param ServerResponseInterface $response
+     *
+     * @return TransferErrorExceptionInterface
+     */
+    public static function fromClientRequest(
+        ClientRequestInterface $request,
+        ServerResponseInterface $response = null
+    ): TransferErrorExceptionInterface {
+        $message = sprintf('Error Communicating with Server: %s %s', $request->getMethod(), $request->getUri());
+
+        return new self($message, 0, null, $request, $response);
+    }
+
+    /**
+     * @return bool
+     */
+    public function hasResponse(): bool
+    {
+        return $this->response !== null;
+    }
+
+    /**
+     * @return ServerResponseInterface|null
+     */
+    public function getResponse(): ?ServerResponseInterface
+    {
+        return $this->response;
+    }
+
+    /**
+     * @return ClientRequestInterface
+     */
+    public function getRequest(): ClientRequestInterface
+    {
+        return $this->request;
+    }
+}

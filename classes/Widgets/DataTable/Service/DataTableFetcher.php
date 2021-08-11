@@ -1,335 +1,575 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Widgets\DataTable\Service;
+
+use Closure;
+use Exception;
+use Xentral\Components\Database\Database;
+use Xentral\Components\Database\SqlQuery\SelectQuery;
+use Xentral\Components\Exporter\Csv\CsvConfig;
+use Xentral\Components\Exporter\Csv\CsvWriter;
+use Xentral\Components\Exporter\Exception\InvalidResourceException;
+use Xentral\Widgets\DataTable\Column\Column;
+use Xentral\Widgets\DataTable\DataTableBuildConfig;
+use Xentral\Widgets\DataTable\DataTableInterface;
+use Xentral\Widgets\DataTable\Exception\InvalidArgumentException;
+use Xentral\Widgets\DataTable\Feature\DebugFeature;
+use Xentral\Widgets\DataTable\Feature\RowClassesFeature;
+use Xentral\Widgets\DataTable\Filter\FilterInterface;
+use Xentral\Widgets\DataTable\Request\DataTableRequest;
+use Xentral\Widgets\DataTable\Result\DataTableDataResult;
+
+final class DataTableFetcher
+{
+    /** @var Database $db */
+    private $db;
+
+    /** @var DataTableRequest $request */
+    private $request;
+
+    /**
+     * @param Database         $db
+     * @param DataTableRequest $request
+     */
+    public function __construct(Database $db, DataTableRequest $request)
+    {
+        $this->db = $db;
+        $this->request = $request;
+    }
+
+    /**
+     * @param DataTableBuildConfig $buildConfig
+     *
+     * @return bool
+     */
+    public function canFetchData(DataTableBuildConfig $buildConfig)
+    {
+        if (!$this->request->isAjax()) {
+            return false;
+        }
+        if ($this->request->getMethod() !== $buildConfig->getAjaxMethod()) {
+            return false;
+        }
+
+        $tableNameDefined = $buildConfig->getTableName();
+        $tableNameRequested = $this->request->getParams()->getTableName();
+
+        return $tableNameDefined === $tableNameRequested;
+    }
+
+    /**
+     * @param DataTableBuildConfig $buildConfig
+     *
+     * @return bool
+     */
+    public function canExportData(DataTableBuildConfig $buildConfig)
+    {
+        $exportParams = (array)$this->request->getParams()->getExportValues();
+        if (empty($exportParams['format']) || empty($exportParams['result'])) {
+            return false;
+        }
+        if ($this->request->isAjax()) {
+            return false;
+        }
+
+        $tableNameDefined = $buildConfig->getTableName();
+        $tableNameRequested = $this->request->getParams()->getTableName();
+
+        return $tableNameDefined === $tableNameRequested;
+    }
+
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return DataTableDataResult
+     */
+    public function fetchData(DataTableInterface $table)
+    {
+        $startParam = $this->request->getParams()->getStart();
+        $lengthParam = $this->request->getParams()->getLength();
+
+        try {
+
+            $debugging = false;
+            if ($table->getFeatures()->has(DebugFeature::class)) {
+                /** @var DebugFeature $debugFeature */
+                $debugFeature = $table->getFeatures()->get(DebugFeature::class);
+                $debugging = $debugFeature->isEnabled();
+            }
+
+            if ($debugging === true) {
+                $debugData = ['profiler' => ['start' => microtime(true)]];
+            }
+
+            $baseQuery = $table->getBaseQuery();
+            $cols = $baseQuery->getCols();
+
+            // Set up query for total record count
+            $recordsTotalQuery = clone $baseQuery;
+            $recordsTotalQuery
+                ->resetCols()
+                ->cols([sprintf('COUNT(%s) AS num', $cols[0])]);
+
+            // Apply filters and searches
+            $this->applyFilters($table);
+            $this->applyColumnSearch($table, $baseQuery);
+            $this->applyGlobalSearch($table, $baseQuery);
+
+            // Set up query for data + limit result set
+            $dataQuery = clone $baseQuery;
+            $dataQuery->offset($startParam);
+            $dataQuery->limit($lengthParam);
+            if ($startParam === -1 || $lengthParam === -1) {
+                $dataQuery->offset(0);
+                $dataQuery->limit(0);
+            }
+
+            // Apply ORDER BY + LIMIT
+            $sortingValues = $this->prepareSortingValue($table);
+            $this->applySorting($dataQuery, $sortingValues);
+            $this->applyPaging($dataQuery, $startParam, $lengthParam);
+
+            // Set up query for filtered record count
+            // (= Record count with applied filters and searches)
+            $recordsFilteredQuery = clone $baseQuery;
+            $recordsFilteredQuery->resetCols()->cols([sprintf('COUNT(%s) AS num', $cols[0])]);
+
+            // Ergebnisanzahl; mit Filter
+            $recordsFiltered = $this->db->fetchValue(
+                $recordsFilteredQuery->getStatement(),
+                $recordsFilteredQuery->getBindValues()
+            );
+
+            // Ergebnisanzahl; ohne Filter
+            $recordsTotal = $this->db->fetchValue(
+                $recordsTotalQuery->getStatement(),
+                $recordsTotalQuery->getBindValues()
+            );
+
+            // Fetch data; displayed result
+            $data = $this->db->fetchAll(
+                $dataQuery->getStatement(),
+                $dataQuery->getBindValues()
+            );
+
+            // Column-Formatter anwenden
+            $columnFormatters = $table->getColumns()->getFormatters();
+            $this->applyColumnFormatters($data, $columnFormatters);
+
+            // Row-Formatter anwenden
+            // @todo In RowClassesFeature auslagern
+            if ($table->getFeatures()->has(RowClassesFeature::class)) {
+                /** @var RowClassesFeature $rowStyling */
+                $rowStyling = $table->getFeatures()->get(RowClassesFeature::class);
+                if ($rowStyling->hasCustomFormatter()) {
+                    $rowFormatter = $rowStyling->getCustomFormatter();
+                    foreach ($data as &$rowValues) {
+                        $rowClasses = $rowStyling->getClassesString();
+                        foreach ($rowFormatter as $closure) {
+                            $rowClasses .= $closure($rowValues);
+                        }
+                        $rowValues['DT_RowClass'] = $rowClasses;
+                    }
+                    unset($rowValues);
+                }
+            }
+
+            // ID-Attribut für jede Zeile setzen
+            $tableName = $table->getConfig()->getTableName();
+            $this->appendRowIdAttribute($data, $tableName);
+
+            // Result-Objekt bauen
+            $result = new DataTableDataResult(
+                (int)$this->request->getParams()->getDraw(),
+                (int)$recordsTotal,
+                (int)$recordsFiltered,
+                (array)$data
+            );
+
+        } catch (Exception $exception) {
+            $result = new DataTableDataResult();
+            $result->setErrorMessage(sprintf(
+                'Unhandled exception: (%s) %s',
+                get_class($exception),
+                $exception->getMessage()
+            ));
+        }
+
+        if ($debugging === true) {
+            $debugData['profiler']['finish'] = microtime(true);
+            $debugData['profiler']['duration_real'] = $debugData['profiler']['finish'] - $debugData['profiler']['start'];
+            $debugData['profiler']['duration'] = sprintf('%.6f', $debugData['profiler']['duration_real']) . ' seconds';
+
+            if (isset($dataQuery)) {
+                $debugData['query']['statement'] = $dataQuery->getStatement();
+                $debugData['query']['bindings'] = var_export($dataQuery->getBindValues(), true);
+            }
+            $result->setDebugInfo($debugData);
+        }
+
+        return $result;
+    }
+
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return string Path to export file
+     */
+    public function exportData(DataTableInterface $table)
+    {
+        $startParam = (int)$this->request->getParams()->getStart();
+        $lengthParam = (int)$this->request->getParams()->getLength();
+        $exportParams = (array)$this->request->getParams()->getExportValues();
+
+        $exportFormat = !empty($exportParams['format']) ? $exportParams['format'] : 'csv';
+        if ($exportFormat !== 'csv') {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid export format "%s". Only "csv" is valid.', $exportFormat
+            ));
+        }
+
+        $exportResult = !empty($exportParams['result']) ? $exportParams['result'] : 'page';
+        if (!in_array($exportResult, ['all', 'page'], true)) {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid export result parameter value "%s". Valid values: %s',
+                $exportResult,
+                implode(', ', ['all', 'page'])
+            ));
+        }
+
+        // Alle Ergebnisse exportieren
+        if ($exportResult === 'all') {
+            $startParam = -1;
+            $lengthParam = -1;
+        }
+
+        $fileName = uniqid('export-' . $table->getConfig()->getTableName(), false) . '.csv';
+        $filePath = sys_get_temp_dir() . '/' . $fileName;
+
+        $csv = @fopen($filePath, 'x+b');
+        if ($csv === false) {
+            throw new InvalidResourceException(sprintf('Failed to open resource for file path "%s".', $filePath));
+        }
+
+        $writer = new CsvWriter($csv, new CsvConfig());
+
+        $titles = [];
+        $dbCols = [];
+        foreach ($table->getColumns() as $column) {
+            /** @var Column $column */
+            if ($column->isExportable() && !empty($column->getDbColumn())) {
+                $titles[] = $column->getTitle();
+                $dbCols[] = $column->getDbColumn();
+            }
+        }
+        $writer->writeLine($titles);
+
+        $dataQuery = clone $table->getBaseQuery();
+        $dataQuery->resetCols()->cols($dbCols);
+
+        // Apply filters and searches
+        $this->applyFilters($table);
+        $this->applyColumnSearch($table, $dataQuery);
+        $this->applyGlobalSearch($table, $dataQuery);
+
+        // Apply ORDER BY
+        $sortingValues = $this->prepareSortingValue($table);
+        $this->applySorting($dataQuery, $sortingValues);
+
+        $itemsPerStep = 2500;
+        $currentOffset = 0;
+        $hasResults = true;
+
+        if ($exportResult === 'page') {
+            $itemsPerStep = $lengthParam;
+            $currentOffset = $startParam;
+        }
+
+        do {
+
+            $dataQuery->offset($currentOffset);
+            $dataQuery->limit($itemsPerStep);
+
+            $data = $this->db->yieldAll(
+                $dataQuery->getStatement(),
+                $dataQuery->getBindValues()
+            );
+
+            if (!$data->valid()) {
+                $hasResults = false;
+                continue;
+            }
+
+            $writer->writeLines($data);
+
+            $currentOffset += $itemsPerStep;
+
+            // Nach einer Iteration aufhören, wenn nur eine Seite exportiert werden soll
+            if ($exportResult === 'page') {
+                $hasResults = false;
+            }
+
+        } while ($hasResults);
+
+        fclose($csv);
+
+        return $filePath;
+    }
+
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return void
+     */
+    private function applyFilters(DataTableInterface $table)
+    {
+        /** @var FilterInterface $filter */
+        foreach ($table->getFilters() as $filter) {
+            $filter->applyFilter($table, $this->request);
+        }
+    }
+
+    /**
+     * Suche über das allgemeine Suchfeld verarbeiten (oben rechts)
+     *
+     * @param DataTableInterface $table
+     * @param SelectQuery        $query
+     *
+     * @return void
+     */
+    private function applyGlobalSearch(DataTableInterface $table, SelectQuery $query)
+    {
+        $searchValue = $this->getSearchParam();
+        if (empty($searchValue)) {
+            return;
+        }
+
+        $searchParts = explode(' ', $searchValue);
+        $searchParts = array_filter($searchParts, 'trim');
+
+        // Custom Search @todo Momentan ohne Funktion; Es gibt keine Möglichkeit zum Setzen der Einstellung
+        // Beispiel-Setter:
+        //$this->setCustomSearch(function (SelectQuery $query) {
+        //    return $query
+        //        ->cols(['artikel.id'])
+        //        ->from('artikel')
+        //        ->where('artikel.name_de LIKE :query')
+        //        ->orWhere('artikel.name_en LIKE :query');
+        //});
+        //$customSearchClosure = $table->getCustomSearch();
+        //if ($customSearchClosure !== null) {
+        //    $matchColumn = $query->getCols()[0];
+        //    $customSearchQuery = $customSearchClosure($this->db->select());
+        //
+        //    $query->joinSubSelect('inner', $customSearchQuery, 'matches', 'matches.id = ' . $matchColumn);
+        //    $query->bindValue('query', '%' . $searchValue . '%');
+        //
+        //    return;
+        //}
+
+        // Normale Suche
+        $searchableDbColumns = $table->getColumns()->getSearchableDbColumns();
+        foreach ($searchParts as $searchWord) {
+            $query->where(static function (SelectQuery $select) use ($searchableDbColumns, $searchWord) {
+                foreach ($searchableDbColumns as $searchDbColumn) {
+                    $select->orWhere(sprintf('%s LIKE ?', $searchDbColumn), '%' . $searchWord . '%');
+                }
+            });
+        }
+    }
+
+    /**
+     * @todo In ColumnFilterFeature auslagern
+     *
+     * @param DataTableInterface $table
+     * @param SelectQuery        $query
+     *
+     * @return void
+     */
+    private function applyColumnSearch(DataTableInterface $table, SelectQuery $query)
+    {
+        //$columnFilter = $table->getFeatures()->get(ColumnFilterFeature::class);
+
+        $params = (array)$this->request->getParams()->getColumnsValues();
+        foreach ($params as $index => $param) {
+            $searchValue = $param['search']['value'];
+            if (empty($searchValue)) {
+                continue;
+            }
+
+            // Spaltensuche wurde ausgefüllt
+            $column = $table->getColumns()->getByName($param['name']);
+            if ($column === null) {
+                continue;
+            }
+
+            // Zahlenbereich-Suche
+            if (strpos($searchValue, 'number_range:') === 0) {
+                $searchPattern = str_replace([':null|', '|null'], '|', $searchValue);
+                if ($searchPattern === 'number_range:|') {
+                    continue; // Leere Suche
+                }
+
+                $searchPattern = str_replace('number_range:', '', $searchPattern);
+                $searchParts = explode('|', $searchPattern);
+                if (count($searchParts) !== 2) {
+                    continue;
+                }
+
+                $valueFrom = str_replace(',', '.', $searchParts[0]);
+                $valueTo = str_replace(',', '.', $searchParts[1]);
+                if (is_numeric($valueFrom)) {
+                    $query->where($column->getDbColumn() . ' >= ?', (float)$valueFrom);
+                }
+                if (is_numeric($valueTo)) {
+                    $query->where($column->getDbColumn() . ' <= ?', (float)$valueTo);
+                }
+                continue;
+            }
+
+            // Normale Textsuche
+            $query->where($column->getDbColumn() . ' LIKE ?', '%' . $searchValue . '%');
+        }
+    }
+
+    /**
+     * @see https://datatables.net/manual/server-side#Sent-parameters Parameters 'start' and 'length'
+     *
+     * @param SelectQuery $dataQuery
+     * @param int         $startValue
+     * @param int         $lengthValue
+     *
+     * @return void
+     */
+    private function applyPaging(SelectQuery $dataQuery, $startValue, $lengthValue)
+    {
+        $dataQuery->offset($startValue);
+        $dataQuery->limit($lengthValue);
+        if ($startValue === -1 || $lengthValue === -1) {
+            $dataQuery->offset(0);
+            $dataQuery->limit(0);
+        }
+    }
+
+    /**
+     * @param SelectQuery $query
+     * @param array       $sortingValues
+     *
+     * @return void
+     */
+    private function applySorting(SelectQuery $query, array $sortingValues)
+    {
+        if (!empty($sortingValues)) {
+            $query->resetOrderBy();
+            foreach ($sortingValues as $sortColumn => $sortDirection) {
+                $query->orderBy([sprintf('%s %s', $sortColumn, strtoupper($sortDirection))]);
+            }
+        }
+    }
+
+    /**
+     * Column-Formatter anwenden
+     *
+     * @param array $data
+     * @param array $formatters
+     *
+     * @return void
+     */
+    private function applyColumnFormatters(array &$data, array $formatters = [])
+    {
+        if (empty($formatters)) {
+            return;
+        }
+
+        foreach ($formatters as $colName => $formatter) {
+            if (!is_callable($formatter)) {
+                continue;
+            }
+            foreach ($data as &$rowData) {
+                $cellData = $rowData[$colName];
+                $newValue = $this->callColumnFormatter($formatter, $cellData, $rowData);
+                $rowData[$colName] = $newValue;
+            }
+            unset($rowData);
+        }
+    }
+
+    /**
+     * @param Closure $callback
+     * @param string  $value
+     * @param array   $rowValues
+     *
+     * @return string
+     */
+    private function callColumnFormatter(Closure $callback, $value, $rowValues)
+    {
+        return $callback($value, $rowValues);
+    }
+
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return array
+     */
+    private function prepareSortingValue(DataTableInterface $table)
+    {
+        $orderValue = $this->getOrderParam();
+
+        $sorting = [];
+        foreach ($orderValue as $orderItem) {
+            $columnIndex = (int)$orderItem['column'];
+            $column = $table->getColumns()->getByIndex($columnIndex);
+            if ($column === null) {
+                break;
+            }
+            $columnName = $column->getDbColumn();
+            $sortDirection = in_array(strtolower($orderItem['dir']), ['asc', 'desc'], true)
+                ? strtolower($orderItem['dir'])
+                : null;
+
+            if ($columnName !== null && $sortDirection !== null) {
+                $sorting[$columnName] = strtoupper($sortDirection);
+            }
+        }
+
+        return $sorting;
+    }
+
+    /**
+     * ID-Attribut für jede Zeile setzen
+     *
+     * @param array  $data
+     * @param string $tableName
+     *
+     * @return void
+     */
+    private function appendRowIdAttribute(&$data, $tableName)
+    {
+        // Row-ID hinzufügen
+        foreach ($data as &$rowValues) {
+            foreach ($rowValues as $key => &$value) {
+                if ($key === 'id') {
+                    $rowValues['DT_RowId'] = sprintf('%s_row_%s', $tableName, $value);
+                }
+            }
+            unset($value);
+        }
+        unset($rowValues);
+    }
+
+    /**
+     * @return string
+     */
+    private function getSearchParam()
+    {
+        return $this->request->getParams()->getSearchValues()['value'];
+    }
+
+    /**
+     * @return array
+     */
+    private function getOrderParam()
+    {
+        return (array)$this->request->getParams()->getOrderValues();
+    }
+}

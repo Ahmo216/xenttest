@@ -1,90 +1,150 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ZKMnWb6XJUmNdG==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\GoogleApi\Data;
+
+use Countable;
+
+final class GoogleAccountPropertyCollection implements Countable
+{
+    /** @var GoogleAccountPropertyValue[] $properties */
+    private $properties;
+
+    /**
+     * @param GoogleAccountPropertyValue[] $properties
+     */
+    public function __construct(array $properties = [])
+    {
+        $this->properties = [];
+        foreach ($properties as $property) {
+            $this->add($property);
+        }
+    }
+
+    /**
+     * @param string $key
+     *
+     * @return bool
+     */
+    public function has(string $key): bool
+    {
+        return array_key_exists($key, $this->properties) && $this->properties[$key] !== null;
+    }
+
+    /**
+     * @param string $key
+     *
+     * @return string|null
+     */
+    public function get(string $key): ?string
+    {
+        if (!array_key_exists($key, $this->properties) || $this->properties[$key] === null) {
+            return null;
+        }
+
+        return $this->properties[$key]->getValue();
+    }
+
+    /**
+     * Sets property immutable
+     *
+     * @param string $key
+     * @param string $value
+     *
+     * @return GoogleAccountPropertyCollection
+     */
+    public function set(string $key, string $value): GoogleAccountPropertyCollection
+    {
+        if ($this->has($key)) {
+            $property = new GoogleAccountPropertyValue(
+                $this->properties[$key]->getId(),
+                $this->properties[$key]->getAccountId(),
+                $this->properties[$key]->getKey(),
+                $value
+            );
+        } else {
+            $property = new GoogleAccountPropertyValue(null, null, $key, $value);
+        }
+        $properties = clone($this);
+        $properties->properties[$key] = $property;
+
+        return $properties;
+    }
+
+    /**
+     * Removes property immutable
+     *
+     * @param string $key
+     *
+     * @return GoogleAccountPropertyCollection
+     */
+    public function remove(string $key): GoogleAccountPropertyCollection
+    {
+        if (!array_key_exists($key, $this->properties)) {
+            return $this;
+        }
+        $properties = clone($this);
+        $properties->properties[$key] = null;
+
+        return $properties;
+    }
+
+    /**
+     * @return GoogleAccountPropertyValue[]
+     */
+    public function getAll(): array
+    {
+        return $this->properties;
+    }
+
+    /**
+     * Gets properties as Key => Value array
+     *
+     * @return array [key => value]
+     */
+    public function getkeyValueMap(): array
+    {
+        $array = [];
+        foreach ($this->properties as $key => $obj) {
+            if ($obj !== null) {
+                $array[$key] = $obj->getValue();
+            }
+        }
+
+        return $array;
+    }
+
+    /**
+     * @return int
+     */
+    public function count(): int
+    {
+        $count = 0;
+        foreach ($this->properties as $property) {
+            if ($property !== null) {
+                $count++;
+            }
+        }
+
+        return $count;
+    }
+
+    /**
+     * @return array|null
+     *
+     * @codeCoverageIgnore
+     */
+    public function __debugInfo(): ?array
+    {
+        return $this->getkeyValueMap();
+    }
+
+    /**
+     * @param GoogleAccountPropertyValue $property
+     */
+    private function add(GoogleAccountPropertyValue $property): void
+    {
+        $this->properties[$property->getKey()] = $property;
+    }
+}

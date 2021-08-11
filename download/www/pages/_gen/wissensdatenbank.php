@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-bVj276cC/BaU+jVIPjgybckd6w3m1m==
+<?php 
+
+class GenWissensdatenbank { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","WissensdatenbankCreate");
+    $this->app->ActionHandler("edit","WissensdatenbankEdit");
+    $this->app->ActionHandler("copy","WissensdatenbankCopy");
+    $this->app->ActionHandler("list","WissensdatenbankList");
+    $this->app->ActionHandler("delete","WissensdatenbankDelete");
+
+    $this->app->Tpl->Set("HEADING","Wissensdatenbank");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function WissensdatenbankCreate(){
+    $this->app->Tpl->Set("HEADING","Wissensdatenbank (Anlegen)");
+      $this->app->PageBuilder->CreateGen("wissensdatenbank_create.tpl");
+  }
+
+  function WissensdatenbankEdit(){
+    $this->app->Tpl->Set("HEADING","Wissensdatenbank (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("wissensdatenbank_edit.tpl");
+  }
+
+  function WissensdatenbankCopy(){
+    $this->app->Tpl->Set("HEADING","Wissensdatenbank (Kopieren)");
+      $this->app->PageBuilder->CreateGen("wissensdatenbank_copy.tpl");
+  }
+
+  function WissensdatenbankDelete(){
+    $this->app->Tpl->Set("HEADING","Wissensdatenbank (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("wissensdatenbank_delete.tpl");
+  }
+
+  function WissensdatenbankList(){
+    $this->app->Tpl->Set("HEADING","Wissensdatenbank (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("wissensdatenbank_list.tpl");
+  }
+
+} 
+?>

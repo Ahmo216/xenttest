@@ -1,42 +1,58 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-/rnBXtsMf22kTdUtzTIutwr7rW==
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF\Data;
+
+class SellingParty
+{
+    /** @var string */
+    private $partyId;
+
+    /** @var Address */
+    private $address;
+
+    /** @var TaxRegistrationDetails */
+    private $taxRegistrationDetails;
+
+    public function __construct(string $partyId)
+    {
+        $this->partyId = $partyId;
+    }
+
+    public function getPartyId(): string
+    {
+        return $this->partyId;
+    }
+
+    public function getAddress(): Address
+    {
+        return $this->address;
+    }
+
+    public function setAddress(Address $address): self
+    {
+        $this->address = $address;
+
+        return $this;
+    }
+
+    public function getTaxRegistrationDetails(): TaxRegistrationDetails
+    {
+        return $this->taxRegistrationDetails;
+    }
+
+    public function setTaxRegistrationDetails(TaxRegistrationDetails $taxRegistrationDetails): self
+    {
+        $this->taxRegistrationDetails = $taxRegistrationDetails;
+
+        return $this;
+    }
+
+    public function toArray(): array
+    {
+        return [
+            'partyId' => $this->partyId,
+            'address' => $this->address->toArray(),
+            'taxRegistrationDetails' => $this->taxRegistrationDetails->toArray()
+        ];
+    }
+}

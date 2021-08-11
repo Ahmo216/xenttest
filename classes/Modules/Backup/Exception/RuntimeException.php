@@ -1,29 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPxIwHv38XhodqWpIisSRkYfD0HKlyQLpRDv7rY2LRu5vpm1WpPGaoSd4XGTNZy/QhExgTnB6
-SndoZUmw535lBM3++3kpOBx4ofjToq4aIJ/XSOKC6BxRj4MayaJCbqweM6ZlQV+Qp1Nsh/mZeDLe
-Cm7Gd3wWH/9HiDvWvxyFE4R/Dj6jiyPuk4LtIVZrsgjhpjN3ra4D5JLeByfBf5JIxx+57X1iL/kH
-XFT7K7NorsszVObfBhust8dpePxgZlO8s0NygpYMdKOZdwN/FPPDTPRQG8/sE8JBElsTgaP0QpWn
-GaN08umgg29DbaEie4xLFdTpltg5REvaTPV0mlnoMaQAvDvi71cgS5N3Thk/dIXGJqaSvCyqabGt
-2YQLatXABKbdD4KyPI+HaJREQ54tJpV7K1XSILDr3UcDRmeARLlratF/O6yo6+qz2auI/Tr1jgUQ
-vaA4fqIq6uZ5Dq5MaPmugdjIoYDkvK8jR5JI1l/WCsatcvdRkVgHsKnjlhk8iGwjdjldwc6Mtbjh
-dlx1GPvOcoQU+wA4H9I032mj3NLdcAhqr13Yh8zZ5qDOeRyr6z0+BaVqVTFBCu6JP4lvZX8ie7nO
-PPg1l48IbjBWvpTl5eeq4BcP2Czxp65ECv024Db3Iw3DZNQ/AzVWRWaf0YAfI7+aEwGaD1jvB4sc
-rje3n6NI29Wg/SklWkWzKIEJT++b9nmjaT73HfoZPBB4ZfGZ15nxNkEl0p0N5Q38Srjay5DqwfDK
-ccx5z860Ui7fXKuUZT35G0iWH8RkdDXNMeBsjn1LNuzmO7SmAGpw9yVHkIkhsh9RvzgCThT/tHY9
-2nK3ttNZ+np+5E++gTUkfsi89D3XchZoCx4tLkxHB9gOoTPch6DnbS8K43xN4x2ev88apnIb30zy
-yHKd8HuQaA9vnJzNqNMKmftTRKsZFZXqmPvoycxDMWgRoPaKCYCebPeUzOIkMpdWkXyvWlu/QgGr
-fSi7jXQ3L6zkvjNB0n9kHhNeEulG5+fKasiDaldTAeL4BrSoTe9jeCypvh8owzGDvguVMDNeU7R/
-O9fe1DlLXeHrEGxot3Qs6d9Ff6aJRh2TR06c/oMS1BrQgQl/a91ko0FvRHujorwK0ujxCGkf+oC/
-rvoFdgq6M6rDDg47OK1Rf4yOBjp2Jd2HYifkVSoUvS/ZbEigSNlpDW/u2g/882FLJkq/4Eif5YIF
-8GoSHe8zItZCWNxPfPahODoz/eAmNMFKp8Gs4fK8twF/av7IBHCOO1dOCR0J+rjyKI3V1jEe8ig6
-aar2Sq4fhyizxZKKN15erLymCUa0l86vJWvRLEnH7hVtaksN9jCxPOxH33TTaxC5TiHz/INW47Ne
-jmHdVhBBbXjeQ87b9phfwZDze9ZEVypx0GhS2+PBUjngL3MiHEDw1rSlZDXq4MvvwQKYSaZby6UY
-6BIF+DbZ2FzUu9YfuSBBKbDUznSUyEJGtbc02oMs6YgASXDFPQ620dDzWN+3ld0pVNF5npsZtjks
-N2loaPirFny3o/BH4soH+CpPyr41P8ingbCehv876J2HUO8F4xSfz01Q5p9SVPujpOlN1yhYhf9/
-BB8FdOgB8GEHoalEmjFUVuuROZcQfmXSopCsW0af8Iuf5kANU7oZTHOv2U8SHonIl4p13xlwKdWD
-2oZUa2ZMtaXiY6bZPQaLPY2wM52aIvV5NoFR8ijyczZtsCvT6KCLaA1ZQcsBnbvCcuvCrSMcT4dV
-/mYKx9ixxE2zNdwB3R5MoI8olRf/jdaKdErTJmjvweg/2BLNJwkYQYqrWIGDj810Ie8M1cZFQlAF
-ZRuIxj9IwU0+RgbhzmVE/9iXAFN5JQNV9Ztoaf/mtaGMVQVtQo1aQVQ8QIR5kyBc1EV59ay0yZ/Y
-yqgfJoEvHW==
+<?php
+
+namespace Xentral\Modules\Backup\Exception;
+
+use RuntimeException as SplRuntimeException;
+
+class RuntimeException extends SplRuntimeException implements BackupExceptionInterface
+{
+}

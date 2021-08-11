@@ -1,131 +1,221 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-nZtDVbLd3I0WwS1y0KQEb/Q/iu9UhG==
+<?php
+
+namespace Xentral\Widgets\DataTable\Service;
+
+use Xentral\Components\Database\Database;
+use Xentral\Widgets\DataTable\Column\ColumnCollection;
+use Xentral\Widgets\DataTable\DataTableBuildConfig;
+use Xentral\Widgets\DataTable\Exception\BuildFailedException;
+use Xentral\Widgets\DataTable\Options\DataTableOptions;
+use Xentral\Widgets\DataTable\DataTableInterface;
+use Xentral\Widgets\DataTable\Feature\DataTableFeatureInterface;
+use Xentral\Widgets\DataTable\Feature\FeatureCollection;
+use Xentral\Widgets\DataTable\Filter\FilterCollection;
+use Xentral\Widgets\DataTable\PreparedDataTable;
+use Xentral\Widgets\DataTable\Type\DataTableTypeInterface;
+
+final class DataTableBuilder
+{
+    /** @var Database $database */
+    private $database;
+
+    /**
+     * @param Database $database
+     */
+    public function __construct(Database $database)
+    {
+        $this->database = $database;
+    }
+
+    /**
+     * @param DataTableBuildConfig $config
+     *
+     * @throws BuildFailedException
+     *
+     * @return DataTableInterface
+     */
+    public function buildTable(DataTableBuildConfig $config)
+    {
+        if (empty(trim($config->getTableName()))) {
+            throw new BuildFailedException('Build config is incomplete. Table name is empty.');
+        }
+        if (empty(trim($config->getAjaxUrl()))) {
+            throw new BuildFailedException('Build config is incomplete. Property "ajaxUrl" is missing.');
+        }
+        if (!class_exists($config->getTableClass(), true)) {
+            throw new BuildFailedException(sprintf('DataTable class "%s" not found', $config->getTableClass()));
+        }
+        $interfaces = class_implements($config->getTableClass(), true);
+        if (!in_array(DataTableTypeInterface::class, $interfaces, true)) {
+            throw new BuildFailedException(
+                'Can not build data table. Class does not implement ' . DataTableTypeInterface::class
+            );
+        }
+
+        /** @var DataTableTypeInterface $table */
+        $className = $config->getTableClass();
+        $table = new $className();
+
+        // @todo getParent() verarbeiten
+
+        $options = new DataTableOptions();
+        $table->configureOptions($options);
+
+        $columns = new ColumnCollection();
+        $table->configureColumns($columns);
+
+        $query = $this->database->select();
+        $table->configureQuery($query);
+
+        if ($query->hasOrderBy()) {
+            throw new BuildFailedException(
+                'Sorting in "configureQuery" will be overwritten. ' .
+                'Use "setDefaultSorting" in "configureOptions" instead.'
+            );
+        }
+
+        $features = new FeatureCollection();
+        $table->configureFeatures($features);
+
+        $filters = new FilterCollection();
+        $table->configureFilters($filters);
+
+        $preparedTable = new PreparedDataTable($config, $options, $query, $columns, $features, $filters);
+        $this->prepareTable($preparedTable);
+
+        return $preparedTable;
+    }
+
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return void
+     */
+    private function prepareTable(DataTableInterface $table)
+    {
+        $this->prepareColumns($table);
+        $this->applyFeatures($table);
+        $this->prepareSorting($table);
+    }
+
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return void
+     */
+    private function applyFeatures(DataTableInterface $table)
+    {
+        /** @var DataTableFeatureInterface $feature */
+        foreach ($table->getFeatures() as $feature) {
+            $feature->modifyTable($table);
+        }
+    }
+
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return void
+     */
+    private function prepareColumns(DataTableInterface $table)
+    {
+        // Spalten aus dem SQL-Query holen
+        $query = $table->getBaseQuery();
+        $columnNames = $query->getCols();
+
+        foreach ($columnNames as $alias => $fullColumnName) {
+            // Spalten mit Spaltenaliasen zuerst behandeln (easy)
+            $column = $table->getColumns()->getByName($alias);
+            if ($column !== null) {
+                $column->setDbColumn($fullColumnName);
+                continue;
+            }
+
+            // Tabellenalias aus Spaltenname entfernen
+            $shortColumnName = $this->extractNameFromColumn($fullColumnName);
+            $column = $table->getColumns()->getByName($shortColumnName);
+            if ($column !== null) {
+                $column->setDbColumn($fullColumnName);
+            }
+        }
+    }
+
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return void
+     */
+    private function prepareSorting(DataTableInterface $table)
+    {
+        $columnNames = array_column($table->getColumns()->toArray(), 'data');
+        $defaultSorting = $table->getOptions()->getDefaultSorting();
+        $postSorting = $table->getOptions()->getPostSorting();
+        $preSorting = $table->getOptions()->getPreSorting();
+
+        $defaultSorting = $this->translateSortingValues($columnNames, $defaultSorting);
+        $postSorting = $this->translateSortingValues($columnNames, $postSorting);
+        $preSorting = $this->translateSortingValues($columnNames, $preSorting);
+
+        /**
+         * Sortierung, wenn nichts gesetzt ist; Benutzer-Sortierung überschreibt diesen Wert
+         *
+         * @see https://datatables.net/reference/option/order
+         */
+        if (empty($defaultSorting)) {
+            $defaultSorting = [[0, 'asc']];
+        }
+        $table->getOptions()->setOption('order', $defaultSorting);
+
+        /**
+         * Vor- und Nach-Sortierung; Kann vom Benutzer nicht geändert werden
+         *
+         * @see https://datatables.net/reference/option/orderFixed
+         */
+        if (!empty($preSorting)) {
+            $orderFixed['pre'] = $preSorting;
+        }
+        if (!empty($postSorting)) {
+            $orderFixed['post'] = $postSorting;
+        }
+        if (!empty($orderFixed)) {
+            $table->getOptions()->setOption('orderFixed', $orderFixed);
+        } else {
+            $table->getOptions()->removeOption('orderFixed');
+        }
+    }
+
+    /**
+     * @example ['lagerbestand' => 'DESC', 'bezeichnung' => 'ASC'] wird zu [[3, 'desc'], [1, 'asc']]
+     *
+     * @param array $columnNames
+     * @param array $sortingValues
+     *
+     * @return array
+     */
+    private function translateSortingValues($columnNames, $sortingValues)
+    {
+        $result = [];
+
+        foreach ($sortingValues as $columnName => $sortOrder) {
+            $columnIndex = array_search($columnName, $columnNames, true);
+            if ($columnIndex !== false) {
+                $result[] = [$columnIndex, strtolower($sortOrder)];
+            }
+        }
+
+        return $result;
+    }
+
+    /**
+     * @param string $column
+     *
+     * @return string
+     */
+    private function extractNameFromColumn($column)
+    {
+        if ($pos = strrpos($column, '.')) {
+            return substr($column, $pos + 1);
+        }
+
+        return $column;
+    }
+}

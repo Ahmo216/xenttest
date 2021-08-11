@@ -57,8 +57,9 @@ final class DocumentGateway
             b.ort AS `customer_city`, 
             b.land AS `customer_country`, 
             b.ust_befreit AS `vat_free`, 
-            au.internet AS `internet`
-            FROM rechnung b 
+            au.internet AS `internet`,
+            au.transaktionsnummer AS `transaction_number`
+            FROM `rechnung` AS `b` 
             LEFT JOIN `adresse` AS `a` ON a.id = b.adresse 
             LEFT JOIN `auftrag` AS `au` ON au.id = b.auftragid
             WHERE b.datum BETWEEN :from AND :till 
@@ -179,8 +180,8 @@ final class DocumentGateway
             v.projekt `project`,
             {$dateFilter} AS `document_date`, 
             DATE_FORMAT({$dateFilter},'%Y-%m') AS `year_month`, 
-            v.rechnung AS `document_number`, 
-            v.betrag AS `debit`, 
+            IF(v.rechnung <> '', v.rechnung, v.belegnr) AS `document_number`, 
+            v.betrag AS `debit`,
             v.waehrung AS `currency`, 
             v.id AS `document_id`, 
             v.adresse AS `address_id`, 
@@ -194,9 +195,11 @@ final class DocumentGateway
             a.ort AS `customer_city`, 
             a.land AS `customer_country`,
             0 AS `vat_free`, 
-            '' AS `internet`
+            '' AS `internet`,
+            vk.id AS `account_assignment`,
+            v.belegnr
           FROM `verbindlichkeit` AS `v`
-          INNER JOIN `verbindlichkeit_kontierung` AS `vk` ON v.id = vk.verbindlichkeit
+          LEFT JOIN `verbindlichkeit_kontierung` AS `vk` ON v.id = vk.verbindlichkeit
           LEFT JOIN `adresse` AS `a` ON a.id = v.adresse 
           WHERE {$dateFilter} BETWEEN :from AND :till
           AND v.status_beleg != 'angelegt' 
@@ -217,12 +220,36 @@ final class DocumentGateway
             return [];
         }
 
+        $this->ensureLiabilitiesWithAccountAssignments($results);
+
         $return = [];
         foreach ($results as $result) {
             $return[] = DocumentData::fromDbState($result);
         }
 
         return $return;
+    }
+
+    private function ensureLiabilitiesWithAccountAssignments(array $results): void
+    {
+        $liabilitiesWithoutAssignments = array_map(
+            function (array $liability) {
+                return '<a target="_blank" href="index.php?module=verbindlichkeit&action=edit&id='
+                    . $liability['document_id']
+                    . '">'
+                    . ($liability['belegnr'] ?: $liability['document_id'])
+                    . '</a>';
+            },
+            array_filter(
+                $results,
+                function (array $liability) {
+                return $liability['account_assignment'] === null;
+            }
+            )
+        );
+        if (!empty($liabilitiesWithoutAssignments)) {
+            throw new \RuntimeException(trans_choice('{1}Die Verbindlichkeit :liabilities hat keine Vorkontierung|Die Verbindlichkeiten :liabilities haben keine Vorkontierung.', count($liabilitiesWithoutAssignments), ['liabilities' => implode(', ', $liabilitiesWithoutAssignments)]));
+        }
     }
 
     /**

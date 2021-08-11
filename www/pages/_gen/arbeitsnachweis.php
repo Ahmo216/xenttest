@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-2M7ImntvbCQiJVRiEghbElhDW7kZGxkghCNj
+<?php 
+
+class GenArbeitsnachweis { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","ArbeitsnachweisCreate");
+    $this->app->ActionHandler("edit","ArbeitsnachweisEdit");
+    $this->app->ActionHandler("copy","ArbeitsnachweisCopy");
+    $this->app->ActionHandler("list","ArbeitsnachweisList");
+    $this->app->ActionHandler("delete","ArbeitsnachweisDelete");
+
+    $this->app->Tpl->Set("HEADING","Arbeitsnachweis");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function ArbeitsnachweisCreate(){
+    $this->app->Tpl->Set("HEADING","Arbeitsnachweis (Anlegen)");
+      $this->app->PageBuilder->CreateGen("arbeitsnachweis_create.tpl");
+  }
+
+  function ArbeitsnachweisEdit(){
+    $this->app->Tpl->Set("HEADING","Arbeitsnachweis (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("arbeitsnachweis_edit.tpl");
+  }
+
+  function ArbeitsnachweisCopy(){
+    $this->app->Tpl->Set("HEADING","Arbeitsnachweis (Kopieren)");
+      $this->app->PageBuilder->CreateGen("arbeitsnachweis_copy.tpl");
+  }
+
+  function ArbeitsnachweisDelete(){
+    $this->app->Tpl->Set("HEADING","Arbeitsnachweis (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("arbeitsnachweis_delete.tpl");
+  }
+
+  function ArbeitsnachweisList(){
+    $this->app->Tpl->Set("HEADING","Arbeitsnachweis (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("arbeitsnachweis_list.tpl");
+  }
+
+} 
+?>

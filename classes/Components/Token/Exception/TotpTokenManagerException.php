@@ -1,30 +1,7 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Token\Exception;
+
+class TotpTokenManagerException extends \RuntimeException implements TotpTokenManagerExceptionInterface
+{
+}

@@ -1,55 +1,108 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Pipedrive\Wrapper;
+
+use Xentral\Components\Database\Database;
+
+final class PipedriveResubmissionWrapper
+{
+    /** @var Database $db */
+    private $db;
+
+    public function __construct(Database $db)
+    {
+        $this->db = $db;
+    }
+
+    /**
+     * @param array $deal
+     *
+     * @return int
+     */
+    public function addResubmission(array $deal): int
+    {
+        $this->db->perform(
+            'INSERT INTO `wiedervorlage` (`bezeichnung`,
+                             `datum_angelegt`,
+                             `zeit_angelegt`,
+                             `datum_erinnerung`,
+                             `zeit_erinnerung`,
+                             `stages`,
+                             `chance`,
+                             `beschreibung`,
+                             `ergebnis`)
+                    VALUES(:bezeichnung,
+                           :datum_angelegt,
+                           :zeit_angelegt,
+                           :datum_erinnerung,
+                           :zeit_erinnerung,
+                           :stages,
+                           :chance, \'\', \'\'
+                           )',
+            $deal
+        );
+
+        return $this->db->lastInsertId();
+    }
+
+    /**
+     * @param int   $resubmissionId
+     * @param array $deal
+     *
+     * @return void
+     */
+    public function updateResubmission(int $resubmissionId, array $deal): void
+    {
+        $sql = sprintf(
+            'UPDATE `wiedervorlage`
+                 SET `chance` = :chance, `bezeichnung` = :bezeichnung, `datum_angelegt` = :datum_angelegt,
+                         `zeit_angelegt` = :zeit_angelegt, `datum_erinnerung` = :datum_erinnerung,
+                         `zeit_erinnerung` = :zeit_erinnerung, `stages` = :stages
+                 WHERE id = %d',
+            $resubmissionId
+        );
+
+        $this->db->perform($sql, $deal);
+    }
+
+    /**
+     * @param string $name
+     * @param string $shortName
+     * @param int    $project
+     *
+     * @return int
+     */
+    public function addResubmissionView(string $name, string $shortName, int $project = 0): int
+    {
+        $this->db->perform(
+            'INSERT INTO `wiedervorlage_view` (`name`, `shortname`, `project`, `active`)
+             VALUES (:name, :desc_short, :project, 1)',
+            [
+                'name'       => $name,
+                'desc_short' => $shortName,
+                'project'    => $project,
+            ]
+        );
+
+        return $this->db->lastInsertId();
+    }
+
+    /**
+     * @param array $stage
+     *
+     * @return int
+     */
+    public function addResubmissionStage(array $stage): int
+    {
+        $this->db->perform(
+            'INSERT INTO `wiedervorlage_stages` (`kurzbezeichnung`, `name`,
+                                    `stageausblenden`, `sort`, `view`, `ausblenden`)
+                            VALUES(:desc, :name,:enabled, :position,:wiedervorlage_view_id,:ausblenden)',
+            $stage
+        );
+
+        return $this->db->lastInsertId();
+    }
+}

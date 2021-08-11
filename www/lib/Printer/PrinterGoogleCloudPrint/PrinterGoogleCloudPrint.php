@@ -1,116 +1,156 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-lCJV
+<?php
+
+use Xentral\Components\HttpClient\Exception\TransferErrorExceptionInterface;
+use Xentral\Components\HttpClient\HttpClient;
+use Xentral\Components\HttpClient\RequestOptions;
+use Xentral\Modules\GoogleApi\Exception\GoogleAccountNotFoundException;
+use Xentral\Modules\GoogleApi\Service\GoogleAccountGateway;
+use Xentral\Modules\GoogleApi\Service\GoogleAuthorizationService;
+
+class PrinterGoogleCloudPrint extends PrinterBase
+{
+  /** @var string */
+  private $url = 'https://www.google.com/cloudprint/';
+
+  /** @var string URL_SEARCH */
+  private const URL_SEARCH = 'https://www.google.com/cloudprint/search';
+
+  /** @var string URL_PRINT */
+  private const URL_PRINT = 'https://www.google.com/cloudprint/submit';
+
+  /** @var string */
+  private const URL_JOBS = 'https://www.google.com/cloudprint/jobs';
+
+    /** @var string */
+  private const URL_PRINTER = 'https://www.google.com/cloudprint/printer';
+
+  /** @var HttpClient $client */
+  private $client;
+
+  /**
+   * PrinterGoogleCloudPrint constructor.
+   *
+   * @param Application $app
+   * @param int         $id
+   */
+  public function __construct($app, $id)
+  {
+    parent::__construct($app, $id);
+    $token = $this->getAuthToken();
+    $options = new RequestOptions();
+    $options->setHeader('Authorization', sprintf('Bearer %s', $token));
+    $this->client = new HttpClient($options);
+    $this->app->ModuleScriptCache->IncludeJavascriptFiles(
+        'drucker',
+        ['./classes/Modules/GoogleCloudPrint/www/js/PrinterGoogleCloudPrint.js']
+    );
+  }
+
+  /**
+   * @return string
+   */
+  public static function getName() {
+    return 'Google Cloud Print';
+  }
+
+  /**
+   * @return array
+   */
+  public function getPrinters()
+  {
+    try {
+        $response = $this->client->request('GET', self::URL_SEARCH);
+        $result = json_decode($response->getBody()->getContents(), true);
+
+        return $result['printers'];
+    } catch (Exception $e) {
+        return [];
+    }
+  }
+
+  /**
+   * @return array
+   */
+  public function SettingsStructure()
+  {
+    $googlePrinters = [];
+    try {
+        $googlePrinterArr = $this->getPrinters();
+    } catch (Exception $e) {
+        return [];
+    }
+    foreach($googlePrinterArr as $item) {
+        $googlePrinters[$item['id']] = sprintf('%s:%s', $item['displayName'], $item['connectionStatus']);
+    }
+
+    return [
+        'google_printer' => ['bezeichnung' => 'Drucker:','typ' => 'select', 'optionen' => $googlePrinters],
+    ];
+  }
+
+  /**
+   * @param string $document
+   * @param int    $count
+   *
+   * @return bool
+   */
+  public function printDocument($document, $count = 1)
+  {
+    if(empty($this->settings['google_printer'])) {
+      return false;
+    }
+    if($count < 1) {
+      $count = 1;
+    }
+    $title = '';
+    $contenttype = 'application/pdf';
+    if(is_file($document)) {
+      $title = basename($document);
+      $document = file_get_contents($document);
+    }
+    $title .= date('YmdHis');
+    $titleFirst = $title;
+    for($i = 1; $i <= $count; $i++) {
+      if($i > 1) {
+        $title = $titleFirst.$i;
+      }
+      $postFields = array(
+        'printerid' => $this->settings['google_printer'],
+        'title' => $title,
+        'contentTransferEncoding' => 'base64',
+        'content' => base64_encode($document),
+        'contentType' => $contenttype
+      );
+      try {
+          $response = $this->client->request('POST', self::URL_PRINT, [], json_encode($postFields));
+          $data = json_decode($response->getBody()->getContents(), true);
+
+          return (isset($data['success']) && $data['success'] === true);
+      } catch (TransferErrorExceptionInterface $e) {
+          return false;
+      }
+    }
+    return true;
+  }
+
+  protected function getAuthToken()
+  {
+      try {
+          /** @var GoogleAccountGateway $gateway */
+          $gateway = $this->app->Container->get('GoogleAccountGateway');
+          $account = $gateway->getCloudPrintAccount();
+          $token = $gateway->getAccessToken($account->getId());
+      } catch (GoogleAccountNotFoundException $e) {
+          throw new GoogleAccountNotFoundException($e->getMessage(), $e->getCode(), $e);
+      } catch (Exception $e) {
+          $token = null;
+      }
+      if ($token === null || $token->getTimeToLive() < 10) {
+          /** @var GoogleAuthorizationService $auth */
+          $auth = $this->app->Container->get('GoogleAuthorizationService');
+          $token = $auth->refreshAccessToken($account);
+      }
+
+      return $token->getToken();
+  }
+}

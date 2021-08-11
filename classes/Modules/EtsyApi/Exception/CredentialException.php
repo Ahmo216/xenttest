@@ -1,29 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPrVHzInuEyu3GcTW3rU3SNsyk4t6Bh1d94cPGBVnq/a7Z0DNe5kQs6pZA9/6l8Jfz6VnwKuQ
-W3ZAjkU0ipqFNTorfLp+D4swjz2UawyJbYlMRFF0pGDg/iqmbMtmYS/MExRJ8PFjxC+utQZZLZKU
-RdITssuK+xo4lbnIMq/0Wr8B6JVm5qoL4x1pCZk3cho44l/wIy5GPYAmWYQnMzC58Q26uTG8Ujt4
-XWWSibr4zLa5Uz04wqtT6FFg27M6Vz4xwSkVu/isnw0fFRakVZKVd+6mcWnljL8PP2dt8/L/vAAP
-nHToSGop9loMr+//7w63OTksU763/rPrk3w+5psv7CTbHiBbBgRuEKaeOhk/dIXGJqaSvCyqabGt
-2YOnaKiUXn2GeoXuiZAHqQ+3L5J91G9ti8+eQXdtR46IX6LNdTMHzSu1nztlea63Uhj/TY52Pxel
-LhZNEGQzzkSzMh3nr/B0zL/9fEmKkJC+vs2wr26rF/nJq7tZtDgRHaPL+5w70Q6KCIAgXbx3KMal
-Q6biRM0AbqwXocHnYeJv86LldJGoyeW7AHS+hgWvoSI4G+Dnhcg664LZ3AEfiGcyoWlK2zsyDrg3
-qFNz+w943wmFzazIZxhgzzrrHXK2kfkPpJZNFNK8d9mHFKMjCBtQ4vttU4KarBl9yINl+JHPw4hR
-schKxkrf6gF93AxeiNxsJeFCOocrvhA8CvqphRAyYxoEp+lWJ5ruPnkd5qZ5Ia4zeojDQO7cNOhx
-42vrQYjWSlDqBhcpMtxwv6dU63LGZ3ibHT0IWak7PlKq8dvRyXFTV00SP8eA+icsjB02h0n+2YDp
-T2EVGfNyGhxofePehY7udCOlLYBSp9MdPSVh9O/JN/wjtN8EKXqc2SEAfus+FPKVWt27Q4K6GVym
-/RB8SrQa/EXFgqLJO/N7QsN+2XQqtiXbTuRqpNIe70/DEWhgjRzPpHwBKjfTi4a1kcR78wQPqr0U
-bFgqhBVLPgCSdH/BLMtmigoTMITZkB/LXv91vhQGSSeHwRELpPDzy5I2I79IBmMMi/KwB/wrVKjy
-0bIzHQuuhaSSE+uYZFYtVvRBCvtPGujptJF/FLoRcLcV8GGIctX4yOnMoBw2OjfiYFT3EYGE7Dm+
-428LhTa/rIHDejgyMsqcoy+a5KMCj9wM7p4uZS666gDqw82tk/o/Nxu6j8cFppVd+6DZlJRk3R9p
-Cr8Tpg2tIcKm3Fx72cjxd+X6gSCkhp8dWC7GXBOlUP+2CzExCx7LyIb59BoAdg00axyuRenhv56U
-wQn9JV/JdlSPxzpoxN45+EWKAVIlClLuIIrhOdsNX8Vk6z/rQrvdQCJfIjZ8KrVD45w0/Syox8oW
-YEMRNUDNuzZzG0ekXwqUB/cpCVGHS7m6GqHU9tfuf8VdBTZy+btf0FP9WDH+xv0Q7jjh+oxh2yHJ
-Y9H+CMmQVCPGV9wJ9tomYW1DYfmbj35ibBzGgG4RBhsQSmXtovVuQwg5lvfMzTp4ikGTfb16l/Qa
-d5HorA86B9nxwXCunsCCm5Hxxpz/MqmKCftBQzEf1UuLoU/UNzNMc5fop4Q1GVlIdeiJOx32G8/B
-+U9BSEreXYXOJ/KUE+fDMHJcPHOGYgeHMI47fpySsunz+UccFVYRCAMEfc96thCsCrVR+REoh5UY
-Jkfc1tC4Hb3q9ZJk+lbXI1YtYvDrleenYsfnEXUgUwb9Tg0GRlvjnyDeBDdwJDqlUsiBzm9t9p+r
-cXCUOeYWvvtDQOwy2ihpYjsagcOV3emXc0UPzaPr3hJ+i70isd+3twVehC1/bVG+LaEOPtL95OmB
-ixnSSKWHWCATOeTft3lTyQc6GzD5O4CwPVtl1vRczu4CihglCQclnHAgz483Q4/CjVyc6e5I4q6G
-DNBwJIoEnNmKh0eHFVGUYGBtFgPZfP96gem=
+<?php
+
+namespace Xentral\Modules\EtsyApi\Exception;
+
+use RuntimeException as SplRuntimeException;
+
+class CredentialException extends SplRuntimeException implements EtsyApiExceptionInterface
+{
+}

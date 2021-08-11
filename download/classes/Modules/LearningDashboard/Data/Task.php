@@ -1,56 +1,64 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\LearningDashboard\Data;
+
+final class Task implements \JsonSerializable
+{
+    /** @var array */
+    private $data;
+
+    /**
+     * Task constructor.
+     *
+     * @param array $data
+     */
+    public function __construct(array $data)
+    {
+        $this->data = $data;
+    }
+
+    /**
+     * @return array
+     */
+    public function getData(): array
+    {
+        return $this->data;
+    }
+
+    /** @return array */
+    public function getProgress(): array
+    {
+        $stepCount = 0;
+        $completedStepCount = 0;
+        foreach ($this->data['step_groups'] as $stepGroupName => $stepGroupContent) {
+            $stepCount++;
+
+            if (isset($stepGroupContent['completed']) && $stepGroupContent['completed'] === true) {
+                $completedStepCount++;
+            }
+        }
+
+        return [
+            'complete' => $completedStepCount,
+            'total'    => $stepCount,
+        ];
+    }
+
+    /** @return array */
+    public function jsonSerialize()
+    {
+        return [
+            'key'                 => $this->data['key'],
+            'title'               => $this->data['title'],
+            'category'            => $this->data['category'],
+            'sub_title'           => $this->data['sub_title'],
+            'description'         => $this->data['description'],
+            'missing_modules'     => $this->data['missing_modules'],
+            'missing_permissions' => $this->data['missing_permissions'],
+            'link'                => "index.php?module=wizard&action=ajax&cmd=set_active_wizard&key={$this->data['key']}",
+            'progress'            => $this->getProgress(),
+        ];
+    }
+}

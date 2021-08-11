@@ -1,341 +1,348 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-e8YFPtHm2kUvaClZHSjoXbxakmyoJx72mgoE
+<?php
+
+class ObjGenAufgabe
+{
+
+  private  $id;
+  private  $adresse;
+  private  $aufgabe;
+  private  $beschreibung;
+  private  $prio;
+  private  $projekt;
+  private  $kostenstelle;
+  private  $initiator;
+  private  $angelegt_am;
+  private  $startdatum;
+  private  $startzeit;
+  private  $intervall_tage;
+  private  $stunden;
+  private  $abgabe_bis;
+  private  $abgeschlossen;
+  private  $abgeschlossen_am;
+  private  $sonstiges;
+  private  $bearbeiter;
+  private  $logdatei;
+  private  $startseite;
+  private  $oeffentlich;
+  private  $emailerinnerung;
+  private  $emailerinnerung_tage;
+  private  $note_x;
+  private  $note_y;
+  private  $note_z;
+  private  $note_color;
+  private  $pinwand;
+  private  $vorankuendigung;
+  private  $status;
+  private  $ganztags;
+  private  $zeiterfassung_pflicht;
+  private  $zeiterfassung_abrechnung;
+  private  $kunde;
+  private  $pinwand_id;
+  private  $sort;
+  private  $abgabe_bis_zeit;
+  private  $email_gesendet_vorankuendigung;
+  private  $email_gesendet;
+  private  $teilprojekt;
+
+  public $app;            //application object 
+
+  public function __construct($app)
+  {
+    $this->app = $app;
+  }
+
+  public function Select($id)
+  {
+    if(is_numeric($id))
+      $result = $this->app->DB->SelectArr("SELECT * FROM aufgabe WHERE (id = '$id')");
+    else
+      return -1;
+
+$result = $result[0];
+
+    $this->id=$result['id'];
+    $this->adresse=$result['adresse'];
+    $this->aufgabe=$result['aufgabe'];
+    $this->beschreibung=$result['beschreibung'];
+    $this->prio=$result['prio'];
+    $this->projekt=$result['projekt'];
+    $this->kostenstelle=$result['kostenstelle'];
+    $this->initiator=$result['initiator'];
+    $this->angelegt_am=$result['angelegt_am'];
+    $this->startdatum=$result['startdatum'];
+    $this->startzeit=$result['startzeit'];
+    $this->intervall_tage=$result['intervall_tage'];
+    $this->stunden=$result['stunden'];
+    $this->abgabe_bis=$result['abgabe_bis'];
+    $this->abgeschlossen=$result['abgeschlossen'];
+    $this->abgeschlossen_am=$result['abgeschlossen_am'];
+    $this->sonstiges=$result['sonstiges'];
+    $this->bearbeiter=$result['bearbeiter'];
+    $this->logdatei=$result['logdatei'];
+    $this->startseite=$result['startseite'];
+    $this->oeffentlich=$result['oeffentlich'];
+    $this->emailerinnerung=$result['emailerinnerung'];
+    $this->emailerinnerung_tage=$result['emailerinnerung_tage'];
+    $this->note_x=$result['note_x'];
+    $this->note_y=$result['note_y'];
+    $this->note_z=$result['note_z'];
+    $this->note_color=$result['note_color'];
+    $this->pinwand=$result['pinwand'];
+    $this->vorankuendigung=$result['vorankuendigung'];
+    $this->status=$result['status'];
+    $this->ganztags=$result['ganztags'];
+    $this->zeiterfassung_pflicht=$result['zeiterfassung_pflicht'];
+    $this->zeiterfassung_abrechnung=$result['zeiterfassung_abrechnung'];
+    $this->kunde=$result['kunde'];
+    $this->pinwand_id=$result['pinwand_id'];
+    $this->sort=$result['sort'];
+    $this->abgabe_bis_zeit=$result['abgabe_bis_zeit'];
+    $this->email_gesendet_vorankuendigung=$result['email_gesendet_vorankuendigung'];
+    $this->email_gesendet=$result['email_gesendet'];
+    $this->teilprojekt=$result['teilprojekt'];
+  }
+
+  public function Create()
+  {
+    $sql = "INSERT INTO aufgabe (id,adresse,aufgabe,beschreibung,prio,projekt,kostenstelle,initiator,angelegt_am,startdatum,startzeit,intervall_tage,stunden,abgabe_bis,abgeschlossen,abgeschlossen_am,sonstiges,bearbeiter,logdatei,startseite,oeffentlich,emailerinnerung,emailerinnerung_tage,note_x,note_y,note_z,note_color,pinwand,vorankuendigung,status,ganztags,zeiterfassung_pflicht,zeiterfassung_abrechnung,kunde,pinwand_id,sort,abgabe_bis_zeit,email_gesendet_vorankuendigung,email_gesendet,teilprojekt)
+      VALUES('','{$this->adresse}','{$this->aufgabe}','{$this->beschreibung}','{$this->prio}','{$this->projekt}','{$this->kostenstelle}','{$this->initiator}','{$this->angelegt_am}','{$this->startdatum}','{$this->startzeit}','{$this->intervall_tage}','{$this->stunden}','{$this->abgabe_bis}','{$this->abgeschlossen}','{$this->abgeschlossen_am}','{$this->sonstiges}','{$this->bearbeiter}','{$this->logdatei}','{$this->startseite}','{$this->oeffentlich}','{$this->emailerinnerung}','{$this->emailerinnerung_tage}','{$this->note_x}','{$this->note_y}','{$this->note_z}','{$this->note_color}','{$this->pinwand}','{$this->vorankuendigung}','{$this->status}','{$this->ganztags}','{$this->zeiterfassung_pflicht}','{$this->zeiterfassung_abrechnung}','{$this->kunde}','{$this->pinwand_id}','{$this->sort}','{$this->abgabe_bis_zeit}','{$this->email_gesendet_vorankuendigung}','{$this->email_gesendet}','{$this->teilprojekt}')"; 
+
+    $this->app->DB->Insert($sql);
+    $this->id = $this->app->DB->GetInsertID();
+  }
+
+  public function Update()
+  {
+    if(!is_numeric($this->id))
+      return -1;
+
+    $sql = "UPDATE aufgabe SET
+      adresse='{$this->adresse}',
+      aufgabe='{$this->aufgabe}',
+      beschreibung='{$this->beschreibung}',
+      prio='{$this->prio}',
+      projekt='{$this->projekt}',
+      kostenstelle='{$this->kostenstelle}',
+      initiator='{$this->initiator}',
+      angelegt_am='{$this->angelegt_am}',
+      startdatum='{$this->startdatum}',
+      startzeit='{$this->startzeit}',
+      intervall_tage='{$this->intervall_tage}',
+      stunden='{$this->stunden}',
+      abgabe_bis='{$this->abgabe_bis}',
+      abgeschlossen='{$this->abgeschlossen}',
+      abgeschlossen_am='{$this->abgeschlossen_am}',
+      sonstiges='{$this->sonstiges}',
+      bearbeiter='{$this->bearbeiter}',
+      logdatei='{$this->logdatei}',
+      startseite='{$this->startseite}',
+      oeffentlich='{$this->oeffentlich}',
+      emailerinnerung='{$this->emailerinnerung}',
+      emailerinnerung_tage='{$this->emailerinnerung_tage}',
+      note_x='{$this->note_x}',
+      note_y='{$this->note_y}',
+      note_z='{$this->note_z}',
+      note_color='{$this->note_color}',
+      pinwand='{$this->pinwand}',
+      vorankuendigung='{$this->vorankuendigung}',
+      status='{$this->status}',
+      ganztags='{$this->ganztags}',
+      zeiterfassung_pflicht='{$this->zeiterfassung_pflicht}',
+      zeiterfassung_abrechnung='{$this->zeiterfassung_abrechnung}',
+      kunde='{$this->kunde}',
+      pinwand_id='{$this->pinwand_id}',
+      sort='{$this->sort}',
+      abgabe_bis_zeit='{$this->abgabe_bis_zeit}',
+      email_gesendet_vorankuendigung='{$this->email_gesendet_vorankuendigung}',
+      email_gesendet='{$this->email_gesendet}',
+      teilprojekt='{$this->teilprojekt}'
+      WHERE (id='{$this->id}')";
+
+    $this->app->DB->Update($sql);
+  }
+
+  public function Delete($id="")
+  {
+    if(is_numeric($id))
+    {
+      $this->id=$id;
+    }
+    else
+      return -1;
+
+    $sql = "DELETE FROM aufgabe WHERE (id='{$this->id}')";
+    $this->app->DB->Delete($sql);
+
+    $this->id="";
+    $this->adresse="";
+    $this->aufgabe="";
+    $this->beschreibung="";
+    $this->prio="";
+    $this->projekt="";
+    $this->kostenstelle="";
+    $this->initiator="";
+    $this->angelegt_am="";
+    $this->startdatum="";
+    $this->startzeit="";
+    $this->intervall_tage="";
+    $this->stunden="";
+    $this->abgabe_bis="";
+    $this->abgeschlossen="";
+    $this->abgeschlossen_am="";
+    $this->sonstiges="";
+    $this->bearbeiter="";
+    $this->logdatei="";
+    $this->startseite="";
+    $this->oeffentlich="";
+    $this->emailerinnerung="";
+    $this->emailerinnerung_tage="";
+    $this->note_x="";
+    $this->note_y="";
+    $this->note_z="";
+    $this->note_color="";
+    $this->pinwand="";
+    $this->vorankuendigung="";
+    $this->status="";
+    $this->ganztags="";
+    $this->zeiterfassung_pflicht="";
+    $this->zeiterfassung_abrechnung="";
+    $this->kunde="";
+    $this->pinwand_id="";
+    $this->sort="";
+    $this->abgabe_bis_zeit="";
+    $this->email_gesendet_vorankuendigung="";
+    $this->email_gesendet="";
+    $this->teilprojekt="";
+  }
+
+  public function Copy()
+  {
+    $this->id = "";
+    $this->Create();
+  }
+
+ /** 
+   Mit dieser Funktion kann man einen Datensatz suchen 
+   dafuer muss man die Attribute setzen nach denen gesucht werden soll
+   dann kriegt man als ergebnis den ersten Datensatz der auf die Suche uebereinstimmt
+   zurueck. Mit Next() kann man sich alle weiteren Ergebnisse abholen
+   **/ 
+
+  public function Find()
+  {
+    //TODO Suche mit den werten machen
+  }
+
+  public function FindNext()
+  {
+    //TODO Suche mit den alten werten fortsetzen machen
+  }
+
+ /** Funktionen um durch die Tabelle iterieren zu koennen */ 
+
+  public function Next()
+  {
+    //TODO: SQL Statement passt nach meiner Meinung nach noch nicht immer
+  }
+
+  public function First()
+  {
+    //TODO: SQL Statement passt nach meiner Meinung nach noch nicht immer
+  }
+
+ /** dank dieser funktionen kann man die tatsaechlichen werte einfach 
+  ueberladen (in einem Objekt das mit seiner klasse ueber dieser steht)**/ 
+
+  function SetId($value) { $this->id=$value; }
+  function GetId() { return $this->id; }
+  function SetAdresse($value) { $this->adresse=$value; }
+  function GetAdresse() { return $this->adresse; }
+  function SetAufgabe($value) { $this->aufgabe=$value; }
+  function GetAufgabe() { return $this->aufgabe; }
+  function SetBeschreibung($value) { $this->beschreibung=$value; }
+  function GetBeschreibung() { return $this->beschreibung; }
+  function SetPrio($value) { $this->prio=$value; }
+  function GetPrio() { return $this->prio; }
+  function SetProjekt($value) { $this->projekt=$value; }
+  function GetProjekt() { return $this->projekt; }
+  function SetKostenstelle($value) { $this->kostenstelle=$value; }
+  function GetKostenstelle() { return $this->kostenstelle; }
+  function SetInitiator($value) { $this->initiator=$value; }
+  function GetInitiator() { return $this->initiator; }
+  function SetAngelegt_Am($value) { $this->angelegt_am=$value; }
+  function GetAngelegt_Am() { return $this->angelegt_am; }
+  function SetStartdatum($value) { $this->startdatum=$value; }
+  function GetStartdatum() { return $this->startdatum; }
+  function SetStartzeit($value) { $this->startzeit=$value; }
+  function GetStartzeit() { return $this->startzeit; }
+  function SetIntervall_Tage($value) { $this->intervall_tage=$value; }
+  function GetIntervall_Tage() { return $this->intervall_tage; }
+  function SetStunden($value) { $this->stunden=$value; }
+  function GetStunden() { return $this->stunden; }
+  function SetAbgabe_Bis($value) { $this->abgabe_bis=$value; }
+  function GetAbgabe_Bis() { return $this->abgabe_bis; }
+  function SetAbgeschlossen($value) { $this->abgeschlossen=$value; }
+  function GetAbgeschlossen() { return $this->abgeschlossen; }
+  function SetAbgeschlossen_Am($value) { $this->abgeschlossen_am=$value; }
+  function GetAbgeschlossen_Am() { return $this->abgeschlossen_am; }
+  function SetSonstiges($value) { $this->sonstiges=$value; }
+  function GetSonstiges() { return $this->sonstiges; }
+  function SetBearbeiter($value) { $this->bearbeiter=$value; }
+  function GetBearbeiter() { return $this->bearbeiter; }
+  function SetLogdatei($value) { $this->logdatei=$value; }
+  function GetLogdatei() { return $this->logdatei; }
+  function SetStartseite($value) { $this->startseite=$value; }
+  function GetStartseite() { return $this->startseite; }
+  function SetOeffentlich($value) { $this->oeffentlich=$value; }
+  function GetOeffentlich() { return $this->oeffentlich; }
+  function SetEmailerinnerung($value) { $this->emailerinnerung=$value; }
+  function GetEmailerinnerung() { return $this->emailerinnerung; }
+  function SetEmailerinnerung_Tage($value) { $this->emailerinnerung_tage=$value; }
+  function GetEmailerinnerung_Tage() { return $this->emailerinnerung_tage; }
+  function SetNote_X($value) { $this->note_x=$value; }
+  function GetNote_X() { return $this->note_x; }
+  function SetNote_Y($value) { $this->note_y=$value; }
+  function GetNote_Y() { return $this->note_y; }
+  function SetNote_Z($value) { $this->note_z=$value; }
+  function GetNote_Z() { return $this->note_z; }
+  function SetNote_Color($value) { $this->note_color=$value; }
+  function GetNote_Color() { return $this->note_color; }
+  function SetPinwand($value) { $this->pinwand=$value; }
+  function GetPinwand() { return $this->pinwand; }
+  function SetVorankuendigung($value) { $this->vorankuendigung=$value; }
+  function GetVorankuendigung() { return $this->vorankuendigung; }
+  function SetStatus($value) { $this->status=$value; }
+  function GetStatus() { return $this->status; }
+  function SetGanztags($value) { $this->ganztags=$value; }
+  function GetGanztags() { return $this->ganztags; }
+  function SetZeiterfassung_Pflicht($value) { $this->zeiterfassung_pflicht=$value; }
+  function GetZeiterfassung_Pflicht() { return $this->zeiterfassung_pflicht; }
+  function SetZeiterfassung_Abrechnung($value) { $this->zeiterfassung_abrechnung=$value; }
+  function GetZeiterfassung_Abrechnung() { return $this->zeiterfassung_abrechnung; }
+  function SetKunde($value) { $this->kunde=$value; }
+  function GetKunde() { return $this->kunde; }
+  function SetPinwand_Id($value) { $this->pinwand_id=$value; }
+  function GetPinwand_Id() { return $this->pinwand_id; }
+  function SetSort($value) { $this->sort=$value; }
+  function GetSort() { return $this->sort; }
+  function SetAbgabe_Bis_Zeit($value) { $this->abgabe_bis_zeit=$value; }
+  function GetAbgabe_Bis_Zeit() { return $this->abgabe_bis_zeit; }
+  function SetEmail_Gesendet_Vorankuendigung($value) { $this->email_gesendet_vorankuendigung=$value; }
+  function GetEmail_Gesendet_Vorankuendigung() { return $this->email_gesendet_vorankuendigung; }
+  function SetEmail_Gesendet($value) { $this->email_gesendet=$value; }
+  function GetEmail_Gesendet() { return $this->email_gesendet; }
+  function SetTeilprojekt($value) { $this->teilprojekt=$value; }
+  function GetTeilprojekt() { return $this->teilprojekt; }
+
+}
+
+?>

@@ -1,112 +1,172 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\ScanArticle\Service;
+
+use Xentral\Components\Http\Session\Session;
+use Xentral\Modules\Article\Gateway\ArticleGateway;
+use Xentral\Components\Http\Session\SessionHandler;
+use Xentral\Modules\ScanArticle\Exception\ArticleNotFoundException;
+use Xentral\Modules\ScanArticle\Exception\InvalidArgumentException;
+use Xentral\Modules\ScanArticle\Wrapper\PriceWrapper;
+use Xentral\Modules\ScanArticle\Wrapper\SavePositionWrapper;
+
+class ScanArticleService
+{
+    /** @var ArticleGateway $articleGateway */
+    private $articleGateway;
+
+    /** @var Session $session */
+    private $session;
+
+    /** @var  PriceWrapper $priceWrapper */
+    private $priceWrapper;
+
+    /** @var SavePositionWrapper $savePositionWrapper */
+    private $savePositionWrapper;
+
+    private $segmentPrefix = 'scan_artikel_';
+    private $key = 'article';
+
+    /**
+     * @param ArticleGateway      $articleGateway
+     * @param Session             $session
+     * @param PriceWrapper        $priceWrapper
+     * @param SavePositionWrapper $savePositionWrapper
+     */
+    public function __construct(
+        ArticleGateway $articleGateway,
+        Session $session,
+        PriceWrapper $priceWrapper,
+        SavePositionWrapper $savePositionWrapper
+    ) {
+        $this->articleGateway = $articleGateway;
+        $this->session = $session;
+        $this->priceWrapper = $priceWrapper;
+        $this->savePositionWrapper = $savePositionWrapper;
+    }
+
+    /**
+     * @param string $modul
+     * @param string $number
+     * @param float $amount
+     * @param int $documentId
+     */
+    public function writeArticleToSession($modul, $number, $amount, $documentId)
+    {
+        if ($modul === 'auftrag') {
+            $articleData = $this->articleGateway->findScannableArticle($number);
+            if(empty($articleData)) {
+                $articleData = $this->articleGateway->findUniqueArticleBySerial($number);
+            }
+        } elseif ($modul === 'bestellung') {
+            $articleData = $this->articleGateway->findScannableOrderPurchaseArticle($number,$documentId);
+        } else {
+            throw new InvalidArgumentException('modul can not be: ' . $modul);
+        }
+
+        if (empty($articleData)) {
+            throw new ArticleNotFoundException('Article with number ' . $number . ' not found.');
+        }
+
+        $articleId = $articleData['id'];
+        $articleName = $articleData['name_de'];
+
+        $price=0;
+        if ($modul === 'auftrag') {
+            $price = $this->priceWrapper->getOrderSellingPrice($articleId, $amount, $documentId);
+        } elseif ($modul === 'bestellung') {
+            try{
+                $price = $this->priceWrapper->getPurchaseOrderPurchasePrice($articleId, $amount, $documentId);
+            }
+            catch(InvalidArgumentException $e){
+                $price = 0;
+            }
+        }
+
+        $sessionArticles = $this->getAllArticleDataFromSession($modul);
+        $index = count($sessionArticles) + 1;
+        $sessionArticles[] = [
+            'index'     => $index,
+            'articleId' => $articleId,
+            'number'    => $number,
+            'name'      => $articleName,
+            'amount'    => $amount,
+            'price'     => $price,
+        ];
+
+        $this->session->setValue($this->segmentPrefix . $modul, $this->key, $sessionArticles);
+        SessionHandler::commitSession($this->session);
+    }
+
+    public function getAllArticleDataFromSession($modul)
+    {
+        $data = $this->session->getValue($this->segmentPrefix . $modul, $this->key);
+        if (!empty($data)) {
+            return $data;
+        }
+
+        return [];
+    }
+
+    /**
+     * @param string $modul
+     */
+    public function clearAllArticleDataInSession($modul)
+    {
+        $this->session->setValue($this->segmentPrefix . $modul, $this->key, []);
+        SessionHandler::commitSession($this->session);
+    }
+
+    /**
+     * @param string $modul
+     * @param int    $documentId
+     */
+    public function saveSumedPositions($modul, $documentId)
+    {
+        $sessionArticlesFull = $this->getAllArticleDataFromSession($modul);
+        $sessionArticles = [];
+        $lastArticleId = 0;
+        foreach($sessionArticlesFull as $sa) {
+            if($sa['articleId'] !== $lastArticleId) {
+                $sessionArticles[] = $sa;
+                $lastArticleId = $sa['articleId'];
+            }
+            else {
+                $sessionArticles[count($sessionArticles) - 1]['amount'] += $sa['amount'];
+            }
+        }
+        if (!empty($sessionArticles)) {
+            foreach ($sessionArticles as $sa) {
+                if ($modul === 'auftrag') {
+                    $this->savePositionWrapper->saveOrderPosition($sa['articleId'], $documentId, $sa['amount']);
+                } elseif ($modul === 'bestellung') {
+                    $this->savePositionWrapper->savePurchaseOrderPosition($sa['articleId'], $documentId, $sa['amount']);
+                } else {
+                    throw new InvalidArgumentException('modul can not be: ' . $modul);
+                }
+            }
+            $this->clearAllArticleDataInSession($modul);
+        }
+    }
+
+    /**
+     * @param string $modul
+     * @param int    $documentId
+     */
+    public function savePositions($modul, $documentId)
+    {
+        $sessionArticles = $this->getAllArticleDataFromSession($modul);
+        if (!empty($sessionArticles)) {
+            foreach ($sessionArticles as $sa) {
+                if ($modul === 'auftrag') {
+                    $this->savePositionWrapper->saveOrderPosition($sa['articleId'], $documentId, $sa['amount']);
+                } elseif ($modul === 'bestellung') {
+                    $this->savePositionWrapper->savePurchaseOrderPosition($sa['articleId'], $documentId, $sa['amount']);
+                } else {
+                    throw new InvalidArgumentException('modul can not be: ' . $modul);
+                }
+            }
+            $this->clearAllArticleDataInSession($modul);
+        }
+    }
+}

@@ -1,36 +1,55 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-itmqrJehnOlc8Bz42kU+
+<?php
+
+
+namespace Xentral\Modules\Article\Service;
+
+
+use Xentral\Modules\Article\Exception\CurrencyExchangeRateNotFoundException;
+
+class CurrencyConversionService
+{
+    /**
+     * @deprecated
+     * @var \erpAPI
+     */
+    private $erp;
+
+    /**
+     * @var array
+     */
+    private $cache;
+
+    /**
+     * CurrencyConversionService constructor.
+     *
+     * @param \erpAPI $erp
+     */
+    public function __construct(\erpAPI $erp)
+    {
+        $this->erp = $erp;
+        $this->cache = [];
+    }
+
+    /**
+     * @param string $currencyCode
+     *
+     * @throws CurrencyExchangeRateNotFoundException
+     *
+     * @return float
+     */
+    public function tryGetEuroExchangeRateFromCurrencyCode($currencyCode)
+    {
+        if(isset($this->cache[$currencyCode])) {
+            $exchangeRate = $this->cache[$currencyCode];
+        }
+        else {
+            $exchangeRate = $this->erp->GetWaehrungUmrechnungskurs('EUR', $currencyCode, true);
+            $this->cache[$currencyCode] = $exchangeRate;
+        }
+        if ($exchangeRate === false) {
+            throw new CurrencyExchangeRateNotFoundException('Currency exchange rate not found: ' . $currencyCode);
+        }
+
+        return (float)$exchangeRate;
+    }
+}

@@ -1,38 +1,29 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPmtP40PH9UafQsc59Lg7lYNO+t4kvA60t+9yH6SYK0OMUDTqp0xXMszNgZ/Jp3yChF6LlpFX
-MyHHICIzlAPi+woK8Qg2CtQ1JCYWcUDU6chUryxtXWG3Xi7w+O3L0O+OKkIC7xbzqDSagWd4ZaQB
-vjSogocDb7mJh9nelEeaUANbbvzfuzX0hTiOzffdjUHGGhvVjQvVH8U2uv2Zlc+15dQvOivy8qmi
-R9HL9M26JktfTfJDzvddmMRhrwYuVTO+3ZdeApqFqd4X6TdD3x0+USMvp7IlbRg0CaDu2MpLiCLE
-HKehcNLueUNmiAjJd6r+Qx1M/Ao1aJ5ul5aIYBcdvoiIATO8YPdnTi0Vkx+TA51FIHpappIIL3SA
-9l+2aOtOFacqMByo7P7HBAbk/uDGgSLzYrfdFVj6Y0H+DrEFVZrotJOLZ2we2mnw0gOOvjbmcWfZ
-VJVDp02mKccfb2kA016KhtQLlWbCJkEeQFF+62o7pWPmyC6LxdBt6dXVHz79WjeLqhxLmCxitEFn
-qzjqAvehhEuSyjWcbH4nvHE0RcfcA5sHz/MuHYCZ5G9Y9/QaELVL/KYfB1S+5i3u2GynwiXxmuCM
-Gjf/9UdYanvYJGCm4uanl0k4kMXX0ssoLmwjxLtziI7J7S5Tqh0cjc9chh5AmfY9kEXKsmvLAiID
-IL0P7na2riFrFTGof+SlsQ1zYuUDWcYcfIKrU7st24G8TBeuFl+JyQdV+lOPCs/O+FZQC37F4apL
-08Qx4e2oPndBcC6uNwBXf3D2T8MfS+1e8bh7BqJ8/5VcUjZCnDxcXeaoTy+h+bOVkJyZeNBOZ4z2
-aW7TXf3QVOdRjTokalTIEjla69zcjv7+itqnHb9qrdvfMk8EunhmhFllXw0MC9lQf7hIoYCbo1KT
-rDsj+SiTGnC6XA8TKZbUnPy/i66eFMcOy3rPI1+ATM5U3xR3P5LiXMRRps429Z4fC1pzMJYRuoVR
-a0qc13PPejyWsigdM9oATpkrrdugVfcY6Ubl+jsQPCSeu7QUZriK9WAPWmsXJP5Xyfa6oCsaJrQD
-RupZCRQxAqrywR4eCor0TwxyGEb/6O9T08mOoSFRrUXhQ217uowaKnA11HOFdCBO1ezB45hYT9EM
-oFgnZKmOQCh0QEZYqiACoMadMibL352Ror1n12bA8+n2fPaY78QGyb/2Z71HPHYXfO5EcWnlcBlq
-BKk6q6kq6JrwehGIJUBagSv+T0PFpK0HozfVXMCoIs3OBhKVW1+jcHSc1wBQIlHbjwI60YPlo0y/
-eFrtwkoR41+VzNZxFbL458LhKhHLJp5zNbBlU2hYWd2wvl8P46eu9FX5QBBTkye4/T1ssgeUFUNi
-clGGnw54xxj8UmHTjGJE2FLk+TfZU1dSsjafdJE62pEkIPCTqx+WghVABb5wBdoWySdKXkef1830
-oBjt/x3+c5zbKMnnwR9t2li+Q+ZPL/TKbegfuhINPqZaZgT2kTERQMCk41GcsLyMIAOwrW1RnXN3
-XgMLrUPYOTTGtBvjrivPe3LlQR9Sq7u4/DdBy9XAdg+9tuzo1kuddbDnL+Jva6ntoVkt42azCXwx
-fHtyA53LcB1zklimUtUX/9r/iWQsA58wZz/YVZZDd3fAEtCbYPAjEF/gP+BrD+j9JF9/7zWrW21S
-9KbelXSiHpE6eqG2t6ukfHaSxgLlLn1hwiYEmGZWLvRF9Lq4KfcGHGjySAT8p+GU7u7RBKfsZ8cB
-zX3w9a4QY1iGjJBBDhBA0J9VWEXuDT5lAAKcH06KBIJ/YmaVD+18QG9s+wIAw1W70qmXiZW5RryD
-tG2ACC48e+iop21jQEv5UXI4AuJw1ugGUOgvBXle0qwBl7TtN04cJm868JS7TQa5b8XkFqL1Upty
-n72oB5KIpImPj/U7waKKKABzbUVJFaKqP6T8FzObC+XDPi6WaAv1kxoJWSrHrr69H1npSOeFrnhH
-lE0z5Qp5esaRsIC1GERftAeqDpOA//kmmI1STNghA1lwLS6/SuNCyXrDT5cmIlvk+r5Gs4246yFs
-lLRrNOzNSvDJJKjs9DO65lkVaFctjuZ+XujNyGhzsHCHS58ZBq/18Mmtnob2vaOqChRnipjP8Hgl
-Pi0QDQ0CepVh5JNV3xagw/Run+hXcCvSupeUgI2crhHheLjph7TlZ08f/WH1lOjRPAbQeR1rLdPD
-RcbHieUAJJgqbpOK3zbxGlWdOZhufYQZ94xLPq0CLaAN+f1gxWAQu56Q4msMDL2yu/s4cpjqMJjj
-jmHltASLK2J47ayqLQk4gQUlllK4GrVXXTO6QHM8BErW2G+YrzjoPK1ooiDsc0UTRrocbN4CNfq3
-hwDTxeN9UbNASGhGH9Kx9P68PYC/ckKWv9JiOLkPR8rWPDOhjxwmj2TbPoQvvugxvrSKmmyEFjV8
-qxTQbeYsDb1hM3hrDghHMl2YN8uZkB8I4j5yJXhwse6W5UzUJY/D2oPKXoGXIk8iiDCYhPnSd1bg
-o5c6WpV17O8buk38McObTImnUiduU+xbkQC3UYX/PaAeb8ZZYFg4YgrJPxDEvJCf1waO3+I+jeHT
-EAG97YgC
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\CarrierSelect\Data\FilterField;
+
+
+use Xentral\Modules\CarrierSelect\Data\Order;
+
+final class ProjectFilter implements FilterFieldInterface
+{
+    /**
+     * @return string
+     */
+    public function getName(): string
+    {
+        return 'project';
+    }
+
+    /**
+     * @param Order $order
+     *
+     * @return array
+     */
+    public function getValuesFromOrder(Order $order): array
+    {
+        return [$order->getProjectId()];
+    }
+}

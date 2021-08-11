@@ -1,48 +1,83 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\GoogleCalendar\Data;
+
+use Xentral\Modules\GoogleCalendar\Exception\InvalidArgumentException;
+
+final class GoogleCalendarEventReminderValue
+{
+    /** @var string METHOD_EMAIL */
+    public const METHOD_EMAIL = 'email';
+
+    /** @var string METHOD_POPUP */
+    public const METHOD_POPUP = 'popup';
+
+    /** @var string $method */
+    private $method;
+
+    /** @var int $minutes */
+    private $minutes;
+
+    /**
+     * @param string $method
+     * @param int $minutes
+     *
+     * @throws InvalidArgumentException
+     */
+    public function __construct(string $method, int $minutes)
+    {
+        if ($method !== self::METHOD_EMAIL && $method !== self::METHOD_POPUP) {
+            throw new InvalidArgumentException(
+                'Invalid notification method; only "email" and "popup" are allowed'
+            );
+        }
+        $this->method = $method;
+        $this->minutes = $minutes;
+    }
+
+    /**
+     * @param array $data
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return GoogleCalendarEventReminderValue
+     */
+    public static function fromArray(array $data): GoogleCalendarEventReminderValue
+    {
+        if (!isset($data['method'], $data['minutes'])) {
+            throw new InvalidArgumentException('method and minutes required for notification values.');
+        }
+
+        return new self($data['method'], $data['minutes']);
+    }
+
+    /**
+     * @return array
+     */
+    public function toArray(): array
+    {
+        $data = [];
+        $data['method'] = $this->getMethod();
+        $data['minutes'] = $this->getMinutes();
+
+        return $data;
+    }
+
+    /**
+     * @return string
+     */
+    public function getMethod(): string
+    {
+        return $this->method;
+    }
+
+    /**
+     * @return int
+     */
+    public function getMinutes(): int
+    {
+        return $this->minutes;
+    }
+}

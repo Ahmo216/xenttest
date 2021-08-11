@@ -1,51 +1,63 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-UsSbdcwSHDEHd6l8A9RLrzRW4Qh1h8EZLkq=
+<?php
+
+namespace Xentral\Components\Filesystem\Plugin;
+
+use Xentral\Components\Filesystem\FilesystemInterface;
+
+final class FilterPathsPlugin implements PluginInterface
+{
+    /** @var FilesystemInterface $filesystem */
+    private $filesystem;
+
+    /**
+     * @return string
+     */
+    public function getMethod()
+    {
+        return 'filterPaths';
+    }
+
+    /**
+     * @param FilesystemInterface $filesystem
+     */
+    public function setFilesystem(FilesystemInterface $filesystem)
+    {
+        $this->filesystem = $filesystem;
+    }
+
+    /**
+     * @example filterPaths(['extension' => 'php', 'filename' => 'Bootstrap'])
+     *
+     * @param array  $filter
+     * @param string $path
+     * @param bool   $recursive
+     *
+     * @return array
+     */
+    public function handle(array $filter = [], $path = '', $recursive = false)
+    {
+        $result = [];
+        $contents = $this->filesystem->listContents($path, $recursive);
+
+        foreach ($contents as $object) {
+            $matchesFilter = true;
+
+            foreach ($filter as $property => $value) {
+                if (!isset($object[$property])) {
+                    $matchesFilter = false;
+                    continue;
+                }
+                if ($object[$property] !== $value) {
+                    $matchesFilter = false;
+                    continue;
+                }
+            }
+
+            if ($matchesFilter === true) {
+                $result[] = $object['path'];
+            }
+        }
+
+        return $result;
+    }
+}

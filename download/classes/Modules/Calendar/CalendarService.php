@@ -1,158 +1,296 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Calendar;
+
+use Exception;
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Calendar\Data\CalendarEvent;
+use Xentral\Modules\Calendar\Data\CalendarEventUser;
+use Xentral\Modules\Calendar\Exception\CalendarEventDeleteException;
+use Xentral\Modules\Calendar\Exception\CalendarEventSaveException;
+use Xentral\Modules\GoogleCalendar\Exception\GoogleCalendarException;
+
+final class CalendarService
+{
+    /** @var Database $db */
+    private $db;
+
+    /**
+     * @param Database $database
+     */
+    public function __construct(Database $database)
+    {
+        $this->db = $database;
+    }
+
+    /**
+     * @param $eventId
+     *
+     * @return CalendarEvent|null
+     */
+    public function tryGetEvent(int $eventId): ?CalendarEvent
+    {
+        $event = $this->tryGetEventWithoutUsers($eventId);
+        if ($event !== null) {
+            $users = $this->tryGetEventUsers($eventId);
+            foreach ($users as $user) {
+                $event->addAttendee($user);
+            }
+        }
+
+        return $event;
+    }
+
+    /**
+     * @param $eventId
+     *
+     * @return CalendarEvent|null
+     */
+    public function tryGetEventWithoutUsers(int $eventId): ?CalendarEvent
+    {
+        if($eventId < 1) {
+            return null;
+        }
+        $sql = 'SELECT e.id, e.kalender as `calendar_id`, e.bezeichnung as `title`, e.beschreibung as `description`,
+                       e.von as `start`, e.bis as `end`, e.allDay as `all_day`, e.color, e.public, 
+                       e.ort as `location`, e.typ as `type`, e.angelegtvon as `creator_id`,
+                       e.adresseintern as `organizer_id`, e.adresse as `attendee_id`
+                FROM kalender_event AS e 
+                WHERE e.id = :idValue';
+        $values = ['idValue' => $eventId];
+        $result = $this->db->fetchRow($sql, $values);
+        if (!empty($result)) {
+            return CalendarEvent::fromDbState($result);
+        }
+
+        return null;
+    }
+
+    /**
+     * @param int $eventId
+     *
+     * @return CalendarEventUser[]
+     */
+    public function tryGetEventUsers(int $eventId): array
+    {
+        $sql = 'SELECT ku.id, ku.event as `event_id`, ku.userid as `user_id`, ku.gruppe as `group_id`,
+                       u.adresse as `address_id`, a.email as `email`
+                FROM `kalender_user` AS ku
+                LEFT JOIN `user` AS u ON ku.userid = u.id
+                LEFT JOIN `adresse` AS a ON u.adresse = a.id
+                WHERE ku.event = :eventId';
+        $values = ['eventId' => $eventId];
+        $rows = $this->db->fetchAll($sql, $values);
+
+        if (empty($rows)) {
+            return [];
+        }
+
+        $users = [];
+        foreach ($rows as $row) {
+            $users[] = CalendarEventUser::fromDbState($row);
+        }
+
+        return $users;
+    }
+
+    /**
+     * @param CalendarEvent $event
+     *
+     * @return int
+     */
+    public function saveEvent(CalendarEvent $event): int
+    {
+        if ($event->getId() > 0 && $this->eventExists($event->getId())) {
+            return $this->updateEvent($event);
+        }
+
+        return $this->insertEvent($event);
+    }
+
+    /**
+     * @param int $eventId
+     *
+     * @throws CalendarEventDeleteException
+     *
+     * @return void
+     */
+    public function deleteEvent(int $eventId): void
+    {
+        $this->db->beginTransaction();
+        try {
+            $sql = 'DELETE FROM `kalender_event` WHERE id = :eventId';
+            $values = ['eventId' => $eventId];
+            $this->db->perform($sql, $values);
+            $deleteUser = 'DELETE FROM `kalender_user` WHERE event = :eventId';
+            $this->db->perform($deleteUser, $values);
+        } catch (Exception $e) {
+            $this->db->rollBack();
+            throw new CalendarEventDeleteException($e->getMessage(), $e->getCode(), $e);
+        }
+        $this->db->commit();
+    }
+
+    /**
+     * @param int $eventId
+     * @param int $userId
+     *
+     * @return void
+     */
+    public function removeUserFromEvent(int $eventId, int $userId): void
+    {
+        $sql = 'DELETE FROM `kalender_user` WHERE event = :eventId AND userid = :userId';
+        $values = ['eventId' => $eventId, 'userId' => $userId];
+        $this->db->perform($sql, $values);
+    }
+
+    /**
+     * @param $eventId
+     *
+     * @return bool
+     */
+    public function eventExists(int $eventId): bool
+    {
+        if ($eventId < 1) {
+            return false;
+        }
+
+        $sql  = 'SELECT e.id FROM `kalender_event` AS e WHERE e.id = :idValue';
+        $values = ['idValue' => (int)$eventId];
+        $result = $this->db->fetchRow($sql, $values);
+
+        return (isset($result['id']) && $result['id'] === $eventId);
+    }
+
+    /**
+     * @param CalendarEvent $event
+     *
+     * @throws CalendarEventSaveException
+     *
+     * @return int
+     */
+    private function insertEvent(CalendarEvent $event): int
+    {
+        $this->db->beginTransaction();
+        try {
+            $insertEvent = 'INSERT INTO kalender_event 
+                (kalender, bezeichnung, beschreibung, von, bis, allDay, color,
+                 public, ort, typ, angelegtvon, adresseintern, adresse)
+                VALUES
+                (:calendar_id, :title, :description, :start, :end, :all_day, :color, 
+                 :public, :location,:type,  :creator_id, :organizer_id, :attendee_id)';
+            $values = $this->getBindValuesFromEvent($event);
+            $this->db->perform($insertEvent, $values);
+            $newId = $this->db->lastInsertId();
+            $users = $event->getAllUsers();
+            $this->insertEventUsers($users, $newId);
+        } catch (Exception $e) {
+            $this->db->rollBack();
+            throw new CalendarEventSaveException($e->getMessage(), $e->getCode(), $e);
+        }
+
+        $this->db->commit();
+
+        return $newId;
+    }
+
+    /**
+     * @param CalendarEvent $event
+     *
+     * @throws CalendarEventSaveException
+     *
+     * @return int
+     */
+    private function updateEvent(CalendarEvent $event): int
+    {
+        $this->db->beginTransaction();
+
+        try {
+            $sql = 'UPDATE kalender_event SET 
+                          kalender = :calendar_id,
+                          bezeichnung = :title,
+                          beschreibung = :description,
+                          von = :start,
+                          bis = :end,
+                          allDay = :all_day,
+                          color = :color,
+                          public = :public,
+                          ort = :location,
+                          angelegtvon = :creator_id,
+                          adresseintern = :organizer_id,
+                          adresse = :attendee_id,
+                          typ = :type
+                WHERE id = :id';
+            $values = $this->getBindValuesFromEvent($event);
+            $this->db->perform($sql, $values);
+            $this->deleteEventUsers($event->getId());
+            $users = $event->getAllUsers();
+            $this->insertEventUsers($users, $event->getId());
+        } catch (Exception $e) {
+            $this->db->rollBack();
+            throw new CalendarEventSaveException($e->getMessage(), $e->getCode(), $e);
+        }
+
+        $this->db->commit();
+
+        return $event->getId();
+    }
+
+    /**
+     * @param $users
+     * @param $eventId
+     *
+     * @return void
+     */
+    private function insertEventUsers($users, $eventId): void
+    {
+        if (!is_array($users) || count($users) < 1) {
+            return;
+        }
+        $insert = $this->db->insert();
+        $insert->into('kalender_user');
+        foreach ($users as $user) {
+            $insert->addRow()
+                ->cols([
+                    'event'  => $eventId,
+                    'userid' => $user->getUserId(),
+                    'gruppe' => $user->getGroupId(),
+                ]);
+        }
+
+        $insertSql = $insert->getStatement();
+        $values = $insert->getBindValues();
+        $this->db->perform($insertSql, $values);
+    }
+
+    /**
+     * @param $eventId
+     *
+     * @return void
+     */
+    private function deleteEventUsers($eventId): void
+    {
+        $sql = 'DELETE FROM kalender_user WHERE event = :eventId';
+        $this->db->perform($sql, ['eventId' => $eventId]);
+    }
+
+    /**
+     * @param CalendarEvent $event
+     *
+     * @return array
+     */
+    private function getBindValuesFromEvent(CalendarEvent $event): array
+    {
+        $values = $event->toArray();
+        if (empty($values['start'])) {
+            $values['start'] = null;
+        }
+        if (empty($values['end'])) {
+            $values['end'] = null;
+        }
+
+        return $values;
+    }
+}

@@ -1,309 +1,963 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php
+
+/**
+ * Class FileTable
+ *
+ * @todo Berechtigungen prüfen
+ */
+class FileTable
+{
+  /** @var array $validTypes */
+  protected static $validTypes = ['adressen', 'bestellung', 'kasse', 'reisekosten', 'verbindlichkeit'];
+
+  /** @var erpooSystem $app */
+  protected $app;
+
+  /** @var string $type */
+  protected $type;
+
+  /** @var int $fileId */
+  protected $fileId;
+
+  /** @var array $columns */
+  protected $columns = [];
+
+  /** @var array $filter */
+  protected $filter = [];
+
+  /** @var array $order Initiale Sortierung */
+  protected $order = [[0, 'asc']];
+
+  /** @var string $sqlTemplate */
+  protected $sqlTemplate = '';
+
+  /** @var string $sqlCount */
+  protected $sqlCount = '';
+
+  /**
+   * @param erpooSystem $app
+   * @param string      $documentType
+   * @param int         $fileId
+   */
+  public function __construct($app, $documentType, $fileId)
+  {
+    $this->app = $app;
+    $this->fileId = (int)$fileId;
+    $this->type = strtolower($documentType);
+
+    $this->Init();
+  }
+
+  /**
+   * @return void
+   */
+  protected function Init()
+  {
+    switch ($this->type) {
+      case 'adressen':
+        $table = $this->GetAdressenTable();
+        break;
+
+      case 'bestellung':
+        $table = $this->GetBestellungenTable();
+        break;
+
+      case 'kasse':
+        $table = $this->GetKassenbuchTable();
+        break;
+
+      case 'reisekosten':
+        $table = $this->GetReisekostenTable();
+        break;
+
+      case 'verbindlichkeit':
+        $table = $this->GetVerbindlichkeitenTable();
+        break;
+
+      default:
+        throw new RuntimeException(sprintf(
+          'Type "%s" is not valid. Valid types are: %s', $this->type, implode(', ', self::$validTypes)
+        ));
+        break;
+    }
+
+    $this->sqlTemplate = $table['sql_template'];
+    $this->sqlCount = $table['sql_count'];
+    $this->columns = $table['columns'];
+    $this->filter = $table['filter'];
+    $this->order = $table['order'];
+  }
+
+  /**
+   * @param array $filterParams
+   * @param string|null $searchQuery Suchbegriff
+   * @param int $orderCol Spalten-Index
+   * @param string $orderDir [asc|desc]
+   * @param int $offset
+   * @param int $limit
+   * @param int $draw
+   *
+   * @return array
+   */
+  public function GetData(
+    $filterParams = [],
+    $searchQuery = null,
+    $orderCol = 0,
+    $orderDir = 'asc',
+    $offset = 0,
+    $limit = 10,
+    $draw = 1
+  )
+  {
+    $where = '';
+
+    // Suche
+    if ($searchQuery !== null){
+      $searchParts = [];
+      foreach ($this->columns as $column) {
+        if (!isset($column['search'])) {
+          continue;
+        }
+        $searchParts[] = sprintf(' %s LIKE \'%%%s%%\' ', $column['search'], $searchQuery);
+      }
+      $where .= ' AND (' . implode(' OR ', $searchParts) .') ';
+    }
+
+    // Filter
+    if (!empty($filterParams)) {
+      foreach ($filterParams as $filterName => $filterActive) {
+        $where .= $this->GenerateFilterSql($filterName, $filterActive);
+      }
+    }
+
+    // Sortierung
+    $orderColumnName = array_column($this->columns, 'data')[$orderCol];
+    $orderDirection = strtolower($orderDir) === 'desc' ? 'DESC' : 'ASC';
+    $orderBy = !empty($orderColumnName) ? $orderColumnName . ' ' . $orderDirection . ' ' : '';
+
+    // SQL zusammenbauen
+    $sql = $this->sqlTemplate;
+    $sql = str_replace(
+      ['{{limit}}', '{{offset}}', '{{where}}', '{{orderby}}'],
+      [(int)$limit, (int)$offset, $where, $orderBy],
+      $sql
+    );
+
+    // Ergebnisse abrufen
+    $result = $this->app->DB->SelectArr($sql);
+    $countFiltered = $this->app->DB->Select('SELECT FOUND_ROWS()');
+    $countTotal = $this->app->DB->Select($this->sqlCount);
+
+    return [
+      'draw' => (int)$draw,
+      'recordsTotal' => (int)$countTotal,
+      'recordsFiltered' => (int)$countFiltered,
+      'data' => (array)$result,
+    ];
+  }
+
+  /**
+   * @param string $filtername
+   * @param bool   $active
+   *
+   * @return string Filter-SQL
+   */
+  protected function GenerateFilterSql($filtername, $active = false)
+  {
+    foreach ($this->GetFilter() as $item) {
+      if ($item['name'] === $filtername) {
+        return (bool)$active ? $item['sql']['active'] : $item['sql']['inactive'];
+      }
+    }
+
+    return '';
+  }
+
+  /**
+   * Getter für DataTable-Einstellungen
+   *
+   * @param string $ajaxUrl
+   *
+   * @return array
+   */
+  public function GetSettings($ajaxUrl)
+  {
+    return [
+      'ajax' => $ajaxUrl,
+      'columns' => $this->GetColumns(),
+      'order' => $this->order,
+      'processing' => true,
+      'serverSide' => true,
+      'responsive' => true,
+      'autoWidth' => true,
+      'paging' => true,
+      'language' => [
+        'decimal' => ',',
+        'thousands' => '.',
+        'paginate' => [
+          'first' => 'Erste',
+          'last' => 'Letzte',
+          'next' => '>>',
+          'previous' => '<<',
+        ],
+        'emptyTable' => 'Keine Daten vorhanden',
+        'info' => 'Zeige _START_ bis _END_ von _TOTAL_ Einträgen',
+        'infoEmpty' => 'Zeige 0 bis 0 von 0 Einträge',
+        'infoFiltered' => '(gefiltert von _MAX_ Einträgen)',
+        'infoPostFix' => '',
+        'lengthMenu' => '_MENU_ Eintr&auml;ge pro Seite',
+        'loadingRecords' => 'Loading...',
+        'processing' => '',
+        'search' => 'Suche:',
+        'searchPlaceholder' => '',
+        'zeroRecords' => 'Keine Einträge gefunden',
+        'aria' => [
+          'sortAscending' => ': activate to sort column ascending',
+          'sortDescending' => ': activate to sort column descending',
+        ],
+      ],
+    ];
+  }
+
+  /**
+   * Konfiguration für DataTable-Spalten
+   *
+   * "Zuweisen"-Button als zusätzliche Spalte einfügen
+   *
+   * @return array
+   */
+  protected function GetColumns()
+  {
+    // Prüfen ob Spalte mit ID existiert; wird für Zuweisung benötigt
+    $hasIdColumn = false;
+    foreach ($this->columns as $column) {
+      if ($column['data'] === 'id') {
+        $hasIdColumn = true;
+      }
+    }
+    if ($hasIdColumn === false) {
+      throw new RuntimeException('ID-Spalte fehlt. Eine Spalte muss mit "data => id" ausgewiesen sein.');
+    }
+
+    // "Zuweisen"-Button als zusätzliche Spalte einfügen
+    $columns = (array)$this->columns;
+    $columns[] = [
+      'title' => 'Menü',
+      'class' => 'dt-center',
+      'data' => null,
+      'sortable' => false,
+      'searchable' => false,
+      'defaultContent' => sprintf(
+        '<a href="#" class="document-assign-action" title="Datei zuweisen">' .
+        '<img src="themes/%s/images/forward.svg" align="center" alt="Datei zuweisen">' .
+        '</a>',
+        $this->app->Conf->WFconf['defaulttheme']),
+    ];
+
+    return $columns;
+  }
+
+  /**
+   * @return array
+   */
+  protected function GetFilter()
+  {
+    if (!is_array($this->filter)) {
+      return [];
+    }
+
+    return $this->filter;
+  }
+
+  /**
+   * @return string
+   */
+  public function GetTabsHtml()
+  {
+    return
+      '<div id="filetabs">
+        <ul>
+          <li data-type="verbindlichkeit"><a href="#verbindlichkeit-tab">Verbindlichkeiten</a></li>
+          <li data-type="kasse"><a href="#kasse-tab">Kassenbuch</a></li>
+          <li data-type="reisekosten"><a href="#reisekosten-tab">Reisekosten</a></li>
+          <li data-type="bestellung"><a href="#bestellung-tab">Bestellungen</a></li>
+          <li data-type="adressen"><a href="#adressen-tab">Adressen</a></li>
+        </ul>
+        <div id="adressen-tab"></div>
+        <div id="bestellung-tab"></div>
+        <div id="kasse-tab"></div>
+        <div id="reisekosten-tab"></div>
+        <div id="verbindlichkeit-tab"></div>
+      </div>';
+  }
+
+  /**
+   * @return string
+   */
+  public function GetTabContentHtml()
+  {
+    // Prüfen ob Modul vorhanden ist
+    if (in_array($this->type, ['kasse', 'reisekosten', 'verbindlichkeit'], true)) {
+      $moduleName = $this->type;
+      if ($this->type === 'adressen') {
+          $moduleName = 'adresse';
+      }
+      if(!$this->app->erp->ModulVorhanden($moduleName)){
+        $html = '<div class="module-disabled">';
+        $html .= sprintf(
+          '<div class="info">Das Modul &quot;%s&quot; ist nicht vorhanden.</div>',
+          ucfirst($moduleName)
+        );
+        $html .= '</div>';
+
+        return $html;
+      }
+    }
+
+    $html = '<div class="document-table-container">';
+    $html .= $this->GetFilterHtml();
+    $html .= $this->GetTableHtml();
+    $html .= '</div>';
+
+    return $html;
+  }
+
+  /**
+   * @return string
+   */
+  protected function GetFilterHtml()
+  {
+    $html = '';
+    $filter = $this->GetFilter();
+
+    if (!empty($filter)){
+      $html .= '<fieldset>';
+      $html .= '<legend>Filter</legend>';
+      $html .= '<div class="row">';
+      $html .= '<div class="col-md-9">';
+
+      foreach ($filter as $item) {
+        $html .= sprintf(
+          '<label><input type="checkbox" class="document-filter-checkbox" data-filter-name="%s" data-filter-column="%s" %s> %s</label>',
+          $item['name'],
+          $item['column'],
+          ((bool)$item['active'] === true) ? 'checked="checked"' : '',
+          $item['label']
+        );
+      }
+      $html .= '</div>';
+
+      if ($this->type === 'verbindlichkeit') {
+        $html .= '<div class="col-md-3">';
+				$html .= '<input type="button" class="btnGreen create-liability-button" value="Verbindlichkeit anlegen">';
+        $html .= '</div>';
+      }
+
+      $html .= '</fieldset>';
+    }
+
+    return $html;
+  }
+
+  /**
+   * @return string
+   */
+  protected function GetTableHtml()
+  {
+    $columns = $this->GetColumns();
+
+    // Tabellenkopf
+    $html = '<table class="display" border="0" cellpadding="0" cellspacing="0">';
+    $html .= '<thead><tr>';
+    foreach ($columns as $column) {
+      $html .= '<th>' . $column['title'] . '</th>';
+    }
+    $html .= '</tr></thead>';
+
+    // Tabellenfuß
+    $html .= '<tfoot><tr>';
+    foreach ($columns as $column) {
+      $html .= '<th>' . $column['title'] . '</th>';
+    }
+    $html .= '</tr></tfoot>';
+    $html .= '</table>';
+
+    return $html;
+  }
+
+  /**
+   * @return array
+   */
+  protected function GetAdressenTable()
+  {
+    $filter = [[
+      'active' => true,
+      'label' => 'Nur Adressen ohne Dateien',
+      'name' => 'dateianzahl',
+      'column' => 8,
+      'sql' => [
+        'active' => ' AND dateien.anzahl IS NULL ',
+        'inactive' => '',
+      ],
+    ]];
+
+    $columns = [
+      [
+        'title' => '',
+        'data' => 'id',
+        'visible' => false,
+        'searchable' => false,
+      ],
+      [
+        'title' => 'Name',
+        'data' => 'name',
+        'search' => 'a.name',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Kunde',
+        'data' => 'kundennummer',
+        'search' => 'a.kundennummer',
+        'class' => 'dt-center',
+      ],
+      [
+        'title' => 'Lieferant',
+        'data' => 'lieferantennummer',
+        'search' => 'a.lieferantennummer',
+        'class' => 'dt-center',
+      ],
+      [
+        'title' => 'Land',
+        'data' => 'land',
+        'search' => 'a.land',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'PLZ',
+        'data' => 'plz',
+        'search' => 'a.plz',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Ort',
+        'data' => 'ort',
+        'search' => 'a.ort',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Projekt',
+        'data' => 'projekt',
+        'search' => 'p.name',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Dateien',
+        'data' => 'dateianzahl',
+        'class' => 'dt-center',
+        'defaultContent' => 0,
+      ],
+    ];
+
+    $sqlTemplate =
+      "SELECT SQL_CALC_FOUND_ROWS a.id,
+        CONCAT(a.name, IF(a.ansprechpartner != '', '<br><i style=color:#999>',''), a.ansprechpartner, IF(a.ansprechpartner != '', '</i>', '')) AS name,
+        if(a.kundennummer!='',a.kundennummer,'-') AS kundennummer,
+        if(a.lieferantennummer!='',a.lieferantennummer,'-') AS lieferantennummer, 
+        a.land AS land, 
+        a.plz AS plz, 
+        a.ort AS ort, 
+        p.abkuerzung AS projekt,
+        dateien.anzahl AS dateianzahl
+      FROM adresse AS a 
+      LEFT JOIN projekt AS p ON p.id = a.projekt 
+      LEFT JOIN (
+        SELECT ds.parameter AS adresse_id, COUNT(ds.datei) AS anzahl 
+        FROM datei_stichwoerter AS ds 
+        WHERE ds.objekt LIKE 'Adressen'
+        GROUP BY ds.parameter, ds.objekt
+      ) AS dateien ON dateien.adresse_id = a.id
+      WHERE a.geloescht = 0 " . $this->app->erp->ProjektRechte('p.id', true, 'a.vertrieb') . ' 
+      {{where}}
+      ORDER BY {{orderby}}
+      LIMIT {{offset}}, {{limit}}';
+
+    $sqlCount =
+      'SELECT COUNT(a.id) AS num FROM adresse a 
+      LEFT JOIN projekt p ON p.id = a.projekt 
+      WHERE a.geloescht = 0 ' . $this->app->erp->ProjektRechte('p.id', true, 'a.vertrieb');
+
+    return [
+      'sql_count' => $sqlCount,
+      'sql_template' => $sqlTemplate,
+      'columns' => $columns,
+      'filter' => $filter,
+      'order' => [[1, 'asc']],
+    ];
+  }
+
+  protected function GetBestellungenTable()
+  {
+    $filter = [[
+      'active' => true,
+      'label' => 'Nur Bestellungen ohne Dateien',
+      'name' => 'dateianzahl',
+      'column' => 9,
+      'sql' => [
+        'active' => ' AND dateien.anzahl IS NULL ',
+        'inactive' => '',
+      ],
+    ]];
+
+    $columns = [
+      [
+        'title' => '',
+        'data' => 'id',
+        'searchable' => false,
+        'visible' => false,
+      ],
+      [
+        'title' => 'Bestellung',
+        'data' => 'belegnr',
+        'search' => 'b.belegnr',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Vom',
+        'data' => 'vom',
+        'search' => 'DATE_FORMAT(b.datum, "%d.%m.%Y")',
+        'class' => 'dt-center',
+      ],
+      [
+        'title' => 'Lf-Nr.',
+        'data' => 'lieferantennummer',
+        'search' => 'adr.lieferantennummer',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Lieferant',
+        'data' => 'lieferant',
+        'search' => 'CONCAT(b.name, " ", b.internebezeichnung)',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Land',
+        'data' => 'land',
+        'search' => 'b.land',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Projekt',
+        'data' => 'projekt',
+        'search' => 'p.name',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Betrag (brutto)',
+        'data' => 'summe',
+        'search' => $this->app->erp->FormatPreis('b.gesamtsumme',2),
+        'class' => 'dt-right',
+      ],
+      [
+        'title' => 'Status',
+        'data' => 'status',
+        'search' => 'b.status',
+        'class' => 'dt-center',
+      ],
+      [
+        'title' => 'Dateien',
+        'data' => 'dateianzahl',
+        'class' => 'dt-center',
+        'defaultContent' => 0,
+      ],
+    ];
+
+    $extended_mysql55 = ", 'de_DE'";
+
+    $sqlTemplate =
+      "SELECT SQL_CALC_FOUND_ROWS b.id,
+        IF(b.status = 'storniert', CONCAT(b.belegnr), b.belegnr) AS belegnr, 
+        IF(b.status = 'storniert', CONCAT(DATE_FORMAT(b.datum,'%d.%m.%Y')), DATE_FORMAT(b.datum,'%d.%m.%Y')) AS vom, 
+        IF(b.status = 'storniert', CONCAT(adr.lieferantennummer), adr.lieferantennummer) AS lieferantennummer,  
+        IF(b.status = 'storniert', CONCAT(" . $this->app->erp->MarkerUseredit("b.name", "b.useredittimestamp") . ", IF(b.internebezeichnung != '', CONCAT('<br><i style=color:#999>', b.internebezeichnung, '</i>'), '')), CONCAT(" . $this->app->erp->MarkerUseredit("b.name", "b.useredittimestamp") . ", IF(b.internebezeichnung != '', CONCAT('<br><i style=color:#999>', b.internebezeichnung, '</i>'), ''))) AS lieferant,  
+        IF(b.status = 'storniert', CONCAT(b.land), b.land) AS land, 
+        IF(b.status = 'storniert', CONCAT(p.abkuerzung), p.abkuerzung) AS projekt,
+        IF(b.status = 'storniert', CONCAT(FORMAT(b.gesamtsumme, 2{$extended_mysql55})), FORMAT(b.gesamtsumme, 2{$extended_mysql55})) AS summe, 
+        IF(b.status = 'storniert', CONCAT('<font color=red>', UPPER(b.status), '</font>'), UPPER(b.status)) AS status,
+        dateien.anzahl AS dateianzahl 
+      FROM bestellung AS b 
+      LEFT JOIN projekt AS p ON p.id = b.projekt 
+      LEFT JOIN adresse AS adr ON b.adresse = adr.id
+      LEFT JOIN (
+        SELECT ds.parameter AS bestellung_id, COUNT(ds.datei) AS anzahl 
+        FROM datei_stichwoerter AS ds 
+        WHERE ds.objekt LIKE 'Bestellung'
+        GROUP BY ds.parameter, ds.objekt
+      ) AS dateien ON dateien.bestellung_id = b.id
+      WHERE b.id != '' AND b.status != 'angelegt' " . $this->app->erp->ProjektRechte() . ' 
+      {{where}} 
+      ORDER BY {{orderby}}
+      LIMIT {{offset}}, {{limit}}';
+
+    $sqlCount =
+      'SELECT COUNT(b.id) AS num 
+      FROM bestellung AS b 
+      LEFT JOIN projekt AS p ON p.id = b.projekt 
+      WHERE b.status != \'angelegt\' ' . $this->app->erp->ProjektRechte();
+
+    return [
+      'sql_count' => $sqlCount,
+      'sql_template' => $sqlTemplate,
+      'columns' => $columns,
+      'filter' => $filter,
+      'order' => [[1, 'desc']],
+    ];
+  }
+
+  protected function GetKassenbuchTable()
+  {
+    $filter = [[
+      'active' => true,
+      'label' => 'Nur Kassenbuch-Einträge ohne Dateien',
+      'name' => 'dateianzahl',
+      'column' => 8,
+      'sql' => [
+        'active' => ' AND dateien.anzahl IS NULL ',
+        'inactive' => '',
+      ],
+    ]];
+
+    $columns = [
+      [
+        'title' => '',
+        'data' => 'id',
+        'searchable' => false,
+        'visible' => false,
+      ],
+      [
+        'title' => 'Nr.',
+        'data' => 'nummer',
+        'search' => 'k.nummer',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Kasse',
+        'data' => 'bezeichnung',
+        'search' => 'kon.bezeichnung',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Datum',
+        'data' => 'datum',
+        'search' => 'DATE_FORMAT(k.datum, "%d.%m.%Y")',
+        'class' => 'dt-center',
+      ],
+      [
+        'title' => 'Firma',
+        'data' => 'firmenname',
+        'search' => 'a.name',
+        'class' => 'dt-center',
+      ],
+      [
+        'title' => 'Name/Verwendungszweck',
+        'data' => 'verwendungszweck',
+        'search' => 'k.grund',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Konto',
+        'data' => 'kontoname',
+        'search' => 'CONCAT(k.sachkonto, " ", ko.beschriftung)',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Projekt',
+        'data' => 'projekt',
+        'search' => 'p.abkuerzung',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Dateien',
+        'data' => 'dateianzahl',
+        'class' => 'dt-center',
+        'defaultContent' => 0,
+      ],
+    ];
+
+    // SQL statement
+    $sqlTemplate =
+      "SELECT SQL_CALC_FOUND_ROWS k.id, 
+        k.nummer,
+        kon.bezeichnung,
+        IF(k.wert < 0, CONCAT('<font color=red>', DATE_FORMAT(k.datum,'%d.%m.%Y'), '</font>'), DATE_FORMAT(k.datum,'%d.%m.%Y')) AS datum,
+        a.name AS firmenname,
+        CONCAT(
+          k.grund, 
+          IF(k.adresse > 0, CONCAT(' (',if(a.kundennummer != '', a.kundennummer, a.mitarbeiternummer), ' ', a.name, ')<br>'), '<br>'), 
+          IF(k.storniert_grund != '', CONCAT('<i style=color:#999>', k.storniert_grund, '</i>'), '')
+        ) AS verwendungszweck,
+        CONCAT(k.sachkonto, ' ', LEFT(ko.beschriftung, 30)) AS kontoname,
+        p.abkuerzung AS projekt,
+        dateien.anzahl AS dateianzahl
+      FROM kasse AS k 
+      INNER JOIN konten AS kon ON k.konto = kon.id
+      LEFT JOIN adresse AS a ON a.id = k.adresse 
+      LEFT JOIN kontorahmen AS ko ON ko.sachkonto = k.sachkonto 
+      LEFT JOIN projekt AS p ON p.id = k.projekt 
+      LEFT JOIN (
+        SELECT ds.parameter AS kasse_id, COUNT(ds.datei) AS anzahl 
+        FROM datei_stichwoerter AS ds 
+        WHERE ds.objekt LIKE 'Kasse'
+        GROUP BY ds.parameter, ds.objekt
+      ) AS dateien ON dateien.kasse_id = k.id
+      WHERE 1 " . $this->app->erp->ProjektRechte() . ' 
+      {{where}} 
+      ORDER BY {{orderby}}
+      LIMIT {{offset}}, {{limit}}';
+
+    $sqlCount =
+      'SELECT COUNT(k.id) AS num 
+      FROM kasse AS k 
+      LEFT JOIN projekt AS p ON p.id = k.projekt
+      WHERE 1 ' . $this->app->erp->ProjektRechte();
+
+    return [
+      'sql_count' => $sqlCount,
+      'sql_template' => $sqlTemplate,
+      'columns' => $columns,
+      'filter' => $filter,
+      'order' => [[1, 'desc']],
+    ];
+  }
+
+  protected function GetReisekostenTable()
+  {
+    $filter = [[
+      'active' => true,
+      'label' => 'Nur Reisekosten ohne Dateien',
+      'name' => 'dateianzahl',
+      'column' => 9,
+      'sql' => [
+        'active' => ' AND dateien.anzahl IS NULL ',
+        'inactive' => '',
+      ],
+    ]];
+
+    $columns = [
+      [
+        'title' => '',
+        'data' => 'id',
+        'searchable' => false,
+        'visible' => false,
+      ],
+      [
+        'title' => 'Mitarbeiter',
+        'data' => 'mitarbeiter',
+        'search' => 'ma.name',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Reisekosten',
+        'data' => 'belegnr',
+        'search' => 'l.belegnr',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Vom',
+        'data' => 'vom',
+        'search' => 'DATE_FORMAT(l.datum, "%d.%m.%Y")',
+        'class' => 'dt-center',
+      ],
+      [
+        'title' => 'Kd-Nr.',
+        'data' => 'kundennummer',
+        'search' => 'adr.kundennummer',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Kunde',
+        'data' => 'kundenname',
+        'search' => 'l.name',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Anlass',
+        'data' => 'anlass',
+        'search' => 'l.anlass',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Projekt',
+        'data' => 'projekt',
+        'search' => 'p.name',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Status',
+        'data' => 'status',
+        'search' => 'l.status',
+        'class' => 'dt-center',
+      ],
+      [
+        'title' => 'Dateien',
+        'data' => 'dateianzahl',
+        'class' => 'dt-center',
+        'defaultContent' => 0,
+      ],
+    ];
+
+    $sqlTemplate =
+      "SELECT SQL_CALC_FOUND_ROWS l.id,
+        ma.name AS mitarbeiter, 
+        l.belegnr, 
+        DATE_FORMAT(l.datum, '%d.%m.%Y') AS vom, 
+        adr.kundennummer AS kundennummer, 
+        l.name AS kundenname, 
+        l.anlass AS anlass, 
+        p.abkuerzung AS projekt,
+        UPPER(l.status) AS status,
+        dateien.anzahl AS dateianzahl 
+      FROM reisekosten AS l 
+      LEFT JOIN projekt AS p ON p.id = l.projekt 
+      LEFT JOIN adresse AS adr ON l.adresse = adr.id 
+      LEFT JOIN adresse AS ma ON ma.id = l.mitarbeiter 
+      LEFT JOIN (
+        SELECT ds.parameter AS reisekosten_id, COUNT(ds.datei) AS anzahl 
+        FROM datei_stichwoerter AS ds 
+        WHERE ds.objekt LIKE 'Reisekosten'
+        GROUP BY ds.parameter, ds.objekt
+      ) AS dateien ON dateien.reisekosten_id = l.id
+      WHERE l.id != '' AND l.status != 'angelegt' " . $this->app->erp->ProjektRechte() . ' 
+      {{where}} 
+      ORDER BY {{orderby}}
+      LIMIT {{offset}}, {{limit}}';
+
+    $sqlCount =
+      "SELECT COUNT(l.id) AS num 
+      FROM reisekosten AS l 
+      LEFT JOIN projekt AS p ON p.id = l.projekt 
+      WHERE l.id != '' AND l.status != 'angelegt' " . $this->app->erp->ProjektRechte();
+
+    return [
+      'sql_count' => $sqlCount,
+      'sql_template' => $sqlTemplate,
+      'columns' => $columns,
+      'filter' => $filter,
+      'order' => [[2, 'desc']],
+    ];
+  }
+
+  /**
+   * @return array
+   */
+  protected function GetVerbindlichkeitenTable()
+  {
+    $filter = [[
+      'active' => true,
+      'label' => 'Nur Verbindlichkeiten ohne Dateien',
+      'name' => 'dateianzahl',
+      'column' => 7,
+      'sql' => [
+        'active' => ' AND dateien.anzahl IS NULL ',
+        'inactive' => '',
+      ],
+    ]];
+
+    $columns = [
+      [
+        'title' => '',
+        'data' => 'id',
+        'searchable' => false,
+        'visible' => false,
+      ],
+      [
+        'title' => 'Nr.',
+        'data' => 'verbindlichkeitnr',
+        'search' => 'v.belegnr',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'Lf-Nr.',
+        'data' => 'lieferantennr',
+        'search' => 'a.lieferantennummer',
+        'class' => 'dt-center',
+      ],
+      [
+        'title' => 'Lieferant',
+        'data' => 'lieferant',
+        'search' => 'a.name',
+        'class' => 'dt-left',
+      ],
+      [
+        'title' => 'RE-Datum',
+        'data' => 'rechnungsdatum',
+        'search' => 'DATE_FORMAT(v.rechnungsdatum, "%d.%m.%Y")',
+        'class' => 'dt-center',
+      ],
+      [
+        'title' => 'RE-Nr.',
+        'data' => 'rechnungsnr',
+        'search' => 'v.rechnung',
+        'class' => 'dt-center',
+      ],
+      [
+        'title' => 'Betrag',
+        'data' => 'betrag',
+        'search' => $this->app->erp->FormatPreis('v.betrag',2),
+        'class' => 'dt-right',
+      ],
+      [
+        'title' => 'Dateien',
+        'data' => 'dateianzahl',
+        'class' => 'dt-center',
+        'defaultContent' => 0,
+      ],
+    ];
+
+    $sqlTemplate =
+      "SELECT SQL_CALC_FOUND_ROWS v.id, 
+        if(v.status <> 'storniert', v.belegnr, concat('<s>', v.belegnr, '</s>')) AS verbindlichkeitnr, 
+        if(v.status <> 'storniert', a.lieferantennummer,concat('<s>', a.lieferantennummer, '</s>')) AS lieferantennr,
+        if(v.status <> 'storniert', a.name, concat('<s>', a.name, '</s>')) AS lieferant,
+        DATE_FORMAT(v.rechnungsdatum, '%d.%m.%Y') AS rechnungsdatum, 
+        IF(v.betrag < 0, CONCAT('<font color=red>', v.verwendungszweck, ' ', IF(v.rechnung != '', 'RE ' ,''), v.rechnung, '</font>'), v.rechnung) AS rechnungsnr,
+        (".$this->app->erp->FormatPreis('v.betrag', 2).") AS betrag,
+        dateien.anzahl AS dateianzahl 
+      FROM verbindlichkeit v 
+      LEFT JOIN adresse AS a ON v.adresse = a.id 
+      LEFT JOIN zahlungsweisen AS z ON v.zahlungsweise = z.type 
+      LEFT JOIN projekt AS p ON p.id = v.projekt
+      LEFT JOIN (
+        SELECT ds.parameter AS verbindlichkeit_id, COUNT(ds.datei) AS anzahl 
+        FROM datei_stichwoerter AS ds 
+        WHERE ds.objekt LIKE 'Verbindlichkeit'
+        GROUP BY ds.parameter, ds.objekt
+      ) AS dateien ON dateien.verbindlichkeit_id = v.id
+      WHERE v.id > 0 " . $this->app->erp->ProjektRechte() . ' 
+      {{where}} 
+      ORDER BY {{orderby}}
+      LIMIT {{offset}}, {{limit}}';
+
+    $sqlCount =
+      'SELECT COUNT(v.id) AS num 
+      FROM verbindlichkeit AS v 
+      LEFT JOIN projekt AS p ON p.id = v.projekt
+      WHERE v.id > 0 ' . $this->app->erp->ProjektRechte();
+
+    return [
+      'sql_count' => $sqlCount,
+      'sql_template' => $sqlTemplate,
+      'columns' => $columns,
+      'filter' => $filter,
+      'order' => [[0, 'desc']],
+    ];
+  }
+}

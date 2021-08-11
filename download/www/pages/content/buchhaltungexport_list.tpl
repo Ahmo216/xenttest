@@ -27,7 +27,6 @@
 <tr><td width="100">{|von|}:</td><td><input type="text" size="12" id="von" name="von" value="[VON]">&nbsp;
 {|bis|}&nbsp;<input type="text" size="12" name="bis" id="bis" value="[BIS]">&nbsp;[DATUMBIS]&nbsp;<input type="submit" name="export" value="{|Export|}"></td></tr>
 <tr><td></td><td>[LETZTEREXPORTRECHNUNG]</td></tr>
-<!--<tr><td colspan="2">[SCHLUESSEL]</td></tr>-->
 </table>
 
 </fieldset>
@@ -40,8 +39,6 @@
 <tr><td width="100">{|von|}</td><td><input type="text" size="12" id="von3" name="von3" value="[VON3]">&nbsp;
 {|bis|}&nbsp;<input type="text" size="12" name="bis3" id="bis3" value="[BIS3]">&nbsp;<input type="submit" name="exportverbindlichkeit" value="{|Export|}"></td></tr>
 <tr><td></td><td>[LETZTEREXPORTVERBINDLICHKEITEN]</td></tr>
-<!--<tr><td>mit exportierten</td><td><input type="checkbox" value="1" name="exportiert"></td></tr>-->
-<!--<tr><td>{|Format|}:</td><td>[SCHLUESSEL3]</td></tr>-->
 </table>
 </fieldset>
 </form>
@@ -80,7 +77,18 @@
 <tr><td colspan="3"><input type="checkbox" name="neuesdatevformat" id="neuesdatevformat" value="1" [NEUESDATEVFORMAT]>&nbsp;{|Neues Datev Format (ab 2018)|}</td></tr>
 <tr><td colspan="3"><input type="checkbox" name="neuesdatevformattestbuchung" id="neuesdatevformattestbuchung" value="1" [NEUESDATEVFORMATTESTBUCHUNG]>&nbsp;{|Neues Datev Format (Testbuchung einfügen)|}</td></tr>
 <tr><td colspan="3"><input type="checkbox" name="altesdatevformat" id="altesdatevformat" value="1" [ALTESDATEVFORMAT]>&nbsp;{|Datev Komp-Modus (GoBD Festschreibekennzeichen)|}</td></tr>
-<tr><td colspan="3"><input type="checkbox" name="datev_append_internet" id="datev_append_internet" value="1" [DATEV_APPEND_INTERNET]>&nbsp;{|Internetnummer im XML für Datev Unternehmen Online ergänzen|}</td></tr>
+<tr>
+    <td colspan="2">
+        <select name="datev_append_internet" id="datev_append_internet">
+            <option value="0"> - </option>
+            <option value="1" [DATEV_APPEND_INTERNET]>{|Internetnummer|}</option>
+            <option value="2" [DATEV_APPEND_TRANSACTION_NUMBER]>{|Transaktionsnummer|}</option>
+        </select>
+    </td>
+    <td>
+        <label for="datev_append_internet">{|im XML für Datev Unternehmen Online ergänzen|}</label>
+    </td>
+</tr>
 <tr><td colspan="3"><br></td></tr>
 <tr><td colspan="3"><strong>{|Zahlweisen/Steuersätze|}</strong></td></tr>
 <tr><td colspan="3"><input type="checkbox" name="zahlweisen" id="zahlweisen" value="1" [ZAHLWEISEN]>&nbsp;{|Zahlweisen und Steuersätze gesondert bei Rechnung und Gutschrift als extra Spalte mit ausgeben|}</td></tr>
@@ -162,12 +170,9 @@
 <td><input type="text" size="40" name="kunde" value="" id="kunde">&nbsp;<i>{|Export ab Kd.-Nr.|}</i></td></tr>
 <tr><td><input type="button" value="{|Lieferanten|}" onclick="window.location.href='index.php?module=buchhaltungexport&action=exportadressen&cmd=lieferanten&info='+document.getElementById('lieferant').value"></td>
 <td><input type="text" size="40" name="lieferant" value="" id="lieferant">&nbsp;<i>{|Export ab Lf.-Nr.|}</i></td></tr>
-<!--<tr><td>[BUTTONVERBAND]</td>
-<td><input type="text" size="40" name="kundeverband" value="" id="kundeverband">&nbsp;<i>Export ab Kd.-Nr.</i></td></tr>-->
 </table>
 
 </td></tr>
-<!--<tr><td>{|Format|}:</td><td>"Kundennummer bzw. Lieferantennummer";"Kundenname";"Strasse";"PLZ","Ort";"USTID";"Zahlungsziel in Tage";"Konto";"BLZ";"IBAN";"BIC";"Bank";"Konto Buchhaltung";</td></tr>-->
 </table>
 </fieldset>
 </form>
@@ -186,29 +191,6 @@
 
 
 </div>
-
-
-
-
-<!--
-<div id="tabs-2">
-<form action="" method="POST">
-<fieldset><legend>{|Stapeldruck Rechnungen / Gutschriften|}</legend>
-
-<table >
-<tr><td>Sortiert nach</td><td><select name="sort"><option value="datum">Datum</option><option value="belegnr">Rechnungsnummer</option></select></td></tr>
-<tr><td>Projekt:</td><td><input type="name" value="[PROJEKT]" name="projekti2" id="projekt2">&nbsp;<i>(Optional / Standardm&auml;&szlig;ig leer lassen)</i></td></tr>
-<tr><td width="100">von:</td><td><input type="text" size="12" id="von4" name="von4" value="[VON4]">&nbsp;[DATUMVON]</td></tr>
-<tr><td>bis:</td><td><input type="text" size="12" name="bis4" id="bis4" value="[BIS4]">&nbsp;[DATUMBIS]&nbsp;<select name="drucker">[DRUCKER]</select>&nbsp;<input type="submit" name="stapeldruck" value="Stapeldruck"></td></tr>
-</table>
-
-</fieldset>
-</form>
-
-</div>
--->
-
-
 
 <!-- tab view schließen -->
 </div>

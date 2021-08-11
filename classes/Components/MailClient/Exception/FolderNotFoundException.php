@@ -1,30 +1,11 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP+4rRobj75GFBuBw2dUtQGoZsoaSZTPlAD+3bNrn9Cgb7/p0vAHUOQxmVYgEp06oZrrVnm8v
-p6MPI19Q6R3IRrCgOJKgzxi3oaA4x6kcwKu1n/baEpI44H7yok2n3dRP2jH1s5c1gnKmDsDAx57C
-qvQwggnLXhOclqbdLwn/6wxcFtr+OfvNI2j+WUhRVwiMOd1L3clz0WFbwkJH7nICUvIY93ReseH+
-Iqnl2WKDyz15HqYxZL8UcSgCm/Epv6D/DCQ10/zo4KxZXeVn36HyX/KHyfPsvCB7mOMoX9YfEI8G
-KW5URMARKxy07nit8dF98oA0BAoQk+y7fY2zPbcayrUcMGWvBGAepw1wkx+TA51FIHpappIIL3SA
-9hM40ahHbaQBpQWonZ5JrlOu/qhhuzPtD0MFHsmsTklsoeF+nQJ5W0PK0UW3Qh6SQFHVA7DvLyyu
-kjxUKJaUpifclog6cbfNzjeSwvTK9CkVS/7cJOHMJ05ovdLIuHfoyxuedXmxU9FUP3GcYyn4xI3M
-/hKKuLx7xldZcyov68tPGV/e6spiX0p8IxJb2ZldK2WNk8ghuoqikDZVIcaxpc9RLAw0LVNGZ1Jc
-3vF5mNdgMAHZjRhMHCat7M7y7gMfchQ8TlhmYo7qXTr4ujr1xWZAp2im27sZiQDJ27KePsZqOvpH
-nP+dKBoQr2Jnj6JMNxZDw+2bKn8IC1V9azSAah6mcEcXjm3BcPAkG3ME+NICPXN/Yv49cmZmiF7n
-QUNmTw2A4mnSowZ9qvq/Feb+S9SuCFTp0ayURwEJBfuN5s928IH3sn230rMUysplzMeklfub7Wyf
-dn17xZDfUE8O3zroNGKYJcX//n8FsnYFQ6Bd2/ZNCZIDQfdNSmScuQkFJoV532ObFL3qJ4HUzs4D
-pXqDjxFT4k+/Cy7HOItDbfFqMWXKEw2bIJecu0gDgcQ7PcVTkOJuHeuNc/dmAqW3b99fYN/lKEFM
-sCsqu9unR1VK2zzEVP71xF5ObrdiyNuL1V9lRmEpvMbrRP2iCFs3+zEI1x932lyUOwFKZ3+o4e28
-d7/ICa3SbQh94gFbTa9SvYdTK7C0oCxto93b/MzKlPmkyrxTQz3DyILuGXVAu1Qm/S4lMHaArUfw
-/AtpgWEGiCKAo6SNYMf9ZGYx4NbDH7VXEnJulMkjiax+qv9aQDgG/9amEqC8CL1exTahNn6B93Tc
-ySXKOAl/4ocKmhEVbIf0xQOUunNOa5Hm1RuLW68ka3bHXShxMljZnYn5YQtY0P3FFGZOE6RzP1H1
-lDineIVIDg13aCWmYdU1/jtD0imG5svHBNvI/gvGHDfgrv8jbY6ysfQOWeERJtPTM7uxz1gMnuyC
-3PAbn1DHKBKVkAsFMADRfnPd2A4W6oyO0xXSTiWkoLdxR1WY+89zxnkfzFiMx7XX9x9QBQjVL9xa
-0ErUCwVsfn96EpC4vJbAE0HVrRFYddQhvt/ki5A7PRkGsXJERrbzv2So21+KfEAsrot3e60TQhjM
-0uTOfvdVq8l4pGsfKNl677baFhmhDvUT6fy4DgfDAF/dkBdxrHKejrnXqIoQB5FhOoPfMO0MYRSF
-9OQXvYC1CxiQo3MJh/e2+3Sj76GVlR+iAt0u9+X6FS7vy/9mA54YIDIwC0K3gmZZ7eEqsLgcAkyI
-4NYvhNMJkl1jX1c/wDnsT77jMGEeJn3zG1mLJY99o843xoC8ybzMB2GbQS5EDXBzmvyuHI51WcRt
-kKpbrqN8NLsSz0afTqLPfgR7/Dpex5xbExljccYjXVjC+6pXCXiFiWL5WkNhIuJ1b4HL2LYPCrad
-/0D8QqPQNg1AvjA/TxHhDWUBM0P9fX7I0nSi4p5WBc0MlJu6RWeQ6f9W0eu0M7HQQpv3uw8zEW8W
-3orU63R6pQBaYzb1OfVt+Q54ft3czNE50OhYAZOA0I9MnTiGVFCMcTPKPIncW7UfO76SYdg0uCCw
-/jFO0RZ6omIDrRXH88e+Vtihs6JO3UMqx1ZNor5BYvkeXLJ/5ai=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\MailClient\Exception;
+
+use RuntimeException as SplRuntimeException;
+
+final class FolderNotFoundException extends SplRuntimeException implements MailClientExceptionInterface
+{
+}

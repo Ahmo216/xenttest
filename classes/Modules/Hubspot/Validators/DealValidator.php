@@ -1,108 +1,108 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-d+l7bnqVgIX64N9V68qtDBFj0Wx/q0==
+<?php
+
+namespace Xentral\Modules\Hubspot\Validators;
+
+use Xentral\Modules\Hubspot\Exception\HubspotException;
+
+final class DealValidator implements ValidatorInterface
+{
+
+    /** @var string */
+    private $rules;
+    private $data;
+
+    public function __construct($rules = 'default')
+    {
+        $this->rules = $rules;
+    }
+
+
+    public function isValid($data = [])
+    {
+        $validatorMethod = 'validatorRule' . ucfirst($this->rules);
+        if (!method_exists($this, $validatorMethod)) {
+            throw new HubspotException(sprintf('Validator method %s is missing', $validatorMethod));
+        }
+        $this->data = $data;
+        $rules = $this->{$validatorMethod}();
+        foreach ($rules as $field => $rule) {
+            if (array_key_exists('rule', $rule)) {
+                $validation = call_user_func($rule['rule'], $data);
+                if (!$validation && (!empty($this->data[$field]) || !empty($rule['required']))) {
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+
+    /**
+     * @return array
+     */
+    public function validatorRuleDefault()
+    {
+        return [
+            'dealname'  => [
+                'rule'     => static function ($data) {
+                    return !empty($data['dealname']) && is_string($data['dealname']);
+                },
+                'required' => true,
+                'message'  => sprintf('%s should be a non empty String', 'name'),
+            ],
+            'dealstage' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['dealstage']) && is_string($data['dealstage']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'Deal stage'),
+            ],
+            'pipeline'  => [
+                'rule'     => static function ($data) {
+                    return !empty($data['pipeline']) && is_string($data['pipeline']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'Pipeline'),
+            ],
+
+            'hubspot_owner_id' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['hubspot_owner_id']) && is_numeric($data['hubspot_owner_id']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'hubspot_owner_id'),
+            ],
+
+            'closedate' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['closedate']) && is_numeric($data['closedate']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'closedate'),
+            ],
+
+            'dealtype' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['dealtype']) && is_string($data['dealtype']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'dealtype'),
+            ],
+
+            'amount' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['amount']) && is_numeric($data['amount']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'amount'),
+            ],
+        ];
+    }
+
+    public function getData()
+    {
+        return array_filter($this->data, static function ($value) {
+            return $value !== null && trim($value) !== '';
+        });
+    }
+}

@@ -1,130 +1,226 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-AMM20z+Zs5HYXW==
+<?php
+namespace Xentral\Modules\Article\Service;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Article\Service\CurrencyConversionService;
+use Xentral\Modules\Article\Exception\CurrencyExchangeRateNotFoundException;
+
+final class SellingPriceService
+{
+    /** @var Database $db */
+    private $db;
+
+    /** @var CurrencyConversionService */
+    private $currencyConversion;
+
+    /**
+     * @param Database                  $database
+     * @param CurrencyConversionService $currencyConversion
+     */
+    public function __construct(Database $database, CurrencyConversionService $currencyConversion)
+    {
+        $this->db = $database;
+        $this->currencyConversion = $currencyConversion;
+    }
+
+    /**
+     * @param int    $articleId
+     * @param float  $price
+     * @param string $currencyCode
+     * @param float  $quantityFrom
+     */
+    public function setStandardPrice($articleId, $price, $currencyCode, $quantityFrom = 0.0)
+    {
+        if(empty($currencyCode)) {
+            $currencyCode = 'EUR';
+        }
+        $oldPrices = $this->db->fetchAll(
+            "SELECT id, preis AS price, waehrung AS currency_code 
+            FROM verkaufspreise WHERE artikel = :article_id AND art <> 'Gruppe'
+                AND   (IFNULL(gueltig_bis,'0000-00-00') = '0000-00-00' OR gueltig_bis >= CURDATE())
+                AND adresse = 0 AND IF(waehrung <> '', waehrung, 'EUR') = :currency_code AND ab_menge = :quantity_from
+            ",
+
+            [
+                'article_id'    => (int)$articleId,
+                'currency_code' => $currencyCode,
+                'quantity_from' => (float)$quantityFrom
+            ]
+        );
+
+        if(!empty($oldPrices)) {
+            foreach($oldPrices as $oldPrice) {
+                if(round($oldPrice['price'],8) === round($price, 8)) {
+                    return;
+                }
+                $this->expire($oldPrice['id']);
+            }
+        }
+        try {
+            $conversionRate = $this->currencyConversion->tryGetEuroExchangeRateFromCurrencyCode($currencyCode);
+        }
+        catch (CurrencyExchangeRateNotFoundException $e) {
+            $conversionRate = 0;
+        }
+        $this->db->perform("INSERT INTO verkaufspreise 
+            (artikel, objekt, projekt, adresse, preis, waehrung, ab_menge, vpe, vpe_menge, angelegt_am, 
+             firma, geloescht, art, gruppe, apichange, nichtberechnet, kurs, kursdatum)
+            VALUES (:article_id, '', 0, 0, :price, :currency_code, :quantity_from, '',0, NOW(), 
+                    1, 0,'Kunde', 0, 0,1, :conversion_rate, NOW())",
+            [
+                'article_id'      => (int)$articleId,
+                'price'           => (float)$price,
+                'currency_code'   => (String)$currencyCode,
+                'quantity_from'   => (float)$quantityFrom,
+                'conversion_rate' => $conversionRate,
+            ]
+        );
+    }
+
+    /**
+     * @param array $priceArr
+     */
+    public function setStandardPriceByArray($priceArr)
+    {
+        if(empty($priceArr)) {
+            return;
+        }
+        $articleIds = [];
+        foreach($priceArr as $priceRow) {
+            if(!in_array($priceRow['article_id'], $articleIds, false)) {
+                $articleIds[] = $priceRow['article_id'];
+            }
+        }
+        $select = $this->db->select();
+        $select
+            ->cols([
+                    'p.id',
+                    'p.preis as price',
+                    'IF(p.waehrung <> \'\', p.waehrung, \'EUR\') AS currency_code',
+                    'p.artikel AS article_id',
+                    'p.ab_menge AS quantity_from'
+                ]
+            )
+            ->from('verkaufspreise AS p')
+            ->where("art <> 'Gruppe'AND   (IFNULL(gueltig_bis,'0000-00-00') = '0000-00-00' OR gueltig_bis >= CURDATE())
+                AND adresse = 0 AND artikel IN (:articles)")
+            ->bindValue('articles', $articleIds);
+
+        $oldPrices = $this->db->fetchAll(
+            $select->getStatement(),
+            $select->getBindValues()
+        );
+
+        $priceTree = [];
+        foreach($oldPrices as $oldPrice) {
+            $priceTree[(int)$oldPrice['article_id']][$oldPrice['currency_code']][round($oldPrice['quantity_from'],8)] =
+                round($oldPrice['price'],8);
+        }
+        unset($oldPrices);
+
+        foreach($priceArr as $prices) {
+            if($prices['currency_code'] === '') {
+                $prices['currency_code'] = 'EUR';
+            }
+            $prices['quantity_from'] = round($prices['quantity_from'], 8);
+            $prices['price'] = round($prices['price'], 8);
+            $prices['article_id'] = (int)$prices['article_id'];
+            $emptyArticle = empty($priceTree[$prices['article_id']]);
+            $emptyCurrency = $emptyArticle|| empty($priceTree[$prices['article_id']][$prices['currency_code']]);
+            if($emptyCurrency
+                || empty($priceTree[$prices['article_id']][$prices['currency_code']][$prices['quantity_from']])
+                || $priceTree[$prices['article_id']][$prices['currency_code']][$prices['quantity_from']]
+                !== $prices['price']
+            ) {
+                $this->setStandardPrice(
+                    $prices['article_id'],
+                    $prices['price'],
+                    $prices['currency_code'],
+                    $prices['quantity_from']
+                );
+                $priceTree[$prices['article_id']][$prices['currency_code']][$prices['quantity_from']] = $prices['price'];
+            }
+        }
+    }
+
+    /**
+     * @param int    $articleId
+     * @param int    $addressId
+     * @param float  $price
+     * @param string $currencyCode
+     * @param float  $quantityFrom
+     */
+    public function saveCustomerPrice($articleId, $addressId, $price, $currencyCode, $quantityFrom = 0.0)
+    {
+        $this->db->perform("INSERT INTO verkaufspreise 
+            (artikel, objekt, projekt, adresse, preis, waehrung, ab_menge, vpe, vpe_menge, angelegt_am, 
+             firma, geloescht, art, gruppe, apichange, nichtberechnet)
+            VALUES (:article_id, '', 0, :address_id, :price, :currency_code, :quantity_from, '',0, NOW(), 
+                    1, 0,'Kunde', 0, 0,1)",
+            [
+                'article_id'    => (int)$articleId,
+                'address_id'    => (int)$addressId,
+                'price'         => (float)$price,
+                'currency_code' => $currencyCode,
+                'quantity_from' => (float)$quantityFrom
+            ]
+        );
+    }
+
+    /**
+     * @param int    $articleId
+     * @param int    $groupId
+     * @param float  $price
+     * @param string $currencyCode
+     * @param float  $quantityFrom
+     */
+    public function saveGroupPrice($articleId, $groupId, $price, $currencyCode, $quantityFrom = 0.0)
+    {
+        $this->db->perform("INSERT INTO verkaufspreise 
+            (artikel, objekt, projekt, adresse, preis, waehrung, ab_menge, vpe, vpe_menge, angelegt_am, 
+             firma, geloescht, art, gruppe, apichange, nichtberechnet)
+            VALUES (:article_id, '', 0, 0, :price, :currency_code, :quantity_from, '',0, NOW(), 
+                    1, 0, 'Gruppe', :group_id, 0,1)",
+            [
+                'article_id'    => (int)$articleId,
+                'group_id'      => (int)$groupId,
+                'price'         => (float)$price,
+                'currency_code' => $currencyCode,
+                'quantity_from' => (float)$quantityFrom
+            ]
+        );
+    }
+
+    /**
+     * @param int $sellingPriceId
+     */
+    public function delete($sellingPriceId)
+    {
+        $this->db->perform(
+            'DELETE FROM verkaufspreise WHERE id = :sellingprice_id',
+            ['sellingprice_id' => $sellingPriceId]
+        );
+    }
+
+    /**
+     * @param int $aricleId
+     */
+    public function deleteAllByAricleId($aricleId)
+    {
+        $this->db->perform(
+            'DELETE FROM verkaufspreise WHERE artikel = :article_id',
+            ['article_id' => (int)$aricleId]
+        );
+    }
+
+    /**
+     * @param int $sellingPriceId
+     */
+    public function expire($sellingPriceId)
+    {
+        $this->db->perform(
+            'UPDATE verkaufspreise SET gueltig_bis = DATE_SUB(CURDATE(), INTERVAL 1 DAY) WHERE id = :sellingprice_id',
+            ['sellingprice_id' => $sellingPriceId]
+        );
+    }
+}

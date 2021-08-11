@@ -1450,6 +1450,7 @@ Sobald der Umsatz ins EU-Ausland die EU-weite Schwelle überschreitet, werden al
 $tooltip['lieferschwelle']['list']['e_erloeskontonormal'] = 'Wenn das Erlöskonto erst nachträglich ergänzt wird, werden diese nicht in bereits existierende Belege übernommen.';
 $tooltip['lieferschwelle']['list']['e_erloeskontoermaessigt'] = 'Wenn das Erlöskonto erst nachträglich ergänzt wird, werden diese nicht in bereits existierende Belege übernommen.';
 $tooltip['lieferschwelle']['list']['e_erloeskontobefreit'] = 'Wenn das Erlöskonto erst nachträglich ergänzt wird, werden diese nicht in bereits existierende Belege übernommen.';
+$tooltip['lieferschwelle']['list']['e_storage'] = 'Kann auf "Lager" oder "Hauptlager" gesetzt werden, um dem System mitzuteilen, dass man im Empfängerland selbst ein Lager besitzt und somit für jeden Auftrag in das Empfängerland der dort geltende Umsatzsteuersatz zu verwenden ist (nicht erst ab Überschreitung der Lieferschwelle)';
 
 /* AMAINVOICE */
 

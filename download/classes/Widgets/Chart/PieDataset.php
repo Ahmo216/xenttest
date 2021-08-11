@@ -1,98 +1,125 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-7JhAdJHvHFqGah/LomFU
+<?php
+
+namespace Xentral\Widgets\Chart;
+
+/**
+ * Spezielles Dataset für Pie-/Doughnut-Charts
+ *
+ * Besonderheiten:
+ * * Farben müssen als Array angegeben werden; pro Wert eine Farbe
+ * * Strichbreiten ('borderWidth') müssen als Array angegeben werden; pro Wert eine Breite
+ *
+ * http://www.chartjs.org/docs/master/charts/doughnut.html#dataset-properties
+ */
+class PieDataset extends Dataset
+{
+    /** @var array $defaultAlphaValues Transparenz-Werte */
+    protected static $defaultAlphaValues = [
+        'borderColor' => 1.0,
+        'backgroundColor' => 1.0,
+        'hoverBorderColor' => 1.0,
+    ];
+
+    /** @var int $colorPointer Merkt sich die zuletzt verwendete Default-Color */
+    private $colorPointer = 0;
+
+    /**
+     * @inheritdoc
+     */
+    public function __construct($label, $data, array $options = [])
+    {
+        parent::__construct($label, $data, $options);
+
+        $this->options['borderWidth'] = 3;
+
+        unset($this->options['pointBackgroundColor']);
+    }
+
+    /**
+     * @param Color $color
+     *
+     * @return void
+     */
+    public function setColor(Color $color)
+    {
+        $backgroundColor = clone $color;
+        $borderColor = new Color(255, 255, 255);
+        $hoverBorderColor = new Color(255, 255, 255);
+
+        $borderColor->setAlpha($this->getDefaultAlphaValue('borderColor'));
+        $backgroundColor->setAlpha($this->getDefaultAlphaValue('backgroundColor'));
+        $hoverBorderColor->setAlpha($this->getDefaultAlphaValue('hoverBorderColors'));
+
+        // Hintergrundfarbe als Array setzen
+        // Pro Datensatz Farbe etwas heller machen
+        $backgroundColors = [];
+        $dataCount = $this->getDataCount();
+        foreach ($this->data as $key => $value) {
+            $difference = $key * 75 / $dataCount;
+            $backgroundColorLighter = clone $backgroundColor;
+            $backgroundColorLighter->makeLighter($difference);
+            $backgroundColors[$key] = $backgroundColorLighter;
+        }
+
+        $this->options['borderColor'] = $borderColor;
+        $this->options['backgroundColor'] = $backgroundColors;
+        $this->options['hoverBorderColor'] = $hoverBorderColor;
+
+        $this->hasColorAssigned = true;
+    }
+
+    /**
+     * Hintergrundfarben pro Wert hinterlegen
+     *
+     * Die Anzahl der Farben sollte der Anzahl der Daten entsprechen
+     *
+     * @param array|string[] $colors Hexadecimal- oder RGB-Schreibweise
+     *
+     * @return void
+     */
+    public function setColors(array $colors)
+    {
+        // Rahmenfarbe auf Weiß setzen
+        $borderColor = new Color(255, 255, 255);
+        $hoverBorderColor = new Color(255, 255, 255);
+        $borderColor->setAlpha($this->getDefaultAlphaValue('borderColor'));
+        $hoverBorderColor->setAlpha($this->getDefaultAlphaValue('hoverBorderColors'));
+
+        // Nur Hintergrundfarbe/Füllfarbe variieren
+        $backgroundColors = [];
+        //foreach ($colors as $color) {
+        foreach ($this->data as $key => $value) {
+            $color = $colors[$key];
+            if (strpos($color, '#', 0) === 0) {
+                $backgroundColor = Color::createFromHex($color);
+            } else {
+                $rgb = $this->getNextDefaultColor();
+                $backgroundColor = new Color($rgb[0], $rgb[1], $rgb[2], 1);
+            }
+
+            $backgroundColor->setAlpha($this->getDefaultAlphaValue('backgroundColor'));
+            $backgroundColors[] = $backgroundColor;
+        }
+
+        $this->options['borderColor'] = $borderColor;
+        $this->options['hoverBorderColor'] = $hoverBorderColor;
+        $this->options['backgroundColor'] = $backgroundColors;
+
+        $this->hasColorAssigned = true;
+    }
+
+    /**
+     * @return array RGB-Array
+     */
+    private function getNextDefaultColor()
+    {
+        $this->colorPointer++;
+        if ($this->colorPointer >= count(self::$colorMap)) {
+            $this->colorPointer = 0;
+        }
+
+        $colors = array_values(self::$colorMap);
+
+        return $colors[$this->colorPointer];
+    }
+}

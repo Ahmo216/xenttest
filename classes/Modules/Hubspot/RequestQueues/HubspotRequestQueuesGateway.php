@@ -1,34 +1,44 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-g9IbG6e=
+<?php
+
+namespace Xentral\Modules\Hubspot\RequestQueues;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Hubspot\RequestQueues\Exception\RequestQueuesException;
+
+final class HubspotRequestQueuesGateway
+{
+    /** @var Database $db */
+    private $db;
+
+    public function __construct(Database $db)
+    {
+        $this->db = $db;
+    }
+
+    /**
+     * @param string $type
+     *
+     * @throws RequestQueuesException
+     * @return array
+     */
+    public function getNewRequestsByCallType($type)
+    {
+        if (!is_string($type)) {
+            throw new RequestQueuesException(
+                'Call Type should be a string'
+            );
+        }
+        $sql = 'SELECT 
+                rq.id,
+                rq.command, 
+                rq.not_before,
+                rq.try, 
+                rq.runner, 
+                rq.check_sum,
+                rq.on_after_done 
+                FROM hubspot_request_queues AS `rq` WHERE rq.call_type=:type AND rq.completed=0 AND rq.deleted=0
+                ORDER BY rq.created_at';
+
+        return $this->db->fetchAll($sql, ['type' => $type]);
+    }
+}

@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php 
+
+class GenLieferbedingungen { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","LieferbedingungenCreate");
+    $this->app->ActionHandler("edit","LieferbedingungenEdit");
+    $this->app->ActionHandler("copy","LieferbedingungenCopy");
+    $this->app->ActionHandler("list","LieferbedingungenList");
+    $this->app->ActionHandler("delete","LieferbedingungenDelete");
+
+    $this->app->Tpl->Set("HEADING","Lieferbedingungen");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function LieferbedingungenCreate(){
+    $this->app->Tpl->Set("HEADING","Lieferbedingungen (Anlegen)");
+      $this->app->PageBuilder->CreateGen("lieferbedingungen_create.tpl");
+  }
+
+  function LieferbedingungenEdit(){
+    $this->app->Tpl->Set("HEADING","Lieferbedingungen (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("lieferbedingungen_edit.tpl");
+  }
+
+  function LieferbedingungenCopy(){
+    $this->app->Tpl->Set("HEADING","Lieferbedingungen (Kopieren)");
+      $this->app->PageBuilder->CreateGen("lieferbedingungen_copy.tpl");
+  }
+
+  function LieferbedingungenDelete(){
+    $this->app->Tpl->Set("HEADING","Lieferbedingungen (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("lieferbedingungen_delete.tpl");
+  }
+
+  function LieferbedingungenList(){
+    $this->app->Tpl->Set("HEADING","Lieferbedingungen (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("lieferbedingungen_list.tpl");
+  }
+
+} 
+?>

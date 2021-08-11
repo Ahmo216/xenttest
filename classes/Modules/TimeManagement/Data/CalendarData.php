@@ -1,55 +1,108 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-lX6Ce5eA6EohUH6cC0==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\TimeManagement\Data;
+
+use DateTimeImmutable;
+use Exception;
+use DateTimeInterface;
+use Xentral\Modules\TimeManagement\Exception\InvalidDateFormatException;
+
+final class CalendarData
+{
+    /** @var int $month */
+    private $month = 0;
+
+    /** @var DateTimeInterface $date */
+    private $date;
+
+    /** @var int $addressId */
+    private $addressId = 0;
+
+    /** @var string $employeeName */
+    private $employeeName = '';
+
+    /** @var string $type */
+    private $type = '';
+
+    /** @var bool $isHalf */
+    private $isHalf = false;
+
+    private function __construct()
+    {
+    }
+
+    /**
+     * @param array $data
+     *
+     * @return CalendarData
+     *
+     * @throws InvalidDateFormatException
+     */
+    public static function fromDbState(array $data): CalendarData
+    {
+        $calendarData = new CalendarData();
+        $calendarData->month = (int)$data['month'];
+        try {
+            $calendarData->date = new DateTimeImmutable($data['date']);
+        } catch (Exception $e) {
+            throw new InvalidDateFormatException('Could not convert date: ' . $data['date']);
+        }
+
+        $calendarData->addressId = (int)$data['address_id'];
+        $calendarData->employeeName = (string)$data['name'];
+        $calendarData->type = (string)$data['type'];
+        $calendarData->isHalf = (bool)$data['is_half'];
+
+        return $calendarData;
+    }
+
+    /**
+     * @return int
+     */
+    public function getMonth(): int
+    {
+        return $this->month;
+    }
+
+    /**
+     * @return DateTimeInterface
+     */
+    public function getDate(): DateTimeInterface
+    {
+        return $this->date;
+    }
+
+    /**
+     * @return int
+     */
+    public function getAddressId(): int
+    {
+        return $this->addressId;
+    }
+
+    /**
+     * @return string
+     */
+    public function getEmployeeName(): string
+    {
+        return $this->employeeName;
+    }
+
+    /**
+     * @return string
+     */
+    public function getType(): string
+    {
+        return $this->type;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isHalf(): bool
+    {
+        return $this->isHalf;
+    }
+}

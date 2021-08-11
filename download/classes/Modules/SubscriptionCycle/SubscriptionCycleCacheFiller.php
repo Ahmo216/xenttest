@@ -1,55 +1,73 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\SubscriptionCycle;
+
+use DateTimeInterface;
+use Xentral\Modules\SubscriptionCycle\Service\SubscriptionCycleArticleGateway;
+use Xentral\Modules\SubscriptionCycle\Service\SubscriptionCycleCacheService;
+
+final class SubscriptionCycleCacheFiller
+{
+
+    /** @var SubscriptionCycleArticleGateway $articleGateway */
+    private $articleGateway;
+
+    /** @var SubscriptionCycleCacheService $cacheService */
+    private $cacheService;
+
+    /**
+     * @param SubscriptionCycleArticleGateway $articleGateway
+     * @param SubscriptionCycleCacheService   $cacheService
+     */
+    public function __construct(
+        SubscriptionCycleArticleGateway $articleGateway,
+        SubscriptionCycleCacheService $cacheService
+    ) {
+        $this->articleGateway = $articleGateway;
+        $this->cacheService = $cacheService;
+    }
+
+    /**
+     * @param DateTimeInterface $nextFirstDate
+     */
+    public function generateCacheByNextFirstDate(DateTimeInterface $nextFirstDate): void
+    {
+        $monthlyData = $this->articleGateway->findMonthlySubscriptionData($nextFirstDate);
+        $customIntervalData = $this->articleGateway->findCustomIntervalSubscriptionData($nextFirstDate);
+        $yearlyData = $this->articleGateway->findYearlySubscriptionData($nextFirstDate);
+
+        $allData = array_merge($monthlyData, $customIntervalData, $yearlyData);
+        if (!empty($allData)) {
+            $this->cacheService->createCacheEntries($allData);
+        }
+    }
+
+    /**
+     * @param DateTimeInterface $currentDate
+     */
+    public function generateCacheByCurrentDate(DateTimeInterface $currentDate): void
+    {
+        $weeklyData = $this->articleGateway->findWeeklySubscriptionData($currentDate);
+        $thirtyDaysData = $this->articleGateway->find30DaysSubscriptionData($currentDate);
+
+        $allData = array_merge($weeklyData, $thirtyDaysData);
+        if (!empty($allData)) {
+            $this->cacheService->createCacheEntries($allData);
+        }
+    }
+
+    public function generateCacheByOneTimeData(): void
+    {
+        $data = $this->articleGateway->findOneTimeSubscriptionData();
+        if (!empty($data)) {
+            $this->cacheService->createCacheEntries($data);
+        }
+    }
+
+    public function emptyCache()
+    {
+        $this->cacheService->emptyCache();
+    }
+}

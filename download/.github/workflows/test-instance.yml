@@ -40,7 +40,7 @@ jobs:
         if: success() && steps.check.outputs.triggered == 'true'
         uses: appleboy/ssh-action@master
         with:
-          host: 35.158.210.60
+          host: 3.68.49.14
           username: ubuntu
           debug: true
           key: ${{ secrets.PR_TESTING_SSH_KEY }}

@@ -1,54 +1,85 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-aIEbBWDODUgzSBaN2sU/N1ftlym3Y5i=
+<?php
+
+namespace Xentral\Modules\DemoExporter;
+
+use ApplicationCore;
+use Xentral\Modules\DemoExporter\Exception\DemoExporterCleanerException;
+
+final class DemoExporterCleanerService
+{
+    /**
+     * @var ApplicationCore
+     */
+    private $app;
+
+    /**
+     *
+     * @param ApplicationCore $app
+     */
+    public function __construct(ApplicationCore $app)
+    {
+        $this->app = $app;
+    }
+
+    /**
+     * @param string $data
+     *
+     * @return string|string[]|null
+     */
+    public function tryXssClean($data)
+    {
+        if ($data === null || trim($data) === '') {
+            throw new DemoExporterCleanerException('Data is missing! ');
+        }
+
+        if ($this->dataNotSQLInjection($data) === false) {
+            throw new DemoExporterCleanerException('SQL Injection detected! ');
+        }
+
+        return $this->app->stringcleaner->xss_clean($data);
+    }
+
+    /**
+     * @param string $where
+     *
+     * @return bool
+     */
+    private function dataNotSQLInjection($where)
+    {
+
+        $disAllow = [
+            'UNION',
+            'SELECT(.*)INTO(.*)',
+            'INSERT',
+            'DELETE',
+            'UPDATE',
+            'LOAD',
+            'RENAME',
+            'DROP',
+            'CREATE',
+            'TRUNCATE',
+            'ALTER',
+            'COMMIT',
+            'ROLLBACK',
+            'MERGE',
+            'CALL',
+            'EXPLAIN',
+            'LOCK',
+            'GRANT',
+            'REVOKE',
+            'SAVEPOINT',
+            'TRANSACTION',
+            'SET',
+            'USE',
+            'SHOW',
+        ];
+
+        $disAllowMapped = array_map(static function ($sqlDialect) {
+            return '\b' . $sqlDialect . '\b';
+        }, $disAllow);
+        $disAllowPattern = implode('|', $disAllowMapped);
+
+        return !preg_match("/($disAllowPattern)/i", $where);
+
+    }
+}

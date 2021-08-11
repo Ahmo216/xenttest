@@ -1,98 +1,202 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Datanorm\Service;
+
+use Xentral\Modules\Datanorm\Data\DatanormATypeData;
+use Xentral\Modules\Datanorm\Data\DatanormBTypeData;
+
+final class DatanormConverter
+{
+    /**
+     * @param DatanormATypeData $aType
+     *
+     * @return array
+     */
+    public function transformATypeToArticleArray(DatanormATypeData $aType): array
+    {
+        $article = [];
+        $article['nummer'] = $aType->getArticleNumber();
+        $article['name_de'] = $aType->getShortDescription1();
+        $article['anabregs_text'] = $aType->getShortDescription2();
+        $article['ean'] = $aType->getEan();
+        $article['herstellernummer'] = $aType->getProducerNumber();
+        $article['einheit'] = $aType->getPackingUnit();
+
+        if ($aType->getArticleType() === '1') {
+            $article['lagerartikel'] = 1;
+        }
+
+        if ($aType->getWorkflowState() === 'L') {
+            $article['intern_gesperrt'] = 1;
+            $article['intern_gesperrtgrund'] = 'DATANORM';
+        }
+
+        $article['umsatzsteuer'] = 'normal';
+        if ($aType->getMwstType() === 3) {
+            $article['umsatzsteuer'] = 'ermaessigt';
+        }
+
+        return $article;
+    }
+
+    /**
+     * @param DatanormBTypeData $bType
+     *
+     * @return array
+     */
+    public function transformBTypeToArticleArray(DatanormBTypeData $bType): array
+    {
+        $article = [];
+
+        if (!empty($bType->getEan())) {
+            $article['ean'] = $bType->getEan();
+        }
+
+        if ($bType->getProcessingFlag() === 'L') {
+            $article['intern_gesperrt'] = 1;
+            $article['intern_gesperrtgrund'] = 'DATANORM';
+        }
+
+        if (!empty($bType->getAltArticleNumber())) {
+            $article['herstellernummer'] = $bType->getAltArticleNumber();
+        }
+
+        if ($bType->getCopperWeightIndicator() != '0' && $bType->getCopperWeightIndicator() != '') {
+            $article['internerkommentar'] =
+                'Kupfer-Gewichtsmerker: ' . $bType->getCopperWeightIndicator() . PHP_EOL .
+                'Kupfer-Kennzahl: ' . $bType->getCopperWeightIndicator() . PHP_EOL .
+                'Kupfer-Gewicht: ' . $bType->getCopperWeightIndicator();
+        }
+
+        if (!empty($article)) {
+            $article['nummer'] = $bType->getArticleNumber();
+        }
+
+        return $article;
+    }
+
+    /**
+     * @param int    $articleId
+     * @param string $priceMark
+     * @param string $currency
+     * @param int    $amount
+     * @param float  $price
+     * @param int    $supplierId
+     * @param string $discountFlag1
+     * @param float $discount1
+     * @param string $discountFlag2
+     * @param float $discount2
+     * @param string $discountFlag3
+     * @param float $discount3
+     *
+     * @return array
+     */
+    public function transformToPriceArray(
+        int $articleId,
+        string $priceMark,
+        string $currency,
+        int $amount,
+        float $price,
+        int $supplierId,
+        string $discountFlag1,
+        float $discount1,
+        string $discountFlag2,
+        float $discount2,
+        string $discountFlag3,
+        float $discount3
+    ): array {
+        $sellingPrice = [];
+        $purchasePrices = [];
+
+        if ($priceMark === '2') {
+            $purchasePrices[] = [
+                'article_id'    => $articleId,
+                'address_id'    => $supplierId,
+                'currency_code' => $currency,
+                'quantity_from' => $amount,
+                'price'         => $price,
+            ];
+        } else {
+            $sellingPrice = [
+                'currency_code' => $currency,
+                'quantity_from' => $amount,
+                'article_id'    => $articleId,
+                'price'         => $price,
+            ];
+
+            if ($priceMark === '1') {
+                if (!empty($discountFlag1)) {
+                    $discountPrice1 = $this->calculateDiscountPrice($price, $discountFlag1, $discount1);
+                    if (!empty($discountPrice1)) {
+                        $purchasePrices[] = [
+                            'article_id'    => $articleId,
+                            'address_id'    => $supplierId,
+                            'currency_code' => $currency,
+                            'quantity_from' => $amount,
+                            'price'         => $discountPrice1,
+                        ];
+                    }
+                }
+
+                if (!empty($discountFlag2)) {
+                    $discountPrice2 = $this->calculateDiscountPrice($price, $discountFlag2, $discount2);
+                    if (!empty($discountPrice2)) {
+                        $purchasePrices[] = [
+                            'article_id'    => $articleId,
+                            'address_id'    => $supplierId,
+                            'currency_code' => $currency,
+                            'quantity_from' => $amount,
+                            'price'         => $discountPrice2,
+                        ];
+                    }
+                }
+
+                if (!empty($discountFlag3)) {
+                    $discountPrice3 = $this->calculateDiscountPrice($price, $discountFlag3, $discount3);
+                    if (!empty($discountPrice3)) {
+                        $purchasePrices[] = [
+                            'article_id'    => $articleId,
+                            'address_id'    => $supplierId,
+                            'currency_code' => $currency,
+                            'quantity_from' => $amount,
+                            'price'         => $discountPrice3,
+                        ];
+                    }
+                }
+            }
+        }
+
+        return [
+            'sellingPrice'   => $sellingPrice,
+            'purchasePrices' => $purchasePrices,
+        ];
+    }
+
+    /**
+     * @param float  $price
+     * @param string $discountFlag
+     * @param float  $discount
+     *
+     * @return float
+     */
+    private function calculateDiscountPrice(float $price, string $discountFlag, float $discount)
+    {
+        $discountPrice = 0.0;
+
+        // Discount
+        if ($discountFlag === '1') {
+            $discountPrice = $price - ($price * ($discount / 100));
+        } // Factor
+        elseif ($discountFlag === '2') {
+            $discountPrice = $price * $discount;
+        } // Surcharge
+        elseif ($discountFlag === '3') {
+            $discountPrice = $price + ($price * ($discount / 100));
+        }
+
+        return $discountPrice;
+    }
+
+}

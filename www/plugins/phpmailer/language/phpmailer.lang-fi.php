@@ -1,52 +1,25 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/**
+ * PHPMailer language file.
+ * Finnish Version
+ * By Jyry Kuukanen
+ */
+
+$PHPMAILER_LANG = array();
+
+$PHPMAILER_LANG["provide_address"]      = 'Aseta v&auml;hint&auml;&auml;n yksi vastaanottajan ' .
+                                          's&auml;hk&ouml;postiosoite.';
+$PHPMAILER_LANG["mailer_not_supported"] = 'postiv&auml;litintyyppi&auml; ei tueta.';
+$PHPMAILER_LANG["execute"]              = 'Suoritus ep&auml;onnistui: ';
+$PHPMAILER_LANG["instantiate"]          = 'mail-funktion luonti ep&auml;onnistui.';
+$PHPMAILER_LANG["authenticate"]         = 'SMTP-virhe: k&auml;ytt&auml;j&auml;tunnistus ep&auml;onnistui.';
+$PHPMAILER_LANG["from_failed"]          = 'Seuraava l&auml;hett&auml;j&auml;n osoite on virheellinen: ';
+$PHPMAILER_LANG["recipients_failed"]    = 'SMTP-virhe: seuraava vastaanottaja osoite on virheellinen.';
+$PHPMAILER_LANG["data_not_accepted"]    = 'SMTP-virhe: data on virheellinen.';
+$PHPMAILER_LANG["connect_host"]         = 'SMTP-virhe: yhteys palvelimeen ei onnistu.';
+$PHPMAILER_LANG["file_access"]          = 'Seuraavaan tiedostoon ei ole oikeuksia: ';
+$PHPMAILER_LANG["file_open"]            = 'Tiedostovirhe: Ei voida avata tiedostoa: ';
+$PHPMAILER_LANG["encoding"]             = 'Tuntematon koodaustyyppi: ';
+$PHPMAILER_LANG["signing"]              = 'Signing Error: ';
+
 ?>
-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

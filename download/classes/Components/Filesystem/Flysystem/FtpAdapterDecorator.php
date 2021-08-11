@@ -1,50 +1,52 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-9xh9p3GRtmMr4vj/rm==
+<?php
+
+namespace Xentral\Components\Filesystem\Flysystem;
+
+use League\Flysystem\Adapter\Ftp;
+
+final class FtpAdapterDecorator extends Ftp
+{
+    /**
+     * @inheritdoc
+     */
+    public function getMetadata($path)
+    {
+        $metadata = parent::getMetadata($path);
+        if ($metadata === false) {
+            return false; // File does not exist
+        }
+
+        if ($metadata['type'] === 'dir') {
+            $metadata['timestamp'] = null; // ftp_mdtm() does not work with directories.
+            return $metadata;
+        }
+
+        if ($metadata['timestamp'] === null) {
+            $data = $this->getTimestamp($path);
+            $metadata['timestamp'] = $data !== false && isset($data['timestamp']) ? $data['timestamp'] : null;
+        }
+
+        return $metadata;
+    }
+
+    /**
+     * @inheritdoc
+     */
+    protected function normalizeListing(array $listing, $prefix = '')
+    {
+        $result = parent::normalizeListing($listing, $prefix);
+
+        foreach ($result as &$item) {
+            if ($item['type'] === 'dir') {
+                $item['timestamp'] = null; // ftp_mdtm() does not work with directories.
+                continue;
+            }
+            if (!isset($item['timestamp'])) {
+                $data = $this->getTimestamp($item['path']);
+                $item['timestamp'] = $data !== false && isset($data['timestamp']) ? $data['timestamp'] : null;
+            }
+        }
+
+        return $result;
+    }
+}

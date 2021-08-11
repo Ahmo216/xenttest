@@ -138,8 +138,8 @@
         <testsuite name="Modules/Hubspot">
             <directory suffix="Test.php">./tests/*/Modules/Hubspot</directory>
         </testsuite>
-        <testsuite name="Modules/Log">
-            <directory suffix="Test.php">./tests/*/Modules/Log</directory>
+        <testsuite name="Modules/LogViewer">
+            <directory suffix="Test.php">./tests/*/Modules/LogViewer</directory>
         </testsuite>
         <testsuite name="Modules/MandatoryFields">
             <directory suffix="Test.php">./tests/*/Modules/MandatoryFields</directory>

@@ -1,54 +1,124 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Resubmission;
+
+use Xentral\Core\DependencyInjection\ContainerInterface;
+use Xentral\Modules\Resubmission\Service\ResubmissionGateway;
+use Xentral\Modules\Resubmission\Service\ResubmissionTaskGateway;
+use Xentral\Modules\Resubmission\Service\ResubmissionTaskService;
+use Xentral\Modules\Resubmission\Service\ResubmissionTextFieldGateway;
+use Xentral\Modules\Resubmission\Service\ResubmissionTextFieldService;
+use Xentral\Modules\Resubmission\Service\ResubmissionTaskTemplateService;
+use Xentral\Modules\Resubmission\Service\ResubmissionTaskTemplateGateway;
+
+class Bootstrap
+{
+    /**
+     * @return array
+     */
+    public static function registerServices()
+    {
+        return [
+            'ResubmissionGateway'          => 'onInitResubmissionGateway',
+            'ResubmissionTaskService'      => 'onInitResubmissionTaskService',
+            'ResubmissionTaskGateway'      => 'onInitResubmissionTaskGateway',
+            'ResubmissionTextFieldService' => 'onInitResubmissionTextFieldService',
+            'ResubmissionTextFieldGateway' => 'onInitResubmissionTextFieldGateway',
+            'ResubmissionTaskTemplateService' => 'onInitResubmissionTaskTemplateService',
+            'ResubmissionTaskTemplateGateway' => 'onInitResubmissionTaskTemplateGateway',
+        ];
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return ResubmissionGateway
+     */
+    public static function onInitResubmissionGateway(ContainerInterface $container)
+    {
+        return new ResubmissionGateway($container->get('Database'));
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return ResubmissionTaskService
+     */
+    public static function onInitResubmissionTaskService(ContainerInterface $container)
+    {
+        return new ResubmissionTaskService(
+            $container->get('Database'),
+            $container->get('ResubmissionTaskGateway'),
+            $container->get('ResubmissionGateway')
+        );
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return ResubmissionTaskGateway
+     */
+    public static function onInitResubmissionTaskGateway(ContainerInterface $container)
+    {
+        return new ResubmissionTaskGateway(
+            $container->get('Database'),
+            $container->get('ResubmissionGateway')
+        );
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return ResubmissionTextFieldService
+     */
+    public static function onInitResubmissionTextFieldService(ContainerInterface $container)
+    {
+        return new ResubmissionTextFieldService(
+            $container->get('Database'),
+            $container->get('ResubmissionTextFieldGateway'),
+            $container->get('ResubmissionGateway')
+        );
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return ResubmissionTextFieldGateway
+     */
+    public static function onInitResubmissionTextFieldGateway(ContainerInterface $container)
+    {
+        return new ResubmissionTextFieldGateway(
+            $container->get('Database'),
+            $container->get('ResubmissionGateway')
+        );
+    }
+
+  /**
+   * @param ContainerInterface $container
+   *
+   * @return ResubmissionTaskTemplateService
+   */
+  public static function onInitResubmissionTaskTemplateService(ContainerInterface $container)
+  {
+    return new ResubmissionTaskTemplateService(
+      $container->get('Database'),
+      $container->get('ResubmissionTaskTemplateGateway'),
+      $container->get('ResubmissionGateway')
+    );
+  }
+
+  /**
+   * @param ContainerInterface $container
+   *
+   * @return ResubmissionTaskTemplateGateway
+   */
+  public static function onInitResubmissionTaskTemplateGateway(ContainerInterface $container)
+  {
+    return new ResubmissionTaskTemplateGateway(
+      $container->get('Database'),
+      $container->get('ResubmissionGateway')
+    );
+  }
+
+
+}

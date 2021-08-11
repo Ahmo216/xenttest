@@ -1,29 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Template\Exception;
+
+use RuntimeException;
+
+class TemplateException extends RuntimeException implements TemplateExceptionInterface
+{
+}

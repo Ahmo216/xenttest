@@ -1,31 +1,19 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Datanorm\Data;
+
+use JsonSerializable;
+
+abstract class AbstractDatanormTypeData implements JsonSerializable
+{
+
+    /**
+     * @return array
+     */
+    public abstract function jsonSerialize(): array;
+
+    /**
+     * @param string $data
+     */
+    public abstract function fillByJson(string $data): void;
+}

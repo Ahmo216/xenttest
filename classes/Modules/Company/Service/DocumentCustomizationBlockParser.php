@@ -1,45 +1,50 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-HIBhovteXi9Fo8P5IBzm1yN3
+<?php
+
+namespace Xentral\Modules\Company\Service;
+
+final class DocumentCustomizationBlockParser
+{
+    /**
+     * @deprecated
+     */
+    private $erp;
+
+    /**
+     * @param \erpAPI $erp
+     */
+    public function __construct($erp)
+    {
+        $this->erp = $erp;
+    }
+
+    /**
+     * @param string $content
+     * @param array  $variables
+     *
+     * @return string
+     */
+    public function parse($content, $variables)
+    {
+        $elements = explode("\n", str_replace("\r", '', trim($content)));
+
+        foreach ($elements as $key => $el) {
+            if ($el === '') {
+                $elements[$key] = '|';
+            }
+        }
+
+        foreach ($elements as $key => $el) {
+            $el = trim($el);
+            $elements[$key] = $el;
+            foreach ($variables as $prevKey => $preVal) {
+                if (strpos($el, '{' . $prevKey . '}') !== false) {
+                    $elements[$key] = trim(str_replace('{' . $prevKey . '}', $preVal, $el));
+                    break;
+                }
+            }
+        }
+        $content = $this->erp->ParseIfVars(implode("\n", $elements));
+
+        return $this->erp->RemoveUnusedParsevars($content);
+    }
+}

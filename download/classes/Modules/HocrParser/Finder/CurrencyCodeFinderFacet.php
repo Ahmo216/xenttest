@@ -1,57 +1,75 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Tsz1N4Aw6LHftlT/eUCC8MR2jKP9/48=
+<?php
+
+namespace Xentral\Modules\HocrParser\Finder;
+
+use Xentral\Modules\HocrParser\Data\BoundingBox;
+use Xentral\Modules\HocrParser\Data\BoundingBoxCollection;
+
+class CurrencyCodeFinderFacet implements FinderFacetInterface
+{
+    /** @var array $validCodes */
+    private $validCodes;
+
+    /**
+     * @param array $validCodes Array mit gültigen Währungscodes (drei-stelliger ISO-Code)
+     */
+    public function __construct(array $validCodes = ['EUR'])
+    {
+        $this->validCodes = $validCodes;
+    }
+
+    /**
+     * @param string $text
+     *
+     * @return bool
+     */
+    public function MatchPreCondition($text)
+    {
+        if (!$this->IsCurrencyLikeValue($text)) {
+            return false;
+        }
+
+        if (!$this->IsValidCurrency($text)) {
+            return false;
+        }
+
+        return true;
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return bool
+     */
+    private function IsCurrencyLikeValue($value)
+    {
+        return (bool)preg_match('/^[A-Z]{3}$/', $value);
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return bool
+     */
+    private function IsValidCurrency($value)
+    {
+        return in_array($value, $this->validCodes, true);
+    }
+
+    /**
+     * @param array|BoundingBox[]   $candidates
+     * @param BoundingBoxCollection $boxes
+     *
+     * @return string|false
+     */
+    public function Select(array $candidates, BoundingBoxCollection $boxes)
+    {
+        if (empty($candidates)) {
+            return false;
+        }
+
+        // Einfach das erste Ergebnis zurückliefern;
+        // In den PreConditions wurde schon sichergestellt dass es eine gültige Währung ist
+        return $candidates[0]->GetData('text');
+    }
+}

@@ -1,8 +1,9 @@
-<!doctype html>
-<html lang="de">
+<!DOCTYPE html>
+<html lang="{{ substr(app()->getLocale(), 0, 2) }}" translate="no">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google" content="notranslate">
     <title>xentral - Login</title>
     <link id="shortcuticon" rel="shortcut icon" href="./themes/new/images/favicon/favicon.ico" type="image/x-icon">
     <link id="favicon" rel="icon" href="./themes/new/images/favicon/favicon.ico" type="image/x-icon">

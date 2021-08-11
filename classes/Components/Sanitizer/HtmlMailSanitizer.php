@@ -1,45 +1,59 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Sanitizer;
+
+use HTMLPurifier;
+use HTMLPurifier_Config;
+use HTMLPurifier_Exception;
+use Xentral\Components\Sanitizer\Exception\InitialisationFailedException;
+use Xentral\Components\Sanitizer\Exception\SanitationFailedException;
+
+final class HtmlMailSanitizer
+{
+    /** @var HTMLPurifier $purifier */
+    private $purifier;
+
+    /**
+     * @param SanitizerConfig $config
+     *
+     * @throws InitialisationFailedException
+     */
+    public function __construct(SanitizerConfig $config)
+    {
+        try {
+            $purifierConf = HTMLPurifier_Config::create($config->toHtmlPurifierConfig());
+            $this->purifier = new HTMLPurifier($purifierConf);
+        } catch (HTMLPurifier_Exception $exception) {
+            throw new InitialisationFailedException('Failed to initialize HtmlMailSanitizer', 0, $exception);
+        }
+    }
+
+    /**
+     * @return HTMLPurifier_Config
+     */
+    public function getConfig()
+    {
+        return $this->purifier->config;
+    }
+
+    /**
+     * @param string          $mailContent
+     * @param SanitizerConfig $config
+     *
+     * @throws SanitationFailedException
+     *
+     * @return string
+     */
+    public function sanitize($mailContent, SanitizerConfig $config = null)
+    {
+        $purifierConf = $config !== null ? HTMLPurifier_Config::create($config->toHtmlPurifierConfig()) : null;
+
+        try {
+            $cleanContent = $this->purifier->purify($mailContent, $purifierConf);
+        } catch (HTMLPurifier_Exception $exception) {
+            throw new SanitationFailedException($exception->getMessage(), $exception->getCode(), $exception);
+        }
+
+        return $cleanContent;
+    }
+}

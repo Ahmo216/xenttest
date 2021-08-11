@@ -1,34 +1,39 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-nDx1yVEi1REi4m==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\AmaInvoice\Wrapper;
+
+use ApplicationCore;
+use Xentral\Components\Database\Database;
+
+final class TurnoverThresholdWrapper
+{
+    /** @var ApplicationCore $app */
+    private $app;
+
+    /** @var Database $db */
+    private $db;
+
+    public function __construct(ApplicationCore $app, Database $db)
+    {
+        $this->app = $app;
+        $this->db = $db;
+    }
+
+    /**
+     * @return bool
+     */
+    public function hasTurnoverThresholdModule(): bool
+    {
+        return $this->app->erp->ModulVorhanden('lieferschwelle');
+    }
+
+    /**
+     * @return array
+     */
+    public function getThresholdsCountries(): array
+    {
+        return $this->db->fetchCol('SELECT `empfaengerland` FROM `lieferschwelle`');
+    }
+}

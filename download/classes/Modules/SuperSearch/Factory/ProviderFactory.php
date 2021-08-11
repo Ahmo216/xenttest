@@ -1,67 +1,114 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-zKq3Jm==
+<?php
+
+namespace Xentral\Modules\SuperSearch\Factory;
+
+use Xentral\Components\Database\Database;
+use Xentral\Core\DependencyInjection\ContainerInterface;
+use Xentral\Modules\SuperSearch\Exception\InvalidArgumentException;
+use Xentral\Modules\SuperSearch\Exception\InvalidReturnTypeException;
+use Xentral\Modules\SuperSearch\SearchIndex\Provider\SearchIndexProviderInterface;
+
+final class ProviderFactory
+{
+    /** @var Database $db */
+    private $db;
+
+    /** @var array $callbacks */
+    private $callbacks = [];
+
+    /**
+     * @param Database           $database
+     */
+    public function __construct(Database $database)
+    {
+        $this->db = $database;
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return array|SearchIndexProviderInterface[]
+     */
+    public function createActiveProviders(ContainerInterface $container)
+    {
+        // Grundsätzlich sind alle registrierten Provider aktiv
+        $indexNames = array_keys($this->callbacks);
+
+        // Inaktiv markierte Provider aus Liste entfernen
+        $sql = 'SELECT sig.name FROM `supersearch_index_group` AS `sig` WHERE sig.active = 0';
+        $inactiveIndexes = $this->db->fetchCol($sql);
+        foreach ($inactiveIndexes as $inactiveIndex) {
+            $key = array_search($inactiveIndex, $indexNames, true);
+            if ($key !== false) {
+                unset($indexNames[$key]);
+            }
+        }
+
+        // Provider-Instanzen erzeugen
+        $providers = [];
+        foreach ($indexNames as $indexName) {
+            $providers[] = $this->createProvider($indexName, $container);
+        }
+
+        return $providers;
+    }
+
+    /**
+     * @param string   $indexName
+     * @param callable $factoryMethod
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return void
+     */
+    public function registerProviderFactory($indexName, callable $factoryMethod)
+    {
+        if (!is_callable($factoryMethod, true)) {
+            throw new InvalidArgumentException(sprintf(
+                'Factory method for class "%s" is not callable.', $indexName
+            ));
+        }
+
+        $this->callbacks[$indexName] = $factoryMethod;
+    }
+
+    /**
+     * @param string $className
+     *
+     * @return bool
+     */
+    private function hasProviderFactory($className)
+    {
+        return isset($this->callbacks[$className]);
+    }
+
+    /**
+     * @param string             $className
+     * @param ContainerInterface $container
+     *
+     * @throws InvalidArgumentException
+     * @throws InvalidReturnTypeException
+     *
+     * @return SearchIndexProviderInterface
+     */
+    private function createProvider($className, ContainerInterface $container)
+    {
+        if (!$this->hasProviderFactory($className)) {
+            throw new InvalidArgumentException(sprintf(
+                'Provider class "%s" does not exists.', $className
+            ));
+        }
+        $callback = $this->callbacks[$className];
+
+        $provider = $callback($container);
+        if (!$provider instanceof SearchIndexProviderInterface) {
+            throw new InvalidReturnTypeException(sprintf(
+                'Factory method for class "%s" returned invalid type. Provider must implement "%s".',
+                $className,
+                SearchIndexProviderInterface::class
+            ));
+        }
+
+        return $provider;
+    }
+}

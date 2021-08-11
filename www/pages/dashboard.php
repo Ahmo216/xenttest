@@ -1,121 +1,153 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-fTlxd+d3JWlVkXDDRLHAbdodM58vvG==
+<?php
+
+use Xentral\Widgets\Chart\Chart;
+use Xentral\Widgets\Chart\Dataset;
+use Xentral\Widgets\Chart\HtmlRenderer;
+use Xentral\Widgets\Chart\PeriodMatcher;
+use Xentral\Widgets\Chart\PieDataset;
+
+class Dashboard
+{
+  /** @var Application $app */
+  protected $app;
+
+  const MODULE_NAME = 'Dashboard';
+
+  /** @var array $javascript */
+  public $javascript = [
+    './classes/Modules/Dashboard/www/js/hammer.js-2.0.8/hammer.min.js',
+    './classes/Modules/Dashboard/www/js/muuri-0.7.1/muuri.min.js',
+    './classes/Modules/Dashboard/www/js/jquery.fittext.js',
+    './classes/Modules/Dashboard/www/js/dashboard.js',
+  ];
+
+  /** @var array $stylesheet */
+  public $stylesheet = [
+    './classes/Modules/Dashboard/www/css/dashboard-relative.css',
+  ];
+
+  /**
+   * Dashboard constructor.
+   *
+   * @param Application $app
+   * @param bool        $intern
+   */
+  public function __construct($app, $intern = false)
+  {
+    $this->app = $app;
+    if($intern){
+      return;
+    }
+
+    $this->app->ActionHandlerInit($this);
+    $this->app->ActionHandler('list', 'DashboardList');
+    $this->app->DefaultActionHandler('list');
+    $this->app->ActionHandlerListen($app);
+  }
+
+  public function Install()
+  {
+    /*$this->app->erp->CheckTable("chat");
+    $this->app->erp->CheckColumn("id", "int(11)", "chat", "NOT NULL AUTO_INCREMENT");
+    $this->app->erp->CheckColumn("user_from", "INT(11)", "chat", "DEFAULT '0' NOT NULL");
+    $this->app->erp->CheckColumn("user_to", "INT(11)", "chat", "DEFAULT '0' NOT NULL");
+    $this->app->erp->CheckColumn("message", "TEXT", "chat", "DEFAULT '' NOT NULL");
+    $this->app->erp->CheckColumn("prio", "TINYINT(1)", "chat", "DEFAULT '0' NOT NULL");
+    $this->app->erp->CheckColumn("zeitstempel", "DATETIME", "chat");
+    $this->app->erp->CheckIndex("chat", "user_from");
+    $this->app->erp->CheckIndex("chat", "user_to");*/
+  }
+
+  protected function DashboardMenu()
+  {
+    $this->app->erp->Headlines('Dashboard');
+    $this->app->erp->MenuEintrag('index.php?module=dashboard&action=list', '&Uuml;bersicht');
+  }
+
+  public function DashboardList()
+  {
+    // Top 5 Artikel (90 Tage)
+    $articlesRenderer = new HtmlRenderer($this->GetArticlesChart(), 'Top 5 Artikel (90 Tage)', 400, 400);
+    $this->app->Tpl->Set('ARTICLECHART', $articlesRenderer->render());
+
+    $orderChartRenderer = new HtmlRenderer($this->GetExampleChartRenderer(), 'Aufträge', 400, 400);
+    $this->app->Tpl->Set('ORDERCHART', $orderChartRenderer->render());
+
+    $this->DashboardMenu();
+    $this->app->Tpl->Parse('PAGE', 'dashboard_list.tpl');
+  }
+
+  /**
+   * @return Chart
+   * @throws Exception
+   */
+  protected function GetExampleChartRenderer()
+  {
+    $orderCount = [
+        ['month' => '02/2018', 'count' => mt_rand(0, 15)],
+        ['month' => '03/2018', 'count' => mt_rand(0, 15)],
+        ['month' => '04/2018', 'count' => mt_rand(0, 15)],
+        ['month' => '05/2018', 'count' => mt_rand(0, 15)],
+        ['month' => '06/2018', 'count' => mt_rand(0, 15)],
+        ['month' => '07/2018', 'count' => mt_rand(0, 15)],
+        ['month' => '08/2018', 'count' => mt_rand(0, 15)],
+        ['month' => '09/2018', 'count' => mt_rand(0, 15)],
+        ['month' => '10/2018', 'count' => mt_rand(0, 15)],
+        ['month' => '11/2018', 'count' => mt_rand(0, 15)],
+        ['month' => '12/2018', 'count' => mt_rand(0, 15)],
+        ['month' => '01/2019', 'count' => mt_rand(0, 15)],
+    ];
+
+    // Daten auf Zeitachse matchen; Leere Monate werden aufgefüllt
+    $begin = new DateTime(sprintf('01.01.2018'));
+    $end = new DateTime('28.02.2019');
+    $interval = new DateInterval('P1M');
+    $period = new PeriodMatcher($begin, $end, $interval, 'm/Y');
+    $labels = $period->getDates();
+    $orderCountData = $period->matchData($orderCount, 'month', 'count');
+
+    // Diagramm zusammenbauen
+    $chart = new Chart('line', [], [], ['aspectRatio' => 1]);
+    $chart->addLabels($labels);
+    $chart->addDataset(new Dataset('Aufträge', $orderCountData));
+
+    return $chart;
+  }
+
+  protected function GetArticlesChart()
+  {
+    $chartData = $this->app->DB->SelectArr(
+      "SELECT 
+           CONCAT(art.nummer, ' ', SUBSTRING(art.name_de, 1, 30)) AS artikel, 
+           ROUND(SUM(rp.menge * rp.preis), 2) AS menge 
+         FROM artikel AS art INNER JOIN rechnung_position AS rp ON art.id = rp.artikel 
+         INNER JOIN rechnung AS r ON r.id = rp.rechnung
+         WHERE r.status != 'angelegt' AND r.status <> 'storniert' AND r.status != 'angelegt' 
+         AND DATEDIFF(NOW(), r.datum) <= 90 
+         GROUP BY art.id 
+         ORDER BY SUM(rp.menge * rp.preis) DESC 
+         LIMIT 5"
+    );
+    if ($chartData === null) {
+      $chartData = [];
+    }
+
+    $labels = array_column($chartData, 'artikel');
+    $data = array_column($chartData, 'menge');
+    $data = array_map('floatVal', $data);
+
+    $dataset = new PieDataset(date('Y'), $data);
+    $dataset->setColorByName(Dataset::COLOR_BLUE);
+
+    return new Chart('doughnut', $labels, [$dataset]);
+  }
+}

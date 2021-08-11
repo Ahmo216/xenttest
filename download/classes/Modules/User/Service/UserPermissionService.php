@@ -1,65 +1,124 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\User\Service;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\User\Exception\InvalidArgumentException;
+
+final class UserPermissionService
+{
+    /** @var Database $db */
+    private $db;
+
+    /**
+     * @param Database $database
+     */
+    public function __construct(Database $database)
+    {
+        $this->db = $database;
+    }
+
+    /**
+     * @param int    $grantingUserId
+     * @param string $grantingUserName
+     * @param int    $receivingUserId
+     * @param string $receivingUserName
+     * @param string $module
+     * @param string $action
+     * @param bool   $permission
+     *
+     * @return void
+     */
+    public function log(
+        $grantingUserId,
+        $grantingUserName,
+        $receivingUserId,
+        $receivingUserName,
+        $module,
+        $action,
+        $permission
+    ) {
+        $grantingUserId = $this->ensureUserId($grantingUserId);
+        $grantingUserName = $this->ensureNotEmptyString($grantingUserName);
+        $receivingUserId = $this->ensureUserId($receivingUserId);
+        $receivingUserName = $this->ensureNotEmptyString($receivingUserName);
+        $module = $this->ensureNotEmptyString($module);
+        $action = $this->ensureNotEmptyString($action);
+        $permission = $this->ensureBoolean($permission);
+        $permission = $this->transformPermissionToDatabaseValue($permission);
+
+        $this->db->perform(
+            'INSERT INTO permissionhistory (
+                 `id`, `granting_user_id`, `granting_user_name`,
+                 `receiving_user_id`,`receiving_user_name`,`module`,`action`,`permission`
+             ) VALUES (
+                 NULL, :granting_user_id, :granting_user_name, 
+                 :receiving_user_id, :receiving_user_name, :module, :action, :permission
+             )',
+            [
+                'granting_user_id'    => $grantingUserId,
+                'granting_user_name'  => $grantingUserName,
+                'receiving_user_id'   => $receivingUserId,
+                'receiving_user_name' => $receivingUserName,
+                'module'              => $module,
+                'action'              => $action,
+                'permission'          => $permission,
+            ]
+        );
+    }
+
+    /**
+     * @param int $userId
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return int
+     */
+    private function ensureUserId($userId)
+    {
+        if ((int)$userId <= 0) {
+            throw new InvalidArgumentException('Required parameter user ID is empty.');
+        }
+
+        return (int)$userId;
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return string
+     */
+    private function ensureNotEmptyString($value)
+    {
+        if ($value === '') {
+            throw new InvalidArgumentException('Required parameter is empty string.');
+        }
+
+        return $value;
+    }
+
+    /**
+     * @param boolean $value
+     *
+     * @return boolean
+     */
+    private function ensureBoolean($value)
+    {
+        $type = gettype($value);
+        if ($type !== 'boolean') {
+            throw new InvalidArgumentException(sprintf('Wrong type "%s". Only "boolean" is allowed.', $type));
+        }
+
+        return $value;
+    }
+
+    /**
+     * @param boolean $boolean
+     *
+     * @return int
+     */
+    private function transformPermissionToDatabaseValue($boolean)
+    {
+        return $boolean === true ? 1 : 0;
+    }
+}

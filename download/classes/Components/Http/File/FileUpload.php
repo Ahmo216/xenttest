@@ -1,155 +1,267 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Vc5LqV8zLxeaNLMdX22U/sC=
+<?php
+
+namespace Xentral\Components\Http\File;
+
+use Xentral\Components\Http\Exception\FileExistsException;
+use Xentral\Components\Http\Exception\InvalidArgumentException;
+use Xentral\Components\Http\Exception\NoUploadErrorException;
+use Xentral\Components\Util\StringUtil;
+
+class FileUpload extends FileInfo
+{
+    /** @var string $clientFileName Original file name on client side (without path) */
+    protected $clientFileName;
+
+    /** @var string $clientMimeType Mime type on client side */
+    protected $clientMimeType;
+
+    /** @var int|null $clientSize */
+    protected $clientSize;
+
+    /** @var int $errorCode Error code */
+    protected $errorCode;
+
+    /**
+     * @param string      $filePath
+     * @param string      $clientName
+     * @param string|null $mimeType
+     * @param int|null    $fileSize
+     * @param int|null    $errorCode
+     *
+     * @throws InvalidArgumentException
+     */
+    public function __construct(
+        $filePath,
+        $clientName,
+        $mimeType = null,
+        $fileSize = null,
+        $errorCode = null
+    ) {
+        if (empty($filePath)) {
+            throw new InvalidArgumentException('File upload information is invalid. File path is missing.');
+        }
+        if (empty($clientName)) {
+            throw new InvalidArgumentException('File upload information is invalid. Original file name is missing.');
+        }
+
+        parent::__construct((string)$filePath);
+
+        $this->clientFileName = (string)$clientName;
+        $this->clientMimeType = $mimeType !== null ? $mimeType : 'application/octet-stream';
+        $this->clientSize = $fileSize;
+        $this->errorCode = $errorCode !== null ? (int)$errorCode : UPLOAD_ERR_OK;
+    }
+
+    /**
+     * @param array $file
+     *
+     * @return FileUpload
+     */
+    public static function fromFilesArray(array $file)
+    {
+        foreach (['tmp_name', 'name', 'type', 'size', 'error'] as $key) {
+            if (!array_key_exists($key, $file)) {
+                $file[$key] = null;
+            }
+        }
+
+        return new self($file['tmp_name'], $file['name'], $file['type'], $file['size'], $file['error']);
+    }
+
+    /**
+     * Client file size may not be set. Use self::getSize()
+     *
+     * @return int|null File size
+     */
+    public function getClientSize()
+    {
+        return $this->clientSize;
+    }
+
+    /**
+     * Client mime type may not correct. Use self::getMimeType()
+     *
+     * @return string 'application/octet-stream' if not set
+     */
+    public function getClientMimeType()
+    {
+        return $this->clientMimeType;
+    }
+
+    /**
+     * Returns true if an error other than 0 exists.
+     *
+     * @return bool
+     */
+    public function hasError()
+    {
+        return $this->errorCode !== UPLOAD_ERR_OK;
+    }
+
+    /**
+     * Returns error message.
+     *
+     * @throws NoUploadErrorException
+     *
+     * @return string error message
+     */
+    public function getErrorMessage()
+    {
+        if (!$this->hasError()) {
+            throw new NoUploadErrorException('There is no error message. Please call first hasError()');
+        }
+
+        switch ($this->getErrorCode()) {
+            case UPLOAD_ERR_INI_SIZE:
+                $message = sprintf(
+                    'Die Datei "%s" überschreitet die \'upload_max_filesize\' Einstellung (%s) der in php.ini.',
+                    $this->getClientFileName(),
+                    ini_get('upload_max_filesize')// @todo format using Stringutils
+                );
+                break;
+            case UPLOAD_ERR_FORM_SIZE:
+                $message = sprintf(
+                    'Der Datei "%s" überschreitet die MAX_FILE_SIZE Einstellung des HTML-Formulars.',
+                    $this->getClientFileName()
+                );
+                break;
+            case UPLOAD_ERR_PARTIAL:
+                $message = sprintf(
+                    'Die Datei "%s" wurde nicht vollständig übertragen.',
+                    $this->getClientFileName()
+                );
+                break;
+            case UPLOAD_ERR_NO_FILE:
+                $message = 'Es wurde keine Datei ausgewählt.';
+                break;
+            case UPLOAD_ERR_NO_TMP_DIR:
+                $message = 'Temporärer Ordner fehlt.';
+                break;
+            case UPLOAD_ERR_CANT_WRITE:
+                $message = sprintf(
+                    'Die Datei "%s" konnte nicht abgespeichert werden.',
+                    $this->getClientFileName()
+                );
+                break;
+            case UPLOAD_ERR_EXTENSION:
+                $message = 'Der Upload wurde durch eine PHP-Erweiterung gestoppt.';
+                break;
+            default:
+                $message = 'Unbekannter Upload-Fehler.';
+                break;
+        }
+
+        return $message;
+    }
+
+    /**
+     * Returns file upload error code.
+     *
+     * @see http://php.net/manual/de/features.file-upload.errors.php
+     *
+     * @return int File upload error code
+     */
+    public function getErrorCode()
+    {
+        return $this->errorCode;
+    }
+
+    /**
+     * Returns the client's file name
+     *
+     * @return string file name on client side
+     */
+    public function getClientFileName()
+    {
+        return $this->clientFileName;
+    }
+
+    /**
+     * Returns the content of the file.
+     *
+     * @return string file contents
+     */
+    public function getContent()
+    {
+        return file_get_contents($this->getRealPath());
+    }
+
+    /**
+     * Opens a readonly stream to the file.
+     *
+     * @return resource file contents as stream
+     */
+    public function createContentStream()
+    {
+        return fopen($this->getRealPath(), 'rb');
+    }
+
+    /**
+     * Returns true if the file is an image.
+     *
+     * @return bool
+     */
+    public function isImage()
+    {
+        return in_array(
+            $this->getMimeType(),
+            ['image/jpg', 'image/jpeg', 'image/png', 'image/gif', 'image/tiff', 'image/tif'],
+            true
+        );
+    }
+
+    /**
+     * Returns true if the file is a Pdf file.
+     *
+     * @return bool
+     */
+    public function isPdf()
+    {
+        return $this->getMimeType() === 'application/pdf';
+    }
+
+    /**
+     * Return true if file is valid
+     *
+     * @return bool
+     */
+    public function isValid()
+    {
+        return is_uploaded_file($this->getRealPath());
+    }
+
+    /**
+     * Moves file to specific location.
+     *
+     * @param string      $targetDir
+     * @param string|null $targetName
+     *
+     * @return FileInfo file at new location
+     */
+    public function move($targetDir, $targetName = null)
+    {
+        if (!is_dir($targetDir)) {
+            throw new InvalidArgumentException(
+                sprintf('The target directory "%s" does not exist or is no directory.', $targetDir)
+            );
+        }
+        if ($targetName === '') {
+            throw new InvalidArgumentException('The target file name can not be empty.');
+        }
+        if ($targetName === null) {
+            $targetName = StringUtil::toFilename( $this->getClientFileName());
+        }
+
+        $targetFilePath = $targetDir . '/' . $targetName;
+
+        if (file_exists($targetFilePath)) {
+            throw new FileExistsException(
+                sprintf('Cannot move file. Target file "%s" already exists', $targetFilePath)
+            );
+        }
+
+        move_uploaded_file($this->getRealPath(), $targetFilePath);
+
+        return new FileInfo($targetFilePath);
+    }
+}

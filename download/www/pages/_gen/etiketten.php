@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-n+w0HX7EFTFdOMHyxr0T9xBV6yT5Eg/acB5O
+<?php 
+
+class GenEtiketten { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","EtikettenCreate");
+    $this->app->ActionHandler("edit","EtikettenEdit");
+    $this->app->ActionHandler("copy","EtikettenCopy");
+    $this->app->ActionHandler("list","EtikettenList");
+    $this->app->ActionHandler("delete","EtikettenDelete");
+
+    $this->app->Tpl->Set("HEADING","Etiketten");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function EtikettenCreate(){
+    $this->app->Tpl->Set("HEADING","Etiketten (Anlegen)");
+      $this->app->PageBuilder->CreateGen("etiketten_create.tpl");
+  }
+
+  function EtikettenEdit(){
+    $this->app->Tpl->Set("HEADING","Etiketten (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("etiketten_edit.tpl");
+  }
+
+  function EtikettenCopy(){
+    $this->app->Tpl->Set("HEADING","Etiketten (Kopieren)");
+      $this->app->PageBuilder->CreateGen("etiketten_copy.tpl");
+  }
+
+  function EtikettenDelete(){
+    $this->app->Tpl->Set("HEADING","Etiketten (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("etiketten_delete.tpl");
+  }
+
+  function EtikettenList(){
+    $this->app->Tpl->Set("HEADING","Etiketten (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("etiketten_list.tpl");
+  }
+
+} 
+?>

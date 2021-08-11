@@ -1,94 +1,147 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\EtsyApi;
+
+use Exception;
+use Xentral\Modules\EtsyApi\Credential\ClientCredentialData;
+use Xentral\Modules\EtsyApi\Credential\TemporaryCredentialData;
+use Xentral\Modules\EtsyApi\Credential\TokenCredentialData;
+use League\OAuth1\Client\Credentials\TemporaryCredentials as LeagueTemporaryCredentials;
+use League\OAuth1\Client\Credentials\TokenCredentials as LeagueTokenCredentials;
+use Xentral\Modules\EtsyApi\Exception\EtsyOAuthException;
+use Y0lk\OAuth1\Client\Server\Etsy as Y0lkEtsy;
+
+final class EtsyOAuthHelper
+{
+    /** @var Y0lkEtsy $server */
+    private $server;
+
+    /**
+     * @param ClientCredentialData $clientCredentials
+     * @param string               $callbackUri
+     * @param array|string[]       $scopes
+     *
+     * @throws EtsyOAuthException
+     */
+    public function __construct(ClientCredentialData $clientCredentials, $callbackUri, array $scopes = [])
+    {
+        try {
+            $this->server = new Y0lkEtsy([
+                'identifier'   => $clientCredentials->getIdentifier(),
+                'secret'       => $clientCredentials->getSecret(),
+                'callback_uri' => $callbackUri,
+                'scope'        => implode(' ', $scopes),
+            ]);
+        } catch (Exception $exception) {
+            throw new EtsyOAuthException($exception->getMessage(), $exception->getCode(), $exception);
+        }
+    }
+
+    /**
+     * @throws EtsyOAuthException
+     *
+     * @return TemporaryCredentialData
+     */
+    public function getTemporaryCredentials()
+    {
+        try {
+            /** @var LeagueTemporaryCredentials $temp */
+            $temp = $this->server->getTemporaryCredentials();
+        } catch (Exception $exception) {
+            throw new EtsyOAuthException($exception->getMessage(), $exception->getCode(), $exception);
+        }
+
+        return new TemporaryCredentialData(
+            $temp->getIdentifier(),
+            $temp->getSecret()
+        );
+    }
+
+    /**
+     * @param TemporaryCredentialData $temporaryCredentials
+     * @param string                  $temporaryIdentifier
+     * @param string                  $verifier
+     *
+     * @throws EtsyOAuthException
+     *
+     * @return TokenCredentialData
+     */
+    public function getTokenCredentials(TemporaryCredentialData $temporaryCredentials, $temporaryIdentifier, $verifier)
+    {
+        $leagueTemp = new LeagueTemporaryCredentials();
+        $leagueTemp->setIdentifier($temporaryCredentials->getIdentifier());
+        $leagueTemp->setSecret($temporaryCredentials->getSecret());
+
+        try {
+            $leagueToken = $this->server->getTokenCredentials($leagueTemp, $temporaryIdentifier, $verifier);
+            $tokenCredentials = new TokenCredentialData($leagueToken->getIdentifier(), $leagueToken->getSecret());
+        } catch (Exception $exception) {
+            throw new EtsyOAuthException($exception->getMessage(), $exception->getCode(), $exception);
+        }
+
+        return $tokenCredentials;
+    }
+
+    /**
+     * @param TemporaryCredentialData $temporaryCredentials
+     *
+     * @throws EtsyOAuthException
+     *
+     * @return void
+     */
+    public function authorize(TemporaryCredentialData $temporaryCredentials)
+    {
+        $leagueCredentials = new LeagueTemporaryCredentials();
+        $leagueCredentials->setIdentifier($temporaryCredentials->getIdentifier());
+        $leagueCredentials->setSecret($temporaryCredentials->getSecret());
+
+        try {
+            $this->server->authorize($leagueCredentials);
+        } catch (Exception $exception) {
+            throw new EtsyOAuthException($exception->getMessage(), $exception->getCode(), $exception);
+        }
+    }
+
+    /**
+     * @param TemporaryCredentialData $temporaryCredentials
+     *
+     * @throws EtsyOAuthException
+     *
+     * @return string
+     */
+    public function getAuthorizationUrl(TemporaryCredentialData $temporaryCredentials)
+    {
+        $leagueCredentials = new LeagueTemporaryCredentials();
+        $leagueCredentials->setIdentifier($temporaryCredentials->getIdentifier());
+        $leagueCredentials->setSecret($temporaryCredentials->getSecret());
+
+        try {
+            return $this->server->getAuthorizationUrl($leagueCredentials);
+        } catch (Exception $exception) {
+            throw new EtsyOAuthException($exception->getMessage(), $exception->getCode(), $exception);
+        }
+    }
+
+    /**
+     * @param TokenCredentialData $tokenCredentials
+     * @param string              $httpMethod
+     * @param string              $url
+     * @param array               $bodyParams
+     *
+     * @throws EtsyOAuthException
+     *
+     * @return array
+     */
+    public function getHeaders(TokenCredentialData $tokenCredentials, $httpMethod, $url, array $bodyParams = [])
+    {
+        $leagueCredentials = new LeagueTokenCredentials();
+        $leagueCredentials->setIdentifier($tokenCredentials->getIdentifier());
+        $leagueCredentials->setSecret($tokenCredentials->getSecret());
+
+        try {
+            return $this->server->getHeaders($leagueCredentials, $httpMethod, $url, $bodyParams);
+        } catch (Exception $exception) {
+            throw new EtsyOAuthException($exception->getMessage(), $exception->getCode(), $exception);
+        }
+    }
+}

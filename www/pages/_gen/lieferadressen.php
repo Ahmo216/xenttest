@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php 
+
+class GenLieferadressen { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","LieferadressenCreate");
+    $this->app->ActionHandler("edit","LieferadressenEdit");
+    $this->app->ActionHandler("copy","LieferadressenCopy");
+    $this->app->ActionHandler("list","LieferadressenList");
+    $this->app->ActionHandler("delete","LieferadressenDelete");
+
+    $this->app->Tpl->Set("HEADING","Lieferadressen");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function LieferadressenCreate(){
+    $this->app->Tpl->Set("HEADING","Lieferadressen (Anlegen)");
+      $this->app->PageBuilder->CreateGen("lieferadressen_create.tpl");
+  }
+
+  function LieferadressenEdit(){
+    $this->app->Tpl->Set("HEADING","Lieferadressen (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("lieferadressen_edit.tpl");
+  }
+
+  function LieferadressenCopy(){
+    $this->app->Tpl->Set("HEADING","Lieferadressen (Kopieren)");
+      $this->app->PageBuilder->CreateGen("lieferadressen_copy.tpl");
+  }
+
+  function LieferadressenDelete(){
+    $this->app->Tpl->Set("HEADING","Lieferadressen (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("lieferadressen_delete.tpl");
+  }
+
+  function LieferadressenList(){
+    $this->app->Tpl->Set("HEADING","Lieferadressen (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("lieferadressen_list.tpl");
+  }
+
+} 
+?>

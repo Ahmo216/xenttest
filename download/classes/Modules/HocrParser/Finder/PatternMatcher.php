@@ -1,67 +1,123 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-f0==
+<?php
+
+namespace Xentral\Modules\HocrParser\Finder;
+
+use Xentral\Modules\HocrParser\Exception\InvalidArgumentException;
+
+class PatternMatcher
+{
+    public const PATTERN_DOCUMENT_NUMBER = 'documentnumber';
+    public const PATTERN_MONEY = 'money';
+    public const PATTERN_DATE = 'date';
+    public const PATTERN_DEFAULT = 'default';
+
+    /** @var array $validPatterns */
+    private static $validPatterns = [
+        self::PATTERN_DOCUMENT_NUMBER,
+        self::PATTERN_MONEY,
+        self::PATTERN_DATE,
+        self::PATTERN_DEFAULT,
+    ];
+
+    /** @var string $pattern */
+    private $pattern;
+
+    /**
+     * @param string $pattern
+     */
+    public function __construct($pattern = self::PATTERN_DEFAULT)
+    {
+        if (!in_array($pattern, self::$validPatterns, true)) {
+            throw new InvalidArgumentException(sprintf('Pattern "%s" is not allowed.', $pattern));
+        }
+
+        $this->pattern = $pattern;
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return bool
+     */
+    public function Match($value)
+    {
+        $value = trim((string)$value);
+
+        if (empty($value)) {
+            return false;
+        }
+
+        switch ($this->pattern) {
+            case self::PATTERN_DATE:
+                return $this->IsDateLikeValue($value);
+                break;
+            case self::PATTERN_MONEY:
+                return $this->IsMoneyLikeValue($value);
+                break;
+            case self::PATTERN_DOCUMENT_NUMBER:
+                return $this->IsDocumentNumberLikeValue($value);
+                break;
+            case self::PATTERN_DEFAULT:
+                return $this->IsCandidateValue($value);
+                break;
+        }
+
+        return false;
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return bool
+     */
+    private function IsDateLikeValue($value)
+    {
+        return (bool)preg_match('/\d{1,2}\.\d{1,2}\.\d{2,4}/', $value);
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return bool
+     */
+    private function IsMoneyLikeValue($value)
+    {
+        // Mit Tausendertrenner: z.B.: 11.111,11 oder 11,111.11
+        $withThousands = (bool)preg_match('/\d+[\.,]\d{3}[\.,]{1}\d{2}$/', $value);
+        if ($withThousands) {
+            return true;
+        }
+
+        // Ohne Tausendertrenner: z.B.: 1111111,11 oder 1111111.11
+        return (bool)preg_match('/^\d+[\.,]{1}\d{2}$/', $value);
+    }
+
+    /**
+     * @param $value
+     *
+     * @return bool
+     */
+    private function IsDocumentNumberLikeValue($value)
+    {
+        // Nur Grossbuchstaben, Zahlen, Minus und Unterstrich sind erlaubt
+        $containsInvalidChars = (bool)preg_match('/[^A-Z0-9\-_]+/', $value);
+        if ($containsInvalidChars) {
+            return false;
+        }
+
+        return (bool)preg_match('/\d{4,}/', $value);
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return bool
+     */
+    private function IsCandidateValue($value)
+    {
+        return $this->IsDateLikeValue($value)
+            || $this->IsDocumentNumberLikeValue($value)
+            || $this->IsMoneyLikeValue($value);
+    }
+}
+

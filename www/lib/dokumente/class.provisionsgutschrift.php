@@ -1,155 +1,157 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-tfYqxdqhc/k/d2VXObMrV1RBK0==
+<?php
+class ProvisionsgutschriftPDF extends Briefpapier {
+  public $doctype;
+  
+  function __construct($app,$projekt="")
+  {
+    $this->app=$app;
+    //parent::Briefpapier();
+    $this->doctype="provisionsgutschrift";
+    $this->doctypeOrig="Provisionsgutschrift";
+    parent::__construct($this->app,$projekt);
+  } 
+
+
+  function GetProvisionsgutschrift($id)
+  {
+    $this->table="provisionsgutschrift";
+    $this->id=$id;
+    $adresse = $this->app->DB->Select("SELECT adresse FROM mlm_abrechnung_adresse WHERE id='$id' LIMIT 1");
+    $abrechnungtmp = $this->app->DB->SelectArr("SELECT * FROM mlm_abrechnung_adresse WHERE id='$id' LIMIT 1");
+    $abrechnungtmp = $abrechnungtmp[0];
+
+    $this->recipient['enterprise'] = $this->app->erp->ReadyForPDF($abrechnungtmp['rechnung_name']);
+    $this->recipient['city'] = $this->app->erp->ReadyForPDF($abrechnungtmp['rechnung_ort']);
+    $this->recipient['areacode'] = $this->app->erp->ReadyForPDF($abrechnungtmp['rechnung_plz']);
+    $this->recipient['address1'] = $this->app->erp->ReadyForPDF($abrechnungtmp['rechnung_strasse']);
+    $this->recipient['country'] = $this->app->erp->ReadyForPDF($abrechnungtmp['rechnung_land']);
+
+    $abrechnung = $abrechnungtmp['abrechnung'];
+    $steuernummer = $abrechnungtmp['steuernummer'];
+    $neueposition = $abrechnungtmp['neueposition'];
+    $mlmabrechnung = $abrechnungtmp['mlmabrechnung'];
+
+    $belegnr=$abrechnungtmp['belegnr'];
+
+    $datum_abrechnung = $this->app->DB->Select("SELECT CONCAT(DATE_FORMAT(von,'%d.%m.%Y'),' - ',DATE_FORMAT(bis,'%d.%m.%Y')) FROM mlm_abrechnung WHERE id='$abrechnung' LIMIT 1");
+    $datum = $this->app->DB->Select("SELECT DATE_FORMAT(datum,'%d.%m.%Y') FROM mlm_abrechnung WHERE id='$abrechnung' LIMIT 1");
+
+      // OfferNo, customerId, OfferDate
+
+    $kundennummer = $this->app->DB->Select("SELECT kundennummer FROM adresse WHERE id='$adresse' LIMIT 1");
+    $iban = $this->app->DB->Select("SELECT iban FROM adresse WHERE id='$adresse' LIMIT 1");
+    $bic = $this->app->DB->Select("SELECT swift FROM adresse WHERE id='$adresse' LIMIT 1");
+
+
+    if($ohne_briefpapier=="1")
+    {
+      $this->logofile = "";
+      $this->briefpapier="";
+      $this->briefpapier2="";
+    }
+
+      $zahlungsweise = strtolower($zahlungsweise);
+     
+      if($belegnr<=0) $belegnr = "- Entwurf";
+
+
+			if($stornorechnung)
+      	$this->doctypeOrig="Stornorechnung $belegnr";
+			else
+      	$this->doctypeOrig="Provisionsgutschrift $belegnr";
+
+      if($provisionsgutschrift=="") $provisionsgutschrift = "-";
+      if($kundennummer=="") $kundennummer= "-";
+
+      if($auftrag=="0") $auftrag = "-";
+      if($lieferschein=="0") $lieferschein= "-";
+
+	//$this->setCorrDetails(array("Auftrag"=>$auftrag,"Datum"=>$datum,"Ihre Kunden-Nr."=>$kundennummer,"Lieferschein"=>$lieferschein,"Buchhaltung"=>$buchhaltung));
+	if($rechnung >0)
+		$this->setCorrDetails(array("Rechnung"=>$rechnung,$this->app->erp->Firmendaten("auftrag_bezeichnung_bestellnummer")=>$ihrebestellnummer,"Datum"=>$datum,$this->app->erp->Firmendaten("bezeichnungkundennummer")=>$kundennummer));
+	else
+		$this->setCorrDetails(array("Datum"=>$datum,$this->app->erp->Firmendaten("bezeichnungkundennummer")=>$kundennummer,$this->app->erp->Firmendaten("auftrag_bezeichnung_bestellnummer")=>$ihrebestellnummer));
+
+
+
+/*
+      if(!$this->app->erp->ProvisionsgutschriftMitUmsatzeuer($id) && $keinsteuersatz!="1")
+			{
+       if($this->app->erp->Export($land))
+          $steuer = $this->app->erp->Firmendaten("export_lieferung_vermerk");
+        else
+          $steuer = $this->app->erp->Firmendaten("eu_lieferung_vermerk");
+        $steuer = str_replace('{USTID}',$ustid,$steuer);
+        $steuer = str_replace('{LAND}',$land,$steuer);
+			}
+*/
+			$provisionsgutschrift_header=$this->app->erp->Firmendaten("provisionsgutschrift_header");
+      $provisionsgutschrift_header = $this->app->erp->ParseUserVars("provisionsgutschrift",$id,$provisionsgutschrift_header);
+
+		  if($stornorechnung)
+			{
+			  $provisionsgutschrift_header = str_replace('{ART}',"Stornorechnung",$provisionsgutschrift_header);
+     	} else {
+			  $provisionsgutschrift_header = str_replace('{ART}',"Provisionsgutschrift",$provisionsgutschrift_header);
+			} 
+
+      $freitext .= "Aktuelle Stufe: $neueposition\r\n\r\n";
+
+      if($steuernummer!="")
+        $freitext .= "Ihre Steuernummer: $steuernummer\r\n";
+
+
+      if($mlmabrechnung=='' || $mlmabrechnung=='sammelueberweisung')
+        $freitext .= "Der Betrag wird Ihnen auf Ihr Konto (IBAN: $iban BIC: $bic) überwiesen.";
+      else
+        $freitext .= "Manuelle Auszahlung:";
+
+      //$freitext .= "Der Betrag wird Ihnen auf Ihr Konto (IBAN: $iban) überwiesen.";
+
+     	$this->setTextDetails(array(
+  					"body"=>$provisionsgutschrift_header,
+  					"footer"=>"$freitext"."\r\n".$this->app->erp->ParseUserVars("provisionsgutschrift",$id,$this->app->erp->Firmendaten("provisionsgutschrift_footer"))."\r\n$zahlungsweisetext\r\n$steuer"));
+
+      $value = $this->app->DB->SelectArr("SELECT * FROM mlm_abrechnung_adresse WHERE id='$id' LIMIT 1");
+      $value = $value[0];
+
+      $this->addItem(array('currency'=>$value['waehrung'],
+          'amount'=>1,
+          'price'=>$value['betrag_netto'],
+          'tax'=>"normal",
+          'itemno'=>$value['nummer'],
+          'unit'=>$value['einheit'],
+          'desc'=>"Abrechnung $datum_abrechnung\r\n(Details siehe gesonderte Aufstellung)",
+          "name"=>"Provisionsabrechnung"));
+
+      $mitsteuer = $this->app->DB->Select("SELECT mitsteuer FROM mlm_abrechnung_adresse WHERE id='$id' LIMIT 1");
+
+      $summe = $value['betrag_netto'];
+      $summeV = ($value['betrag_netto'] * (100+$value['steuersatz'])/100)-$value['betrag_netto'];
+ 
+      if($mitsteuer)
+      {
+        $this->ust_befreit=false;
+				$this->setTotals(array("totalArticles"=>$summe,"total"=>$summe + $summeV + $summeR,"totalTaxV"=>$summeV,"totalTaxR"=>$summeR));
+      } else
+      {
+        $this->ust_befreit=false;
+      	$this->setTotals(array("totalArticles"=>$summe,"total"=>$summe));
+      }
+
+			if($stornorechnung)
+      	$this->filename = $datum."_STORNO_".$belegnr.".pdf";
+			else
+      	$this->filename = str_replace(' ','',$kundennummer."_".$belegnr."_Provisionsgutschrift.pdf");
+      $this->setBarcode($belegnr);
+  }
+}

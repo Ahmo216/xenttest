@@ -1,29 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Http\Exception;
+
+use LogicException;
+
+class NoUploadErrorException extends LogicException implements HttpComponentExceptionInterface
+{
+}

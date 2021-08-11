@@ -1,57 +1,76 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-NvmN9rwK3Useo4AaK4Rhvm==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Report\Service;
+
+use Xentral\Components\Util\StringUtil;
+use Xentral\Modules\Report\Data\ReportColumn;
+
+class ReportColumnFormatter
+{
+    /**
+     * @param ReportColumn $column
+     * @param string       $targetColumn
+     *
+     * @return string
+     */
+    public function formatColumnExpression(ReportColumn $column, string $targetColumn): string
+    {
+        switch ($column->getFormatType()) {
+            case ReportColumn::FORMAT_SUM_MONEY_DE:
+                $template = 'FORMAT(`%1$s`, 2, \'de_DE\') AS `%1$s`';
+                break;
+
+            case ReportColumn::FORMAT_SUM_MONEY_EN:
+                $template = 'FORMAT(`%1$s`, 2, \'en_EN\') AS `%1$s`';
+                break;
+
+            case ReportColumn::FORMAT_DATE_DMY:
+                $template = 'DATE_FORMAT(`%1$s`, \'%%d.%%m.%%Y\') AS `%1$s`';
+                break;
+
+            case ReportColumn::FORMAT_DATE_YMD:
+                $template = 'DATE_FORMAT(`%1$s`, \'%%Y.%%m.%%d\') AS `%1$s`';
+                break;
+
+            case ReportColumn::FORMAT_DATE_DMYHIS:
+                $template = 'DATE_FORMAT(`%1$s`, \'%%d.%%m.%%Y %%H:%%i:%%s\') AS `%1$s`';
+                break;
+
+            case ReportColumn::FORMAT_DATE_YMDHIS:
+                $template = 'DATE_FORMAT(`%1$s`, \'%%Y.%%m.%%d %%H:%%i:%%s\') AS `%1$s`';
+                break;
+
+            case ReportColumn::FORMAT_CUSTOM:
+                return $this->resolveCustomFormat($column->getFormatStatement(), $targetColumn);
+
+            default:
+                $template = '`%1$s`';
+        }
+
+        return sprintf($template, $targetColumn);
+    }
+
+    /**
+     * @param string $formatStatement
+     * @param string $targetColumn
+     *
+     * @return string
+     */
+    private function resolveCustomFormat(string $formatStatement, string $targetColumn): string
+    {
+        $customFormat = $formatStatement;
+        if (preg_match('/(.*)\s?as\s?.+$/i', $formatStatement, $matches)) {
+            $customFormat = rtrim($matches[1]);
+        }
+        $statement = preg_replace('/{VALUE}/i', sprintf('`%s`', $targetColumn), $customFormat);
+        $statement .= sprintf(' AS `%s`', $targetColumn);
+
+        if (StringUtil::startsWith($statement, ' AS ')) {
+            return sprintf('`%s`', $targetColumn);
+        }
+
+        return $statement;
+    }
+}

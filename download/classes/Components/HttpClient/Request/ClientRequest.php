@@ -1,47 +1,39 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\HttpClient\Request;
+
+use GuzzleHttp\Psr7\Request as GuzzleRequest;
+use Psr\Http\Message\RequestInterface as PsrRequestInterface;
+use Xentral\Components\HttpClient\Uri\Uri;
+use Xentral\Components\HttpClient\Uri\UriInterface;
+
+final class ClientRequest extends GuzzleRequest implements ClientRequestInterface
+{
+    /**
+     * @param PsrRequestInterface $guzzleRequest
+     *
+     * @return ClientRequestInterface
+     */
+    public static function fromGuzzleRequest(PsrRequestInterface $guzzleRequest): ClientRequestInterface
+    {
+        return new self(
+            $guzzleRequest->getMethod(),
+            Uri::fromGuzzleUri($guzzleRequest->getUri()),
+            $guzzleRequest->getHeaders(),
+            $guzzleRequest->getBody(),
+            $guzzleRequest->getProtocolVersion()
+        );
+    }
+
+    /**
+     * @return UriInterface|string|void
+     */
+    public function getUri()
+    {
+        $guzzleUri = parent::getUri();
+
+        return Uri::fromGuzzleUri($guzzleUri);
+    }
+}

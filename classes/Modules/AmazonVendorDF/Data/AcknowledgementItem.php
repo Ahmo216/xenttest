@@ -1,51 +1,89 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF\Data;
+
+use DateTime;
+use Xentral\Modules\AmazonVendorDF\Exception\MissingInformationException;
+
+class AcknowledgementItem
+{
+    /**
+     * Shipping 100 percent of ordered product
+     *
+     * @var string
+     */
+    const CODE_ACCEPTED = '00';
+    /**
+     * Canceled out of stock
+     *
+     * @var string
+     */
+    const CODE_REJECT_OUT_OF_STOCK = '03';
+    /**
+     * No article found for SKU
+     *
+     * @var string
+     */
+    const CODE_REJECT_INVALID_SKU = '02';
+
+    const AVAILABLE_CODES = [
+        '00' => 'Shipping 100 percent of ordered product',
+        '02' => 'Canceled due to missing/invalid SKU',
+        '03' => 'Canceled out of stock',
+        '04' => 'Canceled due to duplicate Amazon Ship ID',
+        '05' => 'Canceled due to missing/invalid Bill To Location Code',
+        '06' => 'Canceled due to missing/invalid Ship From Location Code',
+        '07' => 'Canceled due to missing/invalid Customer Ship to Name',
+        '08' => 'Canceled due to missing/invalid Customer Ship to Address Line 1',
+        '10' => 'Canceled due to missing/invalid Customer Ship to City',
+        '11' => 'Canceled due to missing/invalid Customer Ship to State',
+        '12' => 'Canceled due to missing/invalid Customer Ship to Postal Code',
+        '13' => 'Canceled due to missing/invalid Customer Ship to Country Code',
+        '20' => 'Canceled due to missing/invalid Shipping Carrier/Shipping Method',
+        '21' => 'Canceled due to missing/invalid Ship to Address Line 2',
+        '22' => 'Canceled due to missing/invalid Ship to Address Line 3',
+        '50' => 'Canceled due to Tax Nexus Issue',
+        '51' => 'Canceled due to Restricted SKU/Qty',
+    ];
+
+    /** @var PurchaseOrderItem */
+    private $item;
+
+    /** @var string */
+    private $code;
+
+    public function __construct(PurchaseOrderItem $item, string $code)
+    {
+        $this->item = $item;
+        $this->code = $code;
+    }
+
+    public function isRejected(): bool
+    {
+        return $this->code !== self::CODE_ACCEPTED;
+    }
+
+    public function isAccepted(): bool
+    {
+        return $this->code === self::CODE_ACCEPTED;
+    }
+
+    public function getStatusCode(): string
+    {
+        return $this->code;
+    }
+
+    public function toArray(): array
+    {
+        $data = [
+            'itemSequenceNumber'      => $this->item->getItemSequenceNumber(),
+            'buyerProductIdentifier'  => $this->item->getBuyerProductIdentifier(),
+            'vendorProductIdentifier' => $this->item->getVendorProductIdentifier(),
+            'acknowledgedQuantity'    => $this->item->getQuantity()->toArray(),
+        ];
+
+        unset($data['acknowledgedQuantity']['unitSize']);
+
+        return $data;
+    }
+}

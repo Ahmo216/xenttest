@@ -1,52 +1,48 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\CarrierSelect\Data\Comparator;
+
+
+final class ValueBetweenComparator implements FilterComparatorInterface
+{
+
+    public function getName(): string
+    {
+        return 'between';
+    }
+
+    /**
+     * @param array $filterValues
+     * @param array $values
+     *
+     * @return bool
+     */
+    public function matches(array $filterValues, array $values): bool
+    {
+        $sum = 0;
+        foreach ($values as $value) {
+            $sum += (float)$value;
+        }
+        $filterValuesKey = array_keys($filterValues);
+        $filterValue = (float)reset($filterValues);
+        if (count($filterValuesKey) > 1) {
+            $firstValue = (float)$filterValues[$filterValuesKey[0]];
+            $secondValue = (float)$filterValues[$filterValuesKey[1]];
+            if ($firstValue > $secondValue) {
+                return $sum >= $secondValue && $sum <= $firstValue;
+            }
+            if ($firstValue < $secondValue) {
+                return $sum >= $firstValue && $sum <= $secondValue;
+            }
+
+            return round($sum, 4) === round($firstValue, 4);
+        }
+        if (count($filterValues) === 0) {
+            return $sum >= 0;
+        }
+
+        return $sum >= $filterValue;
+    }
+}

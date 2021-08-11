@@ -2,6 +2,7 @@
 
 namespace App\Core\Http;
 
+use App\Core\Http\Middleware\ForceHttpsMiddleware;
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
 class Kernel extends HttpKernel
@@ -13,7 +14,9 @@ class Kernel extends HttpKernel
      *
      * @var array
      */
-    protected $middleware = [];
+    protected $middleware = [
+        ForceHttpsMiddleware::class,
+    ];
 
     /**
      * The application's route middleware groups.

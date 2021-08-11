@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-HR+cPsBJsuIoFI2h361EfsUMxzvBKDBj7sddLznCUFNcXNZ5lKfV3FxdYvtoG7cy8bFL5bOSaFkV
-6ja58ja1BDkPx6XuBl7wZ9WvzBcBs33KoqCaXKb5W+4IikxRmZCpM/YRmwMSW13b9goocbiINGaZ
-Ul3wLtohT/D2cikHiWsOO/crcNeDLFLS3/BdKKhyDZG2YdV+8Z/jbDLLGnekD9VobZhB8J/uvg94
-MX3Z14yCMkniwlFGFfUCTUjt5OBMMFYE8+16VO3v1TDAPKIhFyZVYVGOkK/fSGE3JvHuZFdyEU09
-+uTmUCa37bFU9USskGMUBGyXjBBRl93+SSs3XY6GX+IOlm5GJgZPBRKCkx+TA51FIHpappIIL3SA
-9YYGHfv0qPAlTt9y9A5Aqk4R/pSIMkxux5enWcFJhmELmMCmAfyU9+Ui2Wt/DZ/3fqtCuk+Yd+oY
-Z6P2E0ZXFi/Ar3gWXlfMRumHPsQx3dmJntxOAmWMdb8tBD5OsTgeiSZdGwKP5JzRHdIIDYO6528K
-/xFTwLlXoSNDOw8aR5V+pEg+w6Xs93AuSdDnjt2czc/ZVSRzMDAfWhDUMI2shD6k0yAzq1cKXZ6W
-1wS/YS4LIXvzGr+hK2QPioewOXsfNRuJlkTQrDvkfqkeu5L3qQteQ6nnfUjfwJA/nyyayoe78HG0
-tmVTIGxDqtbB+A2/CwKZT9I/GwlIYWrXDeindpR0Gy0205jmYgGKSCHAROuoJrl/zBtK/j+SbQVm
-Q/396u1s8FRKAmBfu4iLrVZSxMLC21JGfHazpB6PD94JWjqMwZsr0vBM0DC657r8tZrD91gDm4Xk
-SoCgp0UMV7ocwtzM00ffVoy0jQC3aKj2z225MsrL1aFbCCsRd0BRBxs3xecHbJYg1OEpxklUWXrX
-4lgOQ0vgfmwm9lH0i1jpEXsg3+G1UcHZjmW3Vdj0n29Zy4q9jPPXzZRvz7n0+P5RZfizNU4Fldc0
-T6lo9+hb6qsxU1Ysw1SMRA/nNfmpoyNTpv151kkMW4RCDGKk63O9pxjGCaCzAIbPOrsE6Jg/1QIB
-5PezPvfU1mXniOzw2Ne4ixw7UlzBUWm0kthrRoY9Nbycc8iOQ6eTgIhyNe9cIqc9MSckkskAOnXY
-Jcc/gku4I3eOfDodOFiEiUBVzHO6WR2kyD+OrbQ16gvIIEPwPO+HLQsZhX0tKLUHzLAnZf5YNz5E
-rrFzcGw44mxyQ3LcJP3MV6/J641R02YyZH5NP4mo6itwwWHpkWNXpFsHl0Zr+J1hmngQB6gz43ag
-A3J7T0w99gv9rAwKmcr9XZWiR6v9g/polP6UZabJMbwOhyvrr1O+G7VVnWbz/un93pj4899XYOOL
-77nOv58XX632fSrspw39M+y0/NrlWQm6nvFOQnQGsXc+fQeBH/elE1AkBL4Qf9urZUbvLDoGDkGa
-9jzx86YKjpUEdW9XdkHryqQLIajaWcDd0IRUokI/ePMYOQF1/nu13ZF1L8/GeguTLldwgyvf09Cx
-ionVpAPex2nZjvztpzN3GkgUTQTvp8l0wxFLzQqhg9semlvE5nyk9GIFczSp11hQyDNrqc65J6+E
-e+14AugXA9M3OUCHVuUz3alSxvKCN76/6H4Pp/iUY732qBEc2dDIWhw6gNOeMh2WUrfp3tZXd7S7
-ZjnWPiOcOCPsPZd9UCQF019S6WImSv6PznAaHGphv21JfWJ+Ka/ahCKP2yhco0Yqazw+J6jK4SQw
-NZyWt5QbS8MOiHQdauClYOrHDH2vTu0Q3/wHA4Y36P7pwrf2f8tBEzcP574p5qIrAYt5QN4Q/p2T
-cNtQdBC7kbaFI4WSuUsExkd3xpiIvhYkPy/nndxzoIUt4gLoOL6Hidnvbdfm/DzyL5OHr6net/el
-1BEEtiBwMyTcDSY91bx4AW8CIf/o5IIGqKo4AfGHnMyUD2sARSRqTQhOBvboSgruofD/g/TZ7FGC
-V4FEmHF+rzT9hoY4nzrhH57izH77aCCvqfGth7nZm3Q3ano6HJbizz/WiGcvUSEq7tbHjH/6GFot
-s9y/Y6/Uloo0hpiLDS9lX63qTt9KZ73VGmARM1Je7xguBq9E60Rv8/eqbIJhWEJObFpm/XMlTmcj
-/+OoBtOmk82Uh/OiPSbaldBaxe8vqOEzv0g1OH3kki1bCFnI4FW6AMBY7ac/cf0wJyvjw3XLqujg
-+IBiSfpHQ/BRbOcnq0fqi8ymSYg5NwOYwgHWBcek+6rVDLA52KmTn8KQYWyhSoaDUAuVRpBxVK8d
-dQssVPv7HJ9BCiHJ3tRF10aOcnNkvquMkAytCF6rl7+EQEDd5v/SzBXDCAYn966awt5WomKQjI4B
-cfMFTK+/cE0pUV/Oku7aHTU14CRWB+D+ZbkJPiwvMy3jdNvjm2ST6yAMMb1p6i09akr5376aKwk1
-NxKGaGVLz364YnQrVxHwrNumXI8bCX+XlWmMPstZ9UiDJoysj9zXngxG/6YnYKlUjwWvKC2ua6LU
-uYM1cIrDh1Ctt0F8LjH+7nn0CUaMjCogMmJfMpNb6IxZtDu8vcoj0edEPc1xSo3OpmSLx/F7zAZu
-eGopMRq0kZvT3Y3vxds4Wi1w005FTALEXuiAaGaLTj5+bTjR++F9sNCvtdrq2toj/AcAHa3D2Mo5
-2ZZ4DPllLNVZEZcRBJEoyH6obfFxTK9QwG5cVB4WQJkkHfCUXG3LCRnmWDsolmk4SKzwxscT/sDl
-82x4Ffopcvc5L2C7TQyLNUw2usZUtiI0IY0tW5YLQi21aVG6IyNCgrsE6WvbjnlO9bMolyD5HtWN
-AN43NCiGDRjmbKUees1RFNEFnChrq/leXj3kWudvmMKRlezxd+031wkaNWsM1D1tUw3QS/TSNc0X
-5aBRQ/P1z7Wk+AbUw8pVQdAmZva33ng/zBiOnDM87RGf9ZjRIHdHWvWx5n5ujY15Srq7mB9diDLm
-Pj9j1TeUleFec+aAUsMJLocySJkuow5GeHtGzBRPQR0hcCdURABMelwJMjZH5z5m+5Oaq41/AxLR
-lzoGcw51cwy3gsAHTAg1Gvd63w3I9Hr44a6CrN13FxRE1y4Y96jsLYVe8QtrRjzeO9+iu/wzrEEo
-aRdAbAqEqwg18OOfev11/nTVMFAx98fSHmuw5Wf6JudHzSLDTOrqUty6XTv2ToHgduOK5Sdfn5s/
-rPK0/pUgrXM8YgnaZuA4VfI+PCpCn94dicn0xljs2w0l6hHURSRE0UbXD6iY+mg1IciCESvi1m9P
-pgTCVrGF+jHVFyenjw8pQK1FUvuM09ZA96/hqv+Ujt1hvYRLREMAIvnH2Bydw6Wo4QNWZYlpNzNe
-UMc5P3WJt09FMi/OVYef3iwoZM5BQk/XdRXORknwpsM3Ff/TU1/BrBEnKmfrhRYwtx6YWsGu/wkS
-yzKOrtndi553WoQWIBS0PsrAY5vrAZqtK9s38RJpD9HNBvNcvUcoR6qsxGlocjU7uW+fqpA4xNSL
-knZLEBbi0W0cNReqhF3Xl23Qy3AS1ZPPEABXVrlCbpWr2Rze2jDJh4ssRBVf6WYENVNgi/lfCs0R
-ErRpsSL+1smgvdUgNH3Y+omfHf6y6vkO3W==
+<?php 
+
+class GenEmailbackup { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","EmailbackupCreate");
+    $this->app->ActionHandler("edit","EmailbackupEdit");
+    $this->app->ActionHandler("copy","EmailbackupCopy");
+    $this->app->ActionHandler("list","EmailbackupList");
+    $this->app->ActionHandler("delete","EmailbackupDelete");
+
+    $this->app->Tpl->Set("HEADING","Emailbackup");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function EmailbackupCreate(){
+    $this->app->Tpl->Set("HEADING","Emailbackup (Anlegen)");
+      $this->app->PageBuilder->CreateGen("emailbackup_create.tpl");
+  }
+
+  function EmailbackupEdit(){
+    $this->app->Tpl->Set("HEADING","Emailbackup (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("emailbackup_edit.tpl");
+  }
+
+  function EmailbackupCopy(){
+    $this->app->Tpl->Set("HEADING","Emailbackup (Kopieren)");
+      $this->app->PageBuilder->CreateGen("emailbackup_copy.tpl");
+  }
+
+  function EmailbackupDelete(){
+    $this->app->Tpl->Set("HEADING","Emailbackup (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("emailbackup_delete.tpl");
+  }
+
+  function EmailbackupList(){
+    $this->app->Tpl->Set("HEADING","Emailbackup (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("emailbackup_list.tpl");
+  }
+
+} 
+?>

@@ -1,42 +1,68 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php
+
+
+class SimpleList
+{
+  var $actual = 0;
+  var $items = 0; 
+
+  var $List = array();
+
+  function __construct(){}
+
+  function Add($data)
+  {
+    $this->List[] = $data;
+    $this->actual = $this->items;
+    $this->items++;
+    return TRUE; 
+  }
+
+
+  function &getFirst() 
+  {
+    $this->actual = 0;
+    return $this->getActual();
+  }
+
+
+  function getLast() 
+  {
+    $last = count($this->List);
+    $this->actual = $last;
+    return $this->getActual();
+  }
+
+
+  function &getNext() 
+  {
+    $this->actual++;
+    return $this->getActual();
+  } 
+
+  function &getActual()
+  {
+    if($this->actual >=0 && $this->actual < $this->items) 
+      return $this->List[$this->actual];
+
+    return FALSE;
+  }
+
+  
+  function getPrev() 
+  {
+    $this->actual++;
+    return $this->getActual();
+  } 
+
+}
+

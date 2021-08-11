@@ -1,29 +1,18 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Widgets\DataTable\Exception;
+
+use RuntimeException;
+
+class DataTableException extends RuntimeException implements DataTableExceptionInterface
+{
+    /**
+     * @param string $columnName
+     *
+     * @return DataTableException
+     */
+    /*public static function columnNotFound($columnName)
+    {
+        return new self(sprintf('Column "%s" not found.', $columnName));
+    }*/
+}

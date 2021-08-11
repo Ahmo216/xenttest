@@ -1,53 +1,74 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\Mailer\Data;
+
+use JsonSerializable;
+
+final class EmailRecipient implements JsonSerializable
+{
+    /** @var string $email */
+    private $email;
+
+    /** @var string $name */
+    private $name;
+
+    /**
+     * @param string      $email
+     * @param string|null $name
+     */
+    public function __construct(string $email, string $name = null)
+    {
+        $this->email = $email;
+        $this->name = $name;
+    }
+
+    /**
+     * @return string
+     */
+    public function getEmail():string
+    {
+        return $this->email;
+    }
+
+    /**
+     * @return string
+     */
+    public function getName():string
+    {
+        if ($this->name !== null) {
+            return $this->name;
+        }
+
+        return '';
+    }
+
+    /**
+     * @param string $name
+     */
+    public function setName($name):void
+    {
+        $this->name = $name;
+    }
+
+    /**
+     * @return string
+     */
+    public function __toString():string
+    {
+        if ($this->name === null) {
+            return $this->email;
+        }
+
+        return sprintf('%s<%s>', $this->name, $this->email);
+    }
+
+    /**
+     * @return array
+     */
+    public function jsonSerialize(): array
+    {
+        return ['email' => $this->email, 'name' => $this->name];
+    }
+}

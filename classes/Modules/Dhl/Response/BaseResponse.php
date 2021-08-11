@@ -1,61 +1,78 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-udWL7J/cqQuh4hTfZzQWNRh040==
+<?php
+
+namespace Xentral\Modules\Dhl\Response;
+
+use Xentral\Modules\Dhl\Exception\DhlBaseException;
+use Xentral\Modules\Dhl\Exception\InvalidRequestDataException;
+
+/**
+ * Class BaseResponse
+ *
+ * @package Xentral\Modules\Dhl\Response
+ */
+class BaseResponse
+{
+    /**
+     * @param string $responseXml
+     *
+     * @return \SimpleXMLElement
+     */
+    public static function createXmlElement($responseXml){
+        $xmlElement = new \SimpleXMLElement($responseXml);
+
+        $xmlElement->registerXPathNamespace('soap', 'http://schemas.xmlsoap.org/soap/envelope/');
+        $xmlElement->registerXPathNamespace('bcs', 'http://dhl.de/webservices/businesscustomershipping/3.0');
+
+        $faultString = $xmlElement->xpath('/SOAP-ENV:Envelope/SOAP-ENV:Body/SOAP-ENV:Fault/faultstring');
+        if (!empty($faultString)) {
+            $faultString = (string)$faultString[0];
+            if (!empty($faultString)) {
+                throw new DhlBaseException($faultString);
+            }
+        }
+
+        $faultString = $xmlElement->xpath('/soap:Envelope/soap:Body/soap:Fault/faultstring');
+        if (!empty($faultString)) {
+            $faultString = (string)$faultString[0];
+            if (!empty($faultString)) {
+                throw new DhlBaseException($faultString);
+            }
+        }
+
+        $statusCode = $xmlElement->xpath('/soap:Envelope/soap:Body/bcs:CreateShipmentOrderResponse/Status/statusCode');
+        $statusCode = (int)$statusCode[0];
+
+        if ($statusCode != 0) {
+            $errorMessages = array_merge(
+                $xmlElement->xpath(
+                    '/soap:Envelope/soap:Body/bcs:CreateShipmentOrderResponse/Status/statusText'
+                ),
+                $xmlElement->xpath(
+                    '/soap:Envelope/soap:Body/bcs:CreateShipmentOrderResponse/CreationState/LabelData/Status/statusMessage'
+                )
+            );
+            $errorMsg = implode(' ', array_map(function ($error){
+                return (string) $error;
+            }, $errorMessages));
+
+            throw DhlBaseException::fromDhlStatusCode($statusCode, $errorMsg);
+        }
+
+
+        $statusCode = $xmlElement->xpath('/soap:Envelope/soap:Body/bcs:CreateShipmentOrderResponse/CreationState/LabelData/Status/statusCode');
+        $statusCode = (int)$statusCode[0];
+
+        if ($statusCode != 0) {
+            $errorMessages = $xmlElement->xpath(
+                '/soap:Envelope/soap:Body/bcs:CreateShipmentOrderResponse/CreationState/LabelData/Status/statusMessage'
+            );
+
+            $errorMsg = implode(' ', array_map(function ($error){
+                return (string) $error;
+            }, $errorMessages));
+            throw new InvalidRequestDataException($errorMsg);
+        }
+
+        return $xmlElement;
+    }
+}

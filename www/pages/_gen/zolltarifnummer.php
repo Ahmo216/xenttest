@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php 
+
+class GenZolltarifnummer { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","ZolltarifnummerCreate");
+    $this->app->ActionHandler("edit","ZolltarifnummerEdit");
+    $this->app->ActionHandler("copy","ZolltarifnummerCopy");
+    $this->app->ActionHandler("list","ZolltarifnummerList");
+    $this->app->ActionHandler("delete","ZolltarifnummerDelete");
+
+    $this->app->Tpl->Set("HEADING","Zolltarifnummer");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function ZolltarifnummerCreate(){
+    $this->app->Tpl->Set("HEADING","Zolltarifnummer (Anlegen)");
+      $this->app->PageBuilder->CreateGen("zolltarifnummer_create.tpl");
+  }
+
+  function ZolltarifnummerEdit(){
+    $this->app->Tpl->Set("HEADING","Zolltarifnummer (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("zolltarifnummer_edit.tpl");
+  }
+
+  function ZolltarifnummerCopy(){
+    $this->app->Tpl->Set("HEADING","Zolltarifnummer (Kopieren)");
+      $this->app->PageBuilder->CreateGen("zolltarifnummer_copy.tpl");
+  }
+
+  function ZolltarifnummerDelete(){
+    $this->app->Tpl->Set("HEADING","Zolltarifnummer (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("zolltarifnummer_delete.tpl");
+  }
+
+  function ZolltarifnummerList(){
+    $this->app->Tpl->Set("HEADING","Zolltarifnummer (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("zolltarifnummer_list.tpl");
+  }
+
+} 
+?>

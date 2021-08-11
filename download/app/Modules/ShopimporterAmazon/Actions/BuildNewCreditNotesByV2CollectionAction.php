@@ -6,14 +6,13 @@ namespace App\Modules\ShopimporterAmazon\Actions;
 
 use App\Modules\Accounting\Models\CreditNote;
 use App\Modules\Accounting\Models\Invoice;
+use App\Modules\Product\Models\Product;
 use App\Modules\ShopimporterAmazon\Models\V2SettlementItem;
+use App\Modules\ShopimporterAmazon\SettlementV2Actions\RemoveShippingWithDiscountFromV2CollectionAction;
 use Illuminate\Support\Collection;
 
 class BuildNewCreditNotesByV2CollectionAction
 {
-    /** @var GetInvoicesByAmazonOrderIdsAction */
-    private $getInvoicesByAmazonOrderIdsAction;
-
     /** @var GetV2CollectionForCreditNotesAction */
     private $getV2CollectionForCreditNotesAction;
 
@@ -27,48 +26,24 @@ class BuildNewCreditNotesByV2CollectionAction
     private $getCreditNoteAdjustmentsAction;
 
     public function __construct(
-        GetInvoicesByAmazonOrderIdsAction $getInvoicesByAmazonOrderIdsAction,
         GetV2CollectionForCreditNotesAction $getV2CollectionForCreditNotesAction,
         BuildNewCreditNoteFromV2ItemAction $getNewCreditNoteFromV2ItemAction,
         RemoveShippingWithDiscountFromV2CollectionAction $removeShippingWithDiscountFromV2CollectionAction,
         GetCreditNoteAdjustmentsAction $getCreditNoteAdjustmentsAction
     ) {
-        $this->getInvoicesByAmazonOrderIdsAction = $getInvoicesByAmazonOrderIdsAction;
         $this->getV2CollectionForCreditNotesAction = $getV2CollectionForCreditNotesAction;
         $this->getNewCreditNoteFromV2ItemAction = $getNewCreditNoteFromV2ItemAction;
         $this->removeShippingWithDiscountFromV2CollectionAction = $removeShippingWithDiscountFromV2CollectionAction;
         $this->getCreditNoteAdjustmentsAction = $getCreditNoteAdjustmentsAction;
     }
 
-    public function __invoke(Collection $collection): array
+    public function __invoke(Collection $collection, Collection $invoices, ?Product $shippingProduct = null): array
     {
         $creditNotes = [];
 
         $creditNoteCollection = $this->filterNotCreatedV2Entries($collection);
 
-        $orderIds = $creditNoteCollection->map(
-            function (V2SettlementItem $item) {
-                return $item->getOrderId();
-            }
-        )->unique()->toArray();
-
-        $invoices = ($this->getInvoicesByAmazonOrderIdsAction)($orderIds);
-        $orderIds = array_intersect(
-            $orderIds,
-            $invoices->map(
-                function (Invoice $item) {
-                    return $item->order->internet;
-                }
-            )->unique()->toArray()
-        );
-        $creditNoteCollection = $creditNoteCollection->filter(
-            function (V2SettlementItem $item) use ($orderIds) {
-                return in_array($item->getOrderId(), $orderIds, true);
-            }
-        );
-
         $creditNoteCollection = ($this->getV2CollectionForCreditNotesAction)($creditNoteCollection);
-
         /** @var Collection $items */
         foreach ($creditNoteCollection as $creditNoteItems) {
             /** @var V2SettlementItem $item */
@@ -79,7 +54,7 @@ class BuildNewCreditNotesByV2CollectionAction
                     return $item->getOrderId() === $invoice->order->internet;
                 }
             )->first();
-            $creditNote = ($this->getNewCreditNoteFromV2ItemAction)($creditNoteItems, $invoice);
+            $creditNote = ($this->getNewCreditNoteFromV2ItemAction)($creditNoteItems, $invoice, $shippingProduct);
             if (!$creditNote instanceof CreditNote) {
                 continue;
             }
@@ -95,18 +70,7 @@ class BuildNewCreditNotesByV2CollectionAction
 
     private function filterNotCreatedV2Entries(Collection $collection): Collection
     {
-        $creditNoteCollection = ($this->removeShippingWithDiscountFromV2CollectionAction)(
-            $collection->filter(
-                function (V2SettlementItem $item) {
-                    return $item->getAmountType() !== V2SettlementItem::AMOUNT_TYPE_FEE
-                        && in_array(
-                            $item->getTransactionType(),
-                            [V2SettlementItem::REFUND_TYPE, V2SettlementItem::RETURN_TYPE],
-                            true
-                        );
-                }
-            )
-        );
+        $creditNoteCollection = ($this->removeShippingWithDiscountFromV2CollectionAction)($collection);
         $adjustmentIds = $creditNoteCollection->map(
             function (V2SettlementItem $item) {
                 return $item->getAdjustmentId();

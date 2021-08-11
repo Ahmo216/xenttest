@@ -1,45 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Resubmission\Exception;
+
+use RuntimeException;
+
+final class ValidationFailedException extends RuntimeException implements ResubmissionExceptionInterface
+{
+    /** @var array $errors */
+    private $errors = [];
+
+    /**
+     * @param array $errors
+     *
+     * @return self
+     */
+    public static function fromErrors(array $errors)
+    {
+        $errorString = '';
+        foreach ($errors as $propertyName => $propertyErrors) {
+            $errorString .= implode("\r\n", $propertyErrors);
+        }
+
+        $exception = new self('Validation failed with following errors: ' . "\n\n" . $errorString);
+        $exception->errors = $errors;
+
+        return $exception;
+    }
+
+    /**
+     * @return array
+     */
+    public function getErrors()
+    {
+        return $this->errors;
+    }
+}

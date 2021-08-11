@@ -1,140 +1,67 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-9Ctg6wYkinTuhVG=
+<?php
+$app->DB->Update("UPDATE prozessstarter SET mutexcounter = mutexcounter + 1 WHERE mutex = 1 AND parameter = 'zahlungsavis_mailausgang' AND aktiv = 1");
+
+if($app->DB->Select("SELECT mutex FROM prozessstarter WHERE parameter = 'zahlungsavis_mailausgang' LIMIT 1") == 1){
+  return;
+}
+$avisids = $app->DB->SelectArr('SELECT avis_id FROM zahlungsavis_mailausgang WHERE versendet=0 AND versucht<5 ORDER BY id ASC');
+if(!empty($avisids)){
+  foreach ($avisids as $avisid){
+
+    $avisid = $avisid['avis_id'];
+
+    $query = sprintf('UPDATE zahlungsavis_mailausgang SET versucht=versucht+1 WHERE avis_id=%d', $avisid);
+    $app->DB->Update($query);
+
+    $query = sprintf(
+      "SELECT 
+      a.name, 
+      IF(a.rechnungs_email='',a.email,a.rechnungs_email) AS email, 
+      z.projekt, 
+      CONCAT(DATE_FORMAT(z.datum,'%%Y%%m%%d'),'/',z.id) AS avis 
+      FROM zahlungsavis z 
+      JOIN adresse a ON z.adresse = a.id 
+      WHERE z.id = '%d'",
+      $avisid
+    );
+
+    $adressDaten = $app->DB->SelectRow($query);
+    if(!empty($adressDaten)){
+      $to = $adressDaten['email'];
+      $to_name = $adressDaten['name'];
+      $projekt = $adressDaten['projekt'];
+
+      if(!empty($to)){
+
+        $Brief = new ZahlungsavisPDF($app,$projekt);
+        $Brief->GetZahlungsavis($avisid);
+
+        $text = $app->erp->GetGeschaeftsBriefText('LastschriftenZahlungsavis','deutsch',$projekt);
+        $betreff = $app->erp->GetGeschaeftsBriefBetreff('LastschriftenZahlungsavis','deutsch',$projekt);
+        if(empty($text) || empty($betreff)){
+          break;
+        }
+        $datei = $Brief->displayTMP();
+        $success = $app->erp->MailSend($app->erp->GetFirmaMail(), $app->erp->GetFirmaAbsender(), $to, $to_name, $betreff, $text, [$datei], $projekt);
+
+        if($success){
+          $query = sprintf("UPDATE zahlungsavis SET versendet=1, versendet_am=NOW(),zahlungsavis.versendet_per='mail' WHERE id=%d",
+            $avisid);
+          $app->DB->Update($query);
+
+          $query = sprintf("UPDATE zahlungsavis_mailausgang SET versendet = 1 WHERE avis_id=%d",
+            $avisid);
+          $app->DB->Update($query);
+        }
+        unlink($datei);
+      }
+    }
+  }
+}
+
+$app->DB->Update("UPDATE zahlungsavis_mailausgang zm
+    JOIN zahlungsavis z ON zm.avis_id = z.id
+    SET z.versendet_per='Mailversand fehlgeschlagen'
+    WHERE zm.versendet = 0 AND zm.versucht = 5 AND z.versendet_per='vorgemerkt'");
+
+$app->DB->Update("UPDATE prozessstarter SET letzteausfuerhung=NOW(), mutex = 0,mutexcounter=0 WHERE parameter = 'zahlungsavis_mailausgang'");

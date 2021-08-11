@@ -1,65 +1,157 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Filesystem\Adapter;
+
+use Xentral\Components\Filesystem\Exception\InvalidArgumentException;
+
+final class FtpConfig
+{
+    /** @var string $hostname */
+    private $hostname;
+
+    /** @var string $username */
+    private $username;
+
+    /** @var string $password */
+    private $password;
+
+    /** @var string $rootDir */
+    private $rootDir;
+
+    /** @var int $port */
+    private $port;
+
+    /** @var int $timeout */
+    private $timeout;
+
+    /** @var bool $passive */
+    private $passive;
+
+    /** @var bool $ssl */
+    private $ssl;
+
+    /**
+     * @param string $hostname
+     * @param string $username
+     * @param string $password
+     * @param string $rootDir
+     * @param int    $port
+     * @param int    $timeout
+     * @param bool   $passive
+     * @param bool   $ssl
+     */
+    public function __construct(
+        $hostname,
+        $username,
+        $password,
+        $rootDir = '/',
+        $port = 21,
+        $timeout = 30,
+        $passive = true,
+        $ssl = false
+    ) {
+        if (empty($hostname)) {
+            throw new InvalidArgumentException('Hostname is empty.');
+        }
+        if (empty($username)) {
+            throw new InvalidArgumentException('Username is empty.');
+        }
+        if (empty($password)) {
+            throw new InvalidArgumentException('Password is empty.');
+        }
+        if (empty($rootDir)) {
+            throw new InvalidArgumentException('Root dir is empty.');
+        }
+
+        $this->hostname = (string)$hostname;
+        $this->username = (string)$username;
+        $this->password = (string)$password;
+        $this->rootDir = (string)$rootDir;
+        $this->port = (int)$port;
+        $this->timeout = (int)$timeout;
+        $this->passive = (bool)$passive;
+        $this->ssl = (bool)$ssl;
+    }
+
+    /**
+     * @return array
+     */
+    public function toArray()
+    {
+        return [
+            'host'            => $this->hostname,
+            'username'        => $this->username,
+            'password'        => $this->password,
+            'root'            => $this->rootDir,
+            'port'            => $this->port,
+            'timeout'         => $this->timeout,
+            'passive'         => $this->passive,
+            'ssl'             => $this->ssl,
+            'recurseManually' => true,
+        ];
+    }
+
+    /**
+     * @return string
+     */
+    public function getHostname()
+    {
+        return $this->hostname;
+    }
+
+    /**
+     * @return string
+     */
+    public function getUsername()
+    {
+        return $this->username;
+    }
+
+    /**
+     * @return string
+     */
+    public function getPassword()
+    {
+        return $this->password;
+    }
+
+    /**
+     * @return null
+     */
+    public function getRootDir()
+    {
+        return $this->rootDir;
+    }
+
+    /**
+     * @return int
+     */
+    public function getPort()
+    {
+        return $this->port;
+    }
+
+    /**
+     * @return int
+     */
+    public function getTimeout()
+    {
+        return $this->timeout;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isPassive()
+    {
+        return $this->passive;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isSsl()
+    {
+        return $this->ssl;
+    }
+}

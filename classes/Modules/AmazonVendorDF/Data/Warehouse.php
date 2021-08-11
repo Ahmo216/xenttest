@@ -1,35 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF\Data;
+
+class Warehouse
+{
+    /** @var string */
+    private $warehouseId;
+    /** @var Address */
+    private $address;
+
+    public function __construct(string $warehouseId)
+    {
+        $this->warehouseId = $warehouseId;
+    }
+
+    public function setAddress(Address $address): self
+    {
+        $this->address = $address;
+
+        return $this;
+    }
+
+    public function hasNoAddress(): bool
+    {
+        return $this->address === null;
+    }
+
+    public function getWarehouseId(): string
+    {
+        return $this->warehouseId;
+    }
+
+    public function toArray()
+    {
+        return [
+            'partyId' => $this->warehouseId,
+            'address' => $this->address->toArray(),
+        ];
+    }
+}

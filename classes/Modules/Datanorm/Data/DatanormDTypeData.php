@@ -1,102 +1,238 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-AxbbZ2AubpxSM0==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Datanorm\Data;
+
+final class DatanormDTypeData extends AbstractDatanormTypeData implements DatanormTypeDataInterface
+{
+
+    /** @var string $processingFlag */
+    private $processingFlag = '';
+
+    /** @var string $articleNumber */
+    private $articleNumber = '';
+
+    /** @var string $lineNumber1 */
+    private $lineNumber1 = '';
+
+    /** @var string $textIndicator1 */
+    private $textIndicator1 = '';
+
+    /** @var string $text1 */
+    private $text1 = '';
+
+    /** @var string $textblockNumber1 */
+    private $textblockNumber1 = '';
+
+    /** @var string $lineNumber2 */
+    private $lineNumber2 = '';
+
+    /** @var string $textIndicator2 */
+    private $textIndicator2 = '';
+
+    /** @var string $text2 */
+    private $text2 = '';
+
+    /** @var string $textblockNumber2 */
+    private $textblockNumber2 = '';
+
+    /**
+     * @return string
+     */
+    public function getProcessingFlag(): string
+    {
+        return $this->processingFlag;
+    }
+
+    /**
+     * @return string
+     */
+    public function getArticleNumber(): string
+    {
+        return $this->articleNumber;
+    }
+
+    /**
+     * @return string
+     */
+    public function getLineNumber1(): string
+    {
+        return $this->lineNumber1;
+    }
+
+    /**
+     * @return string
+     */
+    public function getTextIndicator1(): string
+    {
+        return $this->textIndicator1;
+    }
+
+    /**
+     * @return string
+     */
+    public function getText1(): string
+    {
+        return $this->text1;
+    }
+
+    /**
+     * @return string
+     */
+    public function getTextblockNumber1(): string
+    {
+        return $this->textblockNumber1;
+    }
+
+    /**
+     * @return string
+     */
+    public function getLineNumber2(): string
+    {
+        return $this->lineNumber2;
+    }
+
+    /**
+     * @return string
+     */
+    public function getTextIndicator2(): string
+    {
+        return $this->textIndicator2;
+    }
+
+    /**
+     * @return string
+     */
+    public function getText2(): string
+    {
+        return $this->text2;
+    }
+
+    /**
+     * @return string
+     */
+    public function getTextblockNumber2(): string
+    {
+        return $this->textblockNumber2;
+    }
+
+    /**
+     * @param string $processingFlag
+     */
+    public function setProcessingFlag($processingFlag): void
+    {
+        $this->processingFlag = $processingFlag;
+    }
+
+    /**
+     * @param string $articleNumber
+     */
+    public function setArticleNumber(string $articleNumber): void
+    {
+        $this->articleNumber = $articleNumber;
+    }
+
+    /**
+     * @param string $lineNumber1
+     */
+    public function setLineNumber1(string $lineNumber1): void
+    {
+        $this->lineNumber1 = $lineNumber1;
+    }
+
+    /**
+     * @param string $textIndicator1
+     */
+    public function setTextIndicator1(string $textIndicator1): void
+    {
+        $this->textIndicator1 = $textIndicator1;
+    }
+
+    /**
+     * @param string $text1
+     */
+    public function setText1(string $text1): void
+    {
+        $this->text1 = $text1;
+    }
+
+    /**
+     * @param string $textblockNumber1
+     */
+    public function setTextblockNumber1(string $textblockNumber1): void
+    {
+        $this->textblockNumber1 = $textblockNumber1;
+    }
+
+    /**
+     * @param string $lineNumber2
+     */
+    public function setLineNumber2(string $lineNumber2): void
+    {
+        $this->lineNumber2 = $lineNumber2;
+    }
+
+    /**
+     * @param string $textIndicator2
+     */
+    public function setTextIndicator2(string $textIndicator2): void
+    {
+        $this->textIndicator2 = $textIndicator2;
+    }
+
+    /**
+     * @param string $text2
+     */
+    public function setText2(string $text2): void
+    {
+        $this->text2 = $text2;
+    }
+
+    /**
+     * @param string $textblockNumber2
+     */
+    public function setTextblockNumber2(string $textblockNumber2): void
+    {
+        $this->textblockNumber2 = $textblockNumber2;
+    }
+
+
+    /**
+     * @return array
+     */
+    public function jsonSerialize(): array
+    {
+        return [
+            'processingFlag'   => $this->processingFlag,
+            'articleNumber'    => $this->articleNumber,
+            'lineNumber1'      => $this->lineNumber1,
+            'textIndicator1'   => $this->textIndicator1,
+            'text1'            => $this->text1,
+            'textblockNumber1' => $this->textblockNumber1,
+            'lineNumber2'      => $this->lineNumber2,
+            'textIndicator2'   => $this->textIndicator2,
+            'text2'            => $this->text2,
+            'textblockNumber2' => $this->textblockNumber2,
+        ];
+    }
+
+    /**
+     * @param string $data
+     */
+    public function fillByJson(string $data): void
+    {
+        $obj = json_decode($data);
+
+        $this->processingFlag = $obj->processingFlag;
+        $this->articleNumber = $obj->articleNumber;
+        $this->lineNumber1 = $obj->lineNumber1;
+        $this->textIndicator1 = $obj->textIndicator1;
+        $this->text1 = $obj->text1;
+        $this->textblockNumber1 = $obj->textblockNumber1;
+        $this->lineNumber2 = $obj->lineNumber2;
+        $this->textIndicator2 = $obj->textIndicator2;
+        $this->text2 = $obj->text2;
+        $this->textblockNumber2 = $obj->textblockNumber2;
+    }
+}

@@ -1,55 +1,96 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Filesystem\Adapter;
+
+interface AdapterInterface extends ReaderAdapterInterface
+{
+    /**
+     * Creates a new file
+     *
+     * @param string $path
+     * @param string $contents
+     * @param array  $config
+     *
+     * @return bool
+     */
+    public function write($path, $contents, array $config = []);
+
+    /**
+     * Creates a new file using a stream
+     *
+     * @param string   $path
+     * @param resource $resource
+     * @param array    $config
+     *
+     * @return bool
+     */
+    public function writeStream($path, $resource, array $config = []);
+
+    /**
+     * Updates an existing file
+     *
+     * @param string $path
+     * @param string $contents
+     * @param array  $config
+     *
+     * @return bool
+     */
+    public function update($path, $contents, array $config = []);
+
+    /**
+     * Updates an existing file using a stream
+     *
+     * @param string   $path
+     * @param resource $resource
+     * @param array    $config
+     *
+     * @return bool
+     */
+    public function updateStream($path, $resource, array $config = []);
+
+    /**
+     * Renames a file
+     *
+     * @param string $path
+     * @param string $newpath
+     *
+     * @return bool
+     */
+    public function rename($path, $newpath);
+
+    /**
+     * Copies a file to new location
+     *
+     * @param string $path
+     * @param string $newpath
+     *
+     * @return bool
+     */
+    public function copy($path, $newpath);
+
+    /**
+     * Deletes a single file
+     *
+     * @param string $path
+     *
+     * @return bool
+     */
+    public function delete($path);
+
+    /**
+     * Deletes a directory and its contents
+     *
+     * @param string $directory
+     *
+     * @return bool
+     */
+    public function deleteDir($directory);
+
+    /**
+     * @param string $directory
+     * @param array  $config
+     *
+     * @return bool
+     */
+    public function createDir($directory, array $config = []);
+}

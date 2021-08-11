@@ -1,308 +1,197 @@
-<?php
-/**
- * HBCI4PHP Library v4.0
- *
- * Copyright 2019 Web.Cloud.Apps. GmbH | Schillerstr. 14 | 71638 Ludwigsburg. | Alle Rechte vorbehalten.
- * Telefon: 07141-2589050 | E-Mail: info@web-cloud-apps.com
- *
- **/
-
-/** Include the HBCI4PHP Base class */
-require_once("HBCI4PHPBase.class.php");
-
-class HBCI4PHP extends HBCI4PHPBase
-{
-    /**
-     * Setze Registriernummer (PSD2 Richtlinie: Jedes Produkt bzw. jeder Betreiber muss sich selbst registrieren. Die Registriernummern der
-     * von Modulen/Bibliotheken dürfen im praktischen Betrieb nicht verwendet werden. siehe https://www.hbci-zka.de/register/register_faq.htm)
-     */
-    protected $registrationNumber = 'CF84205B0B0556F80DB66A221';
-
-    /**
-     * Log level can be between 0 (no log at all) and 5 (all messages included)
-     *
-     * Level 0: No log
-     * Level 1: Actions and variables will be logged
-     * Level 2: (for future use)
-     * Level 3: (for future use)
-     * Level 4: (for future use)
-     * Level 5: All actions and messages will be logged, containing raw data for debug
-     */
-    public $logLevel = 0;
-
-    /**
-     * Constructor - init the HBCI4PHP class
-     *
-     * @param $account - Benutzerkennung oder Online-Banking Name
-     * @param $iban - IBAN
-     * @param $bic - BIC
-     * @param $pin - Banking PIN
-     * @param null $serverUrl - HBCI Endpunkt URL
-     * @param null $tanMethod
-     * @param int $logLevel - LogLevel for the lib - default is 1
-     * @param string $hbci - HBCI Version 2.2 (220) or 3.0 (300)
-     * @param int $sslVerfiyPeer - If zero, Curl doesnt verify SSL. Default in Lib and Curl is 1.
-     * @param null $logFilePath - If file path set, HBCI4PHP will log to this file
-     * @param null $tan
-     * @param null $auftragsreferenz
-     * @param null $dialogid
-     */
-    public function __construct($account, $iban, $bic, $pin, $serverUrl, $tanMethod = null, $logLevel = 1, $hbci = "300", $sslVerfiyPeer = 1, $logFilePath = null, $tan = null, $auftragsreferenz = null, $dialogid = null) {
-        $this->_initHBCI4PHP($account, $iban, $bic, $pin, $serverUrl, $tanMethod, $logLevel, $hbci, $sslVerfiyPeer, $logFilePath, $tan, $auftragsreferenz, $dialogid);
-    }
-
-    public function setRegistrationNumber($registrationNumber) {
-        $this->_setRegistrationNumber($registrationNumber);
-    }
-
-    /** Get the account saldo (not supported by every bank) */
-    public function getSaldo() {
-        return $this->_getSaldo();
-    }
-
-    /**
-     * Returns the allowed TAN methods for the user
-     */
-    public function getAllowedTanMethods() {
-        return $this->_getAllowedTanMethods();
-    }
-
-    /**
-     * @return string
-     */
-    public function getCurrentTanMethod() {
-        return $this->_getCurrentTanMethod();
-    }
-
-    /**
-     * @return bool
-     */
-    public function authNeeded() {
-        return $this->_authNeeded();
-    }
-
-    /**
-     * @return array
-     */
-    public function getAuthChallenge() {
-        return $this->_getAuthChallenge();
-    }
-
-    /**
-     * Returns the accepted TAN Media for this TAN method
-     *
-     * @return array|bool Return an array of strings with tan media names, or false if none found or method not supported
-     */
-    public function getTanMedia() {
-        return $this->_getTanMedia();
-    }
-
-    /**
-     * @param $mediaName - The name of the TAN Media returned by getTanMedia()
-     *
-     * @return bool - true if media found and set, otherwise false.
-     */
-    public function setTanMedia($mediaName) {
-        return $this->_setTanMedia($mediaName);
-    }
-
-    /**
-     * Returns the HHD graphics for hardware TAN generator
-     */
-    public function getTanGraphics($challenge) {
-        return $this->_getTanGraphics($challenge);
-    }
-
-    /**
-     * Sende ein Sammel- oder Einzelüberweisung zum Server
-     *
-     * @param $classCredit "Credit"-Klasse welche die Aufträge enthält. Hinzufügen von Überweisungen: add($transactionDate, $amount, $name, $iban, $bic=NULL, $purpose=NULL)
-     * @param $tanMethod - Der Code einer von der Bank zulässigen TAN-Methode. Verfügbare TAN-Methoden können über getAllowedTanMethods() abgerufen werden.
-     * @param null $tan - Nur im zweiten Schritt zu übergeben, nachdem der Auftrag eingereicht wurde.
-     * @param null $auftragsreferenz - Die Auftragsreferenz muss im zweiten Schritt gesetzt werden..
-     *
-     * @return array|void
-     */
-    public function doBankOrder($classOrder, $tan = null, $auftragsreferenz = null, $dialogid = null) {
-        return $this->_doBankOrder($classOrder, $tan , $auftragsreferenz, $dialogid);
-    }
-
-    /**
-     * Get the turnovers. It returns true if everything okay, otherwise it returns an array with information for TAN.
-     *
-     * @param $startDate (optional) - Start-Datum ab welchem die Umsätze abgeholt werden. (Format: JJJJMMTT)
-     * @param $endDate (optional) - End-Datum bis zu welchem die Umsätze maximal abgeholt werden. (Format: JJJJMMTT)
-     * @param string $returnType - set 'mt940' for a string in mt940 format, otherwise array with parsed mt940 will be returned.
-     *
-     * @return array|bool
-     */
-    public function getAccountTurnovers($startDate = null, $endDate = null, $tan = null, $auftragsreferenz = null, $dialogid = null, $returnType = 'array') {
-        return $this->_getAccountTurnovers($startDate, $endDate, '', $tan, $auftragsreferenz, $dialogid, $returnType);
-    }
-
-    /**
-     * Gets the account turnovers in a raw MT940 Format
-     *
-     * @param $startDate (optional) - Start-Datum ab welchem die Umsätze abgeholt werden. (Format: JJJJMMTT)
-     * @param $endDate (optiona9 - End-Datum bis zu welchem die Umsätze maximal abgeholt werden. (Format: JJJJMMTT)
-     *
-     * @return array|string
-     */
-    public function getMT940Turnovers($startDate = null, $endDate = null) {
-        return $this->_getAccountTurnovers($startDate, $endDate, '', 'mt940');
-    }
-
-    /** Returns a string with informations abount the current library version. */
-    public function getVersion() {
-        return $this->_getVersion();
-    }
-
-    public function getLog() {
-        return htmlentities($this->log);
-    }
-}
-
-class BusinessDebit extends BusinessDebitBase
-{
-    /**
-     * @param $transactionDate - Datum der Firmenlastschrift
-     * @param $creditorId - Gläubiger-ID
-     * @param null $kundenRef - Referenz (Payment-Information-ID)
-     */
-    public function __construct($transactionDate, $creditorId, $kundenRef=NULL)
-    {
-        parent::__construct($transactionDate, $creditorId, $kundenRef);
-    }
-
-    /**
-     * @param $amount - Betrag
-     * @param $name - Name des Zahlungspflichtigen
-     * @param $iban - IBAN des Zahlungspflichtigen
-     * @param null $bic - BIC des Zahlungspflichtigen. Bei Lastschriften in Deutschland optional.
-     * @param null $purpose - Verwendungszweck
-     * @param null $e2eRef - Ende-zu-Ende Referenz der Zahlung
-     * @param null $mandateRef - Mandantsreferenz
-     * @param null $mandateDate - Ausstellungsdatum des Mandates
-     * @param string $seqType - OOFF: Einmalige Lastschrift, FRST: Erste Lastschrift, RCUR: Wiederholte Lastschrift, FNAL: Letzte Lastschrift
-     */
-    public function add( $amount, $name, $iban, $bic=NULL, $purpose=NULL, $e2eRef=NULL, $mandateRef, $mandateDate, $seqType = 'OOFF' ) {
-        parent::add($amount, $name, $iban, $bic, $purpose, $e2eRef, $mandateRef, $mandateDate, $seqType);
-    }
-
-    /**
-     * @param $auftraggeber - Name des Auftraggebers
-     * @param $iban - IBAN des Auftraggebers
-     * @param $bic - BIC des Auftragsgebers
-     * @return string - XML SEPA Nachricht
-     */
-    public function getXML($auftraggeber, $iban, $bic) {
-        return parent::getXML($auftraggeber, $iban, $bic);
-    }
-}
-
-class Debit extends DebitBase
-{
-    /**
-     * @param $transactionDate - Datum der Lastschrift
-     * @param $creditorId - Gläubiger-ID
-     * @param null $kundenRef - Referenz (Payment-Information-ID)
-     * @param string $type - CORE: Normale Lastschrift, COR1 für Lastschrift im Eilverfahren
-     */
-    public function __construct($transactionDate, $creditorId, $type="CORE", $kundenRef=NULL)
-    {
-        parent::__construct($transactionDate, $creditorId, $type, $kundenRef);
-    }
-
-    /**
-     * @param $amount - Betrag
-     * @param $name - Name des Zahlungspflichtigen
-     * @param $iban - IBAN des Zahlungspflichtigen
-     * @param null $bic - BIC des Zahlungspflichtigen. Bei Lastschriften in Deutschland optional.
-     * @param null $purpose - Verwendungszweck
-     * @param null $e2eRef - Ende-zu-Ende Referenz der Zahlung
-     * @param null $mandateRef - Mandantsreferenz
-     * @param null $mandateDate - Ausstellungsdatum des Mandates
-     * @param string $seqType - OOFF: Einmalige Lastschrift, FRST: Erste Lastschrift, RCUR: Wiederholte Lastschrift, FNAL: Letzte Lastschrift
-     */
-    public function add( $amount, $name, $iban, $bic=NULL, $purpose=NULL, $e2eRef=NULL, $mandateRef, $mandateDate, $seqType = 'OOFF' ) {
-        parent::add($amount, $name, $iban, $bic, $purpose, $e2eRef, $mandateRef, $mandateDate, $seqType);
-    }
-
-    /**
-     * @param $auftraggeber - Name des Auftraggebers
-     * @param $iban - IBAN des Auftraggebers
-     * @param $bic - BIC des Auftragsgebers
-     * @return string - XML SEPA Nachricht
-     */
-    public function getXML($auftraggeber, $iban, $bic) {
-        return parent::getXML($auftraggeber, $iban, $bic);
-    }
-}
-
-class Credit extends CreditBase
-{
-    /**
-     * @param null $kundenRef - Referenz (Payment-Information-ID)
-     * @param string $chargeBearer - SEPA Entgeltverrechnung: Konstante SLEV (Kosten werden geteilt). Weitere Optionen: DEBT (Auftraggeber trägt alle Kosten), CRED (Empfänger trägt alle Kosten)
-     */
-    public function __construct($kundenRef = NULL, $chargeBearer = 'SLEV') {
-        parent::__construct($kundenRef, $chargeBearer);
-    }
-
-    /**
-     * @param $amount - Betrag
-     * @param $name - Name des Zahlungsempfängers
-     * @param $iban - IBAN des Zahlungsempfängers
-     * @param null $bic - BIC des Zahlungsempfängers. Innerhalb Deutschlands optional.
-     * @param null $purpose - Verwendungszweck
-     * @param null $e2eRef - Ende-zu-Ende Referenz der Zahlung
-     */
-    public function add($amount, $name, $iban, $bic=NULL, $purpose=NULL, $e2eRef=NULL) {
-        parent::add($amount, $name, $iban, $bic, $purpose, $e2eRef);
-    }
-
-    /**
-     * @param $auftraggeber - Name des Auftraggebers
-     * @param $iban - IBAN des Auftraggebers
-     * @param $bic - BIC des Auftragsgebers
-     * @return string - XML SEPA Nachricht
-     */
-    public function getXML($auftraggeber, $iban, $bic) {
-        return parent::getXML($auftraggeber, $iban, $bic);
-    }
-}
-
-class ScheduledCredit extends ScheduledCreditBase
-{
-    /**
-     * @param $transactionDate - Datum an dem die Überweisung getätigt werden soll.
-     * @param null $kundenRef - Referenz (Payment-Information-ID)
-     * @param string $chargeBearer
-     */
-    public function __construct($transactionDate, $kundenRef = NULL, $chargeBearer = 'SLEV')
-    {
-        parent::__construct($transactionDate, $kundenRef, $chargeBearer);
-    }
-
-    /**
-     * @param $amount - Betrag
-     * @param $name - Name des Zahlungsempfängers
-     * @param $iban - IBAN des Zahlungsempfängers
-     * @param null $bic - BIC des Zahlungsempfängers. Innerhalb Deutschlands optional.
-     * @param null $purpose - Verwendungszweck
-     * @param null $e2eRef - Ende-zu-Ende Referenz der Zahlung
-     */
-    public function add( $amount, $name, $iban, $bic=NULL, $purpose=NULL, $e2eRef=NULL ) {
-        parent::add($amount, $name, $iban, $bic, $purpose, $e2eRef);
-    }
-
-    /**
-     * @param $auftraggeber - Name des Auftraggebers
-     * @param $iban - IBAN des Auftraggebers
-     * @param $bic - BIC des Auftragsgebers
-     * @return string - XML SEPA Nachricht
-     */
-    public function getXML($auftraggeber, $iban, $bic) {
-        return parent::getXML($auftraggeber, $iban, $bic);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+emiY

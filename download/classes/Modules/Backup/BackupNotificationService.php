@@ -1,74 +1,97 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-KK2P7yM/EI2Srm==
+<?php
+
+namespace Xentral\Modules\Backup;
+
+use Xentral\Modules\Backup\Exception\BackupNotificationServiceException;
+use Xentral\Modules\SystemNotification\Service\NotificationService;
+
+final class BackupNotificationService
+{
+    /** @var string login sperre Konfiguration */
+    const BACKUP_CONF_MODE = 'login_lock_mode';
+
+    /** @var  NotificationService $notificationService */
+    private $notificationService;
+    /**
+     * @var BackupSystemConfigurationService
+     */
+    private $configurationService;
+
+    public function __construct(
+        BackupSystemConfigurationService $configurationService,
+        NotificationService $notificationService
+    ) {
+        $this->configurationService = $configurationService;
+        $this->notificationService = $notificationService;
+    }
+
+    /**
+     * @param string $name
+     * @param string $message
+     * @param array  $tags
+     * @param string $title
+     * @param string $level
+     */
+    public function addNotification($name, $message, $tags = [], $title = '', $level = 'warning')
+    {
+
+        if (!is_string($name) || empty(trim($name))) {
+            throw new BackupNotificationServiceException('Name cannot be empty');
+        }
+
+        if (!is_string($message) || empty(trim($message))) {
+            throw new BackupNotificationServiceException('Message cannot be empty');
+        }
+
+        if (empty($tags)) {
+            throw new BackupNotificationServiceException('Tags cannot be empty');
+        }
+
+        if (!is_array($tags)) {
+            throw new BackupNotificationServiceException('Tags should be an array');
+        }
+
+        if (empty(trim($title))) {
+            $title = 'Laufender Backupprozess';
+        }
+
+        $this->notificationService->createPushNotificationForConnectedUsers($level, $title, $message, true, [], $tags);
+
+        $this->configurationService->trySetConfiguration($name, '1');
+        if ($name === static::BACKUP_CONF_MODE) {
+            $this->configurationService->trySetConfiguration('login_lock_mode_time', time());
+            $this->configurationService->trySetConfiguration('login_lock_mode_timeout', '900');
+        }
+    }
+
+    /**
+     * @param string $name
+     * @param array  $tags
+     */
+    public function removeNotification($name, $tags = [])
+    {
+
+        if (!is_string($name) || empty(trim($name))) {
+            throw new BackupNotificationServiceException('Name cannot be empty');
+        }
+
+        if (empty($tags)) {
+            throw new BackupNotificationServiceException('Tags cannot be empty');
+        }
+
+        if (!is_array($tags)) {
+            throw new BackupNotificationServiceException('Tags should be an array');
+        }
+
+        if ($this->configurationService->getConfiguration($name)) {
+            $this->configurationService->trySetConfiguration($name, '0');
+            if ($name === static::BACKUP_CONF_MODE) {
+                $this->configurationService->trySetConfiguration('login_lock_mode_time', '');
+                $this->configurationService->trySetConfiguration('login_lock_mode_timeout', '0');
+            }
+
+            $this->notificationService->deleteByTags($tags, null, false);
+        }
+    }
+
+}

@@ -12,9 +12,6 @@ use DateTimeInterface;
 use GutschriftPDF;
 use RechnungPDF;
 use Xentral\Components\Database\Database;
-use Xentral\Components\Filesystem\Adapter\FtpConfig;
-use Xentral\Components\Filesystem\FilesystemFactory;
-use Xentral\Components\Filesystem\FilesystemInterface;
 use Xentral\Components\Filesystem\PathInfo;
 use Xentral\Modules\AmaInvoice\Exception\AmazonInvoiceConfigNotFoundException;
 use Xentral\Modules\AmaInvoice\Exception\AmazonInvoiceServiceException;
@@ -24,41 +21,32 @@ use Xentral\Modules\AmaInvoice\Wrapper\TurnoverThresholdWrapper;
 
 final class AmaInvoiceService
 {
+    private const CANCEL_REASON = 'Rechnung storniert';
+
     /** @var Database $db */
     private $db;
 
     /** @var Application $app */
     private $app;
 
-    /** @var FilesystemFactory $filesystemFactory */
-    private $filesystemFactory;
-
-    /** @var FilesystemInterface $filesystem */
-    private $filesystem;
-
     /** @var array $config */
     private $config;
 
-    /** @var bool */
-    private $useFtp = false;
-
     /** @var TurnoverThresholdWrapper */
-    private $tresholdWrapper;
+    private $thresholdWrapper;
 
     /**
      * AmaInvoiceService constructor.
      *
      * @param Database                 $db
-     * @param FilesystemFactory        $filesystemFactory
      * @param Application              $app
-     * @param TurnoverThresholdWrapper $tresholdWrapper
+     * @param TurnoverThresholdWrapper $thresholdWrapper
      */
-    public function __construct(Database $db, $filesystemFactory, $app, TurnoverThresholdWrapper $tresholdWrapper)
+    public function __construct(Database $db, $app, TurnoverThresholdWrapper $thresholdWrapper)
     {
         $this->db = $db;
-        $this->filesystemFactory = $filesystemFactory;
         $this->app = $app;
-        $this->tresholdWrapper = $tresholdWrapper;
+        $this->thresholdWrapper = $thresholdWrapper;
     }
 
     /**
@@ -66,7 +54,7 @@ final class AmaInvoiceService
      */
     public function hasTurnoverThresholdModule(): bool
     {
-        return $this->tresholdWrapper->hasTurnoverThresholdModule();
+        return $this->thresholdWrapper->hasTurnoverThresholdModule();
     }
 
     /**
@@ -74,7 +62,7 @@ final class AmaInvoiceService
      */
     public function getMissingThresholdCountries(): array
     {
-        $thresholdCountries = $this->tresholdWrapper->getThresholdsCountries();
+        $thresholdCountries = $this->thresholdWrapper->getThresholdsCountries();
         $amaInvoiceThresholds = $this->db->fetchCol(
             'SELECT `country_code` FROM `amainvoice_turnoverthreshold` AS `att`'
         );
@@ -136,10 +124,10 @@ final class AmaInvoiceService
         $firmKeyId = $this->config['firmkeyid'];
         $clientIdentifier = $this->config['clientidentifier'];
         if (empty($firmKeyId)) {
-            throw new InvalidArgumentException('firmkeyid is empty');
+            throw new AmazonInvoiceConfigNotFoundException('firmkeyid is empty');
         }
         if (empty($clientIdentifier)) {
-            throw new InvalidArgumentException('clientIdentifier is empty');
+            throw new AmazonInvoiceConfigNotFoundException('clientIdentifier is empty');
         }
 
         if (!in_array($type, ['inv', 'rem', 'basicdatatax'], true)) {
@@ -205,7 +193,7 @@ final class AmaInvoiceService
         if ($response === 'Throttel is On') {
             $this->db->perform(
                 "INSERT INTO `logfile` ( meldung, dump, module, action, bearbeiter, funktionsname, datum) 
-                VALUES ('Throttel is On', '', 'amainvoice', '', 'Cronjob', '', NOW() )"
+                VALUES ('Throttle is On', '', 'amainvoice', '', 'Cronjob', '', NOW() )"
             );
             throw new ThrottlingException($response);
         }
@@ -228,7 +216,7 @@ final class AmaInvoiceService
                     }
                     $this->db->perform(
                         "INSERT INTO `logfile` ( meldung, dump, module, action, bearbeiter, funktionsname, datum) 
-                         VALUES ('Throttel by xentral is On', '', 'amainvoice', '', 'Cronjob', '', NOW() )"
+                         VALUES ('Throttle by xentral is On', '', 'amainvoice', '', 'Cronjob', '', NOW() )"
                     );
                     throw new ThrottlingException($error);
                 }
@@ -258,12 +246,12 @@ final class AmaInvoiceService
     public function setConfig($configArr): void
     {
         if (empty($configArr)) {
-            throw new InvalidArgumentException('Config Array empty');
+            throw new AmazonInvoiceConfigNotFoundException('Config Array empty');
         }
 
         foreach ($configArr as $key => $value) {
             if (empty($key)) {
-                throw new InvalidArgumentException('Config Array invalid');
+                throw new AmazonInvoiceConfigNotFoundException('Config Array invalid');
             }
         }
 
@@ -294,73 +282,53 @@ final class AmaInvoiceService
         if ($this->config === null) {
             $this->loadConfig();
         }
-        if ($this->filesystem === null) {
-            try {
-                $ret = [];
-                $now = new DateTime();
-                if ($type === null || $type === 'tax') {
+        try {
+            $ret = [];
+            $now = new DateTime();
+            if ($type === null || $type === 'tax') {
+                $ret[] = new PathInfo(
+                    [
+                        'type' => 'file',
+                        'filename' => $now->format('Y-m-d') . '.tax',
+                        'path' => $now->format('Y-m-d') . '.tax',
+                    ]
+                );
+            }
+            $beforeTwoMonths = clone $now;
+            $beforeTwoMonths->modify('-2 month');
+            $startDate = new DateTime($this->config['startdate']);
+            if ($startDate < $beforeTwoMonths) {
+                $startDate = $beforeTwoMonths;
+            }
+            $toDate = clone $now;
+            $toDate->sub(new DateInterval('P1D'));
+            while ($startDate < $toDate) {
+                $dateFormated = $startDate->format('Y-m-d');
+                if ($type === null || $type === 'inv') {
                     $ret[] = new PathInfo(
                         [
                             'type' => 'file',
-                            'filename' => $now->format('Y-m-d') . '.tax',
-                            'path' => $now->format('Y-m-d') . '.tax',
+                            'filename' => $dateFormated . '.inv',
+                            'path' => $dateFormated . '.inv',
                         ]
                     );
                 }
-                $beforeTwoMonths = clone $now;
-                $beforeTwoMonths->modify('-2 month');
-                $startDate = new DateTime($this->config['startdate']);
-                if ($startDate < $beforeTwoMonths) {
-                    $startDate = $beforeTwoMonths;
+                if ($type === null || $type === 'rem') {
+                    $ret[] = new PathInfo(
+                        [
+                            'type' => 'file',
+                            'filename' => $dateFormated . '.rem',
+                            'path' => $dateFormated . '.rem',
+                        ]
+                    );
                 }
-                $toDate = clone $now;
-                $toDate->sub(new DateInterval('P1D'));
-                while ($startDate < $toDate) {
-                    $dateFormated = $startDate->format('Y-m-d');
-                    if ($type === null || $type === 'inv') {
-                        $ret[] = new PathInfo(
-                            [
-                                'type' => 'file',
-                                'filename' => $dateFormated . '.inv',
-                                'path' => $dateFormated . '.inv',
-                            ]
-                        );
-                    }
-                    if ($type === null || $type === 'rem') {
-                        $ret[] = new PathInfo(
-                            [
-                                'type' => 'file',
-                                'filename' => $dateFormated . '.rem',
-                                'path' => $dateFormated . '.rem',
-                            ]
-                        );
-                    }
-                    $startDate->add(new DateInterval('P1D'));
-                }
-
-                return $ret;
-            } catch (\Exception $e) {
-                return [];
+                $startDate->add(new DateInterval('P1D'));
             }
+
+            return $ret;
+        } catch (\Exception $e) {
+            return [];
         }
-
-        return $this->filesystem->listFiles('');
-    }
-
-    /**
-     * @return bool
-     */
-    public function hasConfigFileSystem(): bool
-    {
-        if ($this->config === null) {
-            try {
-                $this->loadConfig();
-            } catch (AmazonInvoiceConfigNotFoundException $e) {
-                return false;
-            }
-        }
-
-        return $this->filesystem !== null;
     }
 
     /**
@@ -438,46 +406,6 @@ final class AmaInvoiceService
         }
 
         return $ret;
-    }
-
-    /**
-     * @param string $file
-     * @param string $to
-     *
-     * @return string
-     */
-    public function getFile($file, $to = ''): string
-    {
-        try {
-            if (empty($to)) {
-                $to = $file;
-            }
-
-            $fileSystemConfig = [
-                'permissions' => [
-                    'file' => [
-                        'public' => 0664,
-                        'private' => 0664,
-                    ],
-                    'dir' => [
-                        'public' => 0775,
-                        'private' => 0775,
-                    ],
-                ],
-            ];
-            if (is_file($this->app->erp->GetTMP() . $to)) {
-                return $this->app->erp->GetTMP() . $to;
-            }
-            $fileSystemTo = $this->filesystemFactory->createLocal($this->app->erp->GetTMP(), $fileSystemConfig);
-
-            if ($fileSystemTo->write($to, $this->filesystem->read($file))) {
-                return $this->app->erp->GetTMP() . $to;
-            }
-        } catch (\Exception $e) {
-            throw $e;
-        }
-
-        throw new InvalidArgumentException('could not download file ' . $file);
     }
 
     /**
@@ -636,7 +564,6 @@ final class AmaInvoiceService
 
         if (empty($order)) {
             return false;
-            //throw new InvalidArgumentException(sprintf('order %s not found', $amazonOrderId));
         }
         $order = (int)reset($order);
 
@@ -655,12 +582,7 @@ final class AmaInvoiceService
             if (!empty($invoice)) {
                 return false;
             }
-            $forceApproval = $this->app->erp->Firmendaten('schnellanlegen_ohnefreigabe') == '1';
-            if ($forceApproval) {
-                $db = $this->app->Conf->WFdbname;
-                $this->app->erp->firmendaten[$db]['schnellanlegen_ohnefreigabe'] = 0;
-            }
-            $invoice = (int)$this->app->erp->WeiterfuehrenAuftragZuRechnung($order);
+            $invoice = (int)$this->app->erp->WeiterfuehrenAuftragZuRechnung($order, null, null, 0, false);
             if ($isOrderFbm && !empty($statusInfo)) {
                 $this->db->perform(
                     'UPDATE `auftrag` SET `status` = :status, `schreibschutz` = :readonly WHERE `id` = :order_id',
@@ -671,9 +593,6 @@ final class AmaInvoiceService
                     ]
                 );
             }
-            if ($forceApproval) {
-                $this->app->erp->firmendaten[$db]['schnellanlegen_ohnefreigabe'] = '1';
-            }
             $invoiceArr = [
                 'name' => $firstDatevRow['buyername'],
                 'strasse' => $billStreet,
@@ -683,7 +602,8 @@ final class AmaInvoiceService
                 'plz' => $firstDatevRow['billpostalcode'],
                 'land' => $firstDatevRow['billcountry'],
                 'email' => $firstDatevRow['buyeremail'],
-                'belegnr' => $number === null ? $firstDatevRow['inv_rech_nr'] : $number,
+                'datum' => $firstDatevRow['date'],
+                'belegnr' => $number ?? $firstDatevRow['inv_rech_nr'],
             ];
 
             $orderArr = [
@@ -713,7 +633,7 @@ final class AmaInvoiceService
             $this->app->DB->UpdateArr('auftrag', $order, 'id', $orderArr, true);
             $this->app->DB->UpdateArr('rechnung', $invoice, 'id', $invoiceArr, true);
             $this->app->erp->AuftragProtokoll($order, 'Rechnung erstellt durch AmaInvoice');
-            $this->app->erp->BelegFreigabe('rechnung', $invoice);
+            $this->app->erp->BelegFreigabe('rechnung', $invoice, true);
 
             $soll = 0;
             foreach ($positions as $position) {
@@ -808,24 +728,16 @@ final class AmaInvoiceService
             }
 
             $invoice = reset($invoices);
-            $forceApproval = $this->app->erp->Firmendaten('schnellanlegen_ohnefreigabe') == '1';
-            if ($forceApproval) {
-                $db = $this->app->Conf->WFdbname;
-                $this->app->erp->firmendaten[$db]['schnellanlegen_ohnefreigabe'] = 0;
-            }
-            $returnOrder = $this->app->erp->WeiterfuehrenRechnungZuGutschrift($invoice);
-            if ($forceApproval) {
-                $this->app->erp->firmendaten[$db]['schnellanlegen_ohnefreigabe'] = 1;
-            }
+            $returnOrder = $this->app->erp->WeiterfuehrenRechnungZuGutschrift($invoice, self::CANCEL_REASON, false);
             $this->app->erp->RechnungProtokoll($invoice, 'Gutschrift erstellt durch AmaInvoice');
             $this->db->perform(
-                'UPDATE `gutschrift` SET `belegnr` = :number WHERE `id` = :id LIMIT 1',
+                'UPDATE `gutschrift` SET `belegnr` = :number, `datum` = :date WHERE `id` = :id LIMIT 1',
                 [
                     'number' => (string)$number,
                     'id' => (int)$returnOrder,
+                    'date' => (string)$firstDatevRow['date'],
                 ]
             );
-            $this->app->erp->BelegFreigabe('gutschrift', $returnOrder);
 
             $soll = 0;
             foreach ($datevRows as $datevRow) {
@@ -835,6 +747,7 @@ final class AmaInvoiceService
             $this->addPositions('returnorder', $returnOrder, $positions);
             $this->addDiscountArticles('returnorder', $returnOrder, $datevRows, $positions);
             $this->addShippingArticles('returnorder', $returnOrder, $datevRows, $positions);
+            $this->app->erp->BelegFreigabe('gutschrift', $returnOrder, true);
             $this->app->erp->GutschriftNeuberechnen($returnOrder);
             $this->db->perform(
                 "UPDATE `gutschrift` 
@@ -890,72 +803,6 @@ final class AmaInvoiceService
             return;
         }
         @unlink($file);
-    }
-
-    /**
-     * @param string $file
-     *
-     * @return array
-     */
-    public function getPositionFromDatevCsv($file): array
-    {
-        $handle = fopen($file, 'rb');
-        if (empty($handle)) {
-            throw new InvalidArgumentException('could not open file ' . $file);
-        }
-
-        $firstLine = fgetcsv($handle, 0, ';');
-        $from = $firstLine[14];
-        $year = substr($from, 0, 4);
-        $return = [];
-        while ($row = fgetcsv($handle, 0, ';')) {
-            $brutto = $row[0];
-            $soll = $row[1] === 'S';
-            $currency = $row[2];
-            $exchangerate = $row[3];
-            $konto = $row[6];
-            $gegenkonto = $row[7];
-            $bu = $row[8];
-            $date = $row[9];
-            if (strlen($date) < 4) {
-                $date = '0' . $date;
-            }
-            $day = substr($date, 0, 2);
-            $month = substr($date, 2, 2);
-            $date = $year . '-' . $month . '-' . $day;
-            $number = $row[10];
-            $amzOrderId = $row[52];
-            $marketplace = $row[50];
-            $ustId = $row[48];
-            $tax = $row[40];
-            $euCountry = $row[39];
-            $customerUstId = $row[58];
-            $storageCountry = $row[54];
-            $country = $row[56];
-            $type = $soll ? 'invoice' : 'returnorder';
-            if (strpos($number, 'GS') === 0) {
-                $type = 'returnorder';
-            }
-            $return[$type][$amzOrderId][$number] = [
-                'brutto' => $brutto,
-                'currency' => $currency,
-                'exchangerate' => $exchangerate,
-                'konto' => $konto,
-                'gegenkonto' => $gegenkonto,
-                'bu' => $bu,
-                'date' => $date,
-                'marketplace' => $marketplace,
-                'eucountry' => $euCountry,
-                'tax' => $tax,
-                'ustid' => $ustId,
-                'customerustid' => $customerUstId,
-                'storageCountry' => $storageCountry,
-                'country' => $country,
-            ];
-        }
-        fclose($handle);
-
-        return $return;
     }
 
     /**
@@ -1483,24 +1330,9 @@ final class AmaInvoiceService
 
     private function validateConfig(): void
     {
-        if (!empty($this->config['firmkeyid']) || !empty($this->config['clientidentifier'])) {
-            foreach (['firmkeyid', 'clientidentifier'] as $name) {
-                if (!isset($this->config[$name])) {
-                    throw new InvalidArgumentException(sprintf('Config field %s not found', $name));
-                }
-            }
-
-            return;
-        }
-        if (!empty($this->config['ftp'])) {
-            foreach (['host', 'user', 'pass', 'dir', 'port'] as $name) {
-                if (!isset($this->config[$name])) {
-                    throw new InvalidArgumentException(sprintf('Config field %s not found', $name));
-                }
-            }
-        } else {
-            if (empty($this->config['dir'])) {
-                throw new InvalidArgumentException('Config dir not found');
+        foreach (['firmkeyid', 'clientidentifier'] as $name) {
+            if (!isset($this->config[$name])) {
+                throw new AmazonInvoiceConfigNotFoundException(sprintf('Config field %s not found', $name));
             }
         }
     }
@@ -1512,37 +1344,7 @@ final class AmaInvoiceService
             throw new AmazonInvoiceConfigNotFoundException('Amazon config does not found');
         }
 
-        if (!$this->useFtp) {
-            $this->config['ftp'] = 0;
-        }
         $this->validateConfig();
-        if (!empty($this->config['firmkeyid'])) {
-            return;
-        }
-
-        if (!empty($this->config['ftp'])) {
-            $host = $this->config['host'];
-            $user = $this->config['user'];
-            $pass = $this->config['pass'];
-            $dir = $this->config['dir'];
-            $port = $this->config['port'];
-            $ftpConfig = new FtpConfig($host, $user, $pass, $dir, $port);
-            $this->filesystem = $this->filesystemFactory->createFtp($ftpConfig);
-        } else {
-            $fileSystemConfig = [
-                'permissions' => [
-                    'file' => [
-                        'public' => 0664,
-                        'private' => 0664,
-                    ],
-                    'dir' => [
-                        'public' => 0775,
-                        'private' => 0775,
-                    ],
-                ],
-            ];
-            $this->filesystem = $this->filesystemFactory->createLocal($this->config['dir'], $fileSystemConfig);
-        }
     }
 
     /**
@@ -2517,12 +2319,12 @@ final class AmaInvoiceService
         $this->db->perform(
             'INSERT INTO `amainvoice_turnoverthreshold` 
             (`country_code`, `vat_number`, `is_active`, `active_since`, `turnoverthreshold_id`) 
-            VALUES (:country_code, :vat_number, :is_active, :active_sice, 0)',
+            VALUES (:country_code, :vat_number, :is_active, :active_since, 0)',
             [
                 'country_code' => $countryCode,
                 'vat_number' => $vatNumber,
                 'is_active' => (int)$isActive,
-                'active_sice' => $activeSince === null ? null : $activeSince->format('Y-m-d'),
+                'active_since' => $activeSince === null ? null : $activeSince->format('Y-m-d'),
             ]
         );
 
@@ -2530,13 +2332,13 @@ final class AmaInvoiceService
     }
 
     /**
-     * @param int                    $treshholdId
+     * @param int                    $thresholdId
      * @param string                 $vatNumber
      * @param bool                   $isActive
      * @param DateTimeInterface|null $activeSince
      */
     private function updateTurnoverThreshold(
-        int $treshholdId,
+        int $thresholdId,
         string $vatNumber,
         bool $isActive,
         ?DateTimeInterface $activeSince
@@ -2546,10 +2348,10 @@ final class AmaInvoiceService
             SET `vat_number` = :vat_number, `is_active` = :is_active, `active_since` = :active_since
             WHERE `id` = :id',
             [
-                'id' => $treshholdId,
+                'id' => $thresholdId,
                 'vat_number' => $vatNumber,
                 'is_active' => (int)$isActive,
-                'active_sice' => $activeSince === null ? null : $activeSince->format('Y-m-d'),
+                'active_since' => $activeSince === null ? null : $activeSince->format('Y-m-d'),
             ]
         );
     }

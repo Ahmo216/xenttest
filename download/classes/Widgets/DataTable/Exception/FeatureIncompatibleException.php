@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Widgets\DataTable\Exception;
+
+use LogicException;
+
+class FeatureIncompatibleException extends LogicException implements DataTableExceptionInterface
+{
+}

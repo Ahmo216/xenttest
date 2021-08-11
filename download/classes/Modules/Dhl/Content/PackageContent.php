@@ -1,78 +1,142 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPpQDXk9BNdlLLKGJmRCi3KFd2wWEjWGSyL8GL3/Qbs3aPyG/AXmUMbvHN+whcGtNvhG0mLTz
-7A11STzc94or6Oev4MVAlm6PWFU3xJafKdd/mgERNonguM0u/Ez/ObS6dju1RAtd5gXpobKphy6Y
-lm7GKyaxxH688o2pWCvB4/7L49G4Fz5Q2CDlOA5bhEFCygRW5Sx45iLCa7ycd0Q9FvpwtIJOUmPA
-8+7/R73p1TQ+ZoxXxgBLdhNNyKioruVk9ikgWZ8ghoatFfshN9oFiyR/vivTtFns40SDp91ipZqp
-ldj8DpZ8MI7y+BXIukNQ+6wBkLE2xlmxn/kTyFw578omeYQ5ZwfF/Orj/xk/dIXGJqaSvCyqabGt
-2YOwa6E30ysCf3AsyHYH4Pp1KlygK0q+1QHe6EbbxZe+tpjdEpRI19teQqsXaN4UWvoWDX249eeI
-QXwyBwa/Wv2zc5vTKtQTkXCz8illXFx9tJYZx5Dd+15XdTt6UC8Tl7svaCKJ/PwT6FICPxc4BZGJ
-69OmWjyh5/z7Y5NQTmmzY9EkKAE6mOv1v7VgINozHOoIlogIPgxxAsPNxxnZt8p7UAhpMhjyler4
-O7FWQ8NushncUxQ69XYZs965si8+hWkd8Krhxhnzq50FHFB3b03Qm2fsoUP81oqe29X6gy20AxLf
-RI4FkqxFCeh9nF9WqSyhKduINCrPc22VdgtpvOSbni5xhv2fPfxuic+kwpVXsvO0XQqKLvO+mnEk
-UIbFnVCGmAHR9uNOJx4Pi41P+WLiGNZ38AejHFdwn2/LlswazQEV7/yVG5N2YKqx9UeIcg5FmrMR
-7EUiOhik3Q7cPY8F+xtetnQegF1S3p6kYr1qPfvdGhedDOb9jYcnOW0lvPSD/Q2+vjU+4u+IUjCt
-D1VIJB40I/HSZuo0BmzvHzYvmHf2Qbt6q09Ch7Ktv6DU0qIGanPkjQgpDTJz9RUQyTkQAM4Fqi5y
-scBZjl4gxYPmXglNi5lgccBlL39mjiTP2xv2GEfvRIcw2j7Z1dG/VOW81OEyd4HuOk+N4hmBnNmC
-A78B7HyI4nXAdjGANZBXaGA8+msY2ph8kCVy1uMhaNOXRY5S1sOr1/AKIay0bIEsmo2GpX8P6L3J
-XADJKsSoWC3nwMuad8aeziY7Hc7JIPf/WJb+1QJhr4HOkoS3Upda4fDnvMgkvn+aiO7vtpk5wEli
-yz7oUME4ijUR0xuemEWQ5uP/s2GvHNo5d9b98fQLD5B9a+2zQYAMMd1UW92APB7TFn9nYC/cGIIW
-XTkn1UR6LR5WNAp1YeB4vgJ7AyVcN30cMWnHcHNd4DVGTkupNKytrNTT6kPgVaQTJKRGSiEQz1OQ
-jhq8EMo5v+vqobAO+raEPOmgL+zxP4ZT8B+MpNaRqIP6H83V+RpcaIswwKM9pp6A1+ZLtItuMaBp
-R6jgvelUHRpD3THmIyhkHFSBc16gDeGgWnxieaEGeOgrR4MgbII+tgqa6u4grpadPEKJAQ71+1eT
-j+/LdIOaaaO6ct0FuUioX5tAUu5crKbyN0uihQEwai4Gj1RGaPgvbrvFn/UIT/xMbjyZqOmeIvEE
-kTFSH8RnIQphSvZt46+BIb/j1Bd1omKSNUo866dyALYC61uG8a3PEt2pGDDGzjAzt0LkUjsZrMmS
-DF3GvN+0y8QHAqY9jXMJU9vXmMvQI1rYFd/rLmwaAXvY5XnGDXCShgqGKL63s11W3G456xfo7GWC
-1ti+R5aB8sfObxvCwe8RMUXrkjtY49YSGcEzbQ3lVpOBEt18ao/veaUj+DoolWpIeI/7YcLGgZCF
-+N7ZMfEjQoguZcKUpFTEQDfPt/eWaQjI0bzbXBHVPG7hEzzEYri65xnIX7Jm0L5iAMKqGhNmzEcq
-yZLp4Q7YXf5NYE0uFPrgfqZ9axVxLPDeS4DcdZByqkOHNZPK/IUI5jj2kfpn6WJnoS9w827PGxct
-xTQJp5kri6FL1i93h2fUfYRzGuepNWAKDoWThp887N1qNQRoPSGI1ubGN73ZmV1/6uEmlqT1TD1m
-UJffwxo6XWVDWxP3/iPD6IcUf9WfwXVlOqTk+CCWVoYNeaCCP70glwfpnsVy5/IsWmyY5Qq4cSgA
-YkwCS8vGrqdTrPhayPvIlMpqYedWz2LwCMNHQ+h/K8Hr4cAlDn1mPllTITpU1+/3MSRGeA9u7Zk4
-CzvB3ek/+vysGvh3KS8go7JtlbmA01PAs1kHxR2i6WwQAr68rLhcO0IeSlZ14ryrl728BRH7Ntvl
-lnJTZ94h6458TX2zoo5JPLsxvSAYuQ7T28JRgX5qlXZfVTncBcB5b6fBo9/p2takPgJKWq/xgI5Z
-dFg57rRvwi+LZXsJXq+qNAw/tN8HkMv4E8tiXZ7Xe2+GGSZSLeoLls4hHrAm00ftFmEHVMXkWw+H
-e32sNaTamg8/2QgtBIpzUKlTyucxPaE6W0Donh7e4a+hxOpH7Gebl9rQJSEs4tqjCV+xwm5wbNsJ
-61xKkYMJFWNs6xB3NmnBSsg2Fi3BrkIeNGE/u4KptzLfWi5DrLkLzpJL0zAGfyDwK2aRdgTbBxtw
-gGHoJR7BdWLF/k+gCQbBi2MY5giAMpTWu6KvNPDHQJ82NsZAKNnuzE7MBEFCXi2jlPIf0g/3/oHN
-5tddGBkUbIy2/2VmMOcH/zv6P+fwUXe5NimGqgI9ds1lSU4qklGvUGZYupUvuJGRXWRjUBLDeFzN
-llTEDk69hNlRmm1dQlFNVPNMm/Z3DMg9AE46J2vZ9a9SKu8ST9hoyaAWfygrNZdPk0XO0Hzah9y3
-M6AvlbtngJd7DlOnm8/NjB9s43vd4FxodVHFavRdEKMNtBmiGyI7vtXRlH19i3UCrIK5TU0wpGQR
-vo/zUXpuZIy12bJ+eg9y/zCYvz42KyRx2DmronfGOyEnI/vwn1JyyAfcGSuJtqMEnxBpkneI53cS
-Lb050BJeNcvQexbPFhYImlVCuvW3Of9FGEovwa99zXhSaXyIRb5cTJcrbMmJvktT3JLdp+/qatjh
-fHVKC6CS5bwQf0Dd/RQdKT7WafwQGka30fPA7Wh+vh0GCNfU085U6b+lvBl8Hx0YNsEDYq9DT83s
-mYpHCRdG5Q1KS+/xO/Luyyf9rFokfUSRUbtKKDoqcw7Pi/m1vh2yUefvBdlY0Qf/83+goP8xjsGr
-v15V1H7NsubIM2ajVW2b65vvFpZw6LdLgV3ACRarchdUrLTmlF81Cng9NaDxpoY2R7eHuuc4Ia9l
-TuVtmqI9L/yc9FgYU7IRwcugJ4vtXs4PVCzaSzNp7xSRTK/YjfVEtCQ11eUnmP+6aAoFQQH5OhiU
-p97FZs/z3rDg6u7h6vNVGXukWhCqHXNfR5hE9NZrfzvPPc7Enfw1TyEzqi4pipvw07F57v/mWdn1
-MQYhYiwsEIelWYEroIowPtlNJRn6d4ntaZf7wLbGsRdqUxNZgdMuVFDa4dh52Dm1gT+0/LomDwDe
-L3jo1zSSprTSIQEnJ8urTDhGokLyklebI5O3JCYIk9cLEfQR8wfgjEWdchf34SZQzIvLTVYHwm+D
-2X+hQB1RexxvPNveyRtR7ww7vsV+pdNEK6i8A/1Wr3iGtO+Y7WRnOFxugQQRj39pv/PT6Iy03G/A
-15+GxCh5n9m1Y4lgoF4dJE0BQ/dD5cv0ltmnH612MZJ6KQPTxqGWs3fSHMDC/oryXokcr5eulB/o
-0nhNoqw8rZ/YyoaTJVcQCKPej8Cc9pv8cdfJTvnAFKSQfxQzafsPZHwIizHgdYMB2m8BjPeAb69M
-xoX1cg2+wYM0YMef9RwhWL6L8WhgaTZC9Oyv9l2XMwaJc+SeftbF3fG86rxJ2QJXj+2+1lww0a/S
-i2Pyto1hKTjidzl157+cjhVLNlGK+W/jAtH5Vem3bctWeLsGxVbx1Pah7kKvaQK6/KE9ornf+UI/
-Txwms3ZDyziO9kcfu2YMykXUDsyHF+Y/DBdZwDFxUI311oVpG7USX2AUdfmzShGesbnYt0/Dq2Mv
-AHJV/c1UfUHK7oa/BM6Gxk4Kq7WtFLLt5fVIYrpc8iF/vtJCdAYnfkortI2J37QzvUY+VB33o8o6
-Nr+0q++XUeg05P4VFGkpZvHgfZrQmEPUL4ih5agjNvpTvXQwxwo0fUDvw9ZJecRwPPZY6djl32x0
-2ESuIpLo314IjFAv8wJcBQ6PMd1R8iwqaaUOR6ke4WrqsyFhEEJvHp5D79QGVJWmM+L5HWqsEd+w
-cNLv1UFbhDjCQ8JHiLRhbLRySyVTD6dfXSFT5uPCqapuGvzsJSHu0Dx8AeMzruTfvOtb8DxAVvPs
-4CKj/L2HdKaIQ7tofCC+QeuETXiHIxUTG3TYYLXqdYNnRqBsSdY5Wn3Z85SJjK6jg2/Lx6oXj4ll
-pBgp2XN4Ul3Y1t8iRxjfqWGEgRRDNky1n/OJ58dXciE0BDGDyBB5mZcFRvLIgYS5GitDXNuVjqn5
-VN2OvEUM2fNvfYkYLNr0MxlKDSRDVsXsgNagVga7y4fMIcBh3j+EerSb59huEekdiQliyZcVHRjD
-noHjb7l2LNxDjEvVYSKlroZI0/y9ql3rMLGbqzM2ma70XwtKDuKWVAz03Axr1uQHu3zUHnpY73Hl
-DxmX+7coyEA+DAWNnKEfeGtA7tn5yKPLCxMpK71aMc73+ErHqlDisqJ6S5rPLwOSGL16j/D6UzY2
-eKptqrFDOrKoDTpGQJcmQh0Ojv3yqnpECStQ6ORONIVkplZWonHTadK6sb0zfA53djT0qMDu0waf
-TPndHA4UZEXp02+ip+WjOWxppbSfni8BRsMu+fJ8f4Se81lR40t/tLfl39TR2FEAOb93qQMCLJV0
-k816w0FUIn7X+XIveSwsKfq2rJGIlpBetQo909cqE+3s5/6ZoWtlFZkdQG++sbPJ0v4bAPDuIGRz
-xoMtm7g9k5jOZUoRANl5Z9cvXM4zmZ3vZqoLU891eIsXdPxdpISV+5GnMKdYzLTGei92ajOZwa0k
-bgYrGg5iulnhH8+PK83rq5m2j51UitrUKp8XwT5msOkRa4xuP9ZpXfi2MtpU2fOcD7k16k1e+i24
-xkxNZiClgxnMtaPYdc7yBnu5k5ptMgL5zrqg7s5UeYDJQow2JOAJ/nru995ix6QmRVQJ5ynxxEEE
-htJt5qreB4leidfAAJfJG5sN2WYa9r3LGcEEqLo/rIXnq8z6dco9VafVXXXB2mMYzd5LwqJ8crTm
-7WHKApQXUeoHkb08D2j8mhzzv7pS54tabhvjGV9DPGZ/iwGRw/7Qi+xTmX0wmYQVafFjxltfLKNr
-rMtrKXlp6MUvfVlHvQ9p8fKAR/cAnbvLr9BsF+eYSUdtphicc2+KYFQp7hNz+Qqu6Ulk59sQq9Fx
-PBNxToN6MVAWvvTiZRtdaaPcaVsZCXml8iPWoch2cx3Y2GjfkOq5z7ytOjX6D5VLsHd8p1ANfqk1
-8fPPUYF8DVeZ5mJJzsguq6wSxo3SfkVMRI1vwrgjiIcPd6jrE8C4DeTXu4MOulk7Wnwj1HX5ePVs
-2P8maEntm34CCdmoei3bJwy6T1VzqOzdIGtkLZOlbmTXB8xrXGbCvGcu1qtbNqTHQ7Z/HQJ2LSkX
-fpf3BnaOpK47Nkyu3g58XSooTVkq/zoJBT2XB3wDfsF1Kum=
+<?php
+
+namespace Xentral\Modules\Dhl\Content;
+
+use Xentral\Modules\Dhl\Exception\ContentsDataException;
+
+/**
+ * Class PackageContent
+ *
+ * @package Xentral\Modules\Dhl\Content
+ */
+class PackageContent
+{
+    /** @var int */
+    private $amount;
+
+    /** @var string */
+    private $description;
+
+    /** @var float */
+    private $value;
+
+    /** @var string ISO-2 */
+    private $countryOfOrigin;
+
+    /** @var string */
+    private $customsTariffNumber;
+
+    /** @var float */
+    private $weightInKg;
+
+    /**
+     * PackageContent constructor.
+     *
+     * @param int    $amount
+     * @param string $description
+     * @param float  $value
+     * @param string $countryOfOrigin
+     * @param string $customsTariffNumber
+     * @param float  $weightInKg
+     */
+    public function __construct($amount, $description, $value, $countryOfOrigin, $customsTariffNumber, $weightInKg)
+    {
+        $this->checkDescription($description);
+        $this->checkAmount($description, $amount);
+        $this->checkWeight($description, $weightInKg);
+        $this->checkCountryOfOrigin($description, $countryOfOrigin);
+        $this->checkTariffNumber($description, $customsTariffNumber);
+        $this->checkValue($description, $value);
+
+        $this->description = $description;
+        $this->amount = $amount;
+        $this->value = $value;
+        $this->countryOfOrigin = $countryOfOrigin;
+        $this->customsTariffNumber = $customsTariffNumber;
+        $this->weightInKg = $weightInKg;
+    }
+
+    private function checkWeight($itemName, $weight){
+        if($weight <= 0){
+            throw new ContentsDataException("Falsches Gewicht von '{$itemName}'");
+        }
+    }
+
+    private function checkTariffNumber($itemName, $number){
+        if(empty($number)){
+            throw new ContentsDataException("Falsche Zolltarifnummer von '{$itemName}'");
+        }
+    }
+
+    private function checkCountryOfOrigin($itemName, $country){
+        if(strlen($country) !== 2){
+            throw new ContentsDataException("Herkunftsland von '{$itemName}' muss ISO-alpha-2 sein");
+        }
+    }
+
+    private function checkValue($itemName, $value){
+        if($value <= 0){
+            throw new ContentsDataException("Falscher wert von '{$itemName}': {$value}");
+        }
+    }
+
+    private function checkAmount($itemName, $amount){
+        if($amount <= 0){
+            throw new ContentsDataException("Falsche Menge bei position '{$itemName}': {$amount}");
+        }
+    }
+
+    private function checkDescription($description){
+        if(empty($description)){
+            throw new ContentsDataException('Fehlende Beschreibung in Positionen');
+        }
+    }
+
+    /**
+     * @return float
+     */
+    public function getWeightInKg()
+    {
+        return $this->weightInKg;
+    }
+
+    /**
+     * @return int
+     */
+    public function getAmount()
+    {
+        return $this->amount;
+    }
+
+    /**
+     * @return string
+     */
+    public function getDescription()
+    {
+        return $this->description;
+    }
+
+    /**
+     * @return float
+     */
+    public function getValue()
+    {
+        return $this->value;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCountryOfOrigin()
+    {
+        return $this->countryOfOrigin;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCustomsTariffNumber()
+    {
+        return $this->customsTariffNumber;
+    }
+}

@@ -1,64 +1,100 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-pAfyirk2kxZbBj3MaQG3P5gHv6sxD1IPYG==
+<?php
+
+namespace Xentral\Modules\Resubmission\Data;
+
+use Xentral\Modules\Resubmission\Exception\ValidationFailedException;
+
+final class FreeTextFieldConfigData
+{
+    /** @var int|null $id */
+    public $id;
+
+    /** @var string $title */
+    public $title;
+
+    /** @var bool $showInPipeline */
+    public $showInPipeline = false;
+
+    /** @var bool $showInTables */
+    public $showInTables = false;
+
+    /** @var int $availableFromStageId */
+    public $availableFromStageId = 0;
+
+    /** @var int */
+    public $requiredFromStageId = 0;
+
+    /**
+     * @param array $formData
+     *
+     * @throws ValidationFailedException
+     *
+     * @return self
+     */
+    public static function fromFromData(array $formData)
+    {
+        $data = new self();
+        $data->id = $formData['id'];
+        $data->title = trim($formData['title']);
+        $data->showInPipeline = (bool)$formData['show_in_pipeline'];
+        $data->showInTables = (bool)$formData['show_in_tables'];
+        $data->availableFromStageId = $formData['available_from_stage_id'];
+        $data->requiredFromStageId = $formData['required_from_stage_id'];
+
+        $errors = $data->validate();
+        if (!empty($errors)) {
+            throw ValidationFailedException::fromErrors($errors);
+        }
+
+        return $data;
+    }
+
+    /**
+     * @return array
+     */
+    public function validate()
+    {
+        $errors = [];
+
+        // id-Property
+        if ($this->id !== null && !is_int($this->id)) {
+            $errors['id'][] = 'The "id" property must be an integer.';
+        }
+        if ($this->id !== null && $this->id <= 0) {
+            $errors['id'][] = 'The "id" property must be greater than zero.';
+        }
+
+        // title-Property
+        if (!is_string($this->title) || empty($this->title)) {
+            $errors['title'][] = 'The "title" property can not be empty.';
+        }
+
+        // showInPipeline-Property
+        if (!is_bool($this->showInPipeline)) {
+            $errors['showInPipeline'][] = 'The "showInPipeline" property must be type boolean.';
+        }
+
+        // showInTables-Property
+        if (!is_bool($this->showInTables)) {
+            $errors['showInTables'][] = 'The "showInTables" property must be type boolean.';
+        }
+
+        // availableFromStageId-Property
+        if (!is_int($this->availableFromStageId)) {
+            $errors['availableFromStageId'][] = 'The "availableFromStageId" property must be type integer.';
+        }
+        if ($this->availableFromStageId < 0) {
+            $errors['availableFromStageId'][] = 'The "availableFromStageId" property must be zero or greater than zero.';
+        }
+
+        // requiredFromStageId-Property
+        if (!is_int($this->requiredFromStageId)) {
+            $errors['requiredFromStageId'][] = 'The "requiredFromStageId" property must be type integer.';
+        }
+        if ($this->requiredFromStageId < 0) {
+            $errors['requiredFromStageId'][] = 'The "requiredFromStageId" property must be zero or greater than zero.';
+        }
+
+        return $errors;
+    }
+}

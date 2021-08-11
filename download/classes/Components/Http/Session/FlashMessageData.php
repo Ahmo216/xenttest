@@ -1,79 +1,155 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Http\Session;
+
+use Xentral\Components\Http\Exception\InvalidArgumentException;
+
+final class FlashMessageData
+{
+    /** @var string FLASHTYPE_DEFAULT */
+    const FLASHTYPE_DEFAULT = 'default';
+
+    /** @var string FLASHTYPE_NOTICE */
+    const FLASHTYPE_NOTICE = 'notice';
+
+    /** @var string FLASHTYPE_SUCCESS */
+    const FLASHTYPE_SUCCESS = 'success';
+
+    /** @var string FLASHTYPE_WARNING */
+    const FLASHTYPE_WARNING = 'warning';
+
+    /** @var string FLASHTYPE_ERROR */
+    const FLASHTYPE_ERROR = 'error';
+
+    /** @var array $flashTypes */
+    public static $flashTypes = [
+        self::FLASHTYPE_DEFAULT,
+        self::FLASHTYPE_NOTICE,
+        self::FLASHTYPE_SUCCESS,
+        self::FLASHTYPE_WARNING,
+        self::FLASHTYPE_ERROR,
+    ];
+
+    /**@var string $type */
+    private $type;
+
+    /** @var string $message */
+    private $message;
+
+    /** @var int $priority */
+    private $priority;
+
+    /** @var string $segmentName */
+    private $segmentName;
+
+    /**
+     * @param string $message
+     * @param string $type
+     * @param string $segmentName
+     * @param int    $priority
+     */
+    public function __construct($message, $type, $segmentName = '', $priority = 0)
+    {
+        $this->setType($type);
+        $this->message = $message;
+        $this->setSegmentName($segmentName);
+        $this->priority = (int)$priority;
+    }
+
+    /**
+     * Create FlashMessageData object from session array entry
+     *
+     * @param array $data required keys: 'priority', 'segment, 'type', 'message'
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return FlashMessageData
+     */
+    public static function createFromArray($data)
+    {
+        if (
+            !array_key_exists('priority', $data)
+            || !array_key_exists('segment', $data)
+            || !array_key_exists('type', $data)
+            || !array_key_exists('message', $data)
+        ) {
+            throw new InvalidArgumentException('Invalid array data for FlashMessageData.');
+        }
+
+        return new self($data['message'], $data['type'], $data['segment'], $data['priority']);
+    }
+
+    /**
+     * @return string
+     */
+    public function getType()
+    {
+        return $this->type;
+    }
+
+    /**
+     * @return string
+     */
+    public function getMessage()
+    {
+        return $this->message;
+    }
+
+    /**
+     * @return int
+     */
+    public function getPriority()
+    {
+        return $this->priority;
+    }
+
+    /**
+     * @return bool
+     */
+    public function getSegmentName()
+    {
+        return $this->segmentName;
+    }
+
+    /**
+     * Returns array to store in the session
+     *
+     * @return array
+     */
+    public function toSessionArray()
+    {
+        return [
+            'priority' => $this->getPriority(),
+            'segment'  => $this->getSegmentName(),
+            'type'     => $this->getType(),
+            'message'  => $this->getMessage(),
+        ];
+    }
+
+    /**
+     * @param string $type
+     *
+     * @throws InvalidArgumentException
+     */
+    private function setType($type)
+    {
+        if (!in_array($type, self::$flashTypes, true)) {
+            throw new InvalidArgumentException(sprintf('Unknown message type "%s".', $type));
+        }
+        $this->type = $type;
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return void
+     */
+    private function setSegmentName($name)
+    {
+        if (!preg_match('/^[a-z0-9_]*$/', $name)) {
+            throw  new InvalidArgumentException(sprintf('Invalid Segment Name "%s".', $name));
+        }
+
+        $this->segmentName = $name;
+    }
+}

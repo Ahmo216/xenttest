@@ -2,6 +2,7 @@
 
 if (!is_file(__DIR__ . '/../conf/user.inc.php')){
     header('Location: ./setup/setup.php');
+    exit();
 }
 
 define('LARAVEL_START', microtime(true));

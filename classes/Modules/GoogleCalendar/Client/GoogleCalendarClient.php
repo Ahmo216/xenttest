@@ -1,259 +1,428 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP/R//Z4DtR698j/Tf2wOzBkPUss8jV6CEbUjnLDPlBiN0fXaIHOfVHxVTv3uiY6PM6CppKjM
-q9Ea1+mdeY36juU9MNKzy/tjaqYpS4eqWa20GW5YNEQZRZjQ+l2Ksl9bobsE9Foq8EWxwqz2naO5
-GRUDFjaIWlfkbmaHKJTdQFFpxcUupAnktMFIfyRgmJkaK4XDOwDS1LCQ9tskn7vCNkyxO/OzFQP0
-y0zdFlRSvTkOHwPKLj2GK/VwBIMT5lSBl7mqIR6MXSOoXtw5kH3C8ofsdvH9AJ3HQQ17q1NxmOyb
-srbd6JikEryjY7f/nkDGDFMgQ/Y3jkGmP+KeEQkn73ZDneQfGMGLBZ1RGRk/dIXGJqaSvCyqabGt
-2YPtZ2VC7/B2s3Lm7FYHqS+K4Kr/QK2zqW+C40hrEYOPNq/A32LIHPbx09Ptusr61K9FHXungLjG
-8LU9z6uQO2mKS+Y3sDiaCGY5Z6tQAmmivpEPLhT8P0I/vOkd1lNDLf5zVmAKyv/L0Awy+e1EYj89
-CzCdg5b9duc7jZsVkaFHKQaEayYYdpqKsGiUUybzzLqdzhNlvlJ4YLhdfImIYLqmuozmkTo95gah
-vUb8KQ9x1Sig8vdmpmHZHuxS8UO+4J9WkF49QAD2YLM+8Kf7BialVqjJag0kdmiT2O55ftEOpdyf
-H5DaIeHBmkNIsVFwUvEmwv5V0pYNE0UTbKX1N+wxaO/Uh1Ehvf6d18FJxRyx6/W50/BO+nXj5ZYp
-I4+P16tnEZM2gZ8Nwk8YPTvMWXgDqcJeHSnuLaaIaDvywXByINqO4PITQcHv9uv3mURdnu1hf7NU
-w4SGN2ZeW1eavFYn6X0T/XRnv28Moi5hP/L8szVg6WrCH4GZql43oCgM/BPZYqZwv4f7JPDOsVWi
-dZj9Gq2zOZP/6OXCr9jUXAKXSHZzkJsETzPO9G07GrAwQ2Ob3/tjMQKFQdRj9ZFBkCM9kCoZfXY8
-kGLjTu6mcDeldvMnQQ79BuoVXBWThR63CDmCscqMP6KV+Kv5j1NlZXO2Ndmg3GvJy9JPJPlZ4BgP
-W1RS0n+YdUroI1Gg78FhP2aPQ33ErBlK8KlN4m//zpgD+eVCSGQFec5GInD9xt7iYHxqY3YaQHBM
-6sTZFcHDKRWhFbyk/4HXATHwCyibdwqM21jsBQdp6zHydmV4WqlEuf2jAkUd8zR8P3vewJfhLgw2
-4vQwFVYONaI1rAPKe1H8FLNb8CiNontUK13orRX5jprKEDtSICb90xMwuP3gohi6OSLyhBB+2XTS
-DS41W0It6ts7U/d2AHHZihSK4DAiyphRnodvG09X7Tbh2BU/JwsNtAx3Glkl6MET6WUnllpy/4Ya
-PkAfxQ188qWqCO2wBQ0F8MDoFs5xFh9z6P+7a/QH8cmRtPkT6zE53TdU+nyco3iZMu77NEWFYZfr
-IuX048RkCz5Xvh9KE1FyKKrzVOZ2E8hX2CrA13zScAcKrL1zorznQnuLiw6ZfNMXD33c7yH1jXRy
-GruuGpJ2CXt6MUSPCxSUb0ZR8Ky/NWgJEHTvnFLKqtjS3/p3+1X5iJzawSquVff7sGk/ARAA8WFm
-KHLv4F9ygVc1XMt2/I+zU6rQpU6dpix/Yt5kTgLinzgAuS8fmlaX0GIRelPXIP7ZymTyCPqgXNjI
-FeQptSzNWsKh0CFMYNFSv/7fFJ79oEBQMXaKoMWKFkGvg2EHYUzia5dAp4iLnD2PblA0K+LldaIl
-IKm2tDQcB9FIKxDC/p+UdHE2ncCPvj8VxBy7CNZTJq5EGuwXOdoJ7TUhF+MZhrcAjh04hqauaWqf
-3VKDqcYzrS2uzrlhJCbKMwEZy7D9PQgD3332BPwTIkms4yN8lMzEKuVyVF2Eu6gYNVguH1BXTinL
-MwgQq3gVWWtIeCZ2cwDErD6p2km8m1N8sp/Dscza0bgyLAiE1+1DJv4QH5IMzkULl5hqy47QFapn
-g4JVEAawjVFkhjIcQv87MZuA6+sZVUoc6Vnm8v8etNGT93KQa5z4P9/x0QNOYGZ0cb9+tJsFCL63
-LDEO0PtKInOhoUxpz1WEKaYTrT3HL/4A2gHuZ7PKNJkvZ1JbK3S4YW0l6F7WU4QmhRpAxvCne6EP
-diCCAD5Ke3htCoFZZAMKBMBL4iQXZfAWq6+Yp4ZKG40q4ea6esqwYC6Uq6Zy9vQX1jhAst4YtdLP
-h9Rxe7tV28qto5pubjl6M+r0txL/QUsW1htZmxdUQCDWSnR4rC0nxn1n7Vzl+Q2RmMkLPaLmSq+X
-aiv+uV2ElrqnpD3JajsR481n+DcT2TgUurPVKO3PhJTVZDoH6mCuZE1BWG+Qi62+1XyXHilCOfPQ
-xpXdopE50tFv6+/uTKoI+aeV89BgvMPaQIZVnR04KD3yDMqr2ofDKgpVDjU8Y4gtxWghC7MSt4Lx
-O1PX9J6112JTiMU3zrWRyjs7sGHeepqS4P8aORYwAzDqRo1BdGPMR9lZNuZAZ8UhBP4htciwtgUM
-8lLlBMqY4XBFVzz+JlraYOaCRMA9sgpzB1HOH2LY2NGko1Y0LxgZfsjdK2RUEmhDmq+3EQHcgym7
-HwJhNpxhZHmDvfKGNTr2SziIKahpm7QppuaUvUAVIpx1dTYZayJ3YPBNLe1CG9KFI5f0rR7rPOfE
-DRqhP3qx+7khdsjG5v4qEl7Leh1pTeVMYeR/kT7Sb6cfa66Sa387NYsPT/H/jiG5k+PnvL87EWBT
-MUwXs7cqYpbZ4hj99yGhL5LxeS2JR/8bigq4cyfwxzeDB6QIsMCRUsE5etO9kPQa3jGIMq/GrarB
-KqNPmjY0qAiVP+N4BPwEOLxhv8avidA58SunOC5we742o5Z5RGfmVAHwq/gBGpMEyX/uf132DgCH
-iUsQInnZjFqUhrSjrMT+E1PlgQMZ4vK1/+LfUrnq3zdnJeBesQyBuxSHw4zUSxnUQs6T0/xgQlwB
-T0MsW8jJDj2MULDQ/0kD4YWnn/BHa4+4K2q6p4bfGalHp2nPDfF7NKsZTZGAG4JEqu9y+fJnhH2O
-S5WAWwX57DGEcgV0FwXH4laS/Ghv5QY/D/cQzhYPpK5Ckbly9j5518bxHM+k+0Faq7YlyY1eab4l
-J9hxn+pdbYWIcBBk1LHL+RWBTS1FVFmgbsRYuEdLxtF9TIl8PwKaoipVtIL2NccOe3bVxpx/EpG9
-BYeWK6gHWrwNJOr8bhSEfsls2IO0CijyYno9EbES2iW+U7xHw9kOGn96BtyD7lF7o1H2pHvp2lSW
-FcFufrDAH8AkzaK9/25JVCLDlrlyAKjO7gn7rorL7QI1BGS6bNSJWwX4UeCobN09HTNy8N7WP0Vm
-7KXaUxwyCpqQxZ6/L9humrhQYOcyUmTVUCvbiiFn4bi4cmZrO6rUrE0AWSp1rkY/nrA+Ay6VlU49
-ym1GDGRSxLgljianVHxaE6jhxdZ5rD3DPsvRdDdzQ1Btkn6v2jdLoSprmEWr7RPnXQ0Qcb+CWSsF
-LmknJeglLwyCXm1wLPl5Gqb25Z+pG3PvN/zj87CPzkJKFGY/Yes2wb73F/bGB9cURTCpkelXaf6g
-rOL5AyGgpDzf7TEyZ+kIOD0ebXwnNrYo6KlNnm/tEHxTXC6JkrcmfWTLCfsWR2LKzIt34DXkKA5L
-z/yiUTfQpb/KlTnJ4UbfPrGofSc6vhqrMLTJ1SQTowFF3pKjKJJ1RrkhoOEUHTq7b0zXEE4m+DBZ
-pJzycbLnyOqZ9h8mlyrpbBMrZjLaHQMQe+J1AfexBIleaQOX0uErCF5e3x3eugXkNO5fiwbQYjC8
-wgu+NYDI2cU7E8k0NOD/52nIODOadPvcZOOMh+GzcmfTluYiGnHd1lhAlH33IOA27X1jnsvYf7zL
-Q+fbXeT+MRwSNnLhhqIL82pdy4zePDWgreXffWRomDVZFqAq8v8blBhd5y13Eby2IgAayO/syqfM
-SR7JmFkczYHLuBHKYRVfAi1dSI4a7QT1tvvPt4JPzYO8fkUYAl1rSTofVHUyQxRZgNmNLhbIE/4F
-LmDk2rLsBZwvlfY/lu/EtgBFRVthHOaSUYZ3TfA4dq8m7gCxXcBdq31jZpuhhcs7Wa5wMd0AxyOc
-91+ZjFXR5A+++XmY+hqKjf7PWu5iCQJppTaDc5gnVRvKL4UtYjBIfqeEJDxu1WfVtPSQdDtxCf7Q
-wphaUL7CLZgjDaO4Lft1ZW7DIyfFAn2oNFpbY2qxIvmCxVtVnFasgFh8WgSXFM0LbMWoR444s6+S
-ymtnRevlrYZ9i0fbaAAWau0d6nG84oj0yRL86jWNwqS60RA6BmKSw7SXuwhJNU6SaDRgA8pG/yeM
-zy+dy9UGqO1tuuM54gL60nlPD9dDcbm93HlYC+d4UNpNOWyMc5Bh837XJ+OOBPn6Zx4JYmRGaxK+
-mTRJtzCaeopTBQivhi5AgBiRtvJPoT7DI2DGRhLt1MP+nQhTpincGqSd6dZYczksrhw48doT8+KM
-5zwgbgGMe88pYhoqK+hJsl9nbOerqJaPlI0cV40vtnzOO+wQkyEQoS+JZ97tyXxxcZVJyR6BO8Rw
-7mv4vG5s1ra7tNNSbpGqS/wgmXrRweQ8u+a+s50zRE+Qq3ZY36cUv2PLf68La9Yariy6G5FZ9zQw
-ysFB+YQFurOrvDeBpKnE04mA6pMaT9Rk/o0fd1HKjr02TumBuNjC7HYoeYyElTTkmTrgYYBl2GVN
-XIB/1BJlqItn0GqGkZqmlaMa6qHQc4HACmZv3JPM+EkGk+GutbRtS4JCGjgDYAVuCsFURlKQSgyX
-7cxuMNsC4OH1zF63/xZSKPv+UmitjB24iW52PyJeUJb7CCwy0tNSsSQEcMqq8UfbSYrwXpunkZDq
-VpCrXtTS8M5mM9VSvIItp1nn/0eAYHjcSjEW1URN2jsw1mieuU2stpKUYEvsya09vzfP6cnm/G1w
-+4qr6XKEokaUOxyBuYkFbHHbWnXuJffnKNwMcI83CuKf8mUTB6BrQ/O9E8+5xNa+ih8RQCIzr8QA
-s7QorEQ5pzFgT1ivWjZgckD44B5OcLjf50QUC+LdpsLkkZ0dXwdVXhI8jQImIL+ZNtoPKekbLaHb
-VatOMlOvKxCTVh2qpACQgCF7D50AIu/2TvPDKkHKNPKrp5XzXQ0pBPYbrUPaZhWVkQxjZD/d+i2m
-249TP5kxHc4lVHd+CRnr08XFCydARKLZjF8IBPFs42u6jqMXu3YttWgQrGmK/yGREbS9LC1cIWKX
-HnNAwMIR6ZJ34SmuCGOWbDDldCQcPnOD+y8CZ36CksuFjx9SVuoNWRiTS4EBXvDx0YFycurjcWPY
-MGC/prkFbk9pnsJPmmx2jFBQVNdFGNtGRsmDbMWifj8O0PWSlQTh3sXZnUPxtBUYywqgM6IOFZMf
-A1My0A9PyE6B9HFxdIh572MAbKFIxMpmq2JCTSpfiwN9fgcFWxrKhOsIBm5OcoyWvYzawlyWuLjV
-KRaxYDG2Z8nthr8/LtVjBvzKVf7VZagusSnyKFXWWUO+IN2VkSQDf0HAfbTyCscGeaKMK8thUV+4
-sEW1BTMDPMNsTEOhfMj5J0yONeotQQy72v8W1gpMIWKptcXLbqce6g+FeUlAS/bbIinDesA855/3
-06WLqEnd1TBLV1TnqjKS0Sw6Expw01WpNAHlkzaImNgUpIKTjnXWVhwzAvx/oVGjG5vwuxxFC5tw
-2q7scgHAsZDRrUUCj6QnOZ2/mAUTQDxCJmfDO1NpvVbd2eavO8E31x/KWbzl7CrKWaT745nhGbIJ
-WzCk/8FwzmiRGBaj0HeCc3LbC84nq4IUc03OAdmTsKvlY7Xk6ZQIrlhGKDpWuE9FprG8PYuVHVfz
-+axqnn9u9uaD85xZVKdaqyoIbmM6ERXMrM3ewtsKAn7QNypwfXicSb6LydikhcNAyVP9KGgUZF7X
-xewszoMWcp7vV4UmeJiJx2dl4zd9REr5R8PLIVvbHmaZPa3/M3kAZGahVUOCNQNGXmm0tkEwzIMv
-iNp0JY2rYBQzvFLYCQfiP+OXfKm1hk/g6j9imTdM3H88zKV3WfDN2VZuEvYo17m3sGb67LYASzxT
-B1A8US47o5LhYerb+sJYMqstrmHnEivX0SI/YL+b7BknLkGgWwpVCoN5CqgGnefr3kQD526tfftF
-aJY22xY+U3LIJeZU/83acpkQsgkshlXCJVgo8Z2TCiq6bbITf7TWYwYubFLffckSPbkJH6tln3JZ
-uabV51Wupyg04crd/Y+X2SJOaDCwozx9zgjg2E/RweN8wIbLMfXZc+j0JbBRH1KBysNvmzjCVsNP
-1OUqmNeiIlyr7UikmWdoX9D5BMq3wY40o2mulC6jRcw297psTgAWSx401Ao1WighDIHreBv/pKGF
-WpHTOPFvBYfsW/YH15reLc24Fo3qC5eryRU+86AmC/DFO45t1mWm4RBE8hLIeuDeEmur1exEXVnS
-Wqsd9OAbOjxW0fXUmda2oEvKKN7DMeeMwCt3ms7VYGk/dJ5z6UNEH+Tmj6ndgNM4dw8chQSPUHc7
-elgkr66nFGM7In3u+qIRBNM4i5+4XZ76BG3FzN9yxCxZDrmS5YiDkWQYajglHcdtb+rG3DoZMHb5
-pUhh8n7rP6VYqhIO/AO/dzsBnLnjsPfLrLBrKtEYNdkPnvrb/wUVd6mrh59bVHy7Cl4jSyrDoM9+
-swUh0fDtOqYdc5QRL3hpc+KT00gQHo6287M7mE3/qklTdNuFo2EL6Y5EEM2KdK7RPooXmlvWdwvK
-svStWj66DmL7lEqD+ZsY2b+nNTX0Pt5yEsAj0F28KTCfPh1KttKbPmovJCeXyy9Jyec94QkbzlLK
-dnTF4MOKSnNKYcv1H1Nq48uUtN5pIrUIGTqz4o2VdtN7lutDG3E8xw9MWD26TCC6xIK+1qzinpAE
-bbDRQgdWFIn99/g2fPNlE/PaMk4RXroy7T4q1aqrXjSzuIrLyj7DjMc4QmMfQgNOYD4q5u97I8vi
-Mk48IJ8qApqXSt5r56cKBpQVPGWrVNpSLORb2uMwJUWpzClq/j6YhPf6dMOaaU47CwBgUeG4KA/0
-mH5PzW9ufXyhTaQpzr+EYgyMfbpw6FA6Ctuwmbu76UmgCjn1s/092o3B/71xy20CXBTvotYHmpUv
-dlMypaf4jW/M6pJQzLkgfx0bmlowjA36x/CQKS4gvzp6qEL04wacC4BFIFUSPWrbernzyX6PHM37
-0bsKBsNTn49GFsZZY617gF2+x+64TMzB71v/i1YR+0dvTTry9LtVopIbbjVfmXTCHdZ80LQUxy4f
-XNQnE76vEG/j2yahqGy5+CYgvCjBp0ktFHZcAoYndnD8OlzdQe8E22aXNlz5iRwtzucxQ+PxMEPP
-kS6sPJ9O9R86yJgqX+eAWcpERvpzfZE3OVpr/6eLH8s1Yf0uPiENMb8sEczAQ1/6tLfPPUVhRmYt
-XN/2Wl3mH8klEw6RhZIL1FAgJw0abvJnZzcSmGWszPvzurXhcsw6hpVRPYXiyOhlUOjRiWdegVh4
-4ofscTmUzsLfe50xXD0/bywGM3vQPoZ3y8C/SUpvTZwxZnCZmkSZVsAuoQB79Q8HiSU++9U83DXX
-XBB7xj9nZrXlKFSeCAYoq9NGB/Qzfcl2hqpVqz4zcErdJg+mwN8gn9mVN7uLoRxPHNWvqn8WMB1u
-LHpBxsWKi9orlP+Y7ZDK2F0u5dqZUMdobFDw1+4lyopZOuAQu4tkoTWkl/pvIyyU0LzMQt+U1/ei
-R6aWPULalHvAvF941AGICo9o+Pzy6vR0a4HvIUTZLE5Xu5abRtiYAl3ACeppbrIFQSgZOnxFySYE
-aaSnvvjs1lhvsGax3QXhIWIPSuTqX4OJsILRclFr1PXVuVdCke50MQCe7lUWazAybb/KbRAfVInm
-Exyqp0jhAvQwgwElgsIVrgk6LekqICjB3SMFZUySKCuELCmaLDdWaOSBCio6sc1G5G77AER2ruB2
-YehHhisM4pBUjQflp/ELpsbMQSl4Ord1k8SeLXOaV0pwU9rwujjQcWlsXBL62MoZEbh/QN+/mzKL
-MIKmmBAIwpl4MrNvUUXBqiG+1KVgy3eYmVDuzYdJ958z7EVqt1xFq8q/lMRFtroADUYRa8mEJz27
-VEa2o6BM7vI35rdsUFdk2iNCs3BQEJ+pTy95uw3jvXSfYJKiE/XOyAKKyR2g8v3U/SIZzMPgDJgW
-bqop8QEozLsAP61Chu5EY5FDnKqbK7GnJpkYDB/vSqF10KEQRKJnnAnAhb2dq6TqV/BAaoLxK5rV
-ZGUDfnCJz3q8YVojCJJSIbejhPEBJemV1dYPnrXZE0w0S0vgGjBXZJWf6nD+mYEtx0rzsch1qt5/
-xKTWKK5Xq/cNaDtbHqNzfAtHli4j53cTACxddQZ6NaG7wvTl5ykVe8Ay7AKjE+sNBFRVm00rUEN3
-SiI2BgyFlyF/IHab1b1/8G/CR5PSr7UKq3h5dNfdWTHqvRO+o43+N/kUKHxZekk1a399QoKJ6HQL
-dXbgPC/b+FgVMGcs+RegTtkABlej9K4dNO/9N2T3tCiED09LyA62ZUimihx0zGDXQGQip+8Fsvfh
-NUJ87P1foxjkmTCbumvpq0KY3IZ5ZswQrxaxkwkRme1BA2nFZvv1mZan8G570ImDLSMTPgKw7dKd
-LoS35Ly5vEn7ZHOL3IWf/Dzy1R+jhnMtbBzBqscU4pBY4bJQfA7R6mcwUQHq1A+4uN9hjmiNn2Q4
-239l/n437E71j00cjLg/5ePL2+rcDfyqzWIlBGqKvZ7ykjPYvF7fUJlhbrQZUeBT4j7sGQm4NFqM
-CqGf0lEjZY/J6xQi4qef7ly54mzrVBaYxXBr1R0x4qDWKsSinyQc1KT/OsIQOA+5aOIaYDEv1On/
-R7TYIBhcveu9dT3hRzze08XpdSFHNxkWbNUk1+W6z/CCrELK9FH4si9QstCRdv/PS8K+Y7LX3bkE
-y5sa2GBJVkhruNYwo9PbkJsC4izS01cNlmSwe5782QOiM/oPWlfAawOBoD/8PK5vwygPx+GsSE4Q
-ibpU92J89g6+rITszwWK//QghmYLkO66me3EG41F1OBJAywqfYtr3vO8ImCjIYb9MsBI2GIsfGCu
-pR2sJ7k/NoQzWcJ37IS2saV7ABrD74G7xsoKGW0F5jDAqUdtnr74D61+OUXxKypzRf1XfO3cLasC
-3/HXAXl00gYWJiQHaC56B5MJxYWNg7Uy9TH6xE9xitrZ1ACgoMs1jE3Q0tXODt/uUsLbjwjqTqQK
-KonAKQRiT1DJcc6N8UKOZaGtUPQgIM5dkv3JIS9U7DJTa/bgPAXx65qc+12sQQDGuTF44Aiw3CO4
-bA2ehQo3HNym0UYRNPDPO+wSvKvChZw0p41VRMm+w/ULBrXXpNLMoDLS7F3L81RKg6etrRMzLCDs
-EdSW8OgZGHGPJvMbcSX4pnhhdlta9Q1aO2a6Oe7gU2P5G0RleenCIvo6IuTa0LhltzhapU4VVhyo
-8GZAP5G+0AqY6m3Oc9XLAAtaV8w3YO3emgzcUNAKA4FNoF4aJKaKYtRsX15X3j77DSdUPLGSUtqN
-z+RgCWkQKO+KvWgGmesCSyAQIpbxJn4kT8vlL5sdiNCc1EcSKuthCW402pCjrI5byYD24IeIFJcy
-0D0m4V1PjlYjHlB8Ad+P+1cUnquT9hNJvAPVirkPd4eCupPxCdGHELYMWLQoKEXjTzuT5PHjHCMf
-Er7EPcr2PWlI5mTzTifImSBopeXmAXLU7v7NbtgijAW01geIxq0NGREmNNjf9rBIGcJClIuHO6Fs
-Jq5pECC7yGq/lXhSgVT70IFbY+8ZdfEkTUz0K8aIOJ9pdPJnNo4wNw2BrwuAjrWWPze9KXiQ5YW0
-S3vH6JlD10SlH0EdTBGbzQ63Qq+pmpaxiO5Oc5WQJjbQUpuXixo6m532veINsQ68pzVimA1nCZj7
-XpAldCDVhVCKc5xfetCZs3LgLtxhworhCuYQUgeDQEzvOzlK4cOARB7V4gofRlgh4cyJpPgpL5Iz
-JIthkHMnP25FDxgS9DB4vJ+J0HgNpX2mVCVy8v2VZ2bokkDUnyBjmIjWg6Fszc2s1HzV8dVH3k/t
-MSLcJa0irIWHajpdAEG5yRY5yzliAqxGoI9F/q/BvXA6gpsX2TG1wQL/uPohnS6RnDyA9sYwEDWS
-GoHRC7FR7d56ssv6T6FDyvv9ipW7MAUmbXQgffktCzlGtEwRXlFp3DnHZ20UDxaXpZQnITlc8/DX
-6nGQ2pygXiYeyJZeq0yORIhqmLSqUaxCTESUw/j20uXrqnlG18+0mThh4L2ypW1HwDsqMbeoKUPl
-50TSZ8XCIVnl7TG4WUawCRXnAJbYkmdxR2ap8dckzb18wRt2K5bOZCO1c0s9jahRU8d23sywMSM0
-8NKNtLJ/rG6/QOK1LMp7TXlcT+pZfuFBMIF2qXy+d0P7fLqpj08PsHcprRhNfQEkz+kDVf3NccCC
-OPMyrlMKv0iNBKa0WmeYyfbPlpdkvzrEKCBGN4wNHYG+1d+Ej4S3wpPB6gkya8eXH47+kIwZ7JxH
-3iC0wRq8q/R70r5kN2ydAOR0n2FUUimYbrbURqJNAJO/90DIHCZH6AyHs5zUYdLJWp8jrrF2weYl
-hp34X5tvUk4/xRIjBZ6dnT+lwbHvi9nKJOKxzM0bz5ZRNze9chV/pgLtDYqNHtJQ5VdTzoLMwTDZ
-UN70JV7CZQhnKLa7T9EqVVOV/YckmKKYtoIky6Rat1Ye64vW8j0aLtjjTUYESpNutRfGDOueFOGG
-u4hIEBWlrc2nAwFkH9nqd2DWHGPhQrdgAenvsnviU/+c3gjN5ltCP+dYG9+MHy1kG9Qr7VZlGmFe
-+UIsfaj8sBNcl8MMTlBfNCvoW1jjT2eVIS7QAsgFeX6jVNRPfDxA/0zoPZYr/ZXBrzqZtKrm8XyO
-52VFYZw9sdwJFs4sHouCKL3LUmO7fks5EgDuR8u6eUGTsfqR1riD8rpXLZ5lDtwyo2kynkDP/Vfr
-4S0d+XFP7NbSMcHXMXUnU68nC7EmyJx4cNUkQbrQpFb+MvEro3filTgjwG7PXL0xcojlMBvteywZ
-XADJ2sNJG1TxVy2KaLso0ICKGacHADPUOwzNVfq/MQpIcuDvbktC+zLBgM19yPySFqciwLq5wxDV
-XFMa19e0R1kvs9nJ2+VBfCMntYrcgm7eTLY9Rf/9DcVrKoY/wlid6dh9O7+RNLJyNr4aysCJaPFr
-RWYN3LhKBKTZ3/gGE3V5C4DY1oDzPW8YrW740g5Y20aayx9auB8LrhLW1ayp7dfVa5s8P0khl0lq
-BR7QwABeGujBO4eA+i0BNuPYrypOxoSXCy3fLOplRQbseW25HCL8JJw4yj5bzat0gyaLzQ0koPqK
-zw5eqWeBjUPnjZPSRWZn5sUwFXoBrwYRxZT5x3McSE0UJPr+DIu5S+NVtgmmnk2haiog4VShJx0B
-kKRWuzbnBgO3wZS5zT0YZzRYKU8osFlAKyrb40AC5rPp3IEJuj7g1/ydnBbVXsURFHL6vkZ79ASP
-i4nBGMoXn5UBjDmpAnhwRIaaqAc9sQjaD40T/KJSH/FkqrqNq61iXAv/Mz81MxfwZRFBkz0EOUK2
-Wqa26N77AZ5fUXNHVOTp2km+gwXqirFvZCw7E2o6BGSGR5rVHurfYe6t3p07JwQguRYhrrlY16kc
-p8mdnZU7Iw55II+x3eV4hku5m5VKNCM04t1ykHgSvf6WiVoGHdsSSDYwSGwHJCiQyD63/Cgn4gmC
-P/OUV2SVGY5avQ3MBVIXB8SH0t68738cw/D+qMtR3aGEa/f6+69w/TpqVJEIBRoDKQaeFGSecUb/
-EMzyEce35sUIXsHX/uRxKRcZL54CoO4nkbT3zGNPSLndFW69SWT6MkwJYQO2DNvvYlUGqBSA5UPv
-/XNQcnJLYWIqBCE0Y7gtBh5zl1rpmSUng7narGvQQd2TScqhLXuL6OXq0d3yZBkVZmsJTvmiSSXY
-Jp057grxJbxJ8lQqiS6EAyEDTVSQwOElBOcUx58oBfo/z452DDjVciqgnVDfD3N9de/cegwxyvke
-lRE32OBpw43g8fmYUF5J/Hq/CdidzqXf659sCCRsmYSG8ibO8YbPm8NgbkEh7DEhHoBe0XaXDA8G
-GwLlLa4FCV6lcgpU24ptAhoaKteG1h86ZkcJlggFVOYtyrPflUEs6IXUwgFxWFMXqSeSKiPC/0kV
-KzDsIDpN1HgGdht0KLRZ89K+5AO6BqY1MJe1hrP0sUsNk5UY55mJ2QbMdResedgEQUBLRcWPnPpi
-vB6G4vdMFVESVGM8l4sziw9iphAnMOZt8rchvRB/akC+pHEhKxErbySDURD2pPhEAIElZ34re6ce
-NP2jGhYezZvImFi2XhUxu5XlXLnXm4GhcYrzAo91Z2FWb6OHOtVpy4VQZXiBPEvrtKDgvI4JhG/H
-CuCRK4Q4f8BDlfbdtbKD01agtl7H/WeUip21uP5EGV6Jh6HqP8YOz2O1Icd68+AoKjq5WaSosPOz
-4t3GqTS28W5Ycz3wh0wM0h9gOfUuiADQUuWeXzb3wvo0QwEL4KbOL469JkNesHBnNx34O0rXMZE2
-elLWwgTO/2cdvAczJiIETtiRSZXdLZHY1pyVYPb+pnFnPeA4iIr2pLSuxdDfYwPQ3gPre7iGkQ08
-wMl8lQYGiLAUuTVH0UORf4MTQOtXAoU+EW1UA6tCTOiSytWwuRkas9dypX1Sd1N39WPcSN0eE5Ea
-WjnpK4fn2EIu/QM7qgrTVSSVIAPfmE35Ehi0GlA7ELgGCfFc5tWxIR0tIutWHHfWRU7jzpPZZHGK
-gHIy/lYw8cNi1WAwjnXW2X31GKnn8xfJ6fXGawb85b3csB6t8TGuGc9XQfs4IHio/XUpBMviZCKC
-q2BTZU05Ql990eS5gTOnUDVDkUoDmzBhqoJ+FgnihYuUmNtUXa7783WXz4WlrmalO8F7rj3//f1b
-hHy43Ea2sDyd6XlYqJ4tCjLLcTRArZyONvuMqbifTLacYmMrQUEO/wD4VuAVHGRNenOv3GUygDVL
-W/kduohRajQH3DT/dGP6pDkAXUKNuh73ZADhSWS/+TFp8S6x4nW05aiV/GC8xi1Av9pIKxa7/KJJ
-8dSkX/9YMA0jbIOkGXbmva0DWXOIgaqwtn8PAn92NRncpaQNT6lzCabBk3LnpoI8FrwrUCYkVwoG
-6F2Lsaj1XAsZ756UCOdc2s65kj0k/9WR9FWfssYu5rUMg/XddV1bk2KXhsAPB1W/fxJvyKEV5n9a
-gPVa8lwThDFlGTDtenNDMmLprsdV3WitofKDfHHi61E1ATMvu8IAJSHrOLk6pohR2b3ZoHfOxsb/
-hb3mM4mqFwEe9O84U3qh0xahYBFEjzvYukk+HveRNYAUtFGZ39ezd01tybJSTHe+7L8jHiZHGJ/o
-az7+vV3BBlGiR9DSo8t2Q2iBIABfpkOkizKOAxHnDUFR6ahgM3x0m+uZh8Xi7qRPzGgRog3Bdb7j
-uhSl5j7//ouumk2baE9Wtvgr66CAu22kLEPDB9I0sLyVjE2F/BvAUs9vANEjMg8k7ZUaTYtSkUu+
-vAxT4rhIPvWlNHOoZR59UpZsVNeK+Nnr0gQMK2SZeYMJ42PWE7tTFid6kKpxtSqBlropFlZzHYGK
-mxuFePdZ/y3WufUe9eJBpQmY6qW8w2FadrTVU7VJwrF2rDpuMIwJg6W4EsJlmeXSUomZvAy1+lb4
-8TNBa1dj2+XYL5QUCPj3AFSAczzYkkWrS5s+s91Ofch2ILDLvfkT0mgqzVcgvkILSu4zW+TFP/Oh
-WnTZMvz1hR4IfsC4JXMUoxpN4YysrGBA8zpTWURjGYHWEPFcqr/Alj94rgQigvC7zm+rh8czooKR
-FGcdkNMsDOa9rDA3r9SF8loc9bnWsyuxOZSYbynnz2l46jCQ3AqNd+x3T+anUAAD30EGm4FiKQvC
-+FHOnLMfryRFAp1tBb70R/vZJm1FZdGUeHYq4UrK8Ed0NVYm8mEe7KBtJIx9xyQrkPbmjyvJRUuV
-piH4KnyeTumiT8XBv2NE1cZkhXxYxmrNtXwXjeZKf0Yz/CuCUjkLG8apt0xa4aJD0U93Wf7XLWck
-huBnsH3lNrQMGdzmOVXFp/fQReheOV+h3/m062stv28pag3k7cEzFPV9anmXKSKQe31nKepS7n8R
-AL1LVPjxxbuD+qlJfWIhJGJ24iH52m1sm2hV+5l2voDLtuOWzvehfsw1uANS3VvXLJ8leXf8zw1U
-Eq5Ji9vkX2PBPPyIJWlkWlIQnK+RTmLX4YfM05jkcHX6yjRuM8r6TuVfZgO/R1JBoJ7aHjDZikOe
-Gdr+J6YbDrRxgEW96A6JP3/F0Xp8GzaM+n0v0Uuu3a/fBKzwqu+HcR7z/dOG5KPLrLg/dbXkM3UA
-Z4ERijTmgLr6JqEz+K1hR8b8wywl4XhfV/xPWnXvkNiOC8123Opy1AtXC7AcW46/tLnM7nfaPy2j
-AQbM1D2LHUMLJdUh6yZq4c4nqhqnjgINOgmFxz44/Xw2zMQR6V0OE6Q/+YJIaGf3d+sGirp9IqEQ
-wE/6/qnh6FPX22XB69jgSgZg6wyt+jqKjHwhwbd3fBAOtpCcLZf7cJKYuNM3aIe198g2SWgelXrK
-pMLSi9wKEl/zcBLnhE5kmMILgaFoOmo2A8G9voRgkTzi1XEMbAXOYMv2PhIlFfuTn5ql4h2Uejo5
-2D4dIMLboLIRRIl5R5/B480fsXhzS2Rd4WbaGUZktXg3P7zWEA27MSyg99eZ7E/6w8gDTIwLfNwa
-RRtHhwzN58BdXN4XPVaR5N8xj9/at+/sNXv54dtFM1WMF+JZsDKtz4wuit5+72xxxwNykDRxXanH
-lUtM9Rb7pXLYQd+KjGJxomKKFpZzbfXnvF4RRwvQdFD1gbFzafzklP7+gDtQ0MqCRD3YpgfNUEk4
-D8b1alCj36hsqg5+aLze5S8YttuvAcnGla95X0qMiG6P1EDx8GGzpm9jOONt8J701dQ+ohoQil/b
-mGQq0WJDzYPr9ab8nvkZ5IKF7MQmm3hu90xMTdIF9Qdqh5iLwzFWwEE/4BUAsfY5o5jSZZU4bP1r
-4qegiM2Y68c06fcshOb/GtZwBYILdc4lw88ktUlYOjnksVYWI9rw2WPkWXFvZ2kNFpyawqHNAahG
-ho26x4rtXO/GTxmjzP21PdXpBsNHwrvJCH2I2DlqFvqO1gs2SlQLHURbERG/X6gdvg0I1Psi7plf
-pcW9WO53lz0PXzkzThfH+vKsQp7de6ThcWHkSKkmeWrqfP07ZpgEvfAXYdzG4omIV2rX+/1vMr/G
-3wAvA9WtWLddkCE3EXIH9GHflMb1Vqm114nTHhtD6LOC0t2Xh6Pw4KDqPak5rZ7Kx0Dv2IlMv6Z8
-MfQRLir1yRMHpkf0YmavN3Q/DReaaIKLa8vYxKQ9v46zT1/IuNsCjCHdEF3iBP9A9bsUD9qRK6MK
-+9N0f7TthDnftnCXNWwlTjX2AjUWbN8i0iyOm+DnInIHnjCibOwp3/5JTKR3IAhmdUoOKYk90ujB
-a7M5CrSnXFNL/LWPjduZx9pDD9kL5MfVoRERQynPvrcfyutdDCrhP2I1aR/fZkcJt6rQX7p5Gius
-CTw1/QBMqZgeQLV+FMn09+FMSs6zbGpGKZ7UQCGviXGsNAs+NSs1++BxSXhe427i+t9+FVyz5OIW
-clIAphJ3g1wb/nCE66COp+B1Vb57ZcCNxuJjMXtCL+3c23d4R3XhiXaEvgKbI7mDQlVJLYPuTzir
-na+6xUTXCMd8XXcful8fTIuFeBi0c64fqGqfUXuFzwTd8uHBe4q3k9c+eLJZqGyX8nu0Jxdgj32G
-UnwSVcXKIrLtDaYPWGhzn2Jsx+j8WXC5CsDp/SB/Ngx2MWOwTduAxIdYxrGGEuffRbcqGEQISHCL
-/mjJy/Jrd3+lMzd1QQrs1jMhxN+SJafVMHr8XVW2HIJ4vQScCSFz4TOE2gzhttpsi+M7C3TMgzIM
-qzxEBzfiJSW8SJ1k+S+ExXyCsTvzf3G+/rrwNf7zeBOG1/U7lVJo0hhLHJSSS5Tze/fn503T4Bx7
-I3rz3VAjFb9M2yY0+N/ctYuEj7/+Xfy/0zHhKCMITLrzFoRmKGFMIorrim0O3z6t4hbekg6yFOs0
-W8uSqs4crUlc6DgGkQbZnKBwRFG59vNE03SOscfClaxXz8O/OwY51eqcjwXhukIu/EfPt4nvfs08
-qG8qlPbyBxkaS5EIQ8Kz4stIOlv/XqAIgo/YgEWEGFgekUlulK88hBVjkAsZ342UeOuoiqBVWDv6
-4YWvDMAixEs13ytVeJPf6NzSI+h1hXBUWKeIg9RrvFG1aQXIB2l0YadO3zv2xbAM+OJLAo/zbzNh
-WTekGYLa51yPAwH3dY3MDpTfNWhz/sSgMIMiSDP0oiHp6bhIjM1gh/MHsOqOodLPfTwkPP7+6k0O
-GvmR1YH2Po453mqtgSgqHuemVhe2rrGmDfzgpHiKnaUWSS0AT0LcVXeN9U14j07sSJHCxlhTI1fV
-S9kHg8mO0JLMghKRWNY7etVFgaU7UwmIREvncynyRH+51uSPIBLXC38S6ytBltBDXtPeO4P2o2BK
-TO6bMI1NbzH32FelBqSuogBMwYdhNMTub65rPPB1qgH+O1M/15biPWXwY5wsvkI0Ig4ML3Hugs0d
-/L/+KsijFuT6QyE2vhquQrNKmswU7e/YRG6n5Fyzjd3TjBEeZi2/CyGHwwgzDcaOd/t7OXR74C47
-vKxUpt3SsiLKPLPtmUcxJ33gIZPBeZBPqXzIxD2xUH3g32+wVpUlzcKiUlyYGCH07UL2Opt19Vx2
-T/awVZ4jXsdBk57D6wfnosF1Fi8eiAOx254wNRlt2iY7UDP1FJr+IXVPMsuTze46O0O5wjthnVJp
-/2acaFqzMu+RDxNEOdsY30tpLyp72tfmCvjvNwfdGP2YNJHuXoCBlYbWPR1v3+B4b9HLkf+98sKX
-nB+G4bhbobP0aLwGsPk7uuwvip9JJidRrP3Y4C2Rl5H+HDLtfhZkZth30tPfal+NA3iSRvmu5med
-/+ar+ENkWhwUQdRe81hRSYNk9ljmTV2FiwwnRe3jezIq2c2QLvNHh+hGmR8F8rTibKIFmSP/NDGK
-v64wDiDr4q64s1wHvl6Vvgo8w7vttciZ0tsJyIpa0fY0QBNBklWHBGOpDiV5AhrDI8vS6XzP2XLn
-6kqg2yYk/fcG783EegVGv2tKx0+4b0MPdwjMmsBW+ALAnvwIgXyY4JjeU18LwBZxDvjX6HW+fILc
-NojqxAbuGsTL1Zqz9Qvu062Sy2uhNHX5OSn5GO3TRgozPq3C8YWtSUniE4+KEdGP+vHL9RwfdLDj
-ADw6/DmjEiVt/CkQ7OJy+lgbw7tQnL6qW/OI1H7/AOW9h6YPtiG4TXS03sZnvPqpcrlwKaX3pCnZ
-+WoECapjrQbGdKHTdjvN9w2xsiqh6ritBl472UBpTm6lGnV+mYKPQWMcrkkXnS1YuB828MdoewYr
-DMyRo1OKCaq8b25Pt+y/Xm44alUhlawqzQ6kiJ0hCbtSq/INTqphd0EKf8GTniLc6BcA4w5+by5A
-VRygDx80UN5MWeBkXRHmyV93kdvfM0vPrxbIRhVvGr1nG7nVytv9za2abEzWcxR547vzduT/6MBZ
-aliGfimDWkGNMxcjZRwY5Qly6QbepPRHzzVcNxn8KN90aLfSbNKAm1Hg6YgVrwtvSOC1iiJt0kv2
-1oWwdVsL686SgE1GBZB4XD5UmiKhinX0SXc6TT2G1KxfQ4GwPOevsiw/X/5d7Qub3PsL5EJZQGS+
-Q4or7DnavA7oRr64RuXglvJ+Xn9ek42aCijZ4xIWrdr3V87AzQiqrLXC9AJQiiiPcFyH6vqnlAC4
-lw3HsuIEuxf9QRTbijsOr8eJbgkkeGINN6Vx5VGUYxODSBqBa78JdorSes8FPMcEG2+RW+wGlkF1
-u2e//OXe+olkJQFFrjdWzCrTdxVarZTypnwhN7+IOLs7pSbqtLa4JkNihx8WPJEjM3wuw8dAteF+
-3Ii2/RsbyLvuoKBs2ATmHJ/5bPqhyAh2kDJJsW4HhyAU6JLivhFPITQHgKDkuo464Zx+Nn/0qGg8
-lJMX61AQGAzoli2YpHjp4YHq95C4SIYG4SXGSaa69qTWlEpa/2hGVFfYAsZl2Dihire6a+zcT11B
-jaAqR71Dj0K+26vKf9xogY8wwcjn/7xQPebiVvThR4yE7b0sar01c26tmmdqgZMGTyLXq2B8lmS+
-OM5YWnLAC6I28/zW09wNsVqpaUWXvzSN2mZWQyHSSb1CqZ46VlHJqXguaHVXyk2E4GLYJffbApLZ
-rLQ8PL2GdrRgxbq4deXYES/rz9O8McfwUH+SA5Rr2AxcDni0ItXbZ1P+6F2M3z/GlMNVjNVBVEB/
-3KORjdxJyvshEnrNLJHyQPVBZX9G2HXYdYPi9J/MiScPcYO2dWouFIX6lMeUKW5emyfxigA+t3bF
-sPAqh03xfavi917TKL23BqjgAhDV9QiRI04l3BPejr8RQ+uh+0/d76L9dVqqfuH6v20YlheceYHC
-vN4PCisskfqUjRI+a8PYgq7qOyEFWqDAMaFanuPUzN54hKWaXa21d479EctgBlAgruWenWfM9Fwm
-OJJhRfKjjUPAU0/NrzgJgNJMQabJsQ1E5Tcs7W0bvw2vIMCBH8+MKGnGIzyUoYfvKZZ253LT33y+
-Y0QLizw/1uol9G9pq3JSDHf+Js3FkJPWwKUdiWjjIeJGGuJ94ncFwUFAVqup7TCxBrhf281YA/ZW
-eyJyfqSjkJhKYj9wXelx0Gu1136ZBBRQnp5XfqH4wm8MM+wyK6yKHMIe/Mu6XVTROhtVaGC745gU
-jbF1oRwVsE6Vn3Df3TCH5s6xnWITNXgx+US23pwLzgkIc/ePA7tvSUPqTN/GpCqUNFz2iZZb0uu8
-55e1tP23foMsDlzO/cmwrVHA+epQgFR70R6Ramt3KheOG31WhbuSjZJEP1jqN1L1IIjCG8ZP8eHN
-qPz4azHBHghsrEAJuS/Q+dzZww/CZoM01yOcVpLfdQdHRhojohSKoCjAu2yA2HD/xLMXzRVfEtZv
-w8nCgP4OzEoZq08SQCd6SIQO6KSvX8vZ0wcHMutMLfQAwDmaI9Gv0fkwyw8VIZG9t3OFr2doPa0h
-DhTwSlk75OcOUMolA7mSY7EQebrbpWmV9GEPZvkju37cDTC3v7I0jEkb+gIjwwIBWh56Pz7qUWUC
-1rUfgmo4Twn+3+Y9atqYs1AIv418oMn2Quj/q4gW6yQu+SRgO2xcwvdZ11WG99hJbCDmYsYIxkvW
-JQX7NaDhYiemf8UfxdOgM0==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\GoogleCalendar\Client;
+
+use DateInterval;
+use DateTimeImmutable;
+use DateTimeInterface;
+use Exception;
+use Xentral\Components\HttpClient\Response\ServerResponse;
+use Xentral\Components\Logger\LoggerAwareTrait;
+use Xentral\Modules\GoogleApi\Client\GoolgeApiClientInterface;
+use Xentral\Modules\GoogleApi\Data\GoogleAccountData;
+use Xentral\Modules\GoogleCalendar\Data\GoogleCalendarColorCollection;
+use Xentral\Modules\GoogleCalendar\Data\GoogleCalendarEventData;
+use Xentral\Modules\GoogleCalendar\Data\GoogleCalendarListItem;
+use Xentral\Modules\GoogleCalendar\Exception\GoogleCalendarApiException;
+use Xentral\Modules\GoogleCalendar\Exception\GoogleCalendarNotFoundException;
+use Xentral\Modules\GoogleCalendar\Exception\InvalidArgumentException;
+
+final class GoogleCalendarClient implements GoogleCalendarClientInterface
+{
+    use LoggerAwareTrait;
+
+    /** @var string CALENDAR_PRIMARY */
+    public const CALENDAR_PRIMARY = 'primary';
+
+    /** @var string BASE_URL */
+    private const BASE_URL = 'https://www.googleapis.com/calendar/v3';
+
+    /** @var GoolgeApiClientInterface $googleApiClient */
+    private $googleApiClient;
+
+    /**
+     * @param GoolgeApiClientInterface $googleApiClient
+     */
+    public function __construct(
+        GoolgeApiClientInterface $googleApiClient
+    ) {
+        $this->googleApiClient = $googleApiClient;
+    }
+
+    /**
+     * @param array $filters
+     *
+     * @throws GoogleCalendarApiException
+     *
+     * @return GoogleCalendarListItem[]
+     */
+    public function getCalendarList(array $filters = []): array
+    {
+        $uri = $this->createUri('users/me/calendarList', $filters);
+        try {
+            $result = $this->googleApiClient->sendRequest('GET', $uri);
+        } catch (Exception $e) {
+            throw new GoogleCalendarApiException($e->getMessage(), $e->getCode(), $e);
+        }
+        $list = [];
+        if (isset($result['items']) && is_array($result['items'])) {
+            foreach ($result['items'] as $item) {
+                $list[] = GoogleCalendarListItem::fromArray($item);
+            }
+        }
+
+        return $list;
+    }
+
+    /**
+     * @throws GoogleCalendarNotFoundException
+     * @throws GoogleCalendarApiException
+     *
+     * @return GoogleCalendarListItem
+     */
+    public function getPrimaryCalendar(): GoogleCalendarListItem
+    {
+        $ownedCalendars = $this->getCalendarList(['minAccessRole' => 'owner']);
+        foreach ($ownedCalendars as $calendarListItem) {
+            if ($calendarListItem->isPrimary()) {
+                return $calendarListItem;
+            }
+        }
+        throw new GoogleCalendarNotFoundException(
+            sprintf('Cannot get primary calendar of user "id=%s"', $this->getAccount()->getUserId())
+        );
+    }
+
+    /**
+     * @param string            $calendar
+     * @param DateTimeInterface $modifiedSince
+     *
+     * @return GoogleCalendarEventData[]
+     */
+    public function getModifiedEvents(string $calendar, DateTimeInterface $modifiedSince): array
+    {
+        $modifiedTimestamp = $modifiedSince->format(DateTimeInterface::RFC3339);
+        $filters = [
+            'updatedMin' => $modifiedTimestamp,
+        ];
+        $now = new DateTimeImmutable();
+        $now = $now->setTimestamp(time());
+        $from = $now->sub(new DateInterval('P1W'));
+        $to = $now->add(new DateInterval('P3W'));
+        $filters['timeMax'] = $to->format(DateTimeInterface::RFC3339);
+        $filters['timeMin'] = $from->format(DateTimeInterface::RFC3339);
+
+        return $this->getEventList($calendar, $filters);
+    }
+
+    /**
+     * @param string            $calendar
+     * @param DateTimeInterface $from
+     * @param DateTimeInterface $to
+     *
+     * @return GoogleCalendarEventData[]
+     */
+    public function getAbsoluteEvents(string $calendar, DateTimeInterface $from, DateTimeInterface $to): array
+    {
+        $filters = [];
+        $filters['timeMax'] = $to->format(DateTimeInterface::RFC3339);
+        $filters['timeMin'] = $from->format(DateTimeInterface::RFC3339);
+
+        return $this->getEventList($calendar, $filters);
+    }
+
+    /**
+     * @param string $eventId
+     *
+     * @throws GoogleCalendarApiException
+     *
+     * @return GoogleCalendarEventData
+     */
+    public function getEvent($eventId): GoogleCalendarEventData
+    {
+        $path = sprintf('calendars/%s/events/%s', self::CALENDAR_PRIMARY, $eventId);
+        $url = $this->createUri($path);
+        try {
+            $result = $this->googleApiClient->sendRequest('GET', $url);
+        } catch (Exception $e) {
+            throw new GoogleCalendarApiException($e->getMessage(), $e->getCode(), $e);
+        }
+
+        return GoogleCalendarEventData::fromArray($result);
+    }
+
+    /**
+     * @param string $calendar calendar identifier
+     * @param array  $filters
+     *
+     * @throws GoogleCalendarApiException
+     *
+     * @return GoogleCalendarEventData[]
+     */
+    public function getEventList(string $calendar, $filters = []): array
+    {
+        $path = sprintf('calendars/%s/events', $calendar);
+        $filters['singleEvents'] = 'true';
+        $url = $this->createUri($path, $filters);
+        try {
+            $result = $this->googleApiClient->sendRequest('GET', $url);
+        } catch (Exception $e) {
+            throw new GoogleCalendarApiException($e->getMessage(), $e->getCode(), $e);
+        }
+        $events = [];
+        foreach ($result['items'] as $event) {
+            $events[] = GoogleCalendarEventData::fromArray($event);
+        }
+
+        return $events;
+    }
+
+    /**
+     * @param GoogleCalendarEventData $event
+     * @param string                  $sendUpdates
+     *
+     * @throws GoogleCalendarApiException
+     *
+     * @return GoogleCalendarEventData
+     */
+    public function insertEvent(
+        GoogleCalendarEventData $event,
+        $sendUpdates = self::SENDUPDATES_DEFAULT
+    ): GoogleCalendarEventData {
+        $this->validateSendUpdatesParam($sendUpdates);
+        $queryParams = [];
+        if ($sendUpdates !== self::SENDUPDATES_DEFAULT) {
+            $queryParams = ['sendUpdates' => $sendUpdates];
+        }
+        $url = $this->createUri(sprintf('calendars/%s/events', self::CALENDAR_PRIMARY), $queryParams);
+        try {
+            $result = $this->googleApiClient->sendRequest('POST', $url, $event->toArray());
+        } catch (Exception $e) {
+            throw new GoogleCalendarApiException($e->getMessage(), $e->getCode(), $e);
+        }
+
+        return GoogleCalendarEventData::fromArray($result);
+    }
+
+    /**
+     * @param GoogleCalendarEventData $event
+     * @param string                  $sendUpdates
+     *
+     * @throws GoogleCalendarApiException
+     *
+     * @return GoogleCalendarEventData
+     */
+    public function updateEvent(
+        GoogleCalendarEventData $event,
+        $sendUpdates = self::SENDUPDATES_DEFAULT
+    ): GoogleCalendarEventData {
+        $this->validateSendUpdatesParam($sendUpdates);
+        $postData = $event->toArray();
+        $queryParams = [];
+        if ($sendUpdates !== self::SENDUPDATES_DEFAULT) {
+            $queryParams = ['sendUpdates' => $sendUpdates];
+        }
+        $url = $this->createUri(
+            sprintf(
+                'calendars/%s/events/%s',
+                self::CALENDAR_PRIMARY,
+                $event->getId()
+            ),
+            $queryParams
+        );
+        try {
+            $result = $this->googleApiClient->sendRequest('PUT', $url, $postData);
+        } catch (Exception $e) {
+            throw new GoogleCalendarApiException($e->getMessage(), $e->getCode(), $e);
+        }
+
+        return GoogleCalendarEventData::fromArray($result);
+    }
+
+    /**
+     * @param GoogleCalendarEventData $event
+     * @param string                  $targetCalendar
+     * @param string                  $sendUpdates
+     *
+     * @throws GoogleCalendarApiException
+     *
+     * @return GoogleCalendarEventData
+     */
+    public function moveEvent(
+        GoogleCalendarEventData $event,
+        $targetCalendar,
+        $sendUpdates = self::SENDUPDATES_DEFAULT
+    ): GoogleCalendarEventData {
+        $this->validateSendUpdatesParam($sendUpdates);
+        $queryParams = ['destination' => $targetCalendar];
+        if ($sendUpdates !== self::SENDUPDATES_DEFAULT) {
+            $queryParams['sendUpdates'] = $sendUpdates;
+        }
+        $url = $this->createUri(
+            sprintf('calendars/%s/events/%s/move', self::CALENDAR_PRIMARY, $event->getId()),
+            $queryParams
+        );
+        try {
+            $result = $this->googleApiClient->sendRequest('POST', $url);
+        } catch (Exception $e) {
+            throw new GoogleCalendarApiException($e->getMessage(), $e->getCode(), $e);
+        }
+
+        return GoogleCalendarEventData::fromArray($result);
+    }
+
+    /**
+     * @param string $eventId
+     * @param string $sendUpdates
+     *
+     * @return bool
+     */
+    public function deleteEvent(
+        $eventId,
+        $sendUpdates = self::SENDUPDATES_DEFAULT
+    ): bool {
+        $this->validateSendUpdatesParam($sendUpdates);
+        $queryParams = [];
+        if ($sendUpdates !== self::SENDUPDATES_DEFAULT) {
+            $queryParams = ['sendUpdates' => $sendUpdates];
+        }
+        $url = $this->createUri(
+            sprintf('calendars/%s/events/%s', self::CALENDAR_PRIMARY, $eventId),
+            $queryParams
+        );
+        try {
+            $this->googleApiClient->sendRequest('DELETE', $url, null, []);
+        } catch (Exception $e) {
+            $httpCode = $e->getCode();
+            if ($httpCode> 399 && $httpCode < 500) {
+                return false;
+            }
+            throw new GoogleCalendarApiException($e->getMessage(), $e->getCode(), $e);
+        }
+
+        return true;
+    }
+
+    /**
+     * @param string $calendar
+     *
+     * @throws GoogleCalendarApiException
+     *
+     * @return bool
+     */
+    public function canAccessCalendar(string $calendar): bool
+    {
+        $url = $this->createUri(sprintf('calendars/%s', $calendar));
+        try {
+            $this->googleApiClient->sendRequest('GET', $url);
+        } catch (Exception $e) {
+            $httpCode = $e->getCode();
+            if ($httpCode > 399 && $httpCode < 500) {
+                return false;
+            }
+            throw new GoogleCalendarApiException($e->getMessage(), $e->getCode(), $e);
+        }
+
+        return true;
+    }
+
+    /**
+     * @throws GoogleCalendarApiException
+     *
+     * @return array
+     */
+    public function getUserSettings(): array
+    {
+        $url = $this->createUri('users/me/settings');
+        try {
+            $result = $this->googleApiClient->sendRequest('GET', $url);
+        } catch (Exception $e) {
+            throw new GoogleCalendarApiException($e->getMessage(), $e->getCode(), $e);
+        }
+        $settings = [];
+        if (isset($result['items']) && is_array($result['items'])) {
+            foreach ($result['items'] as $setting) {
+                $settings[$setting['id']] = $setting['value'];
+            }
+        }
+
+        return $settings;
+    }
+
+    /**
+     * @throws GoogleCalendarApiException
+     *
+     * @return GoogleCalendarColorCollection
+     */
+    public function getAvailableColors(): GoogleCalendarColorCollection
+    {
+        $url = $this->createUri('colors');
+        try {
+            $result = $this->googleApiClient->sendRequest('GET', $url);
+        } catch (Exception $e) {
+            throw new GoogleCalendarApiException($e->getMessage(), $e->getCode(), $e);
+        }
+        $colors = GoogleCalendarColorCollection::createFromJsonArray($result);
+        $default = $this->getDefaultColorId();
+        $colors->setDefaultColorId($default);
+
+        return $colors;
+    }
+
+    /**
+     * @return GoogleAccountData
+     */
+    public function getAccount(): GoogleAccountData
+    {
+        return $this->googleApiClient->getAccount();
+    }
+
+    /**
+     * @param string $uri
+     * @param array  $queryParams
+     *
+     * @return string
+     */
+    private function createUri(string $uri, array $queryParams = []): string
+    {
+        $url = sprintf('%s/%s', self::BASE_URL, $uri);
+        if (!empty($queryParams)) {
+            $url .= '?' . http_build_query($queryParams);
+        }
+
+        return $url;
+    }
+
+    /**
+     * @param string $sendUpdates
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return bool
+     */
+    private function validateSendUpdatesParam(string $sendUpdates): bool
+    {
+        if (
+            $sendUpdates !== self::SENDUPDATES_DEFAULT
+            && $sendUpdates !== self::SENDUPDATES_EXTERNALONLY
+            && $sendUpdates !== self::SENDUPDATES_NONE
+            && $sendUpdates !== self::SENDUPDATES_ALL
+        ) {
+            throw new InvalidArgumentException('Ivalid value for query parameter "sendUpdates".');
+        }
+
+        return true;
+    }
+
+    /**
+     * @throws GoogleCalendarApiException
+     *
+     * @return string
+     */
+    private function getDefaultColorId(): string
+    {
+        $colorId = '';
+        $filters = [];
+        $filters['minAccessRole'] = 'owner';
+        $calendars = $this->getCalendarList($filters);
+        foreach ($calendars as $calendar) {
+            if ($calendar->isPrimary()) {
+                $colorId = $calendar->getColorId();
+            }
+        }
+
+        return $colorId;
+    }
+}

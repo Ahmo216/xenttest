@@ -1,39 +1,57 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Ticket;
+
+use Ticket;
+use Xentral\Core\DependencyInjection\ContainerInterface;
+use Xentral\Modules\Api\LegacyBridge\LegacyApplication;
+use Xentral\Modules\Ticket\Importer\TicketFormatter;
+use Xentral\Modules\Ticket\Task\TicketImportHelperFactory;
+
+final class Bootstrap
+{
+    /**
+     * @return array
+     */
+    public static function registerServices(): array
+    {
+        return [
+            'TicketFormatter' => 'onInitTicketFormatter',
+            'TicketImportHelperFactory' => 'onInitTicketImportHelperFactory',
+        ];
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return TicketFormatter
+     */
+    public static function onInitTicketFormatter(ContainerInterface $container): TicketFormatter
+    {
+        return new TicketFormatter();
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return TicketImportHelperFactory
+     */
+    public static function onInitTicketImportHelperFactory(ContainerInterface $container): TicketImportHelperFactory
+    {
+        /** @var LegacyApplication $app */
+        $app = $container->get('LegacyApplication');
+        /** @var Ticket $ticketModule */
+        $ticketModule = $ticketModule = $app->erp->LoadModul('ticket');
+
+        return new TicketImportHelperFactory(
+            $app->DB,
+            $app->erp,
+            $app->Conf,
+            $ticketModule,
+            $container->get('TicketFormatter'),
+            $container->get('Logger')
+        );
+    }
+}

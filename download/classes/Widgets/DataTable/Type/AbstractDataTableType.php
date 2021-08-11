@@ -1,61 +1,91 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ZEvA/ZEsIzMYBm==
+<?php
+
+namespace Xentral\Widgets\DataTable\Type;
+
+use Xentral\Components\Database\SqlQuery\SelectQuery;
+use Xentral\Widgets\DataTable\Column\ColumnCollection;
+use Xentral\Widgets\DataTable\Feature\DataTableFeatureInterface;
+use Xentral\Widgets\DataTable\Feature\FeatureCollection;
+use Xentral\Widgets\DataTable\Feature\ResponsiveFeature;
+use Xentral\Widgets\DataTable\Feature\StateSaveFeature;
+use Xentral\Widgets\DataTable\Feature\TableControlFeature;
+use Xentral\Widgets\DataTable\Feature\TableStylingFeature;
+use Xentral\Widgets\DataTable\Filter\FilterCollection;
+use Xentral\Widgets\DataTable\Options\DataTableOptions;
+
+abstract class AbstractDataTableType implements DataTableTypeInterface
+{
+    /**
+     * @param DataTableOptions $options
+     *
+     * @return void
+     */
+    public function configureOptions(DataTableOptions $options)
+    {
+    }
+
+    /**
+     * @param SelectQuery $query
+     *
+     * @return void
+     */
+    public function configureQuery(SelectQuery $query)
+    {
+    }
+
+    /**
+     * @param ColumnCollection $columns
+     *
+     * @return void
+     */
+    public function configureColumns(ColumnCollection $columns)
+    {
+    }
+
+    /**
+     * @param FeatureCollection $features
+     *
+     * @return void
+     */
+    public function configureFeatures(FeatureCollection $features)
+    {
+        $this->addDefaultFeatures($features);
+    }
+
+    /**
+     * @param FilterCollection $filters
+     *
+     * @return void
+     */
+    public function configureFilters(FilterCollection $filters)
+    {
+    }
+
+    /**
+     * @param FeatureCollection $featureCollection
+     *
+     * @return void
+     */
+    protected function addDefaultFeatures(FeatureCollection $featureCollection)
+    {
+        foreach ($this->getDefaultFeatures() as $defaultFeature) {
+            $defaultFeatureClassName = get_class($defaultFeature);
+            if (!$featureCollection->has($defaultFeatureClassName)) {
+                $featureCollection->add($defaultFeature);
+            }
+        }
+    }
+
+    /**
+     * @return DataTableFeatureInterface[]|array
+     */
+    private function getDefaultFeatures()
+    {
+        return [
+            new StateSaveFeature($enabled = true, $duration = 0),
+            new TableStylingFeature($compact = false, $noWrap = false),
+            new TableControlFeature(),
+            new ResponsiveFeature(),
+        ];
+    }
+}

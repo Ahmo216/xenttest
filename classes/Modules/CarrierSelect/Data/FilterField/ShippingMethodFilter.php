@@ -1,39 +1,29 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-/7MV1SDZuM2+8LCUT0==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\CarrierSelect\Data\FilterField;
+
+
+use Xentral\Modules\CarrierSelect\Data\Order;
+
+final class ShippingMethodFilter implements FilterFieldInterface
+{
+    /**
+     * @return string
+     */
+    public function getName(): string
+    {
+        return 'shipping_method';
+    }
+
+    /**
+     * @param Order $order
+     *
+     * @return array
+     */
+    public function getValuesFromOrder(Order $order): array
+    {
+        return [$order->getShippingMethod()];
+    }
+}

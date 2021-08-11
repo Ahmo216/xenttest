@@ -1,43 +1,70 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Country\Data;
+
+use Xentral\Modules\Country\Exception\CountryInvalidArgumentException;
+
+class CountryDataValidator
+{
+    /**
+     * @param $isoAlpha3
+     */
+    public function ensureIso3($isoAlpha3)
+    {
+        if (strlen($isoAlpha3) !== 3) {
+            throw new CountryInvalidArgumentException('ISO-3166-Alpha3-Feld ist nicht 3 Zeichen lang');
+        }
+    }
+
+    /**
+     * @param $isoAlpha2
+     */
+    public function ensureIso2($isoAlpha2)
+    {
+        if (strlen($isoAlpha2) !== 2) {
+            throw new CountryInvalidArgumentException('ISO-3166-Alpha2-Feld ist nicht 2 Zeichen lang');
+        }
+    }
+
+    /**
+     * @param $isoNumeric
+     */
+    public function ensureIsoNumeric($isoNumeric)
+    {
+        if (strlen($isoNumeric) !== 3) {
+            throw new CountryInvalidArgumentException(
+                'Numerischer Ländercode (ISO-3166 numeric) ist nicht 3 Zeichen lang'
+            );
+        }
+    }
+
+    /**
+     * @param $nameGerman
+     */
+    public function ensureNameGerman($nameGerman)
+    {
+        if (trim($nameGerman) === '') {
+            throw new CountryInvalidArgumentException('Deutsche Bezeichnung ist leer');
+        }
+    }
+
+    /**
+     * @param $nameEnglish
+     */
+    public function ensureNameEnglish($nameEnglish)
+    {
+        if (trim($nameEnglish) === '') {
+            throw new CountryInvalidArgumentException('Englische Bezeichnung ist leer');
+        }
+    }
+
+    /**
+     * @param $isEu
+     */
+    public function ensureIsEu($isEu)
+    {
+        if (!is_bool($isEu)) {
+            throw new CountryInvalidArgumentException('Fehlerhafter EU-Parameter. Es sind nur boolsche Werte erlaubt.');
+        }
+    }
+}

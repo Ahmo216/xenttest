@@ -1,196 +1,427 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-aBJVmqYFJgoplZqePCRzse2+
+<?php
+class LiveimportBase {
+  /** @var Application $app */
+  protected $app;
+  /** @var int $id */
+  protected $id;
+
+  /**
+   * @param Application $app
+   */
+  public function loadApp($app, $id)
+  {
+    $this->app = $app;
+    $this->id = $id;
+  }
+
+  /**
+   * @param string $config
+   *
+   * @return array
+   */
+  public function Config2Array($config)
+  {
+    $entries = explode (';', $config);
+    foreach ($entries as $pair) {
+      preg_match('/(.+)=>(.+)$/', $pair, $matches);
+      if(isset($matches[2])) {
+        $array[$matches[1]] = $matches[2];
+      }
+    }
+    if(!isset($array)) {
+      return [];
+    }
+
+    return array_filter($array);
+  }
+
+  /**
+   * @return array
+   */
+  protected function getCredentialsFromId()
+  {
+    if(!$this->id || empty($this->app)) {
+      return [];
+    }
+    $account = $this->app->DB->SelectRow(
+      sprintf(
+        'SELECT `liveimport`, `liveimport_passwort` FROM `konten` WHERE `id` = %d',
+        $this->id
+      )
+    );
+    if(empty($account)) {
+      return [];
+    }
+    $credential = html_entity_decode($account['liveimport'],ENT_QUOTES,'UTF-8');
+    if(!empty($account['liveimport_passwort'])) {
+      $credential = str_replace('{PASSWORT}', $account['liveimport_passwort'], $credential);
+    }
+
+    return $this->Config2Array($credential);
+  }
+
+
+  /**
+   * @return array
+   */
+  public static function liveimportCapabilities()
+  {
+    return [
+      'payment_modules' =>
+        [
+          'sepa'   => [
+              ''
+          ],
+          'paypal' => [
+            ''
+          ],
+          'stripe' => [
+            ''
+          ],
+          'amazonpay' => [
+            ''
+          ],
+          'amazonfbm' => [
+            ''
+          ],
+        ],
+      'default_module' => 'sepa',
+      'mapping' => [
+        'amazonkonto' => 'amazonfbm',
+      ]
+    ];
+  }
+
+  /**
+   * @param int[] $paymentTransactionIds
+   *
+   * @return int
+   */
+  public function createReturnOrdersPaymentEntries($paymentTransactionIds)
+  {
+    if(empty($paymentTransactionIds)) {
+      return 0;
+    }
+    $ret = 0;
+    foreach($paymentTransactionIds as $paymentTransactionId) {
+      if($this->createReturnOrderPaymentEntry($paymentTransactionId)) {
+        $ret++;
+      }
+    }
+
+    return $ret;
+  }
+
+  /**
+   * @param int|array|null $paymentTransaction
+   *
+   * @return bool|array
+   */
+  protected function isPaymentTransactionOk($paymentTransaction)
+  {
+    if(is_numeric($paymentTransaction)) {
+      $paymentTransaction = $this->app->DB->SelectRow(
+        sprintf(
+          'SELECT * FROM `payment_transaction` WHERE `id` = %d',
+          $paymentTransaction
+        )
+      );
+    }
+
+    if(empty($paymentTransaction)) {
+      return false;
+    }
+
+    if(empty($paymentTransaction)) {
+      return false;
+    }
+    if(in_array($paymentTransaction['payment_status'], ['payed','verbucht','abgeschlossen'])) {
+      return false;
+    }
+    $returnOrderId = $paymentTransaction['returnorder_id'];
+    $liabilityId = $paymentTransaction['liability_id'];
+    if($returnOrderId > 0){
+      $orders = $this->app->DB->SelectRow(
+        sprintf(
+          "SELECT ro.*, ro.id AS returnorder_id
+          FROM `gutschrift` AS `ro`
+          WHERE ro.id = %d 
+            AND ro.belegnr <> '' AND ro.status <> 'storniert'
+          LIMIT 1",
+          $returnOrderId
+        )
+      );
+      if(empty($orders)){
+        return false;
+      }
+    }
+    elseif($liabilityId > 0) {
+      $orders = $this->app->DB->SelectRow(
+        sprintf(
+          "SELECT v.*, v.betrag AS `soll`, v.id AS liability_id
+          FROM `verbindlichkeit` AS `v`
+          WHERE v.id = %d 
+            AND v.freigabe='1' AND v.rechnungsfreigabe=1 
+            AND v.status_beleg <> 'storniert' AND v.status_beleg <> 'angelegt' 
+            AND v.betrag > 0
+          LIMIT 1",
+          $liabilityId
+        )
+      );
+      if(empty($orders)){
+        return false;
+      }
+    }
+    else {
+      $orders = [
+        'soll' => $paymentTransaction['amount'],
+        'waehrung' => $paymentTransaction['currency'],
+        'json' => @json_decode($paymentTransaction['payment_json'], true),
+        'returnorder_id' => 0,
+        'liability_id' => 0,
+      ];
+    }
+
+    return $orders;
+  }
+
+  /**
+   * @param array $order
+   *
+   * @return array
+   */
+  public function getJsonFormPaymentEntry($order)
+  {
+    return [];
+  }
+
+  /**
+   * @param int $paymentTransactionId
+   *
+   * @return bool
+   */
+  public function createReturnOrderPaymentEntry($paymentTransactionId)
+  {
+    $orders = $this->isPaymentTransactionOk($paymentTransactionId);
+    if($orders === false) {
+      return false;
+    }
+
+    $amount = empty($orders['soll'])?null:$orders['soll'];
+    $currency = empty($orders['waehrung'])?'EUR':$orders['waehrung'];
+    $json = $this->getJsonFormPaymentEntry($orders);
+
+    $this->app->DB->Update(
+      sprintf(
+        "UPDATE `payment_transaction` 
+           SET `payment_account_id` = %d, 
+               `payment_status` = '%s',
+               `payment_reason` = '%s',
+               `amount` = %f,
+               `currency` = '%s'
+           WHERE `id` = %d",
+        $this->id,
+        'angelegt',
+        '',
+        $amount,
+        $this->app->DB->real_escape_string($currency),
+        $paymentTransactionId
+      )
+    );
+
+    if (!empty($json)) {
+      $jsonString = json_encode($json);
+      $this->app->DB->Update(
+        sprintf(
+          "UPDATE `payment_transaction` 
+           SET `payment_json` = '%s'
+           WHERE `id` = %d",
+          $this->app->DB->real_escape_string($jsonString),
+          $this->id
+        )
+      );
+    }
+
+    $paymentTransaction = $this->app->DB->SelectRow(
+      sprintf(
+        'SELECT * FROM `payment_transaction` WHERE `id` = %d',
+        $paymentTransactionId
+      )
+    );
+    if(!empty($paymentTransaction) && empty($paymentTransaction['address_id'])) {
+      if($paymentTransaction['returnorder_id'] > 0) {
+        $document = $this->app->DB->SelectRow(
+          sprintf(
+            'SELECT `adresse` FROM `gutschrift` WHERE `id` = %d',
+            $paymentTransaction['returnorder_id']
+          )
+        );
+      }
+      elseif($paymentTransaction['liability_id'] > 0) {
+        $document = $this->app->DB->SelectRow(
+          sprintf(
+            'SELECT `adresse` FROM `verbindlichkeit` WHERE `id` = %d',
+            $paymentTransaction['liability_id']
+          )
+        );
+      }
+      if(!empty($document['adresse'])) {
+        $this->app->DB->Update(
+          sprintf(
+            'UPDATE `payment_transaction` SET `address_id` = %d WHERE `id` = %d',
+            $document['adresse'], $paymentTransactionId
+          )
+        );
+      }
+    }
+
+    return $this->app->DB->affected_rows() > 0;
+  }
+
+  /**
+   * @return array
+   */
+  public function showReturnOrderStructure()
+  {
+    return [];
+  }
+
+  /**
+   * @param array $returnOrders
+   * @param array $liabilities
+   * @param array $transactions
+   *
+   * @return array
+   */
+  public function createPayments($returnOrders, $liabilities, $transactions)
+  {
+    return [];
+  }
+
+  /**
+   * @param array $returnOrders
+   * @param array $liabilities
+   * @param array $transactions
+   *
+   * @return array
+   */
+  public function checkPayments($returnOrders, $liabilities, $transactions)
+  {
+    return [];
+  }
+
+
+  /**
+   * @param int $paymentAccountId
+   *
+   * @return int
+   */
+  public function createPaymentGroup($paymentAccountId)
+  {
+    $this->app->DB->Insert(
+      sprintf(
+        "INSERT INTO `payment_transaction_group` 
+        (`created_by`, `payment_account_id`, `created_at`) 
+        VALUES ('%s', %d, NOW())",
+        $this->app->DB->real_escape_string($this->app->User->GetName()), $paymentAccountId
+      )
+    );
+
+    return (int)$this->app->DB->GetInsertID();
+  }
+
+  /**
+   * @param int   $paymentGroupId
+   * @param int[] $paymentTransactionIds
+   */
+  public function addPaymentsToGroup($paymentGroupId, $paymentTransactionIds)
+  {
+    if(empty($paymentGroupId) || empty($paymentTransactionIds)) {
+      return;
+    }
+    $this->app->DB->Update(
+      sprintf(
+        "UPDATE `payment_transaction` SET `payment_transaction_group_id` = %d WHERE `id` IN (%s)",
+        $paymentGroupId, implode(',', $paymentTransactionIds)
+      )
+    );
+  }
+
+
+  /**
+   * @param int $paymentTransactionId
+   *
+   * @return array|null
+   */
+  public function getJsonFromPaymentTransaction($paymentTransactionId)
+  {
+    $paymentTransaction = $this->app->DB->SelectRow(
+      sprintf(
+        "SELECT `payment_json` 
+        FROM `payment_transaction` AS `pt` 
+        WHERE pt.id = %d",
+        $paymentTransactionId
+      )
+    );
+    if(empty($paymentTransaction)) {
+      return null;
+    }
+    $json = json_decode($paymentTransaction['payment_json'], true);
+    if(!is_array($json)) {
+      $json = [];
+    }
+
+    return $json;
+  }
+
+  /**
+   * @param int    $paymentTransactionId
+   * @param string $name
+   * @param mixed  $value
+   */
+  public function addJsonEntry($paymentTransactionId, $name, $value)
+  {
+    if($name === '') {
+      return;
+    }
+    $json = $this->getJsonFromPaymentTransaction($paymentTransactionId);
+    if($json === null) {
+      return;
+    }
+    if(isset($json[$name]) && $json[$name] === $value) {
+      return;
+    }
+    $json[$name] = $value;
+    $this->app->DB->Update(
+      sprintf(
+        "UPDATE `payment_transaction` SET `payment_json` = '%s' WHERE `id` = %d",
+        $this->app->DB->real_escape_string(json_encode($json)), $paymentTransactionId
+      )
+    );
+  }
+
+  /**
+   * @param int    $paymentTransactionId
+   * @param string $name
+   */
+  public function removeJsonEntry($paymentTransactionId, $name)
+  {
+    if($name === '') {
+      return;
+    }
+    $json = $this->getJsonFromPaymentTransaction($paymentTransactionId);
+    if($json === null) {
+      return;
+    }
+    if(!isset($json[$name])) {
+      return;
+    }
+    unset($json[$name]);
+    $this->app->DB->Update(
+      sprintf(
+        "UPDATE `payment_transaction` SET `payment_json` = '%s' WHERE `id` = %d",
+        $this->app->DB->real_escape_string(json_encode($json)), $paymentTransactionId
+      )
+    );
+  }
+}

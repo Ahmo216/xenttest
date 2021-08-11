@@ -1,46 +1,52 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-MdvKdb4fEPSnDRgn4s3F
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\LearningDashboard\Data;
+
+final class Tab implements \JsonSerializable
+{
+    /** @var string */
+    private $name;
+
+    /** @var Lesson[] */
+    private $lessons;
+
+    /**
+     * Tab constructor.
+     *
+     * @param string $name
+     */
+    public function __construct(string $name)
+    {
+        $this->name = $name;
+    }
+
+    /** @param Lesson $lesson */
+    public function addLesson(Lesson $lesson)
+    {
+        $this->lessons[] = $lesson;
+    }
+
+    /** @return array */
+    public function jsonSerialize()
+    {
+        $totalSteps = 0;
+        $completedSteps = 0;
+
+        foreach ($this->lessons as $lesson) {
+            $lessonProgress = $lesson->getProgress();
+            $totalSteps += $lessonProgress['total'];
+            $completedSteps += $lessonProgress['completed'];
+        }
+
+        return [
+            'name'     => $this->name,
+            'progress' => [
+                'total'     => $totalSteps,
+                'completed' => $completedSteps,
+            ],
+            'lessons'  => $this->lessons,
+        ];
+    }
+}

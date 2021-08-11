@@ -1,69 +1,76 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-1qSIQHHENNHnrdhPhx2Nz2u=
+<?php
+class Netzwerk {
+  var $app;
+  
+  function __construct(&$app) {
+    //parent::GenNetzwerk($app);
+    $this->app=&$app;
+
+    $id = $this->app->Secure->GetGET("id");
+    if(is_numeric($id))
+      $this->app->Tpl->Set('SUBHEADING',": ".
+        $this->app->DB->Select("SELECT nummer FROM artikel WHERE id=$id LIMIT 1"));
+
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","NetzwerkCreate");
+    $this->app->ActionHandler("edit","NetzwerkEdit");
+    $this->app->ActionHandler("list","NetzwerkList");
+
+
+    $this->app->ActionHandlerListen($app);
+  }
+
+
+  function NetzwerkCreate()
+  {
+    $this->app->Tpl->Add('TABS',
+      "<a class=\"tab\" href=\"index.php?module=artikel&action=list\">Zur&uuml;ck zur &Uuml;bersicht</a>");
+  }
+
+  function NetzwerkMenu()
+  {
+
+    $id = $this->app->Secure->GetGET("id");
+    $this->app->Tpl->Add('TABS',"<li><h2>Netzwerk</h2></li>");
+    $this->app->Tpl->Add('TABS',"<li><a  href=\"index.php?module=netzwerk&action=create&id=$id\">Station registrieren</a></li>");
+    $this->app->Tpl->Add('TABS',"<li><a  href=\"index.php?module=netzwerk&action=list&id=$id\">&Uuml;bersicht</a></li>");
+  }
+
+  function NetzwerkList()
+  {
+    $this->NetzwerkMenu();
+
+    $this->app->Tpl->Set('TABTEXT',"&Uuml;bersicht");
+
+    $this->app->Tpl->Parse('TAB1',"netzwerk.tpl");
+    $this->app->Tpl->Parse('PAGE',"tabview.tpl");
+
+  }
+
+
+  function NetzwerkEdit()
+  {
+    $this->NetzwerkMenu();
+    $this->app->Tpl->Set('TABLE_ADRESSE_KONTAKTHISTORIE',"TDB");
+    $this->app->Tpl->Set('TABLE_ADRESSE_ROLLEN',"TDB");
+
+    $this->app->Tpl->Set('TABLE_ADRESSE_USTID',"TDB");
+  }
+
+
+
+
+
+}
+
+?>

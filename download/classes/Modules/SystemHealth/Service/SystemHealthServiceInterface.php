@@ -1,30 +1,49 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\SystemHealth\Service;
+
+interface SystemHealthServiceInterface
+{
+
+
+    /**
+     * Create a SystemHealth
+     *
+     * @param int         $systemHealthCategoryId
+     * @param string      $name
+     * @param string      $description
+     *
+     * @return int Created SystemHealth-ID
+     */
+    public function create($systemHealthCategoryId, $name, $description = '');
+
+    /**
+     * Create a SystemHealth Category
+     *
+     * @param string      $name
+     * @param string      $description
+     *
+     * @return int Created SystemHealthCategory-ID
+     */
+    public function createCategory($name, $description = '');
+
+
+    /**
+     * Delete SystemHealth by ID
+     *
+     * @param int $systemHealthId
+     *
+     * @return bool
+     */
+    public function delete($systemHealthId);
+
+    /**
+     * Delete SystemHealthCategory by ID
+     *
+     * @param int $systemHealthCategoryId
+     *
+     * @return bool
+     */
+    public function deleteCategory($systemHealthCategoryId);
+
+}

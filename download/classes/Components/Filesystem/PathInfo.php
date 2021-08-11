@@ -1,99 +1,221 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Yv/y9sZzykZPRypm/RugR5+lRwiUxrD1
+<?php
+
+namespace Xentral\Components\Filesystem;
+
+use League\Flysystem\Util;
+use Xentral\Components\Filesystem\Exception\InvalidArgumentException;
+
+final class PathInfo
+{
+    const TYPE_FILE = 'file';
+    const TYPE_DIR = 'dir';
+
+    /** @var array $readonlyProperties */
+    private static $readonlyProperties = [
+        'type',
+        'path',
+        'dirname',
+        'filename',
+        'basename',
+        'extension',
+        'timestamp',
+        'size',
+    ];
+
+    /** @var array $data */
+    private $data;
+
+    /**
+     * @param array $data
+     */
+    public function __construct(array $data)
+    {
+        // required
+        $data['type'] = (string)$data['type'];
+        $data['path'] = (string)$data['path'];
+        $data['dirname'] = (string)$data['dirname'];
+        $data['filename'] = (string)$data['filename'];
+        $data['basename'] = (string)$data['basename'];
+
+        // optional
+        $data['extension'] = !empty($data['extension']) ? (string)$data['extension'] : null;
+        $data['timestamp'] = is_numeric($data['timestamp']) ? (int)$data['timestamp'] : null;
+        $data['size'] = is_numeric($data['size']) ? (int)$data['size'] : null;
+
+        $this->data = $data;
+    }
+
+    /**
+     * @param array $metainfo
+     *
+     * @return PathInfo
+     */
+    public static function fromMeta(array $metainfo = [])
+    {
+        $pathinfo = Util::pathinfo($metainfo['path']);
+
+        return new PathInfo(array_merge($pathinfo, $metainfo));
+    }
+
+    /**
+     * @return array
+     */
+    public function toArray()
+    {
+        return $this->data;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isFile()
+    {
+        return $this->getType() === self::TYPE_FILE;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isDir()
+    {
+        return $this->getType() === self::TYPE_DIR;
+    }
+
+    /**
+     * @return string [dir|file]
+     */
+    public function getType()
+    {
+        return $this->data['type'];
+    }
+
+    /**
+     * @return string Filename with extension and without path
+     */
+    public function getBasename()
+    {
+        return $this->data['basename'];
+    }
+
+    /**
+     * @return string Filename without extension and without path
+     */
+    public function getFilename()
+    {
+        return $this->data['filename'];
+    }
+
+    /**
+     * @return string|null File extension or null if directory
+     */
+    public function getExtension()
+    {
+        return $this->data['extension'];
+    }
+
+    /**
+     * @return string Path without filename
+     */
+    public function getDir()
+    {
+        return $this->data['dirname'];
+    }
+
+    /**
+     * Relativer Pfad zum Mountpoint
+     *
+     * @return string Path with filename
+     */
+    public function getPath()
+    {
+        return $this->data['path'];
+    }
+
+    /**
+     * @return int|null File size or null if not available
+     */
+    public function getSize()
+    {
+        return $this->data['size'];
+    }
+
+    /**
+     * @return int|null Last updated timestamp or null if not available
+     */
+    public function getTimestamp()
+    {
+        return $this->data['timestamp'];
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return bool
+     */
+    public function has($name)
+    {
+        return isset($this->data[(string)$name]);
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return mixed
+     */
+    public function get($name)
+    {
+        if ($this->has($name)) {
+            return $this->data[(string)$name];
+        }
+
+        return null;
+    }
+
+    /**
+     * @param string $name
+     * @param mixed  $value
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return void
+     */
+    public function set($name, $value)
+    {
+        if (in_array((string)$name, self::$readonlyProperties, true)) {
+            throw new InvalidArgumentException(sprintf('Property "%s" is readonly.', $name));
+        }
+
+        $this->data[(string)$name] = $value;
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return bool
+     */
+    public function __isset($name)
+    {
+        return $this->has($name);
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return mixed
+     */
+    public function __get($name)
+    {
+        return $this->get($name);
+    }
+
+    /**
+     * @param string $name
+     * @param mixed  $value
+     *
+     * @return void
+     */
+    public function __set($name, $value)
+    {
+        $this->set($name, $value);
+    }
+}

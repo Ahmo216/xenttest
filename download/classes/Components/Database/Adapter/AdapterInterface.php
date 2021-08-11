@@ -1,70 +1,197 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Database\Adapter;
+
+use Generator;
+
+interface AdapterInterface
+{
+    /**
+     * @return void
+     */
+    public function connect();
+
+    /**
+     * @return void
+     */
+    public function disconnect();
+
+    /**
+     * @return bool
+     */
+    public function inTransaction();
+
+    /**
+     * @return void
+     */
+    public function beginTransaction();
+
+    /**
+     * @return void
+     */
+    public function rollback();
+
+    /**
+     * @return void
+     */
+    public function commit();
+
+    /**
+     * @return int
+     */
+    public function lastInsertId();
+
+    /**
+     * @param array  $values
+     * @param string $statement
+     *
+     * @return void
+     */
+    public function perform($statement, array $values = []);
+
+    /**
+     * @param string $statement
+     * @param array  $values
+     *
+     * @return int
+     */
+    public function fetchAffected($statement, array $values = []);
+
+    /**
+     * @param string $statement
+     * @param array  $values
+     *
+     * @return array
+     */
+    public function fetchAll($statement, array $values = []);
+
+    /**
+     * @param string $statement
+     * @param array  $values
+     *
+     * @return array
+     */
+    public function fetchAssoc($statement, array $values = []);
+
+    /**
+     * @param string $statement
+     * @param array  $values
+     * @param bool   $includeGroupColumn
+     *
+     * @return array
+     */
+    public function fetchGroup($statement, array $values = [], $includeGroupColumn = false);
+
+    /**
+     * @param string $statement
+     * @param array  $values
+     *
+     * @return int|float|string|false false on empty result
+     */
+    public function fetchValue($statement, array $values = []);
+
+    /**
+     * @param string $statement
+     * @param array  $values
+     *
+     * @return array
+     */
+    public function fetchRow($statement, array $values = []);
+
+    /**
+     * @param string $statement
+     * @param array  $values
+     *
+     * @return array
+     */
+    public function fetchCol($statement, array $values = []);
+
+    /**
+     * @param string $statement
+     * @param array  $values
+     *
+     * @return array
+     */
+    public function fetchPairs($statement, array $values = []);
+
+    /**
+     * @param string $statement
+     * @param array  $values
+     *
+     * @return Generator
+     */
+    public function yieldCol($statement, array $values = []);
+
+    /**
+     * @param string $statement
+     * @param array  $values
+     *
+     * @return Generator
+     */
+    public function yieldAssoc($statement, array $values = []);
+
+    /**
+     * @param string $statement
+     * @param array  $values
+     *
+     * @return Generator
+     */
+    public function yieldAll($statement, array $values = []);
+
+    /**
+     * @param string $statement
+     * @param array  $values
+     *
+     * @return Generator
+     */
+    public function yieldPairs($statement, array $values = []);
+
+    /**
+     * Escapes values for "BOOLEAN" and (TINY)INT columns
+     *
+     * @param bool|null $value
+     * @param bool      $isNullable
+     *
+     * @return string
+     */
+    public function escapeBool($value, $isNullable = false);
+
+    /**
+     * Escapes values for INT columns
+     *
+     * @param mixed $value
+     * @param bool  $isNullable
+     *
+     * @return string
+     */
+    public function escapeInt($value, $isNullable = false);
+
+    /**
+     * Escapes values for FLOAT, DOUBLE and REAL columns
+     *
+     * @param mixed $value
+     * @param bool  $isNullable
+     *
+     * @return string
+     */
+    public function escapeDecimal($value, $isNullable = false);
+
+    /**
+     * Escapes values for CHAR, VARCHAR, TEXT and BLOB columns
+     *
+     * @param mixed $value
+     * @param bool  $isNullable
+     *
+     * @return string
+     */
+    public function escapeString($value, $isNullable = false);
+
+    /**
+     * Escapes and quotes an identifier (column or table name)
+     *
+     * @param string $value
+     *
+     * @return string
+     */
+    public function escapeIdentifier($value);
+}

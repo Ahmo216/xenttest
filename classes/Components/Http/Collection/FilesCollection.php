@@ -1,125 +1,223 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ujp/2W==
+<?php
+
+namespace Xentral\Components\Http\Collection;
+
+use ArrayIterator;
+use Iterator;
+use Xentral\Components\Http\File\FileUpload;
+
+class FilesCollection implements Iterator
+{
+    /** @var ArrayIterator $iterator */
+    protected $iterator;
+
+    /**
+     * @param array $files
+     */
+    public function __construct(array $files = [])
+    {
+        $files = $this->loadFilesArray($files);
+        $this->iterator = new ArrayIterator($files);
+    }
+
+    /**
+     * Returns all file uploads.
+     *
+     * @return FileUpload[]
+     */
+    public function all()
+    {
+        return $this->iterator->getArrayCopy();
+    }
+
+    /**
+     * Returns true if there is a file upload entry with this name.
+     *
+     * @param string $name
+     *
+     * @return bool
+     */
+    public function has($name)
+    {
+        return $this->iterator->offsetExists($name);
+    }
+
+    /**
+     * Get an file upload entry.
+     *
+     * @param string     $name
+     * @param mixed|null $default
+     *
+     * @return FileUpload|mixed
+     */
+    public function get($name, $default = null)
+    {
+        return $this->has($name) ? $this->iterator->offsetGet($name) : $default;
+    }
+
+    /**
+     * Returns true if all upload files are valid.
+     *
+     * @return bool true=all upload files are valid
+     */
+    public function allValid()
+    {
+        foreach ($this->all() as $name => $upload) {
+            if (!$upload->isValid()) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+    /**
+     * Returns true if at least one file upload has an error.
+     *
+     * @return bool true=there is at least one error
+     */
+    public function hasErrors()
+    {
+        foreach ($this->all() as $name => $upload) {
+            if ($upload->hasError()) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    /**
+     * Return the current element
+     *
+     * @return mixed FileUpload Object, null on failure
+     */
+    public function current()
+    {
+        return $this->iterator->current();
+    }
+
+    /**
+     * Move forward to next element
+     *
+     * @return void
+     */
+    public function next()
+    {
+        $this->iterator->next();
+    }
+
+    /**
+     * Return the key of the current element
+     *
+     * @return mixed on success, or null on failure.
+     */
+    public function key()
+    {
+        return $this->iterator->key();
+    }
+
+    /**
+     * Checks if current position is valid
+     *
+     * @return boolean true on success or false on failure.
+     */
+    public function valid()
+    {
+        return $this->iterator->valid();
+    }
+
+    /**
+     * Rewind the Iterator to the first element
+     *
+     * @return void Any returned value is ignored.
+     */
+    public function rewind()
+    {
+        $this->iterator->rewind();
+    }
+
+    /**
+     * @param $fileEntries
+     *
+     * @return bool true=is alternate Array
+     */
+    protected function isAlternateArray($fileEntries)
+    {
+        if (
+            !isset($fileEntries[array_keys($fileEntries)[0]]['tmp_name'])
+            || is_array($fileEntries[array_keys($fileEntries)[0]]['tmp_name'])
+        ) {
+            return true;
+        }
+
+        return false;
+    }
+
+    /**
+     * @param array $fileEntries
+     *
+     * @return FileUpload[] $files
+     */
+    protected function loadFilesArray($fileEntries)
+    {
+        if (empty($fileEntries)) {
+            return [];
+        }
+        if ($this->isAlternateArray($fileEntries)) {
+            return $this->convertFilesArray($fileEntries);
+        }
+
+        $files = [];
+        foreach ($fileEntries as $name => $upload) {
+            if (empty($upload['tmp_name'])) {
+                continue;
+            }
+            if (!is_array($upload['tmp_name'])) {
+                $files[$name] = FileUpload::fromFilesArray($upload);
+                continue;
+            }
+        }
+
+        return $files;
+    }
+
+    /**
+     * Recursively builds the array with FileUpload instances from alternative array format.
+     *
+     * tested up to 3rd level nesting
+     *
+     * @param array $files
+     *
+     * @return array
+     */
+    protected function convertFilesArray(array $files)
+    {
+        $totalUploads = [];
+        foreach ($files as $name => $file) {
+            $keys = array_keys($file);
+            if (count(array_intersect($keys, ['name', 'tmp_name'])) === 2) {
+                $uploads = [];
+                foreach ($file['tmp_name'] as $k => $v) {
+                    $upload = [
+                        'tmp_name' => array_key_exists('tmp_name', $file) ? $file['tmp_name'][$k] : null,
+                        'name'     => array_key_exists('name', $file) ? $file['name'][$k] : null,
+                        'type'     => array_key_exists('type', $file) ? $file['type'][$k] : null,
+                        'size'     => array_key_exists('size', $file) ? $file['size'][$k] : null,
+                        'error'    => array_key_exists('error', $file) ? $file['error'][$k] : null,
+                    ];
+                    if (!empty($upload['tmp_name'])) {
+                        $uploads[$k] = FileUpload::fromFilesArray($upload);
+                    }
+                }
+                $totalUploads[$name] = $uploads;
+            } else {
+                if (!(isset($file['tmp_name']) && $file['tmp_name'] === '')) {
+                    $totalUploads[$name] = $this->convertFilesArray($file);
+                }
+            }
+        }
+
+        return $totalUploads;
+    }
+}

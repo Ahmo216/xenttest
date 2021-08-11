@@ -541,6 +541,8 @@ Vue.component('app-input', {
     mounted: function(){
         var self = this;
 
+        self.setSelectedToModel();
+
         // listens to compare request "broadcast" from other component
         self.$root.$on('compareConnected', function(data){
           if(self.name !== data.connectedTo) {
@@ -561,6 +563,21 @@ Vue.component('app-input', {
         });
     },
     methods: {
+        setSelectedToModel: function(){
+            var self = this;
+
+            if(self.options === undefined) {
+                return;
+            }
+
+            for(var i = 0; i < self.options.length; i++) {
+                if(self.options[i].selected) {
+                    self.inputValue = self.options[i].value;
+
+                    return;
+                }
+            }
+        },
         validateInput: function(){
             if((this.inputValue.length === 0 && !this.wasValidated) || !this.validation){
                 // input is valid if it has a value and wasn't validated before (inputs do not get validated on page render)

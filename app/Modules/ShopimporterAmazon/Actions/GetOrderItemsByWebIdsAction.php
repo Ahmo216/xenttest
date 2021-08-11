@@ -11,6 +11,6 @@ class GetOrderItemsByWebIdsAction
 {
     public function __invoke(array $webIds): Collection
     {
-        return OrderItem::whereIn('webid', $webIds)->get();
+        return OrderItem::query()->whereIn('webid', $webIds)->get();
     }
 }

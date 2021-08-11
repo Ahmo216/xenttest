@@ -1,55 +1,59 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+
+//header("Content-Type: text/html; charset=utf-8");
+
+class postbank
+{
+	function __construct()
+	{
+
+	}
+
+	function Import($zugangsdaten)
+	{
+		//user login information
+		$username = $zugangsdaten["username"];
+		$password = $zugangsdaten["password"];
+		$submit = "Anmelden";
+		//server link and variables
+		$url ="https://banking.postbank.de/rai/login/wicket:interface/:0:login:loginForm::IFormSubmitListener::";
+		$nameField ="nutzername";
+		$passField ="kennwort";
+		$subField ="loginButton";
+
+		$cookie_file = "/tmp/cookie.txt";
+
+		$page = curl_init($url);
+
+		curl_setopt($page , CURLOPT_POST, 1);
+		$postData = "jsDisabled=false&".$nameField."=".$username."&".$passField."=".$password."&".$subField."=".$submit;
+		curl_setopt($page, CURLOPT_POSTFIELDS, $postData);
+		curl_setopt($page, CURLOPT_RETURNTRANSFER, 1);
+
+		curl_setopt($page, CURLOPT_SSL_VERIFYPEER, FALSE);
+		//curl_setopt($c, CURLOPT_SSL_VERIFYHOST, 2); 
+
+		curl_setopt($page, CURLOPT_COOKIEJAR, $cookie_file);
+
+		curl_setopt($page, CURLOPT_FOLLOWLOCATION, true);
+
+		$out = curl_exec($page);
+
+		$url = "https://banking.postbank.de/rai/?wicket:bookmarkablePage=:de.postbank.ucp.application.rai.fs.umsatzauskunft.UmsatzauskunftPage";
+
+		curl_setopt($page, CURLOPT_URL, $url);
+		$pagedata = curl_exec($page);
+
+//		$url = "https://banking.postbank.de/rai/?wicket:interface=:3:umsatzauskunftContainer:umsatzauskunftpanel:panel:form:umsatzanzeigeGiro:umsatzaktionen:umsatzanzeigeUndFilterungDownloadlinksPanel:csvHerunterladen::IResourceListener::";
+
+		$url = "https://banking.postbank.de/rai/?wicket:interface=:4:umsatzauskunftpanel:form:umsatzanzeigeGiro:umsatzaktionen:umsatzanzeigeUndFilterungDownloadlinksPanel:csvHerunterladen::IResourceListener::";
+
+		curl_setopt($page, CURLOPT_URL, $url);
+		$outstr = curl_exec($page);
+
+		curl_close($page);
+		return $outstr;
+	}
+
+}
 ?>
-HR+cPu3Z2AxFO/61qI+TZTXHoTmx7nMxPGU8cYfNvBRsD4SJX5fyeAxmx60mI2wt/7SRqg7sW2LJ
-yYrWBA6C+GOtsOmKZA/fzUf/Gj3jHiISIoKG0cx6Ibn62/WXUVkKkVbc2gCzWkWkbSiscyFwcsJ+
-K/c5Tt/0uT+8z33ngHqD5sCgAMRdQhswFmOVWMTEZNbb6/waI89Xlhg0PN2jM8bSUfy9tvtVWVRd
-I+7DdKjbER+80U3qBAqCFw0W4blUtIRacxpCPlmX0g6Mbno/sgRK/wZtjCn8E3sNoJVAijEX8qYI
-Vg3rqywHWiHsp+s+9H92MB+OfmEy2+AM2HzU6QMv7A7A21o1sZQF++tUfRk/dIXGJqaSvCyqabGt
-2YPgafwe1AeOI9jP5KkXIZjcMiFqFX9/NA1JXfYyqHR24yhMDQYZXH9KjSlYxR8tmWXAFnqY0GSB
-o/u68pRM6Rt72EwA6vE2tnPkyIjbYCwlnlRQrPsvDYlqD2930T22S5Yx3ABf2VMbo/1NyICkMkHw
-+OhxrRiZPAiltgqNjXGI19GxbawcQ7eC6+nYJnZjKdNz78net8e+Rlmqzoa6Jxlevtt0AhU+/LDq
-uXOAcdAcfQxpD6xiFuFS4NXy8YHpJgapdcC7rDR7LFbmwETdpyuP633O5v6Q4aWxOK3zSAhhAvj7
-Bnu+TNCficpvrzQrz0H4kyru6Jh+d7cnS5ixcfFG4kyYt/egUwf2MoGvCHaG4YH6dqmO/m7euU88
-d1r6l6IQa91khdD55JW+038oKCGXADrgAOexlJVMEwt5VbywLY2d3SqdRFMoVvB8bkRkn+4mmkKj
-bFTe/gXbYobCsPUaO22TQ76LLkGPlPK4AIUxOAIhFr31HxRbA2MDXraSCN6yb4tU3g2k/LgHlETI
-nMvvenEZl+2MRnl4VVfkGPTh7te6m5Xp9bA5/N2us4rQw5765rDc72mAd15XSP9XGn8zMOUWVSRG
-d2xIYnE9iHbNkyyeEXYaD1cRZiilusdWmHKGy4cUsY53Hu5fasPfsCuaz+fTwH9luNeMHDqOUFTp
-si4KyjFIKj/kl616J3aN0jOsj2mY2Jt/8V689g7VQ7BF5EiT+zn0fOw2egnLHdGMfRlbif/x/hz4
-oerkRhM3kMvA5LMqbYzwyrH+mukD7FYlyr0FCoL9EdVpKXZ0KvtLFP7ZvMrCpOpuXL7lTz+UponD
-4onvM7oFj5Y02QXAdxBNqUQfWmve86FfBgpINUEYBJYrDGmR0KUFTrOUfCQL/65mbR5xr+8GYn6f
-V81914V/Z7jZYvacgyzBgplbc7QcNx6TyU7ExAn+mwLRZHjXUz+yx7ZdYeYDFwFg3AXS+265xeYo
-NjNEn3LEMtDjjtISZ/ClEYdgtnCzudExK+qLZs6C3HHZCIlUChYYNIRxt3YkOqwa2e77L/zXvRvK
-cOqtH9rx+yhDsm8xOS06bT/a8RfQJBimjMjp8+niR5oKxwFOXIPN1W+AwRm5zHf5poXMT2/GMuAM
-YciDCh0przUzmslk4HDE1oakjIIfAekqNWUG+d4UPTXbveVes3wRFckygwv5134l1hPoyKzi+J3d
-lcBDmYZOS+XaT6YwikZiyvi6NdNE3HHJaGhbZCkDgqcrKpuxH0yqUZu/M6dmv/FPVh0mDSe47vcq
-YpVrt8VIYzqqDsN5qSYnQsk3Wh3Mi8gZXP/UCURKZZL1WL63sY2cTJje+Y6X0cfeTJ/CrwQYr1ti
-HrPgen12ycoTHIXVWHuvEeCZalc9+rz//yRl2Zj76bAn8YsYOSP0h7aYqVGfHmj18Gw/anbdQmQg
-+IZiHL034e4txSj5+VbRKJU3Ec4ZbklS6nbYKoG9E4W9iqIcQ3ViDAwnWqwKlU3+/yost18tv2Ng
-HHOzT6OWsVxLa59d1TBB92RlHACAzrAcnz6NeO1oIH5DYUXJdgY6aygSI8l+rd2uLd+a9qtZfKmb
-CdJqfRB5bHVYSh6ncWxp4HrI4MiCTsyqFpOwK6f+z1sBbUgpK9a8iDlDQKJZZirhmm+Gdlv/8qyK
-2hQVQmcwOZU1lnrdQe3PvsG/24eJPEoq5TRl5LsG/7cw2fAD8HySzDlqjcUheCwG9uwKmn7/zi+e
-SgfaajtbgiwTnJNVM5mAxPOBevdmbXkUCZW5q7g7fBeIMukRQZHMOg1aOeukvLZx31Q82kgIKSr2
-9vX7lnljUAyGcIGBegxyy+AkAFyV3EcnB2ja/WAq3zBGwm/6wyrYp8B6GL359z3FzyOGgkluYTxS
-cRW7WYpsPKpuYaxCE+gzMgqkMh/z0cRigR6EBiqOZMqqM36DqAuXgkKrrsLfNc5AmMdyqDF7CwKg
-hMc2sQd7rM1vRcV50OfiESbss0l84d3HDLk/S3sxPjqj8f/Mp04dOAmxDttuM3qK5Sm6C/btRMqO
-mNYyE3hhEpHY7zxfibDWOG5l20TB+01MGlykUeAIbxUyGRL8nS61jHgQLbXlmoZ+FouZyNoVBJFt
-QvSlvzz3pYSYQP+k6xCH6IAHDYz1IC4jkNWXoGAR4sisCUYmrodBABva19MWfENxGw5XsWKgx9yO
-8f0FNkH8IQ0Q5hvfNuV8hqfvx6NRqNiFMoKDZZz5ZzArsv7Y1MRFzNmONYZlWweDqXlrpcYnINvp
-mPKVXKBPsujklFtrSXo3+5+hbQGbVlmltQMJ+e1w8JLCUgby3PLw5f7H5/wFHGeOBbJIQX6gqLUe
-RRUjvXpEkejaUtuZVVXXVBgb040CutDAAwUv1zONyt2vT/Niq4LP1+gFHae8Qwixzy2FsoDCi+2G
-6BYsJ6jBUhQEWMzpDC4hh8CdRbcqHbd7u8meH+yrCHMWObJk9GliVssBM43H6H9HjDY9UoEFs8Nn
-YZzZh5AzxzsLYAvig/TqBzVi8iS8E5VuWyGNprpAfH9EhyAbqbIXHIj77joIwZb7IqPE0HfuARKf
-HquafnpX7ch4xbYic++6OJ3sA+Nlq2j9JO77wCUjdzO9P5OAgqqnREX9fXVyVB4ZtgpwSFd1m/S5
-8/jo8XqPZDrqImfXrT7J1BTr9o7bm0JrXpVi9n8Vj1xH6ddQ0/Y4nzsbXscIEgXKexkWDSVUwO1b
-0QdFe05sBvD3SAWzN9IoYNRI867l7AS0Z2jOf0lzgZ3Y6KS6nGkkZnq0v1fs96QbMpAUpPH4bpdc
-X8Yu6shxWe0HLiz5gvF/6+nrP1Fi38yQi9nu+J9+Uf3jOORZ/L9zDZgicabJLvMvvtkNwiq7pPUk
-1hmZfbg1r7xN74W/81hNBmUN1UvPERJdH8HB85a2Sba5PDZ0/XQTlG30co7UFtYkOXW12aG3VeQF
-kHAdf+8Xf8CurvBokG1nKJMDaLpKTFiMJskkULrYHJL4lYqzqDWr0cFtXxk2xCV9Yncqd6TsNDMA
-H6Hf4FEM8s0w9klCsosOvY2esqsmDBv/HQon9Vqmc1zMWwsMSR9DLthX88ogRkS8KNnclaRnxekC
-3G79B4OiuXK/uGALIk5K5sgmVNwI/9jAOiN08PHwlZloy4XLJtrd6JwpVgN7yCGTA5BLiMTOD03M
-82brLlzeBx6yg7n/EXan/HswZE84kCbrGQnB4U8aX7WUzyxtIatwKcicaXfnxP9adR70hjDW8yyO
-10XOivzte4bVkTsT2ULQKZwiJYPXRWDMXTY2Myeup/DbpUfAr13NBz6Dophp2SENj5Af+HQP+Gvr
-sWIK5K2LxoAIUl/U/2WUCScv1VFYBXpCkr/GaEfdbsPM6pUo9YT/GrBDukVKvr4RVF3p5FpqyRjl
-/Foxq4CfrhqsZnHfTxw4kDtXo2HT+sVBCRmUlLUG96Ijx3bg8/cMk+hilMLOdeKs46gUK9cmEM66
-xV2PauH2LzUAtIr7IRTJif0Gv/S=

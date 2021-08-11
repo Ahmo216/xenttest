@@ -1,57 +1,71 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\HocrParser\Service;
+
+use Xentral\Modules\HocrParser\Data\BoundingBoxCollection;
+use Xentral\Modules\HocrParser\Finder\BoundingBoxFinder;
+use Xentral\Modules\HocrParser\Finder\CurrencyCodeFinderFacet;
+use Xentral\Modules\HocrParser\Finder\PatternMatcher;
+use Xentral\Modules\HocrParser\Finder\RelativePositionFinderFacet;
+
+class HocrDataExtractor
+{
+    /** @var array|string[] $validCurrencies */
+    private $validCurrencies;
+
+    /** @var HocrParser $parser */
+    private $parser;
+
+    public function __construct(HocrParser $parser, array $validCurrencies)
+    {
+        $this->validCurrencies = $validCurrencies;
+        $this->parser = $parser;
+    }
+
+    /**
+     * @param string $document HOCR-Dokument
+     * @param array  $settings Einstellungen (pro Lieferant)
+     *
+     * @return array
+     */
+    public function extractLiabilityDataFromHocrDocument(string $document, array $settings): array
+    {
+        // Suchkriterien zusammenstellen
+        $criteria = [];
+        if(!empty($settings['invoice_number']['term']) && !empty($settings['invoice_number']['direction'])){
+            $criteria['invoice_number'] =
+                new RelativePositionFinderFacet(
+                    $settings['invoice_number']['term'],
+                    $settings['invoice_number']['direction'],
+                    PatternMatcher::PATTERN_DOCUMENT_NUMBER
+                );
+        }
+        if(!empty($settings['invoice_date']['term']) && !empty($settings['invoice_date']['direction'])){
+            $criteria['invoice_date'] =
+                new RelativePositionFinderFacet(
+                    $settings['invoice_date']['term'],
+                    $settings['invoice_date']['direction'],
+                    PatternMatcher::PATTERN_DATE
+                );
+        }
+        if(!empty($settings['total_gross']['term']) && !empty($settings['total_gross']['direction'])){
+            $criteria['total_gross'] =
+                new RelativePositionFinderFacet(
+                    $settings['total_gross']['term'],
+                    $settings['total_gross']['direction'],
+                    PatternMatcher::PATTERN_MONEY
+                );
+        }
+        // Immer nach Währungen suchen
+        $waehrungen = $this->validCurrencies;
+        $criteria['currency'] = new CurrencyCodeFinderFacet($waehrungen);
+
+        // BoundingBoxes aus HOCR extrahieren + Suche anhand der Suchkriterien durchführen
+        $boxes = new BoundingBoxCollection($this->parser->parse($document));
+        $finder = new BoundingBoxFinder($boxes, $criteria);
+
+        return $finder->Find();
+    }
+}

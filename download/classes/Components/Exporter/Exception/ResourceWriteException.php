@@ -1,29 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Exporter\Exception;
+
+use Exception;
+
+class ResourceWriteException extends Exception implements ExporterExceptionInterface
+{
+}

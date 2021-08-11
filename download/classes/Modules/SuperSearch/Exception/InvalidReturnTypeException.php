@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPqI1c089Q64rapOD8LE+jnC6W2xkoTNP3mrAYMAI+d1l6xCm0Szi9NlrJjNqgyjob7XHdV82
-zwveBqSCY1BPQQSRGFKbgvsz7L5HsMCGXRJV7ZV15QC6cJH07mB0rTLKBwCYRK2fwBF8JttyFTkh
-T9fwzvQ+juVa42wTAtzKO291tzPindY0KMcXDGiptMtpnleVUaCDjVEEyjyD3DxXKeOS3E9ZkmFZ
-e8oTWGGXlwRFKNQVSF0sjaYwOsWdKWroakvvdlXd6NPucIPlmWn9+uaFksJOJx0CzTOeg46wuyDT
-Z+IIwCAY8wg9jzGpDwgri8EARsuQ4UmKv6JNbrcc72aQYbhK4WdmqmtkPBk/dIXGJqaSvCyqabGt
-2YOqY9nP3H/PIq3GCgsHqJntEFy5c6YuuSjpXEHkqcw3PTRi1GQPoupWHI8fWdRo8Vc9ofTY6h8C
-d4OXxTuYE2oF0cLlyyE87xvO5+oxrSxpYz+Q8mDkT9TBvHRRu0r1yifdV+jyaIHFsNt0BOSDfZMS
-pngAVW2jnOkg6m9ZWsUll351QolEInJQlXQm+8EV5tHrWSB7onyt5k9npWdqp2JSbg/Z55rzbu8k
-8kR6jajQabvrcv0MkkFJGJfmZuve4uWEfiMIjZu/LIojBiYD5tAN6zUgtnl7dTa4jZHwEOmgvUW+
-ruhI5l9T5xteK4hEgZecPE/RgqUOKps843x2+UCTGR91T+papdVJy8UUUKkEFqG9/+PXkdmG3Wqc
-dfqxq5ho+Mh4WmMVTAdYxmCaVlYqLqIvhHb+kyKMHJwE+8U7Ceir0WlmlA2I32yaDYZB2QVXNlwL
-FQxbP9fGPkUtlYrIbKZHrABS/5Qaj9mXZr0kgWbvFIssW5c2G8NJWXzUpXH1AO754q6lAilOJuF2
-Givfw/wAMXM0UM895U9t0Xyn2+u03R4Fa6rsGChu5DSvYEVfDb7XYL9vK9T31h6EX5Jnf3b7S/cg
-nVQFl6aqSXV34KWjbT1ozdKKZaUKXjMQ9V0eaw/nOBbQk7CODnqPtMWx63XQrWTDAI4ASPEQOvg4
-QTPgTybTbnAABtXDAvX+CGDy1Ml/wkBnSZLAx0KhSrQ8eCXT0bkhw9b940XoLn5JMQXwScn88m1C
-zykZ39ZkhnBAmEIVT02QZby+2f9oftZm4IhHFw3NrTsYtOosvijaoFyW6WCKFWe0Dx1+MnJPB/Kc
-7xsDi9leYLu0qwqnM63wR1KjaaykIVa4nUwLwBIo5lN/bIZutxD6bgElovyIbh0mNwOKtr13pAYr
-B0+BoYhzBCm/nNQ4/FeTGZydm7elvBjuYpEMMSWQR3FFhYaXyasCBEl1+1zVY+89Z1nicQpTSRfi
-mxKicbECiCJ/MEaM/sPWBTppX4/jyZA/wu10V5IQydWvpifG/WUTGkWsGnV52M9+6wG649t+bDqF
-ng+TJMLzhUMoSGH74+qqhDGsdturfIOeP+I5XWTTKP2P6oCnsQQndlLbaYzXa3yC+MHQ3Wf7PbCY
-jQgbzLH1XfFXUs3WVbT0anqktkSnmpKB3j8IM2rtC0d83PP1+XTscXTv8fKei37jKfr/4IRDh0RA
-WVZJ3UX/IFwmuLO+q/cv2WRefJCrxUgolM57KBzQIbBaFqxOqW+ObHtv0vluMrhfytIvbiBk/MF4
-pDhrEpT8V88csuqx+3GaWcjgPx75ZVsuVy4iExs/K16XlfNDvhHaIEzcRhTHID7a9PA5ykmxU/ah
-yZTmcj96kGzp3Ttzw0Ojw9pa1ZueXEKVh0C6zKEDLZudtVxM/IZ735POAFgCoOeT8KOARlkk/ArX
-halOp9xB/UlslSNsLGaV39yPay8D6F4vZoXfylKDL6ImZZFE7BVAt5b7cDKjjhMN1t9ToLaNSWE3
-RJcenl4uNKfAtxy0u7KRzdw9MtUMToM1tELf3JXUsSG5w10Z8UVoxPo83Jx0RBo1X33okI+HElTS
-9xTLtEqIvLiHc2EVDqfj2bEpeGdcYxOmueEzQLFPmW==
+<?php
+
+namespace Xentral\Modules\SuperSearch\Exception;
+
+use LogicException;
+
+final class InvalidReturnTypeException extends LogicException implements SuperSearchExceptionInterface
+{
+}

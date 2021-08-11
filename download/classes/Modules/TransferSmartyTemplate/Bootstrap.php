@@ -1,82 +1,101 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\TransferSmartyTemplate;
+
+use ApplicationCore;
+use RuntimeException;
+use Smarty;
+use SmartyException;
+use Xentral\Core\DependencyInjection\ContainerInterface;
+use Xentral\Modules\TransferSmartyTemplate\Smarty\SmartyWrapper;
+use Xentral\Modules\TransferSmartyTemplate\Smarty\SmartyTemplateHelper;
+use Xentral\Modules\TransferSmartyTemplate\Smarty\SmartySecurity;
+
+final class Bootstrap
+{
+    /**
+     * @return array
+     */
+    public static function registerServices()
+    {
+        return [
+            'TransferSmartyTemplate' => 'onInitTransferSmartyTemplate',
+        ];
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @throws SmartyException
+     * @throws RuntimeException
+     *
+     * @return TransferSmartyTemplate
+     */
+    public static function onInitTransferSmartyTemplate(ContainerInterface $container)
+    {
+        /** @var ApplicationCore $app */
+        $app = $container->get('LegacyApplication');
+        $userdataTempDir = $app->erp->GetTMP();
+        $customBaseDir = realpath($userdataTempDir) . '/Modules/TransferSmartyTemplate';
+
+        $compileDir = $customBaseDir . '/templates_c';
+        $defaultTemplateDir = __DIR__ . '/templates/default';
+
+        $transferTemplate = new TransferSmartyTemplate(self::onInitSmartyFacade($compileDir));
+        $transferTemplate->addTemplateDir('default', $defaultTemplateDir);
+
+        return $transferTemplate;
+    }
+
+    /**
+     * @param string $compileDir
+     * @param array  $templateDirs
+     *
+     * @throws SmartyException
+     *
+     * @return SmartyWrapper
+     */
+    public static function onInitSmartyFacade($compileDir, array $templateDirs = [])
+    {
+        $smarty = new Smarty();
+        $smarty->setCaching(false);
+        $smarty->setDebugging(false);
+        $smarty->setEscapeHtml(false);
+        $smarty->setCompileCheck(true);
+        $smarty->setTemplateDir($templateDirs);
+        $smarty->setCompileDir($compileDir);
+
+        // Security-Settings
+        $security = new SmartySecurity($smarty);
+        $smarty->enableSecurity($security);
+
+        /**
+         * Template-Funktionen registrieren
+         */
+        $helper = new SmartyTemplateHelper();
+
+        // XML
+        $smarty->registerPlugin('block', 'cdata', [$helper, 'compileBlockCdata']);
+        $smarty->registerPlugin('block', 'escapeXml', [$helper, 'compileBlockEscapeXml']);
+        $smarty->registerPlugin('block', 'error', [$helper, 'compileBlockError']);
+        $smarty->registerPlugin('modifier', 'cdata', [$helper, 'compileModifierCdata']);
+        $smarty->registerPlugin('modifier', 'escapeXml', [$helper, 'compileModifierEscapeXml']);
+        $smarty->registerPlugin('modifier', 'error', [$helper, 'compileModifierError']);
+
+        // CSV
+        $smarty->registerPlugin('modifier', 'quoteCsv', [$helper, 'compileModifierQuoteCsv']);
+
+        // HTML+URL
+        $smarty->registerPlugin('modifier', 'br2nl', [$helper, 'compileModifierBr2Nl']);
+        $smarty->registerPlugin('modifier', 'encodeUrl', [$helper, 'compileModifierEncodeUrl']);
+        $smarty->registerPlugin('modifier', 'decodeUrl', [$helper, 'compileModifierDecodeUrl']);
+        $smarty->registerPlugin('modifier', 'decodeHtmlEntities', [$helper, 'compileModifierDecodeHtmlEntities']);
+        $smarty->registerPlugin('modifier', 'decodeHtmlSpecialChars', [$helper, 'compileModifierDecodeHtmlSpecialChars']);
+
+        // Common
+        $smarty->registerPlugin('modifier', 'replaceLineBreaks', [$helper, 'compileModifierReplaceLineBreaks']);
+        $smarty->registerPlugin('modifier', 'dump', [$helper, 'compileModifierDumpVariable']);
+
+        return new SmartyWrapper($smarty);
+    }
+}

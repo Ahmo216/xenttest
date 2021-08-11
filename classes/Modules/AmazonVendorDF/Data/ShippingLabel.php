@@ -1,51 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-HT/zE+O0kuIT3bu=
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF\Data;
+
+class ShippingLabel implements \JsonSerializable
+{
+    /** @var string */
+    private $purchaseOrderNumber;
+    /** @var string */
+    private $encodedLabelData;
+    /** @var string */
+    private $labelFormat;
+    /** @var string */
+    private $trackingNumber;
+
+    public function __construct(string $purchaseOrderNumber, string $encodedLabelData, string $labelFormat = 'PNG')
+    {
+        //@TODO check if we need to implement multiple labels per order
+        $this->purchaseOrderNumber = $purchaseOrderNumber;
+        $this->encodedLabelData = $encodedLabelData;
+        $this->labelFormat = $labelFormat;
+    }
+
+    public function getTrackingNumber(): string
+    {
+        return $this->trackingNumber;
+    }
+
+    public function setTrackingNumber(string $trackingNumber): self
+    {
+        $this->trackingNumber = $trackingNumber;
+
+        return $this;
+    }
+
+    public function hasTrackingNumber(): bool
+    {
+        return $this->trackingNumber !== null;
+    }
+
+    public function getEncodedLabelData(): string
+    {
+        return $this->encodedLabelData;
+    }
+
+    public function jsonSerialize(): array
+    {
+        return [
+            'purchase_order_number' => $this->purchaseOrderNumber,
+            'tracking_number' => $this->trackingNumber,
+            'encodedLabelData' => $this->encodedLabelData
+        ];
+    }
+}

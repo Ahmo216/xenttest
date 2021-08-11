@@ -14,9 +14,17 @@
         "enabled": true,
         "actions": [
             {
-                "action": "npm run eslint && git add {$STAGED_FILES}",
+                "action": "npm run eslint -- {$STAGED_FILES|of-type:js,vue} && git add {$STAGED_FILES}",
                 "options": [],
-                "conditions": []
+                "conditions": [
+                    {
+                        "exec": "\\CaptainHook\\App\\Hook\\Condition\\FileStaged\\OfType",
+                        "args": [
+                            "js",
+                            "vue"
+                        ]
+                    }
+                ]
             },
             {
                 "action": "composer lint-staged-files",

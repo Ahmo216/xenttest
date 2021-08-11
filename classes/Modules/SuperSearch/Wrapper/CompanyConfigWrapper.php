@@ -1,31 +1,43 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-EZi9WH1EQCRra6kASFlQYIlrmaiXimLnw20=
+<?php
+
+namespace Xentral\Modules\SuperSearch\Wrapper;
+
+use erpAPI;
+
+/**
+ * Anti-Corruption-Layer für erp::GetKonfiguration und erp::SetKonfigurationValue
+ */
+final class CompanyConfigWrapper
+{
+    /** @var erpAPI $erp */
+    private $erp;
+
+    /**
+     * @param erpAPI $erp
+     */
+    public function __construct(erpAPI $erp)
+    {
+        $this->erp = $erp;
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return mixed
+     */
+    public function get($name)
+    {
+        return $this->erp->GetKonfiguration($name);
+    }
+
+    /**
+     * @param string $name
+     * @param mixed  $value
+     *
+     * @return void
+     */
+    public function set($name, $value)
+    {
+        $this->erp->SetKonfigurationValue($name, $value);
+    }
+}

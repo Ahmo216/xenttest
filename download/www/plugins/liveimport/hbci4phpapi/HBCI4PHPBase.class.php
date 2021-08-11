@@ -1,3246 +1,1612 @@
-<?php
-/**
- * HBCI4PHP Extended Library
- *
- * Copyright 2015 Web.Cloud.Apps. GmbH | Schillerstr. 14 | 71638 Ludwigsburg. | Alle Rechte vorbehalten.
- * Telefon: 07141-2589050 | E-Mail: info@web-cloud-apps.com
- *
- * Produkt-ID: CF84205B0B0556F80DB66A221
- **/
-
-class HBCI4PHPBase
-{
-    public $error = false;
-    public $errorMessage = "";
-
-    private $EXPIRE_TIMESTAMP = 0;
-    private $LICENSE_VERSION = 4;
-    private $TYPE = 'Regular'; // Regular, Extended
-    private $EDITION = 'Basic'; // Basic, Plus, Pro
-    private $LICENSED_TO = '';
-
-    // Users login data to the bank account
-    private $userPin = "";
-    private $iban = "";
-    private $bic = "";
-    private $userAccount = "";
-    private $userAccountNumber = "";
-    private $userBlz = "";
-    private $hbciServerUri = "https://hbci-pintan-by.s-hbci.de/PinTanServlet"; // DKB
-
-    // Here we save the name of the user
-    private $kontoUserName = "";
-
-    // segment counter. Should be increment everytime when it is used.
-    // a segment is part of a message and end with (')
-    private $segmentNumber = 2;
-
-    // Dialog-ID
-    // The Dialog-ID is returned by the bank, when we start a conversation
-    private $dialogId = 0;
-
-    // sending message number
-    // The message number it the number of our messages within a dialog
-    private $messageNumber = 1;
-
-    // Variable holding the log
-    protected $log = "";
-
-    // variable holding the file for the log
-    private $logFile = null;
-
-    // This is the systemID for autorising. When we do not have one, we will ask for one..
-    private $systemId = "0";
-
-    // Supported TAN methods array
-    private $supportedTanMethods = array();
-
-    // Supported TAN methods array
-    private $allowedTanMethods = array();
-
-    // Allowed PIN/TAN - Default 999
-    private $pinTanMethod = "999";
-
-    private $arrTANMedia = array();
-
-    // BPD Version
-    private $bpdVersion = "0";
-
-    // UPD Version
-    private $updVersion = "0";
-
-    // HBCI Version
-    private $hbciVersion = "300";
-
-    // HKSAL Version (Get Saldo)
-    private $arrSupportedHKSALVersions = array(5, 6, 7);
-    private $HKSALVersion = 0;  // If fields remains zero, this function is not supported
-
-    // HKKAZ Version (Get Umsaetze)
-    private $arrSupportedHKKAZVersions = array(5, 6, 7);
-    private $HKKAZVersion = 0;  // If fields remains zero, this function is not supported
-
-    // HKTAB - get supported TAN-medien
-    private $arrSupportedHKTABVersions = array(2, 3, 4, 5);
-    private $HKTABVersion = 0;  // If fields remains zero, this function is not supported
-
-    // HKTAN
-    private $arrSupportedHKTANVersions = array(3, 4, 5, 6);
-    private $HKTANVersion = 0;  // If fields remains zero, this function is not supported
-
-    // Check for allowed jobs
-    private $allowedHKTAB = false;
-
-    // The name and version of our System
-    protected $registrationNumber = "";
-    private $product_name = "HBCI4PHP";
-    private $product_version = "4.0.1";
-
-    // shutdown the SSL Verification
-    private $SSL_VERFIYPEER = 1;
-
-    // Runtime token, for logging to file
-    private $runtimeToken = '';
-
-    private $anonymDialogRunning = false;
-    private $nationalAccountAllowed = true;
-
-    private $authNeeded = false;
-    private $authChallenge = [];
-
-    private function checkLicence() {
-        // Check expire
-        $time = time();
-        if( $this->EXPIRE_TIMESTAMP > 0 && $time > $this->EXPIRE_TIMESTAMP )
-            die("Ungültige oder abgelaufene Lizenz!");
-
-        if( $this->LICENSE_VERSION < 4 )
-            die("Ungültige oder abgelaufene Lizenz!");
-    }
-
-    private function quersumme($digits)
-    {
-        $strDigits = ( string ) $digits;
-
-        for( $intCrossfoot = $i = 0; $i < strlen ( $strDigits ); $i++ ) {
-            $intCrossfoot += $strDigits{$i};
-        }
-
-        return $intCrossfoot;
-    }
-
-    private function arrayToJS($dataArray)
-    {
-        $result = 'var hhdData = [];';
-
-        foreach( $dataArray as $row ) {
-            $result .= 'hhdData.push([' . implode(', ', $row) . ']);';
-        }
-
-        return $result;
-    }
-
-    protected function _getTanGraphics($challenge)
-    {
-        $tanMethodParamter = $this->supportedTanMethods[$this->pinTanMethod];
-        $tanVersion = $tanMethodParamter['version'];
-
-        $lcLength = 3;
-        if( $tanVersion == '1.3.2' )
-            $lcLength = 2;
-
-        // ToDo: Check challenge format. If not valid, return false
-        $luhn = 0;
-        $xor = 0;
-
-        $currentStringPosition = 0;
-        $result = array();
-
-        // Insert sync
-        $result[] = array(0, 0, 0, 0);
-        $result[] = array(1, 1, 1, 1);
-        $result[] = array(1, 1, 1, 1);
-
-        // Insert LC
-        $lc = (int) substr($challenge, $currentStringPosition, $lcLength);
-        $currentStringPosition += $lcLength;
-
-        $lsb = array(0, 0, 0, 0);
-        $result[] = $lsb;
-
-        $msb = array(0, 0, 0, 0);
-        $result[] = $msb;
-
-        // Get data from LC
-        $totalStringLength = $lc;
-
-        // Insert LS
-        $ls = substr($challenge, $currentStringPosition, 2);
-        $currentStringPosition += 2;
-
-        $ls = base_convert($ls, 16, 10);
-
-        $lsb = array(0, 0, 0, 0);
-        if( $ls & 0x01 ) $lsb[0] = 1;
-        if( $ls & 0x02 ) $lsb[1] = 1;
-        if( $ls & 0x04 ) $lsb[2] = 1;
-        if( $ls & 0x08 ) $lsb[3] = 1;
-        $result[] = $lsb;
-
-        $msb = array(0, 0, 0, 0);
-        if( $ls & 0x10 ) $msb[0] = 1;
-        if( $ls & 0x20 ) $msb[1] = 1;
-        if( $ls & 0x40 ) $msb[2] = 1;
-        if( $ls & 0x80 ) $msb[3] = 1;
-        $result[] = $msb;
-
-        // Get data from LS
-        $lengthStartCode = $ls & 0x3F;
-        $startCodeASCII = ($ls & 0x40) >> 6;
-        $hasControlByte = $ls >> 7;
-
-        if( $hasControlByte ) {
-            $controlByte = substr($challenge, $currentStringPosition, 2);
-            $controlByte = base_convert($controlByte, 16, 10);
-
-            $lsb = array(0, 0, 0, 0);
-            if( $controlByte & 0x01 ) $lsb[0] = 1;
-            if( $controlByte & 0x02 ) $lsb[1] = 1;
-            if( $controlByte & 0x04 ) $lsb[2] = 1;
-            if( $controlByte & 0x08 ) $lsb[3] = 1;
-            $result[] = $lsb;
-
-            $msb = array(0, 0, 0, 0);
-            if( $controlByte & 0x10 ) $msb[0] = 1;
-            if( $controlByte & 0x20 ) $msb[1] = 1;
-            if( $controlByte & 0x40 ) $msb[2] = 1;
-            if( $controlByte & 0x80 ) $msb[3] = 1;
-            $result[] = $msb;
-
-            $currentStringPosition += 2;
-
-            $luhn += ($controlByte & 0xF0) >> 4;
-            $luhn += $this->quersumme(($controlByte & 0x0F) * 2);
-
-            // XOR over ControlByte
-            $xor = $xor ^ ($controlByte >> 4);
-            $xor = $xor ^ ($controlByte & 0x0F);
-        }
-
-        // Get start code
-        if( $startCodeASCII ) {
-
-        }
-        else
-        {
-            // temporary, because we need to change
-            $tmpResult = array();
-
-            for( $i = 0; $i < $lengthStartCode; $i++)
-            {
-                $char = (int) substr($challenge, $currentStringPosition, 1);
-
-                $lsb = array(0, 0, 0, 0);
-                if( $char & 0x01 ) $lsb[0] = 1;
-                if( $char & 0x02 ) $lsb[1] = 1;
-                if( $char & 0x04 ) $lsb[2] = 1;
-                if( $char & 0x08 ) $lsb[3] = 1;
-                $tmpResult[] = $lsb;
-
-                $currentStringPosition++;
-
-                // Calculate LUHN
-                if( $i%2 == 0 )
-                    $luhn += $char;
-                else
-                    $luhn += $this->quersumme(($char & 0x0F) * 2);
-
-                // XOR over StartCode
-                $xor = $xor ^ $char;
-            }
-
-            if( ($lengthStartCode%2) == 1 ) {
-                $i++;
-                $tmpResult[] = array(1, 1, 1, 1);
-                $xor = $xor ^ 0x0F;
-                $luhn += $this->quersumme(0x0F * 2);
-            }
-
-            for($i = 0; $i < count($tmpResult); $i = $i+2)
-            {
-                $result[] = $tmpResult[$i+1];
-                $result[] = $tmpResult[$i];
-            }
-
-            // Recalculate LS and set it
-            $lengthStartCode = ($i/2);
-
-            // recuperate first 3 bits
-            $lengthStartCode = ($ls&0xE0) | ($lengthStartCode&0x1F);
-
-            $lsb = array(0, 0, 0, 0);
-            if( $lengthStartCode & 0x01 ) $lsb[0] = 1;
-            if( $lengthStartCode & 0x02 ) $lsb[1] = 1;
-            if( $lengthStartCode & 0x04 ) $lsb[2] = 1;
-            if( $lengthStartCode & 0x08 ) $lsb[3] = 1;
-            $result[5] = $lsb;
-
-            $msb = array(0, 0, 0, 0);
-            if( $lengthStartCode & 0x10 ) $msb[0] = 1;
-            if( $lengthStartCode & 0x20 ) $msb[1] = 1;
-            if( $lengthStartCode & 0x40 ) $msb[2] = 1;
-            if( $lengthStartCode & 0x80 ) $msb[3] = 1;
-            $result[6] = $msb;
-
-            // XOR over LS
-            $xor = $xor ^ ($lengthStartCode >> 4);
-            $xor = $xor ^ ($lengthStartCode & 0x0F);
-        }
-
-        // Check if we have further data
-
-        while( $currentStringPosition < $totalStringLength ) {
-            // Get LDE1
-            $lde1 = (int)substr($challenge, $currentStringPosition, 2);
-            $currentStringPosition += 2;
-
-            // Set ASCII to LDE1
-            $_lde1 = $lde1 | 0x40;
-
-            $lsb = array(0, 0, 0, 0);
-            if ($_lde1 & 0x01) $lsb[0] = 1;
-            if ($_lde1 & 0x02) $lsb[1] = 1;
-            if ($_lde1 & 0x04) $lsb[2] = 1;
-            if ($_lde1 & 0x08) $lsb[3] = 1;
-            $result[] = $lsb;
-
-            $msb = array(0, 0, 0, 0);
-            if ($_lde1 & 0x10) $msb[0] = 1;
-            if ($_lde1 & 0x20) $msb[1] = 1;
-            if ($_lde1 & 0x40) $msb[2] = 1;
-            if ($_lde1 & 0x80) $msb[3] = 1;
-            $result[] = $msb;
-
-            // XOR over LDE1
-            $xor = $xor ^ ($_lde1 >> 4);
-            $xor = $xor ^ ($_lde1 & 0x0F);
-
-            // Get DE1
-            for ($i = 0; $i < $lde1; $i++) {
-                $char = ord(substr($challenge, $currentStringPosition, 1));
-
-                $lsb = array(0, 0, 0, 0);
-                if ($char & 0x01) $lsb[0] = 1;
-                if ($char & 0x02) $lsb[1] = 1;
-                if ($char & 0x04) $lsb[2] = 1;
-                if ($char & 0x08) $lsb[3] = 1;
-                $result[] = $lsb;
-
-                $msb = array(0, 0, 0, 0);
-                if ($char & 0x10) $msb[0] = 1;
-                if ($char & 0x20) $msb[1] = 1;
-                if ($char & 0x40) $msb[2] = 1;
-                if ($char & 0x80) $msb[3] = 1;
-                $result[] = $msb;
-
-                $currentStringPosition++;
-
-                // Calculate LUHN
-                $luhn += ($char & 0xF0) >> 4;
-                $luhn += $this->quersumme(($char & 0x0F) * 2);
-
-                // XOR over DE1
-                $xor = $xor ^ ($char >> 4);
-                $xor = $xor ^ ($char & 0x0F);
-            }
-        }
-
-        // Calculate and correct LC
-        $totalMsgLength = ((count($result)-3)/2) - 1 + 1; // For the ControlByte
-        $lsb = array(0, 0, 0, 0);
-        if( $totalMsgLength & 0x01 ) $lsb[0] = 1;
-        if( $totalMsgLength & 0x02 ) $lsb[1] = 1;
-        if( $totalMsgLength & 0x04 ) $lsb[2] = 1;
-        if( $totalMsgLength & 0x08 ) $lsb[3] = 1;
-        $result[3] = $lsb;
-
-        $msb = array(0, 0, 0, 0);
-        if( $totalMsgLength & 0x10 ) $msb[0] = 1;
-        if( $totalMsgLength & 0x20 ) $msb[1] = 1;
-        if( $totalMsgLength & 0x40 ) $msb[2] = 1;
-        if( $totalMsgLength & 0x80 ) $msb[3] = 1;
-        $result[4] = $msb;
-
-        // XOR over LC
-        $xor = $xor ^ ($totalMsgLength >> 4);
-        $xor = $xor ^ ($totalMsgLength & 0x0F);
-
-        // Finish and add XOR (LSB)
-        $lsb = array(0, 0, 0, 0);
-        if ($xor & 0x01) $lsb[0] = 1;
-        if ($xor & 0x02) $lsb[1] = 1;
-        if ($xor & 0x04) $lsb[2] = 1;
-        if ($xor & 0x08) $lsb[3] = 1;
-        $result[] = $lsb;
-
-        // Finish LUHN (MSB)
-        $endLuhn = $luhn % 10;
-        if( $endLuhn != 0 )
-            $endLuhn = 10 - $endLuhn;
-
-        $lsb = array(0, 0, 0, 0);
-        if ($endLuhn & 0x01) $lsb[0] = 1;
-        if ($endLuhn & 0x02) $lsb[1] = 1;
-        if ($endLuhn & 0x04) $lsb[2] = 1;
-        if ($endLuhn & 0x08) $lsb[3] = 1;
-        $result[] = $lsb;
-
-        return $this->arrayToJS($result);
-    }
-
-    protected function _getVersion() {
-        $resultString = $this->product_name . ' ' . $this->product_version . ' ' . $this->TYPE . " " . $this->EDITION . "\n";
-        $resultString .= 'Lizenziert auf: ' . $this->LICENSED_TO . "\n";
-        $resultString .= 'Ablaufdatum: ' . ($this->EXPIRE_TIMESTAMP > 0?date("d.m.Y H:i", $this->EXPIRE_TIMESTAMP):'-') . "\n";
-
-        return $resultString;
-    }
-
-    private function log($message) {
-        $this->log .= utf8_encode($message . "\n");
-
-        if( $this->logFile ) {
-            $currentTime = date("Y-m-d H:i:s", time());
-            fwrite($this->logFile, $currentTime . ' [' . $this->runtimeToken . '] ' . $message . "\n");
-        }
-    }
-
-    protected function _initHBCI4PHP($account, $iban, $bic, $pin, $serverUrl, $pintanMethod = null, $logLevel = 1, $hbci = "300", $sslVerfiyPeer = 1, $logFilePath = null, $tan = null, $auftragsreferenz = null, $dialogid = null)
-    {
-        // Create a token
-        if( $logFilePath ) {
-            $this->runtimeToken = bin2hex(openssl_random_pseudo_bytes(6));
-        }
-
-        // set UTF-8
-        mb_internal_encoding('UTF-8');
-
-        // Get the license information
-        $license = ioncube_license_properties();
-        if( !empty($license) ) {
-            if( isset($license['expires']['value']) )
-                $this->EXPIRE_TIMESTAMP = $license['expires']['value'];
-
-            if( isset($license['company']['value']) )
-                $this->LICENSED_TO = $license['company']['value'];
-
-            if( isset($license['type']['value']) )
-                $this->TYPE = $license['type']['value'];
-
-            if( isset($license['edition']['value']) )
-                $this->EDITION = $license['edition']['value'];
-
-            if( isset($license['version']['value']) )
-                $this->LICENSE_VERSION = $license['version']['value'];
-        }
-
-        // First of all, check the licence
-        $this->checkLicence();
-
-        // Check for HBCI version
-        if( $hbci != 300 ) {
-            $this->setError("HBCI Version wird nicht unterstützt!");
-            return;
-        }
-
-        /** Save the settings to class */
-        $this->userPin = utf8_decode($pin);
-        $this->iban = $iban;
-        $this->userAccount = $this->HBCIEscape($account);
-        $this->userAccountNumber = (int)$this->HBCIEscape( substr($iban, 12, 10) );
-        $this->userBlz = (int)substr($iban, 4, 8);
-        $this->bic = $bic;
-        $this->SSL_VERFIYPEER = $sslVerfiyPeer?1:0;
-
-        if( $logFilePath ) {
-            $fp = fopen($logFilePath, 'a');
-            if( $fp === false ) {
-                $this->log('Log-Datei kann nicht zum Schreiben geöffnet werden. Bitte prüfen Sie die Schreibrechte.');
-            }
-            else {
-                $this->logFile = $fp;
-            }
-        }
-
-        if( $hbci != null )
-            $this->hbciVersion = $hbci;
-
-        if( $serverUrl != null )
-            $this->hbciServerUri = $serverUrl;
-
-        if( is_numeric($logLevel) )
-            $this->logLevel = $logLevel;
-
-        if( $this->logLevel > 0 ) {
-            $this->log("--- HBCI4PHP INITIALIZATION STARTED ---");
-            $this->log("SYSTEM DATE: " . date('Y-m-d H:i:s', time()));
-            $this->log("ACCOUNT: $account");
-            $this->log("ACCOUNT-NUMBER: " . $this->userAccountNumber);
-            $this->log("BLZ: " . $this->userBlz);
-            $this->log("BIC: " . $this->bic);
-            $this->log("PIN: XXXXXX");
-            $this->log("HBCI: $hbci");
-            $this->log("HBCI ENDPOINT URI: $serverUrl");
-            $this->log("--- HBCI4PHP INITIALIZATION ENDED ---");
-        }
-
-        // Start anonym message
-        $this->anonymMessage();
-
-        // Send synchronize message
-        $this->synchroniseMessage();
-
-        // Check if TAN-Method allowed and select it
-        if( $pintanMethod !== null ) {
-            $allowed = $this->_getAllowedTanMethods();
-            if( !$pintanMethod || !isset($allowed[$pintanMethod]) ) {
-                $this->setError("TAN-Method empty or not allowed!");
-                return;
-            }
-            $this->pinTanMethod = $pintanMethod;
-        }
-
-        // Read TAN Media
-        $this->_requestTANMedia();
-
-        // Send again SYNC but secure
-        $this->synchroniseMessageSecure($tan, $auftragsreferenz, $dialogid);
-    }
-
-    protected function _setRegistrationNumber($registrationNumber) {
-        $this->registrationNumber = $registrationNumber;
-    }
-
-    protected function _getAllowedTanMethods()
-    {
-        $result = array();
-
-        foreach( $this->allowedTanMethods as $tanId ) {
-            if( isset($this->supportedTanMethods[$tanId]) ) {
-                $result[$tanId] = $this->supportedTanMethods[$tanId];
-            }
-        }
-
-        return $result;
-    }
-
-    protected function _getCurrentTanMethod()
-    {
-        return $this->pinTanMethod;
-    }
-
-    protected function _requestTANMedia()
-    {
-        /** Init the dialog  */
-        $this->initDialogMessage(true, 'HKTAB');
-
-        // Get list of generatores
-        if( $this->HKTABVersion > 0  ) { // && $this->allowedHKTAB == true ) {
-            $this->getGeneratorList();
-        }
-
-        // End dialog
-        $this->endDialogMessage();;
-    }
-
-    protected function _authNeeded()
-    {
-        return $this->authNeeded;
-    }
-
-    protected function _getAuthChallenge()
-    {
-        return $this->authChallenge;
-    }
-
-    protected function _getTANMedia()
-    {
-        $result = [];
-        foreach( $this->arrTANMedia as $mediaName ) {
-            $result[] = $mediaName;
-        }
-
-        return $result;
-    }
-
-    protected function _setTanMedia($mediaName)
-    {
-        foreach( $this->arrTANMedia as $name ) {
-            if( $mediaName == $name ) {
-                $this->supportedTanMethods[$this->pinTanMethod]['mediumname'] = $name;
-                return true;
-            }
-        }
-
-        return false;
-    }
-
-    protected function _getAccountTurnovers($startDate = null, $endDate = null, $aufsetzpunkt = '', $tan = null, $auftragsreferenz = null, $dialogid = null, $returnType = 'array')
-    {
-        // Check if we have an error, then don't continue
-        if( $this->error == true )
-            return;
-
-        /** Check date parameter and correct */
-        if( $startDate == null ) {
-            $startDate = '';
-        }
-
-        if( $endDate == null ) {
-            $endDate = '';
-        }
-
-        // Check the start date
-        if( $startDate != null )
-        {
-            if( strlen($startDate) != 8 ) {
-                die('FEHLER: Das Startdatum fuer die Umsaetze scheint ein falsches Format zu haben.');
-            }
-
-            $y = substr($startDate, 0, 4);
-            $m = substr($startDate, 4, 2);
-            $d = substr($startDate, 6, 2);
-
-            $startTime = mktime(0, 0, 0, $m, $d, $y);
-
-            if( $startTime > time() ) {
-                die('FEHLER: Das Startdatum fuer die Umsaetze scheint ein falsches Format zu haben oder liegt in der Zukunft.');
-            }
-        }
-
-        // If we got an end date, check if its not in the future
-        if( $endDate != null )
-        {
-            if( strlen($endDate) != 8 ) {
-                die('FEHLER: Das Enddatum fuer die Umsaetze scheint ein falsches Format zu haben.');
-            }
-
-            $y = substr($endDate, 0, 4);
-            $m = substr($endDate, 4, 2);
-            $d = substr($endDate, 6, 2);
-
-            $endTime = mktime(0, 0, 0, $m, $d, $y);
-
-            if( $endTime > time() ) {
-                die('FEHLER: Das Enddatum fuer die Umsaetze scheint ein falsches Format zu haben oder liegt in der Zukunft.');
-            }
-        }
-        else {
-            // Make sure we don't allow to get payments newer then EXPIRE_TIMESTAMP
-            if( $this->EXPIRE_TIMESTAMP > 0 ) {
-                $endTime = time();
-                $endDate = date("Ymd", $endTime);
-            }
-        }
-
-        // Check the dates to each other
-        if( $startDate != null && $endDate != null )
-        {
-            if( $startTime > $endTime ) {
-                die('FEHLER: Das Enddatum fuer die Umsaetze darf nicht vor dem Startdatum liegen.');
-            }
-        }
-
-        /** Check if we support this function */
-        if( $this->HKKAZVersion == 0 ) {
-            $this->log("GET ACCOUNT TURNOVERS NOT SUPPORTED");
-            return;
-        }
-
-        if( $this->logLevel > 0 ) {
-            $this->log("ACTION: GET ACCOUNT TURNOVERS");
-            $this->log("AUFSETZPUNKT: $aufsetzpunkt");
-        }
-
-        // Start new Dialog or resume last one
-        if( $dialogid == null || empty($dialogid) || $auftragsreferenz == null && empty($auftragsreferenz) ) {
-            $message = $this->initDialogMessage(true, 'HKIDN');
-
-            if( $this->readAuthNeeded($message) ) {
-                $auftragsreferenz = $this->messageNumber . $this->readAuftragsReferenz($message);
-                $challenge = $this->readChallenge($message);
-                $challengeData = $this->readChallengeData($message);
-
-                $this->authNeeded = true;
-                $this->authChallenge = [
-                    'auftragsreferenz' => $auftragsreferenz,
-                    'dialogid' => $this->dialogId,
-                    'systemid' => $this->systemId,
-                    'challenge' => $challenge,
-                    'challenge_data' => $challengeData
-                ];
-
-                return false;
-            }
-
-            /** create message **/
-            $message = $this->createHNSHK();
-            $message .= $this->createHKKAZ($startDate, $endDate, $aufsetzpunkt);
-
-            if( $this->HKTANVersion == 6 ) {
-                $message .= $this->createHKTAN(4);
-            }
-
-            $message .= $this->createHNSHA($tan);
-
-            /** send message and store answer in correspondent variable $answer **/
-            $message = $this->sendMessage($message);
-
-            // Check message for auth request. Then return dialogid and auftragsreferenz
-            // HIRMS:4:2:4+0030::Auftrag empfangen - Sicherheitsfreigabe erforderlich'
-            if( $this->readAuthNeeded($message) ) {
-                $auftragsreferenz = $this->messageNumber . $this->readAuftragsReferenz($message);
-                $challenge = $this->readChallenge($message);
-                $challengeData = $this->readChallengeData($message);
-
-                $this->authNeeded = true;
-                $this->authChallenge = [
-                    'auftragsreferenz' => $auftragsreferenz,
-                    'dialogid' => $this->dialogId,
-                    'systemid' => $this->systemId,
-                    'challenge' => $challenge,
-                    'challenge_data' => $challengeData
-                ];
-
-                return false;
-            }
-        }
-        else {
-            $this->dialogId = $dialogid;        // Set our dialog ID
-
-            // Regenerate the message number
-            $this->messageNumber = substr($auftragsreferenz, 0, 1);
-            $auftragsreferenz = substr($auftragsreferenz, 1);
-
-            // SUBMIT TAN
-            $message = $this->createHNSHK();
-
-            if( $this->HKTANVersion == 6 ) {
-                $message .= $this->createHKTAN(2, $auftragsreferenz);
-            }
-
-            $message .= $this->createHNSHA($tan);
-            $message = $this->sendMessage($message);
-        }
-
-        /** parse MT940 Message and get information about account turnovers. */
-        $turnoverReults = $this->parseMT940Message($startDate, $endDate, $message, $returnType);
-
-        /** End dialog and clean up the fields */
-        if( $dialogid != null  && $aufsetzpunkt == '' )
-            $this->endDialogMessage();
-
-        return $turnoverReults;
-    }
-
-    protected function _getSaldo()
-    {
-        // Check if we have an error, then don't continue
-        if( $this->error == true )
-            return;
-
-        /** Check if we support this function */
-        if( $this->HKSALVersion == 0 ) {
-            $this->log("GET SALDO NOT SUPPORTED");
-            return;
-        }
-
-        /** Init the dialog  */
-        $this->initDialogMessage();
-
-        if( $this->logLevel > 0 ) {
-            $this->log("ACTION: GET SALDO");
-        }
-
-        /** create message **/
-        $message = $this->createHNSHK();
-        $message .= $this->createHKSAL();
-        $message .= $this->createHNSHA();
-
-        $answer = $this->sendMessage($message);
-
-        // parsing regular expression
-        $pattern = "|HISAL[^\+]*\+[^\+]*\+[^\+]*\+[^\+]*\+([CD]):([0-9]+,([0-9]+)?)|";
-        $matches = array();
-        preg_match($pattern, $answer, $matches);
-
-        $returnValue = "";
-        if( isset($matches[1]) && isset($matches[2]) ) {
-            // Check if we had comas
-            if( !isset($matches[3]) || empty($matches[3]) ) {
-                $matches[2] .= '00';
-            }
-
-            $returnValue = str_replace(",", ".", $matches[2]);
-
-            if( $matches[1] == "D" ) {
-                $returnValue = -$returnValue;
-            }
-        }
-
-        /** End dialog and clean up fields */
-        $this->endDialogMessage();
-
-        // return saldo if it has been read successfully, otherwise return null
-        return $returnValue;
-    }
-
-    protected function _doBankOrder($classOrder, $tan = null, $auftragsreferenz = null, $dialogid = null)
-    {
-        switch( get_class($classOrder) ) {
-            case 'Debit':
-            case 'BusinessDebit':
-                return $this->_doDebit($classOrder, $tan, $auftragsreferenz, $dialogid);
-
-            case 'Credit':
-            case 'ScheduledCredit':
-            default:
-                return $this->_doCredit($classOrder, $tan, $auftragsreferenz, $dialogid);
-        }
-    }
-
-    private function _doCredit($classTransfer, $tan = null, $auftragsreferenz = null, $dialogid = null)
-    {
-        // Check if we have an error, then don't continue
-        if( $this->error == true )
-            return;
-
-        // Basic, Plus, Pro
-        if( $this->EDITION != 'Plus' && $this->EDITION != 'Pro' ) {
-            $this->setError("Ihre Version unterstützt diesen Geschäftsvorfall nicht!");
-            return;
-        }
-
-        // Check if we have transfer and its the right class
-        if( (!is_a($classTransfer, 'Credit') && !is_a($classTransfer, 'ScheduledCredit')) || $classTransfer->getTotalCount() < 1 ) {
-            $this->setError("Überweisung fehlerhaft oder enthielt keine Daten.");
-            return;
-        }
-
-        /** Init the dialog  */
-        if( $dialogid == null || empty($dialogid) || $auftragsreferenz == null && empty($auftragsreferenz) ) {
-            $message = $this->initDialogMessage(true, 'HKIDN');
-
-            if( $this->readAuthNeeded($message) ) {
-                $auftragsreferenz = $this->messageNumber . $this->readAuftragsReferenz($message);
-                $challenge = $this->readChallenge($message);
-                $challengeData = $this->readChallengeData($message);
-
-                $this->authNeeded = true;
-                $this->authChallenge = [
-                    'auftragsreferenz' => $auftragsreferenz,
-                    'dialogid' => $this->dialogId,
-                    'systemid' => $this->systemId,
-                    'challenge' => $challenge,
-                    'challenge_data' => $challengeData
-                ];
-
-                return $this->authChallenge;
-            }
-        }
-        else {
-            $this->resetDialogData();           // make sure we reset the dialog data
-            $this->dialogId = $dialogid;        // Set our dialog ID
-
-            // Regenerate the message number
-            $this->messageNumber = substr($auftragsreferenz, 0, 1);
-            $auftragsreferenz = substr($auftragsreferenz, 1);
-        }
-
-        if( $this->logLevel > 0 ) {
-            $this->log("ACTION: DO TRANSFER");
-        }
-
-        /** create message **/
-        // message
-        $message = $this->createHNSHK();
-        if( $tan == null && $auftragsreferenz == null ) {
-            $message .= $this->createHKCCM($classTransfer);
-            $message .= $this->createHKTAN(4);
-        }
-        else {
-            $message .= $this->createHKTAN(2, $auftragsreferenz);
-        }
-        $message .= $this->createHNSHA($tan);
-
-        $answer = $this->sendMessage($message);
-
-        // Parse the results
-        $auftragsreferenz = $this->messageNumber . $this->readAuftragsReferenz($answer);
-        $challenge = $this->readChallenge($answer);
-        $challengeData = $this->readChallengeData($answer);
-
-        /** End dialog and clean up fields */
-        if( $dialogid != null )
-            $this->endDialogMessage();
-
-        return array( 'auftragsreferenz' => $auftragsreferenz, 'dialogid' => $this->dialogId, 'systemid' => $this->systemId, 'challenge' => $challenge, 'challenge_data' => $challengeData );
-    }
-
-    private function _doDebit($classDebit, $tan = null, $auftragsreferenz = null, $dialogid = null)
-    {
-        // Check if we have an error, then don't continue
-        if( $this->error == true )
-            return;
-
-        // Basic, Plus, Pro
-        if( $this->EDITION != 'Pro' ) {
-            $this->setError("Ihre Version unterstützt diesen Geschäftsvorfall nicht!");
-            return;
-        }
-
-        // Check if we have transfer and its the right class
-        if( !is_a($classDebit, 'Debit') || $classDebit->getTotalCount() < 1 ) {
-            $this->setError("Auftrag fehlerhaft oder enthielt keine Daten.");
-            return;
-        }
-
-        /** Init the dialog  */
-        if( $dialogid == null || empty($dialogid) || $auftragsreferenz == null && empty($auftragsreferenz) ) {
-            $this->initDialogMessage(true, 'HKIDN');
-
-            if( $this->readAuthNeeded($message) ) {
-                $auftragsreferenz = $this->messageNumber . $this->readAuftragsReferenz($message);
-                $challenge = $this->readChallenge($message);
-                $challengeData = $this->readChallengeData($message);
-
-                $this->authNeeded = true;
-                $this->authChallenge = [
-                    'auftragsreferenz' => $auftragsreferenz,
-                    'dialogid' => $this->dialogId,
-                    'systemid' => $this->systemId,
-                    'challenge' => $challenge,
-                    'challenge_data' => $challengeData
-                ];
-
-                return $this->authChallenge;
-            }
-        }
-        else {
-            $this->resetDialogData();           // make sure we reset the dialog data
-            $this->dialogId = $dialogid;        // Set our dialog IDz
-
-            // Regenerate thr message number
-            $this->messageNumber = substr($auftragsreferenz, 0, 1);
-            $auftragsreferenz = substr($auftragsreferenz, 1);
-        }
-
-        if( $this->logLevel > 0 ) {
-            $this->log("ACTION: DO DEBIT SUBMIT");
-        }
-
-        // message
-        $message = $this->createHNSHK();
-        if( $tan == null && $auftragsreferenz == null ) {
-            $message .= $this->createHKDSE($classDebit);
-            $message .= $this->createHKTAN(4);
-        }
-        else {
-            $message .= $this->createHKTAN(2, $auftragsreferenz);
-        }
-        $message .= $this->createHNSHA($tan);
-
-        $answer = $this->sendMessage($message);
-
-        // Parse the results
-        $auftragsreferenz = $this->messageNumber . $this->readAuftragsReferenz($answer);
-        $challenge = $this->readChallenge($answer);
-        $challengeData = $this->readChallengeData($answer);
-
-        /** End dialog and clean up fields */
-        if( $dialogid != null )
-            $this->endDialogMessage();
-
-        return array( 'auftragsreferenz' => $auftragsreferenz, 'dialogid' => $this->dialogId, 'systemid' => $this->systemId, 'challenge' => $challenge, 'challenge_data' => $challengeData );
-    }
-
-    private function HBCIEscape($value) {
-        return str_replace('@', '?@', $value);
-    }
-
-    private function setError($errorMessage = "")
-    {
-        $this->error = true;
-        $this->errorMessage = $errorMessage;
-    }
-
-    /**
-     * This method is called after a message is sent, so that segement counter is reseted and
-     * the message number incremented.
-     */
-    private function resetMessageData()
-    {
-        $this->segmentNumber = 2;
-        $this->messageNumber++;
-    }
-
-    /** This method cleans the hole class, as we would start hole class from beginnging */
-    private function resetDialogData()
-    {
-        $this->segmentNumber = 2;
-        $this->messageNumber = 1;
-        $this->dialogId = 0;
-    }
-
-    private function readAuftragsReferenz($message = null)
-    {
-        if ($message != null) {
-            // First of all, get the full segment
-            $pattern = "|HITAN:[0-9]+:[0-9]+(?::[0-9]+)?[^\']*\'|";
-            preg_match($pattern, $message, $matches);
-
-            if( empty($matches[0]) )
-                return false;
-
-            // Rename
-            $hitanSegment = $matches[0];
-
-            // We have only the segment, so split by DE
-            $arrDEs = preg_split('|(?<!\?)\+|', $hitanSegment);
-
-            // We should have the reference
-            if (count($arrDEs) >= 4) {
-                return $arrDEs[3];
-            }
-        }
-
-        return false;
-    }
-
-    private function readChallenge($message = null)
-    {
-        if ($message != null) {
-            $arrSegments = $this->parseSegmentsFromAnswer(utf8_encode($message));
-            $hitanSegment = $arrSegments['HITAN'];
-
-            $arrDEs = preg_split('|(?<!\?)\+|', $hitanSegment);
-
-            if (count($arrDEs) >= 5) {
-                $challenge = $arrDEs[4];
-                // $matches[1] = preg_replace('|\?(.)|', '${1}', $matches[1]);
-                return $challenge;
-            }
-        }
-
-        return false;
-    }
-
-    private function readChallengeData($message = null)
-    {
-        if ($message != null) {
-            $pattern = "|HITAN:[0-9]+:[0-9]+(?::[0-9]+)?\+4\+[^\+]{0,256}\+[^\+]{0,35}\+[^\+]*\+(@([1-9][0-9]*)@.*)?|ms";
-
-            preg_match($pattern, $message, $matches);
-
-            if (count($matches) == 3) {
-                $binString = substr($matches[1], strlen($matches[2])+2, $matches[2]);
-
-                // Extract challenge data
-                $parseBinary = $this->supportedTanMethods[$this->pinTanMethod]['binary_hhduc'];
-
-                if( $parseBinary == true ) {
-                    // Get the first 2-bytes for having the length of MIME-Type
-                    $mimeLength = base_convert(bin2hex($binString[0]), 2, 10);
-                    $mimeLength += base_convert(bin2hex($binString[1]), 16, 10);
-
-                    return substr($binString, 2 + $mimeLength + 2);
-                }
-
-                return $binString;
-            }
-        }
-
-        return '';
-    }
-
-    private function readBPD($message = null)
-    {
-        if ($message != null) {
-            // Search HIPINS! If it doesn't exist, we do not support PIN/TAN.
-
-            $pattern = "|HIBPA:[^\+]*\+([0-9]*)|";
-
-            preg_match($pattern, $message, $matches);
-
-            if (count($matches) > 1) {
-                if (is_numeric($matches[1])) {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("BPD: " . $matches[1]);
-                    }
-
-                    $this->bpdVersion = $matches[1];
-                }
-                else {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("BPD MISSMATCH: " . $matches[1]);
-                    }
-                }
-            }
-            else {
-                if( $this->logLevel > 0 ) {
-                    $this->log("BPD: NULL");
-                }
-            }
-
-            /** Try to read BPD data */
-            $pattern = "|HISALS:[0-9]+:([0-9]):[^\']+\'|";
-
-            preg_match_all($pattern, $message, $matches);
-
-            if (count($matches) > 1) {
-                foreach($matches[1] as $HISSAL) {
-                    if( $HISSAL > $this->HKSALVersion && in_array($HISSAL, $this->arrSupportedHKSALVersions) ) {
-                        $this->HKSALVersion = $HISSAL;
-                    }
-                }
-
-                if ($this->HKSALVersion > 0) {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("HISALS/HKSAL: " . $this->HKSALVersion);
-                    }
-                }
-                else {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("HISALS/HKSAL VERSION NOT IMPLEMENTED");
-                    }
-                }
-            }
-            else {
-                if( $this->logLevel > 0 ) {
-                    $this->log("HISALS/HKSAL: FUNCTION NOT SUPPORTED");
-                }
-            }
-
-            /////////////////////////////////////////////////////////////////////////////
-
-            $pattern = "|HIKAZS:[0-9]+:([0-9]):[^\']+\'|";
-
-            preg_match_all($pattern, $message, $matches);
-
-            if (count($matches) > 1) {
-                foreach($matches[1] as $HIKAZS) {
-                    if( $HIKAZS > $this->HKKAZVersion && in_array($HIKAZS, $this->arrSupportedHKKAZVersions) ) {
-                        $this->HKKAZVersion = $HIKAZS;
-                    }
-                }
-
-                if ($this->HKKAZVersion > 0) {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("HIKAZS/HKKAZ: " . $this->HKKAZVersion);
-                    }
-                }
-                else {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("HIKAZS/HKKAZ VERSION NOT IMPLEMENTED");
-                    }
-                }
-            }
-            else {
-                if( $this->logLevel > 0 ) {
-                    $this->log("HIKAZS/HKKAZ: FUNCTION NOT SUPPORTED");
-                }
-            }
-
-            $pattern = "|HITABS:[0-9]+:([0-9]):[^\']+\'|";
-
-            preg_match_all($pattern, $message, $matches);
-
-            if (count($matches) > 1 && !empty($matches[1]) ) {
-                foreach($matches[1] as $HITABS) {
-                    if( $HITABS > $this->HKTABVersion && in_array($HITABS, $this->arrSupportedHKTABVersions) ) {
-                        $this->HKTABVersion = $HITABS;
-                    }
-                }
-
-                if ($this->HKTABVersion > 0) {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("HITABS/HKTAB: " . $this->HKTABVersion);
-                    }
-                }
-                else {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("HITABS/HKTAB VERSION NOT IMPLEMENTED");
-                    }
-                }
-            }
-            else {
-                if( $this->logLevel > 0 ) {
-                    $this->log("HITABS/HKTAB: FUNCTION NOT SUPPORTED");
-                }
-            }
-
-            // Read HISPS
-            $currentVersion = 1;
-            $pattern = "|HISPAS:[0-9]+:$currentVersion(?::[0-9]+)?\+[0-9]{0,3}\+[0-3]\+[0-4]\+([JN])|";
-            preg_match($pattern, $message, $matchesHISPAS);
-
-            if( !empty($matchesHISPAS) && isset($matchesHISPAS[1]) ) {
-                if( $this->logLevel > 0 ) {
-                    $this->log("NATIONAL ACCOUNT ALLOWED: " . $matchesHISPAS[1]);
-                }
-
-                if( $matchesHISPAS[1] == 'N' ) {
-                    $this->nationalAccountAllowed = false;
-                }
-            }
-
-            // Read the supported TAN methods
-            // We always prefer higher values
-            $currentVersion = 6;
-            while( empty($matches2[2]) && $currentVersion > 0 ) {
-                $pattern = "|HITANS:[0-9]+:($currentVersion)(?::[0-9]+)?\+[0-9]+\+[0-3]\+[0-4]\+[JN]:[JN]:[0-9]([^\']+)\'|";
-                preg_match($pattern, $message, $matches2);
-
-                $currentVersion--;
-            }
-
-            if( !empty($matches2[2]) ) {
-                switch( $matches2[1] ) {
-                    case 6:
-                        $this->HKTANVersion = 6;
-                        $pattern = "/(?::(?:(9[0-9][0-9]):[12]:([^:]+):[^:]{0,32}:([^:]{0,10}):([^:]{1,30}):[1-9]{1,2}:[0-9]:([^:]{1,30}):[0-9]{1,4}:[JN]:[0-9]:[JN]:[012]:[02]:([JN]):[JN]:0[012]:([012])(?::[0-9])?)+)/";
-                        break;
-
-                    default:
-                    case 5:
-                        $this->HKTANVersion = 5;
-                        $pattern = "/(?::(?:(9[0-9][0-9]):[12]:([^:]+):[^:]{0,32}:([^:]{0,10}):([^:]{1,30}):[1-9]{1,2}:[0-9]:([^:]{1,30}):[0-9]{1,4}:[0-9]?:[JN]:[0-9]:[02]:[JN]:[012]:[02]:([JN]):[JN]:0[012]:([012])(?::[0-9])?)+)/";
-                        break;
-
-                    case 4:
-                        $this->HKTANVersion = 4;
-                        $pattern = "/(?::(?:(9[0-9][0-9]):[12]:([^:]+):[^:]{0,32}:([^:]{0,10}):([^:]{0,30}):[1-9]{1,2}:[0-9]:([^:]{1,30}):[0-9]{1,3}:[0-9]?:[JN]:[0-9]:[02]:[JN]:[JN]:([JN]):[JN]:[JN]:0[012]:([012])(?::[0-9])?)+)/";
-                        break;
-
-                    // ToDo: Add version grep
-                    case 3:
-                        $this->HKTANVersion = 3;
-                        $pattern = "/(?::(?:(9[0-9][0-9]):[12]:([^:]+):([^:]{1,30}):[1-9]{1,2}:[0-9]:([^:]{1,30}):[0-9]{1,3}:[0-9]?:[JN]:[0-9]:[02]:[JN]:([JN]):[JN]:0[012]:([02])(?::[0-9])?)+)/";
-                        break;
-
-                    case 1:
-                        $this->HKTANVersion = 1;
-                        $matches2[2] = substr($matches2[2], 2);
-                        $pattern = "/(?::(?:(9[0-9][0-9]):[12]:([^:]+):([^:]{1,30}):[1-9]{1,2}:[0-9]:([^:]{1,30}):[0-9]{1,3}:[0-9]?:[JN]:[JN])+)/";
-                        break;
-                }
-
-                preg_match_all($pattern, $matches2[2], $tanMatches);
-
-                if( $tanMatches && count($tanMatches) > 0 ) {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("HITANS/HKTAN: " . $this->HKTANVersion);
-                    }
-
-                    // Read all allowed parameter into the array
-                    for ($i = 0; $i < count($tanMatches[0]); $i++)
-                    {
-                        $binary_hhduc = false;
-
-                        // Check if we have to look at the data as binary
-                        $technical_id = $tanMatches[2][$i];
-                        if( strtoupper(substr($technical_id, 0, 2)) == "MS" )
-                            $binary_hhduc = true;
-
-                        $this->supportedTanMethods[$tanMatches[1][$i]] = array(
-                            'id' => $tanMatches[1][$i],
-                            'name' => $tanMatches[4][$i],
-                            'version' => $tanMatches[3][$i],
-                            'text_to_show' => $tanMatches[5][$i],
-                            'binary_hhduc' => $binary_hhduc,
-                            'tanname_allowed' => (isset($tanMatches[7])&&$tanMatches[7][$i]==2?true:false)
-                        );
-
-                        if( $this->logLevel > 0 ) {
-                            $this->log("TAN-VERFAHREN GEFUNDEN: " . $tanMatches[1][$i] . " " . $tanMatches[4][$i]);
-                            $this->log("TECHNISCHES IDENTIFIKATIONSVERFAHREN: " . $tanMatches[2][$i]);
-                            $this->log("TAN-NAME REQUIRED: " . $tanMatches[7][$i]);
-                        }
-                    }
-                }
-                else {
-                    $this->setError("Es wird kein TAN Verfahren unterstützt oder es gab einen Fehler in den BPD.");
-                }
-            }
-        }
-    }
-
-    private function readUPD($message = null)
-    {
-        // HIUPA:5:3:4+1479722057+8+0'
-        if ($message != null) {
-            $pattern = "|HIUPA:[^\+]*\+[^\+]*\+([0-9]*)|";
-
-            preg_match($pattern, $message, $matches);
-
-            if (count($matches) > 1) {
-                if (is_numeric($matches[1])) {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("UPD-VERSION: " . $matches[1]);
-                    }
-
-                    $this->updVersion = $matches[1];
-                }
-                else {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("UPD MISSMATCH: " . $matches[1]);
-                    }
-                }
-            }
-            else {
-                if( $this->logLevel > 0 ) {
-                    $this->log("UPD-VERSION: NULL");
-                }
-            }
-
-            // Get Kontoname from Data, and allowed Geschäftsvorfälle
-            $pattern = "|HIUPD:[0-9]+:([56])(?::[0-9]+)?\+|";
-            preg_match($pattern, $message, $versionMatches);
-
-            if( empty($versionMatches) || count($versionMatches) <= 1  ) {
-                // $this->setError("Fehler beim Auswerten der BPD. Version fehlerhaft?");
-            }
-            else {
-                $version = $versionMatches[1];
-
-                if( $version == 6 ) {
-                    $pattern = "|HIUPD:[0-9]+:$version(?::[0-9]+)?\+([0]*" . $this->userAccountNumber . "):[^:]*:[^:]*:" . $this->userBlz . "\+[^\+]{0,35}\+[^\+]+\+[0-9]{0,2}\+[^\+]*\+([^\+]{1,27})\+[^\+]{0,27}\+[^\+]{0,30}\+(.*)|";
-                }
-                else {
-                    $pattern = "|HIUPD:[0-9]+:$version(?::[0-9]+)?\+([0]*" . $this->userAccountNumber . "):[^:]*:[^:]*:" . $this->userBlz . "\+[^\+]+\+[0-9]{0,2}\+[^\+]*\+([^\+]{1,27})\+[^\+]{0,27}\+[^\+]{0,30}\+(.*)|";
-                }
-
-                preg_match($pattern, $message, $matches);
-
-                if (count($matches) >= 3) {
-                    $this->kontoUserName = utf8_encode($matches[2]);
-
-                    // Check if useraccountnumber changed.
-                    if( !empty($matches[1]) && $matches[1] !== strval($this->userAccountNumber) ) {
-                        $this->log("ACCOUNT-NUMBER CHANGED: " . $this->userAccountNumber . " -> " . $matches[1]);
-                        $this->userAccountNumber = $matches[1];
-                    }
-
-                    if ($this->logLevel > 0) {
-                        $this->log("KONTOINHABER: " . $this->kontoUserName);
-                    }
-
-                    // Allowed jobs
-                    $allowedJobs = $matches[3];
-
-                    // Check for HKTAB
-                    if( preg_match("|HKTAB:[1-9]|", $allowedJobs) ) {
-                        $this->allowedHKTAB = true;
-                    }
-                }
-                else {
-                    $this->log("KONTO IN BPD NICHT GEFUNDEN");
-                    $this->setError("Konto wurde in den Bankparameterdaten nicht gefunden.");
-                }
-            }
-        }
-    }
-
-    private function readTANGeneratorList($message = null)
-    {
-        if ($message != null) {
-            $pattern = "|HITAB:[0-9]+:" . $this->HKTABVersion . "(?::[0-9]+)?\+[012]\+([^\']+)+\'|";
-            preg_match($pattern, $message, $matches);
-
-            if (count($matches) > 1) {
-                $arrGenerators = preg_split('|\+|', $matches[1]);
-                $mediumnamePosition = 12;
-
-                // Change position after version 5
-                if( $this->HKTABVersion >= 5 ) $mediumnamePosition = 13;
-
-                if( count($arrGenerators) == 0 ) {
-                    $this->log("NO TAN MEDIUM SELECTED");
-                    exit;
-                }
-
-                foreach($arrGenerators as $generator)
-                {
-                    // Get name and escape from HBCI masking
-                    $mediumname = preg_split('/(?<!\?):/', $generator);
-
-                    // Add medium to supported mediums
-                    $mediumname[$mediumnamePosition] = str_replace("?:", ":", $mediumname[$mediumnamePosition]);
-                    $this->arrTANMedia[] = $mediumname[$mediumnamePosition];
-
-                    $this->supportedTanMethods[$this->pinTanMethod]['mediumname'] = $mediumname[$mediumnamePosition];
-
-                    if ($this->logLevel > 0) {
-                        $this->log("TAN MEDIUM: " . $mediumname[$mediumnamePosition]);
-                    }
-                }
-
-                // Get first entry and select it
-                // $this->supportedTanMethods[$this->pinTanMethod]['mediumname'] = $this->arrTANMedia[0];
-
-                if ($this->logLevel > 0) {
-                    $this->log("TAN MEDIUM SELECTED: " . $this->supportedTanMethods[$this->pinTanMethod]['mediumname']);
-                }
-            }
-        }
-    }
-
-    private function readPINTANParameter($message = null)
-    {
-        if ($message != null) {
-            $pattern = "{HIPINS:[0-9]+:[0-9]+(?::[0-9]+)?\+(1|0)\+(1|0)\+(1|0).*}";
-
-            preg_match($pattern, $message, $matches);
-
-            if (count($matches) > 1) {
-                if ( $matches[1] ) {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("DIALOG-ID: " . $matches[1]);
-                    }
-                    // ToDo: $this->dialogId = $matches[1];
-                }
-                else {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("DIALOG-ID MISSMATCH: " . $matches[1]);
-                    }
-                }
-            }
-            else {
-                $this->setError("PIN/TAN Methode wird nicht unterstützt.");
-            }
-        }
-    }
-
-    private function readDialogId($message = null)
-    {
-        if ($message != null) {
-            $pattern = "{HNHBK:[0-9]*:[0-9]*\+[0-9]*\+[0-9]*\+([^\+]+)}";
-
-            preg_match($pattern, $message, $matches);
-
-            if (count($matches) > 1) {
-                if ( $matches[1] ) {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("DIALOG-ID: " . $matches[1]);
-                    }
-                    $this->dialogId = $matches[1];
-                }
-                else {
-                    if( $this->logLevel > 0 ) {
-                        $this->log("DIALOG-ID FEHLERHAFT: " . $matches[1]);
-                    }
-                }
-            }
-            else {
-                if( $this->logLevel > 0 ) {
-                    $this->log("DIALOG-ID: NULL");
-                }
-            }
-        }
-    }
-
-    private function readSystemId($message = null)
-    {
-        if ($message != null) {
-            $pattern = "{HISYN[^\+]+\+([^:\']{1,30})}";
-
-            preg_match($pattern, $message, $matches);
-
-            if (count($matches) > 1) {
-                if( $this->logLevel > 0 ) {
-                    $this->log("SYSTEM-ID: " . $matches[1]);
-                }
-                $this->systemId = $matches[1];
-            }
-            else {
-                if( $this->logLevel > 0 ) {
-                    $this->log("SYSTEM-ID: NULL");
-                }
-            }
-        }
-    }
-
-    private function readAuthNeeded($message)
-    {
-        // remove escaped chars
-        $message = str_replace("?:", "", $message);
-
-        if ($message != null) {
-            // First of all, we need to find part of HIRMS
-            $pattern = "/HIRMS.+\+(0030::[^:]+(?::(?:[0-9]+))+).*/";
-            preg_match($pattern, $message, $matches);
-
-            // Test if we found HIRMS, otherwise continue
-            if( count($matches) > 1 ) {
-                return true;
-            }
-        }
-
-        return false;
-    }
-
-    private function readPinTanMethod($message)
-    {
-        // remove escaped chars
-        $message = str_replace("?:", "", $message);
-
-        if ($message != null) {
-            // First of all, we need to find part of HIRMS
-            $pattern = "/HIRMS.+\+(3920::[^:]+(?::(?:[0-9]+))+).*\'/";
-            preg_match($pattern, $message, $matches);
-
-            // Test if we found HIRMS, otherwise continue
-            if( !$matches || count($matches) < 1 ) {
-                $this->log("ZUGELASSENE TAN-VERFAHREN WURDEN NICHT GEFUNDEN.");
-                return;
-            }
-
-            $hirmsMessage = $matches[1];
-
-            $pattern = "/:([0-9]+)+/";
-            preg_match_all($pattern, $hirmsMessage, $matches);
-
-            for( $i = 0; $i < count($matches[0]); $i++ ) {
-                if( $this->pinTanMethod == 999 )
-                    $this->pinTanMethod = $matches[1][$i];
-
-                $this->allowedTanMethods[] = $matches[1][$i];
-            }
-        }
-    }
-
-    private function sendMessage($message, $encrypt = true)
-    {
-        // Encrypt message if needed
-        if( $encrypt ) {
-            $encryptedData = $this->createHNVSK();
-            $encryptedData .= $this->createHNVSD($message);
-
-            $message = $encryptedData;
-        }
-
-        // Add message footer because it has to count up
-        $message .= $this->createHNHBS();
-
-        // At the very end add the header with segmentnumber 1
-        $message = $this->createHNHBK() . $message;
-
-        // Set size of the total message
-        $message = $this->setMessageSize($message);
-
-        // Print the current data
-        if( $this->logLevel > 0 ) {
-            $this->log("CURRENT DIALOG-ID: $this->dialogId");
-            $this->log("CURRENT SYSTEM-ID: $this->systemId");
-            $this->log("CURRENT PIN/TAN-METHOD: $this->pinTanMethod");
-            $this->log("CURRENT BPD: $this->bpdVersion");
-            $this->log("CURRENT UPD: $this->updVersion");
-        }
-
-        if( $this->logLevel > 4 ) {
-            $rawMessage = str_replace($this->userPin, 'XXXXXX', $message);
-            $this->log("RAW MESSAGE REQUEST: $rawMessage");
-        }
-
-        $_message = base64_encode($message);
-
-        if( $this->logLevel > 5 ) {
-            $rawMessage = str_replace($this->userPin, 'XXXXXX', $message);
-            $rawMessage = base64_encode($rawMessage);
-            $this->log("RAW MESSAGE BASE64 REQUEST: $rawMessage");
-        }
-
-        $ch = curl_init($this->hbciServerUri);
-        curl_setopt($ch, CURLINFO_HEADER_OUT, true);
-        curl_setopt($ch, CURLOPT_HTTPHEADER, array(
-            'Content-Type: application/octet-stream',
-            'Content-Length: ' . strlen($_message),
-            'User-Agent: ' . $this->registrationNumber . ' ' . $this->product_name . $this->product_version
-        ));
-        curl_setopt($ch, CURLOPT_POST, true);
-        curl_setopt($ch, CURLOPT_POSTFIELDS, $_message);
-        curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 100);
-        curl_setopt($ch, CURLOPT_TIMEOUT, 600);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, $this->SSL_VERFIYPEER);
-
-        // Execute request for Curl
-        $returndata = curl_exec($ch);
-
-        $httpcode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-
-        if( $httpcode >= 400 )
-        {
-            $this->log('Server-Error: ' . $httpcode);
-            $this->setError('Server-Error: ' . $httpcode);
-
-            $this->log('ANSWER: ' . $returndata);
-
-            return;
-        }
-
-        // Check if we had a CURL error
-        if( $returndata === false || $httpcode != 200 )
-        {
-            $this->log('Curl-Fehler: ' . curl_error($ch));
-            $this->setError('Curl-Fehler: ' . curl_error($ch));
-            return;
-        }
-
-        if( $this->logLevel > 5 ) {
-            $this->log("RAW MESSAGE BASE64 ANSWER: $returndata");
-        }
-
-        $receivedMessage = base64_decode($returndata);
-
-        if( $this->logLevel > 4 ) {
-            $this->log("RAW MESSAGE ANSWER: $receivedMessage");
-        }
-
-        if( $this->logLevel > 0 ) {
-            $this->log("PARSING RETURNED MESSAGE");
-        }
-
-        if( !preg_match("|^HNHBK.*|", $receivedMessage) ) {
-            $this->log("KEINE ODER UNGÜLTIGE ANTWORT VOM SERVER EMPFANGEN");
-            $this->setError("Keine oder ungültige Antwort vom Server empfangen. Bitte überprüfen Sie die Server-URL.");
-            return;
-        }
-
-        // Try to handle retunring errors
-        $this->checkErrorHandler($receivedMessage);
-
-        // prepare class for sending a new message
-        $this->resetMessageData();
-
-        // return answer
-        return $receivedMessage;
-    }
-
-    private function parseSegmentsFromAnswer($answer) {
-        $splitParts = preg_split("|(?<!\?)'|sm", $answer);
-        $segments = [];
-
-        foreach($splitParts as $segment) {
-            // Ignore empty segments
-            if( empty($segment) ) continue;
-
-            $key = substr($segment, 0, 5);
-            $segments[$key] = $segment;
-        }
-
-        return $segments;
-    }
-
-    private function parseElementsFromSegment($answer) {
-        $splitParts = preg_split("|(?<!\?)\+|sm", $answer);
-        return $splitParts;
-    }
-
-    private function checkErrorHandler($message)
-    {
-        if ($message != null) {
-            // First of all, get the full HIRMG segment
-            $pattern = "/HIRMG[^\']+\'/";
-            preg_match($pattern, $message, $matches);
-
-            if( empty($matches) )
-                return;
-
-            // Rename
-            $hirmgSegment = $matches[0];
-
-            // We have only the segment, so split by DE
-            $arrDEs = preg_split('|(?<!\?)\+|', $hirmgSegment);
-
-            // Create the error array
-            $arrErrors = array();
-
-            // $arrDEs[0] is header, the rest are messages
-            for( $i = 1; $i < count($arrDEs); $i++ )
-            {
-                $matches = array();
-                $DE = $arrDEs[$i];
-
-                $pattern = "/(?:(?:(?:[9][0-9]{3}):[^:]*:([^\'\+]+))+)/";
-                preg_match($pattern, $DE, $matches);
-
-                if( count($matches) > 0 ) {
-                    $arrErrors[] = $matches[1];
-                }
-            }
-
-            if( count($arrErrors) > 0 ) {
-                $this->log("Server antwortete mit folgender Fehlermeldung: " . implode("; ", $arrErrors));
-                $this->setError("Server antwortete mit folgender Fehlermeldung: " . utf8_encode(implode("; ", $arrErrors)) );
-            }
-        }
-        else {
-            $this->log("HBCI MESSAGE LEER ODER FEHLERHAFT");
-            $this->setError("HBCI Nachricht war leer oder enthielt Fehler.");
-        }
-
-        // Read further error messages
-        $matches = array();
-
-        // First of all, get the full HIRMS segment
-        $pattern = "/HIRMS[^\']+\'/";
-        preg_match($pattern, $message, $matches);
-
-        if( empty($matches) )
-            return;
-
-        // Rename
-        $hirmsSegment = $matches[0];
-
-        // We have only the segment, so split by DE
-        $arrDEs = preg_split('|(?<!\?)\+|', $hirmsSegment);
-
-        // Create the error array
-        $arrErrors = array();
-
-        // $arrDEs[0] is header, the rest are messages
-        for( $i = 1; $i < count($arrDEs); $i++ )
-        {
-            $DE = $arrDEs[$i];
-
-            // Split by DEG
-            $arrDEGs = preg_split('|(?<!\?):|', $DE);
-
-            if( count($arrDEGs) >= 3 && (substr($arrDEGs[0], 0, 1) == 3 || substr($arrDEGs[0], 0 ,1) == 9) ) {
-                $arrErrors[] = $arrDEGs[2];
-            }
-        }
-
-        if( count($arrErrors) > 0 )
-        {
-            $this->log(" " . implode("; ", $arrErrors));
-            $this->errorMessage .= "; " . utf8_encode(implode(" ", $arrErrors));
-        }
-    }
-
-    private function setMessageSize($message, $fieldLength = 12)
-    {
-        $len = strlen($message);
-
-        $lLength = strlen($len);
-        $replaceStr = "";
-        for ($i = 0; $i < ($fieldLength - $lLength); $i++) {
-            $replaceStr .= "0";
-        }
-        $replaceStr .= $len;
-
-        $message = str_replace("000000000000", $replaceStr, $message);
-
-        return $message;
-    }
-
-    private function parseMT940Message($startDate, $endDate, $message, $returnType)
-    {
-        // Build result array
-        $messageArray = array();
-        $messageString = '';
-
-        if ($message != null)
-        {
-            $pattern = "/HIKAZ[^\+]+\+@([0-9]+)@(.+)\'(HNSHA|HNHBS)/ims";
-            preg_match($pattern, stripslashes($message), $matches);
-
-            if( count($matches) == 0 )
-                return false;
-
-            // Get only MT940 part of the answer
-            $mt940String = substr($matches[2], 0, $matches[1]);
-
-            $mt940String = utf8_encode($mt940String);
-
-            if( $returnType == 'mt940' ) {
-                $messageString .= $mt940String;
-            }
-            else {
-                // Split the string into bookings
-                $pattern = "|\r\n-\r\n|";
-                $mt940Messages = preg_split($pattern, $mt940String);
-
-                for ($i = 0; $i < count($mt940Messages); $i++) {
-                    $classMessage = new Mt940Message();
-                    $mt940Message = $classMessage->getTurnovers($mt940Messages[$i]);
-                    $messageArray = array_merge($messageArray, $mt940Message);
-                }
-            }
-        }
-
-        // Check if we have more
-        $pattern = "/HIRMS[^+]+.*\+3040:[^\+\']*:[^\+\']*:(([^\?\+\']+(\?\+)?)*)(\'|\+)/i";
-        preg_match($pattern, $message, $matches);
-
-        if( isset($matches[1]) ) {
-            if( $this->logLevel > 0 ) {
-                $this->log("REMAINING TURNOVERS. REPEATING GET_TURNOVERS ACTION");
-            }
-
-            $newResult = $this->_getAccountTurnovers($startDate, $endDate, $matches[1], null, null, null, $returnType);
-
-            if( $returnType == 'mt940' )
-                $messageString .= $newResult;
-            else
-                $messageArray = array_merge($messageArray, $newResult);
-        }
-
-        if( $returnType == 'mt940' )
-            return $messageString;
-        else
-            return $messageArray;
-    }
-
-    /*******************************************************************
-     * functions for logical segment creation
-     ******************************************************************/
-
-    private function anonymMessage()
-    {
-        if( $this->logLevel > 0 ) {
-            $this->log("--- ACTION: START ANONYM DIALOG ---");
-        }
-
-        // Set marker, that we are running anonym dialog
-        $this->anonymDialogRunning = true;
-
-        $message = $this->createHKIDN();
-        $message .= $this->createHKVVB();
-
-        // Send the message through HBCI
-        $answer = $this->sendMessage($message, false);
-
-        if( $this->error == false ) {
-            // Parse the results
-            $this->readDialogId($answer);
-        }
-        else {
-            // Remove error flag, because this message is optional, and continue
-            $this->error = false;
-            $this->errorMessage = '';
-            $this->resetDialogData();
-            return;
-        }
-
-        if( $this->logLevel > 0 ) {
-            $this->log("--- ACTION: END ANONYM DIALOG ---");
-        }
-
-        // Send end dialog
-        $message = $this->createHKEND();
-        $answer = $this->sendMessage($message, false);
-
-        $this->anonymDialogRunning = false;
-
-        $this->resetDialogData();
-    }
-
-    private function synchroniseMessage()
-    {
-        if( $this->logLevel > 0 ) {
-            $this->log("--- ACTION: SENDING SYNCHRONISE MESSAGE ---");
-        }
-
-        $message =  $this->createHNSHK();
-        $message .= $this->createHKIDN();
-        $message .= $this->createHKVVB();
-        $message .= $this->createHKSYN();
-        $message .= $this->createHNSHA();
-
-        // Send the message through HBCI
-        $answer = $this->sendMessage($message);
-
-        // Parse the results
-        $this->readDialogId($answer);
-        $this->readSystemId($answer);
-        $this->readBPD($answer);
-        $this->readPinTanMethod($answer);
-
-        // Clear dialog
-        $this->resetDialogData();
-
-        // $this->endDialogMessage();
-        $this->bpdVersion = 0;
-
-        return;
-    }
-
-    private function synchroniseMessageSecure($tan = null, $auftragsreferenz = null, $dialogid = null)
-    {
-        if( $this->logLevel > 0 ) {
-            $this->log("--- ACTION: SENDING SYNCHRONISE SECURE MESSAGE ---");
-        }
-
-        // Clear dialog
-        $this->resetDialogData();
-
-        // Start prepating message
-        $message =  $this->createHNSHK();
-
-        if( !empty($tan) && !empty($auftragsreferenz) && !empty($dialogid) ) {
-            $this->dialogId = $dialogid;        // Set our dialog ID
-
-            // Regenerate the message number
-            $this->messageNumber = substr($auftragsreferenz, 0, 1);
-            $auftragsreferenz = substr($auftragsreferenz, 1);
-
-            $message .= $this->createHKTAN(2, $auftragsreferenz, 'HKSYN');
-        }
-        else {
-            $message .= $this->createHKIDN();
-            $message .= $this->createHKVVB();
-
-            if( $this->HKTANVersion == 6 )
-                $message .= $this->createHKTAN(4, '', 'HKSYN');
-
-            $message .= $this->createHKSYN();
-        }
-
-        // Add last message
-        $message .= $this->createHNSHA($tan);
-
-        // Send the message through HBCI
-        $answer = $this->sendMessage($message);
-        $this->readDialogId($answer);
-
-        // Stop here if auth needed
-        if( $this->readAuthNeeded($answer) ) {
-            $auftragsreferenz = $this->messageNumber . $this->readAuftragsReferenz($answer);
-            $challenge = $this->readChallenge($answer);
-            $challengeData = $this->readChallengeData($answer);
-
-            $this->authNeeded = true;
-            $this->authChallenge = [
-                'auftragsreferenz' => $auftragsreferenz,
-                'dialogid' => $this->dialogId,
-                'systemid' => $this->systemId,
-                'challenge' => $challenge,
-                'challenge_data' => $challengeData
-            ];
-
-            return;
-        }
-
-        if( $this->error == false ) {
-            // Check if PIN/TAN is supported
-            $this->readPINTANParameter($answer);
-
-            // Parse the results
-            $this->readDialogId($answer);
-            $this->readSystemId($answer);
-            $this->readBPD($answer);
-            $this->readUPD($answer);
-            $this->readPinTanMethod($answer);
-        }
-
-        // Make sure after this all data is cleared
-        $this->endDialogMessage();
-    }
-
-    private function getGeneratorList()
-    {
-        // Check if we have an error, then don't continue
-        if( $this->error == true )
-            return;
-
-        if( $this->logLevel > 0 ) {
-            $this->log("--- ACTION: GET TAN-GENERATOR ---");
-        }
-
-        /** Build the Dialog Init message */
-        $message = $this->createHNSHK();
-        $message .= $this->createHKTAB();
-        $message .= $this->createHNSHA();
-
-        /** Send the message */
-        $answer = $this->sendMessage($message);
-
-        // Parse the answer
-        $this->readTANGeneratorList($answer);
-    }
-
-    private function initDialogMessage($encrypt = true, $segmentKennung = '')
-    {
-        // Check if we have an error, then don't continue
-        if( $this->error == true )
-            return;
-
-        if( $this->logLevel > 0 ) {
-            $this->log("--- ACTION: INIT NEW DIALOG ---");
-        }
-
-        /** Start a new dialog, so clear all old conversation flags */
-        $this->resetDialogData();
-
-        // Create message
-        $message = $this->createHNSHK();
-        $message .= $this->createHKIDN();
-        $message .= $this->createHKVVB();
-
-        if( $this->HKTANVersion == 6 )
-            $message .= $this->createHKTAN(4, '', $segmentKennung);
-
-        $message .= $this->createHNSHA();
-
-        /** Send the message */
-        $answer = $this->sendMessage($message, $encrypt);
-
-        /** Parse results we are searching */
-        $this->readDialogId($answer);
-        $this->readUPD($answer);
-
-        return $answer;
-    }
-
-    private function endDialogMessage($encrypt = true)
-    {
-        // Check if we have an error, then don't continue
-        if( $this->error == true )
-            return;
-
-        if( $this->logLevel > 0 ) {
-            $this->log("--- ACTION: SENDING \"ENDDIALOG\" MESSAGE ---");
-        }
-
-        // Create message
-        $message = $this->createHNSHK();
-        $message .= $this->createHKEND();
-        $message .= $this->createHNSHA();
-
-        /** Sneding the dialog */
-        $this->sendMessage($message, $encrypt);
-
-        if( $this->logLevel > 0 ) {
-            $this->log("--- DIALOG ENDED ---");
-        }
-    }
-
-    /*******************************************************************
-     * end of functions for logical segment creation
-     ******************************************************************/
-
-
-    /*******************************************************************
-     * functions for HBCI segment creation
-     ******************************************************************/
-
-    private function createSegmentHeader($type, $segmentVersion = "3")
-    {
-        // create segment header string
-        $segmentHeaderStr = $type . ":" . $this->segmentNumber . ":" . $segmentVersion;
-
-        // increment segment count
-        $this->segmentNumber++;
-
-        // return segment str
-        return $segmentHeaderStr;
-    }
-
-    private function createHKEND()
-    {
-        // add segment header
-        $segmentStr = $this->createSegmentHeader("HKEND", "1");
-
-        // add dialog id
-        $segmentStr .= "+" . $this->dialogId;
-
-        // end segment
-        $segmentStr .= "'";
-
-        return $segmentStr;
-    }
-
-    private function createHKIDN()
-    {
-        $hkidnStr = $this->createSegmentHeader("HKIDN", "2");
-
-        // add kik
-        $hkidnStr .= "+280:" . $this->userBlz;
-
-        if( $this->anonymDialogRunning === true ) {
-            // add client id
-            $hkidnStr .= "+9999999999";
-
-            // add client system id
-            $hkidnStr .= "+0";
-
-            // add client status id
-            $hkidnStr .= "+0";
-        }
-        else {
-            // add client id
-            $hkidnStr .= "+" . $this->userAccount;
-
-            // add client system id
-            $hkidnStr .= "+" . $this->systemId;
-
-            // add client status id
-            $hkidnStr .= "+1";
-        }
-
-        // end of segment
-        $hkidnStr .= "'";
-
-        return $hkidnStr;
-    }
-
-    private function createHKSYN()
-    {
-        // add segment header
-        if( $this->hbciVersion == "220" )
-            $hksynStr = $this->createSegmentHeader("HKSYN", "2");   // 2 in 3 geändert
-        else
-            $hksynStr = $this->createSegmentHeader("HKSYN", "3");   // 2 in 3 geändert
-
-        // Neue Kundensystem-ID zurückmelden
-        $hksynStr .= "+0";
-
-        // end of segment
-        $hksynStr .= "'";
-
-        return $hksynStr;
-    }
-
-    private function getKTV() {
-        return $this->userAccountNumber . "::280:" . $this->userBlz;
-    }
-
-    private function getKTI() {
-        if( $this->nationalAccountAllowed == true ) {
-            return $this->iban . ":" . $this->bic .":" . $this->userAccountNumber . "::280:" . $this->userBlz;
-        }
-        else {
-            return $this->iban . ":" . $this->bic . "";
-        }
-    }
-
-    private function createHKKAZ($startDate, $endDate, $aufsetzpunkt)
-    {
-        /** Version 5 and 6 are identical */
-        // add segment header
-        $segmentStr = $this->createSegmentHeader("HKKAZ", $this->HKKAZVersion);
-
-        // account and user
-        if( $this->HKKAZVersion >= 7 ) {
-            $segmentStr .= "+" . $this->getKTI();
-        }
-        else {
-            $segmentStr .= "+" . $this->getKTV();
-        }
-
-        // all accounts or only one
-        $segmentStr .= "+N";
-
-        // date from
-        $segmentStr .= "+" . $startDate;
-
-        // date to
-        $segmentStr .= "+". $endDate;
-
-        // Anzahl der Einträge
-        $segmentStr .= "+";
-
-        // Aufsetzpunkt
-        $segmentStr .= "+" . $aufsetzpunkt;
-
-        // end of segment
-        $segmentStr .= "'";
-
-        return $segmentStr;
-    }
-
-    private function createHKSAL()
-    {
-        // add segment header
-        $segmentStr = $this->createSegmentHeader("HKSAL", $this->HKSALVersion);
-
-        // account and user
-        if( $this->HKSALVersion >= 7 ) {
-            $segmentStr .= "+" . $this->getKTI();
-        }
-        else {  // Version 5 and 6
-            $segmentStr .= "+" . $this->getKTV();
-        }
-
-        // all accounts or only one
-        $segmentStr .= "+N";
-
-        // limit for amount of responding entries
-        // not necessary
-
-        // aufsetzunkt
-        // not necessary
-
-        // end segment
-        $segmentStr .= "'";
-
-        return $segmentStr;
-    }
-
-    private function createHKVVB()
-    {
-        // add segment header
-        $hkvvbStr = $this->createSegmentHeader("HKVVB", "3");
-
-        // add bpd method
-        $hkvvbStr .= "+" . $this->bpdVersion;
-
-        // add upd method
-        $hkvvbStr .= "+" . $this->updVersion;
-
-        // add dialog language
-        $hkvvbStr .= "+0";
-
-        // add product name
-        $hkvvbStr .= "+" . $this->registrationNumber;
-
-        // add product version
-        $hkvvbStr .= "+" . $this->product_name . $this->product_version;
-
-        // end of segment
-        $hkvvbStr .= "'";
-
-        return $hkvvbStr;
-    }
-
-    private function createHNHBK()
-    {
-        // Set segmentnumber to one, because it is our header
-        $this->segmentNumber = 1;
-
-        // segment header
-        $hnhbkStr = $this->createSegmentHeader("HNHBK");
-
-        // segment size ( has to be calculated after the message was created)
-        $hnhbkStr .= "+000000000000";
-
-        // hbci version
-        $hnhbkStr .= "+" . $this->hbciVersion;
-
-        // dialog id
-        $hnhbkStr .= "+" . $this->dialogId;
-
-        // sending message number
-        $hnhbkStr .= "+" . $this->messageNumber;
-
-        // end of this segment
-        $hnhbkStr .= "'";
-
-        return $hnhbkStr;
-    }
-
-    private function createHNHBS()
-    {
-        // add segment header
-        $segmentStr = $this->createSegmentHeader("HNHBS", "1");
-
-        // add message number
-        $segmentStr .= "+" . $this->messageNumber;
-
-        // end of segment
-        $segmentStr .= "'";
-
-        return $segmentStr;
-    }
-
-    private function createHNSHA($tan = null)
-    {
-        // Get segment Version
-        $segmentVersion = "2";
-
-        // add segment header
-        $segmentStr = $this->createSegmentHeader("HNSHA", $segmentVersion);
-
-        // add security controll reference
-        $segmentStr .= "+1546869659";
-
-        // add validation result
-        $segmentStr .= "+";
-
-        // add pin and tan
-        $segmentStr .= "+" . $this->userPin;
-        if ($tan != null) {
-            $segmentStr .= ":" . $tan;
-        }
-
-        // end of segment
-        $segmentStr .= "'";
-
-        return $segmentStr;
-    }
-
-    private function createHNSHK()
-    {
-        // Get segment Version
-        $segmentVersion = "4";
-
-        $hnshkStr = $this->createSegmentHeader("HNSHK", $segmentVersion);
-
-        if( $this->hbciVersion == "300" ) {
-            if( $this->pinTanMethod == "999" )
-                $hnshkStr .= "+PIN:1";
-            else
-                $hnshkStr .= "+PIN:2";
-        }
-
-        // security function
-        $hnshkStr .= "+" . $this->pinTanMethod;
-
-        // security controll reference
-        $hnshkStr .= "+1546869659";
-
-        // area of security application
-        $hnshkStr .= "+1";
-
-        // role of security provider
-        $hnshkStr .= "+1";
-
-        // security identification
-        $hnshkStr .= "+1::" . $this->systemId;
-
-        // security reference number
-        $hnshkStr .= "+1";
-
-        // security date
-        $hnshkStr .= "+1:" . date('Ymd:His');
-
-        // hash algorithmus
-        $hnshkStr .= "+1:999:1";
-
-        // signature algorithmus
-        $hnshkStr .= "+6:10:16";
-
-        // key name
-        $hnshkStr .= "+280:" . $this->userBlz . ":" . $this->userAccount . ":S:0:0";
-
-        // end of this segment
-        $hnshkStr .= "'";
-
-        return $hnshkStr;
-    }
-
-    private function createHNVSD($data)
-    {
-        // Get the length of the "encrypted" message
-        $messageLength = strlen($data);
-        return "HNVSD:999:1+@" . $messageLength . "@" . $data . "'";
-    }
-
-    private function createHNVSK()
-    {
-        // add segment header
-        $segmentStr = "HNVSK:998:2";
-
-        if( $this->hbciVersion == "300" ) {
-            $segmentStr = "HNVSK:998:3";
-            $segmentStr .= "+PIN:1";
-        }
-
-        // add security function
-        $segmentStr .= "+998";
-
-        // add roll
-        $segmentStr .= "+1";
-
-        // security identification
-        $segmentStr .= "+1::" . $this->systemId;
-
-        // security date
-        $segmentStr .= "+1:" . date('Ymd:His');
-
-        // encryption algorithmus
-        $segmentStr .= "+2:2:13:@8@00000000:5:1";
-
-        // key name
-        $segmentStr .= "+280:" . $this->userBlz . ":" . $this->userAccount . ":V:0:0";
-
-        // compress function
-        $segmentStr .= "+0";
-
-        // end of segment
-        $segmentStr .= "'";
-
-        return $segmentStr;
-    }
-
-    private function createHKCCM($classTransfer)
-    {
-        // Check if we have some jobs and if its a multiple job
-        if( $classTransfer->getTotalCount() == 1 )
-            $multiple = false;
-        else
-            $multiple = true;
-
-        // Check the class type, so we can differ which segment we will add
-        $scheduled = false;
-        if( get_class($classTransfer) == "ScheduledCredit" ) {
-            $scheduled = true;
-        }
-
-        // segment header
-        if( $scheduled == true ) {
-            if ($multiple == true)
-                $segmentStr = $this->createSegmentHeader("HKCME", 1);   // Terminierte Sammelüberweisung
-            else
-                $segmentStr = $this->createSegmentHeader("HKCSE", 1);   // Terminierte Einzelüberweisung
-        }
-        else {
-            if ($multiple == true)
-                $segmentStr = $this->createSegmentHeader("HKCCM", 1);   // Sammelüberweisung
-            else
-                $segmentStr = $this->createSegmentHeader("HKCCS", 1);   // Einzelüberweisung
-        }
-
-        // kti
-        $segmentStr .= "+" . $this->getKTI();
-
-        if( $multiple == true ) {
-            // Summenfeld
-            $segmentStr .= "+" . number_format($classTransfer->getTotalAmount(), 2, ',', '') . ":EUR";
-
-            // Einzelbuchung
-            $segmentStr .= "+";
-        }
-
-        // SEPA - Descriptor
-        $segmentStr .= "+urn?:iso?:std?:iso?:20022?:tech?:xsd?:pain.001.001.03";
-
-        // SEPA pain message
-        $sepaMessageString = $classTransfer->getXML($this->kontoUserName, $this->iban, $this->bic);
-        $sepaMessageString = preg_replace("/\s{2,}/", " ", $sepaMessageString);
-        $sepaMessageString = preg_replace("/(\n|\r)+/", "", $sepaMessageString);
-        $sepaMessageString = preg_replace("/> </", "><", $sepaMessageString);
-
-        $segmentStr .= "+@" . strlen($sepaMessageString) .  "@" . $sepaMessageString;
-
-        // end of this segment
-        $segmentStr .= "'";
-
-        return $segmentStr;
-    }
-
-    private function createHKDSE($classDebit)
-    {
-        // Check if we have some jobs and if its a multiple job
-        if( $classDebit->getTotalCount() == 1 )
-            $multiple = false;
-        else
-            $multiple = true;
-
-        // Check the type
-        $debitType = $classDebit->getType();
-
-        if( $debitType == "COR1" ) {
-            // segment header
-            if ($multiple == true)
-                $segmentStr = $this->createSegmentHeader("HKDMC", 1);   // Terminierte Sammel-Lastschrift (COR1)
-            else
-                $segmentStr = $this->createSegmentHeader("HKDSC", 1);   // Terminierte Einzel-Lastschrift (COR1)
-        }
-        else if( $debitType == "B2B" ) {
-            if ($multiple == true)
-                $segmentStr = $this->createSegmentHeader("HKBME", 1);   // Terminierte Sammel-FIRMEN-Lastschrift (B2B)
-            else
-                $segmentStr = $this->createSegmentHeader("HKBSE", 1);   // Terminierte Einzel-FIRMEN-Lastschrift (B2B)
-        }
-        else {
-            // segment header
-            if ($multiple == true)
-                $segmentStr = $this->createSegmentHeader("HKDME", 1);   // Terminierte Sammel-Lastschrift (CORE)
-            else
-                $segmentStr = $this->createSegmentHeader("HKDSE", 1);   // Terminierte Einzel-Lastschrift (CORE)
-        }
-
-        // kti
-        $segmentStr .= "+" . $this->getKTI();
-
-        if( $multiple == true ) {
-            // Summenfeld
-            $segmentStr .= "+" . number_format($classDebit->getTotalAmount(), 2, ',', '') . ":EUR";
-
-            // Einzelbuchung gewünscht, O: „Einzelbuchung erlaubt“ (BPD) = „J“, N: sonst
-            $segmentStr .= "+";
-        }
-
-        // SEPA - Descriptor
-        $segmentStr .= "+urn?:iso?:std?:iso?:20022?:tech?:xsd?:pain.008.001.02";
-
-        // SEPA pain message
-        $sepaMessageString = $classDebit->getXML($this->kontoUserName, $this->iban, $this->bic);
-        $sepaMessageString = preg_replace("/\s{2,}/", " ", $sepaMessageString);
-        $sepaMessageString = preg_replace("/(\n|\r)+/", "", $sepaMessageString);
-        $sepaMessageString = preg_replace("/> </", "><", $sepaMessageString);
-
-        $segmentStr .= "+@" . strlen($sepaMessageString) .  "@" . $sepaMessageString;
-
-        // end of this segment
-        $segmentStr .= "'";
-
-        return $segmentStr;
-    }
-
-    private function createHKTAN($prozess, $auftragsreferenz = '', $segmentKennung = '')
-    {
-        // segment header
-        $segmentStr = $this->createSegmentHeader("HKTAN", $this->HKTANVersion);
-
-        // TAN Prozess
-        $segmentStr .= "+" . $prozess;
-
-        if( $this->HKTANVersion >= 5 ) {
-            // Segmentenkennung
-            $segmentStr .= "+" . $segmentKennung;
-
-            // KTI
-            $segmentStr .= "+";
-        }
-
-        // Auftrags-Hashwert
-        $segmentStr .= "+";
-
-        // Auftragsreferenz
-        $segmentStr .= "+" . $auftragsreferenz;
-
-        if( $this->HKTANVersion <= 5 ) {
-            // TAN Listennummer
-            $segmentStr .= "+";
-        }
-
-        // Weitere TAN folgt
-        if( $prozess == 2 )
-            $segmentStr .= "+N";
-        else
-            $segmentStr .= "+";
-
-        // Read all TAN methods for further processing
-        $tanMethods = $this->_getAllowedTanMethods();
-
-        if( $tanMethods && $tanMethods[$this->pinTanMethod]['tanname_allowed'] ) {
-            // Auftrag stornieren
-            $segmentStr .= "+";
-
-            if( $this->HKTANVersion >= 4 ) {
-                // SMS-Abbuchungskonto
-                $segmentStr .= "+";
-            }
-
-            // Challenge-Klasse
-            $segmentStr .= "+";
-
-            // Parameter Challenge-Klasse
-            $segmentStr .= "+";
-
-            // Bezeichnung des TAN Mediums
-            if( isset($tanMethods[$this->pinTanMethod]['mediumname']) && !empty($tanMethods[$this->pinTanMethod]['mediumname']) ) {
-                $tanMediumName = str_replace(":", "?:", $tanMethods[$this->pinTanMethod]['mediumname']);
-                $segmentStr .= "+" . $tanMediumName;
-            }
-            else {
-                $segmentStr .= "+" . $tanMethods[$this->pinTanMethod]['name'];
-            }
-        }
-
-        // end of this segment
-        $segmentStr .= "'";
-
-        return $segmentStr;
-    }
-
-    private function createHKTAB()
-    {
-        // segment header
-        $segmentStr = $this->createSegmentHeader("HKTAB", $this->HKTABVersion);
-
-        $mediumArt = 1;
-        if( $this->HKTABVersion == 1 )  $mediumArt = 2;
-        $mediumArt = 0;
-
-        // TAN-Medium-Art - alle
-        $segmentStr .= "+" . $mediumArt;
-
-        if( $this->HKTABVersion == 4 ) {
-            $segmentStr .= "+A";
-        }
-
-        // end of this segment
-        $segmentStr .= "'";
-
-        return $segmentStr;
-    }
-
-    /*******************************************************************
-     * end of functions for segment creation
-     ******************************************************************/
-}
-
-class Mt940Message
-{
-    public function getTurnovers($message)
-    {
-        // Build result array
-        $result = array();
-
-        // Build string for temp fields
-        $part60 = "";
-        $part61 = "";
-        $part86 = "";
-
-        // state of parsing
-        $state = 0;
-
-        // Ersetze Trennzeichen
-        $message = str_replace("@@", "\r\n", $message);
-
-        // Trenne alle Zeilen
-        $messageParts = preg_split("/\r\n/", $message);
-
-        // Message counter
-        $i = 0;
-
-        if( is_array($messageParts) && isset($messageParts[0]) )
-        {
-            foreach($messageParts as $part)
-            {
-                // Increment counter
-                $i++;
-
-                if( preg_match("(^:60[F|M]:(.*))", $part, $data) ) {
-                    $part60 .= $data[1];
-                }
-
-                if ( preg_match("(^:61:(.*))", $part, $data) && ($state == 0 || $state == 20) )
-                {
-                    if( $state == 20 ) {
-                        if( !empty($part61) && !empty($part86) )
-                        {
-                            $result[] = $this->parseTurnover($part60, $part61, $part86);
-                        }
-
-                        $part61 = "";
-                        $part86 = "";
-                    }
-
-                    $state = 10;
-                    $part61 .= $data[1];
-                }
-
-                if( $state == 10 && !preg_match("(^:[0-9]+:(.*))", $part, $data))
-                {
-                    $part61 .= $part;
-                }
-
-                if ( preg_match("(^:86:(.*))", $part, $data) && $state == 10 )
-                {
-                    $state = 20;
-                    $part86 .= $data[1];
-                }
-
-                if( $state == 20 && !preg_match("(^:[0-9]+.?:(.*))", $part, $data) )
-                {
-                    $part86 .= $part;
-                }
-
-                // Stop message
-                if( preg_match("(^:62.*:(.*))", $part, $data) && ($state == 0 || $state == 20) )
-                {
-                    $state = 0;
-
-                    if( !empty($part61) && !empty($part86) )
-                    {
-                        $result[] = $this->parseTurnover($part60, $part61, $part86);
-                    }
-
-                    $part61 = "";
-                    $part86 = "";
-                }
-
-                // Check if last message
-                if( $i == count($messageParts) && $state > 0 )
-                {
-                    if( !empty($part61) && !empty($part86) )
-                    {
-                        $result[] = $this->parseTurnover($part60, $part61, $part86);
-                    }
-                }
-            }
-
-            return $result;
-        }
-    }
-
-    private function parseTurnover($part60, $part61, $part86)
-    {
-        preg_match("/^([0-9]{3})(.)/", $part86, $matches);
-
-        // Hole das Trennzeichen
-        $t = $matches[2];
-
-        if( $t == '\\' || $t == '^' || $t == '$' || $t == '.' || $t == '|' || $t == '?' || $t == '*' || $t == '(' || $t == ')' || $t == '[' || $t == '{' ) {
-            $t = '\\' . $t;
-        }
-
-        // Hole Geschäftsvorfallcode
-        $geschaeftsvorfall = "";
-        preg_match("/^([0-9]{3})($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) )
-            $geschaeftsvorfall .= $matches[1];
-
-        // Hole den Buchungstext
-        $buchungstext = "";
-        preg_match("/" . $t . "00([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) )
-            $buchungstext .= $matches[1];
-
-        // Hole den gesamten Verwendungszweck
-        $verwendungszweck = "";
-
-        // Hole Verwendungszweck 20
-        preg_match("/" . $t . "20([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) ) $verwendungszweck .= $matches[1];
-
-        preg_match("/" . $t . "21([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) ) $verwendungszweck .= $matches[1];
-
-        preg_match("/" . $t . "22([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) ) $verwendungszweck .= $matches[1];
-
-        preg_match("/" . $t . "23([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) ) $verwendungszweck .= $matches[1];
-
-        preg_match("/" . $t . "24([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) ) $verwendungszweck .= $matches[1];
-
-        preg_match("/" . $t . "25([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) ) $verwendungszweck .= $matches[1];
-
-        preg_match("/" . $t . "26([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) ) $verwendungszweck .= $matches[1];
-
-        preg_match("/" . $t . "27([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) ) $verwendungszweck .= $matches[1];
-
-        preg_match("/" . $t . "28([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) ) $verwendungszweck .= $matches[1];
-
-        preg_match("/" . $t . "29([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) ) $verwendungszweck .= $matches[1];
-
-        // Get Konto and BLZ
-        $bankkennung = "";
-        preg_match("/" . $t . "30([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) )
-            $bankkennung .= $matches[1];
-
-        $kontonr = "";
-        preg_match("/" . $t . "31([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) )
-            $kontonr .= $matches[1];
-
-        $auftraggeber = "";
-        preg_match("/" . $t . "32([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) )
-            $auftraggeber .= $matches[1];
-
-        preg_match("/" . $t . "33([^$t]+)($t|\n|\r)?/", $part86, $matches);
-        if( isset($matches[1]) )
-            $auftraggeber .= $matches[1];
-
-        // Get the saldo
-        preg_match("/([0-9]{2})([0-9]{2})([0-9]{2})([0-9]{2})?([0-9]{2})?(C|D|RC|RD)([A-Za-z])?([0-9]{1,13},[0-9]?[0-9]?)(N\w{3})(\w{1,16})?/", $part61, $matches);
-
-        if( $matches[6]== "D" )
-            $matches[8] = "-" . $matches[8];
-
-        $wertstellung = $matches[3] . "." . $matches[2] . ".20". $matches[1];
-        if( $matches[5] && $matches[4] && $matches[1] )
-            $buchung = $matches[5] . "." . $matches[4] . ".20". $matches[1];
-        else
-            $buchung = "";
-
-        $betrag = isset($matches[8])?$matches[8]:'';
-
-        // Prüfe Betrag und ergänze zero 0, falls nötig
-        $kommaPosition = strpos($betrag, ',');
-
-        if( $kommaPosition == strlen($kommaPosition)-1 ) {
-            $betrag = $betrag . "00";
-        }
-        else   if( $kommaPosition == strlen($kommaPosition)-2 ) {
-            $betrag = $betrag . "0";
-        }
-
-        // Get Buchungsdatum
-        preg_match("/[C|D]([0-9]{2})([0-9]{2})([0-9]{2})(\w{3}).*/", $part60, $matches);
-
-        if( !$buchung )
-            $buchung = $matches[3] . "." . $matches[2] . ".20". $matches[1];
-        $währung = isset($matches[4])?$matches[4]:'';
-
-        return array(
-            'buchung' => $buchung,
-            'buchungstext' => $buchungstext,
-            'geschaeftsvorfall' => $geschaeftsvorfall,
-            'wertstellung' => $wertstellung,
-            'betrag' => $betrag . ' ' . $währung,
-            'verwendungszweck' => $verwendungszweck,
-            'konto' => $kontonr,
-            'blz' => $bankkennung,
-            'auftraggeber' => $auftraggeber
-        );
-    }
-}
-
-/**
- * SEPA XML CLASS
- */
-class PmtInf
-{
-    public $catPurpose, $datum, $seqType;
-    private $positions, $sum;
-
-    public function __construct($catPurpose, $aDatum, $seqType)
-    {
-        $this->catPurpose = $catPurpose;
-        $this->datum = $aDatum;
-        $this->seqType = $seqType;
-        $this->positions = array();
-        $this->sum = 0.00;
-    }
-
-    public function add($amount, $name, $iban, $bic=NULL, $aPurp=NULL, $e2eRef=NULL, $purpose=NULL, $mandateRef=NULL, $mandateDate=NULL,
-                        $oldMandatRef=NULL, $oldName=NULL, $oldCreditorId=NULL, $oldIban=NULL, $oldBic=NULL)
-    {
-        $arrAccounting=array();
-
-        $arrAccounting['BETRAG'] = $amount;
-        $arrAccounting['NAME'] = $name;
-        $arrAccounting['IBAN'] = $iban;
-        $arrAccounting['BIC'] = $bic;
-        $arrAccounting['PURP'] = $aPurp;
-        $arrAccounting['REF'] = $e2eRef;
-        $arrAccounting['VERWEND'] = $purpose;
-        $arrAccounting['MANDATREF'] = $mandateRef;
-        $arrAccounting['MANDATDATE'] = $mandateDate;
-        $arrAccounting['OLDMANDATREF'] = $oldMandatRef;
-        $arrAccounting['OLDNAME'] = $oldName;
-        $arrAccounting['OLDCREDITORID'] = $oldCreditorId;
-        $arrAccounting['OLDIBAN'] = $oldIban;
-        $arrAccounting['OLDBIC'] = $oldBic;
-
-        $this->positions[] = $arrAccounting;
-        $this->sum += $amount;
-    }
-
-    public function get($pmtInfId, $type, $auftraggeber, $iban, $bic, $creditorId = null, $chargeBearer = 'SLEV')
-    {
-        $myLast=$type!='TRF';
-        $result="    <PmtInf>\n";
-        $myPmtInfId=$pmtInfId;
-
-        if (!empty($this->catPurpose))
-            $myPmtInfId.='-'.$this->catPurpose;
-        if (!empty($this->seqType))
-            $myPmtInfId.='-'.$this->seqType;
-
-        $result.='      <PmtInfId>'.$myPmtInfId."</PmtInfId>\n";
-        $result.='      <PmtMtd>'.($myLast?'DD':'TRF')."</PmtMtd>\n";
-        $result.="      <BtchBookg>false</BtchBookg>\n";
-        $result.='      <NbOfTxs>'.count($this->positions)."</NbOfTxs>\n";
-        $result.='      <CtrlSum>'.sprintf('%.2F', $this->sum)."</CtrlSum>\n";
-        $result.="      <PmtTpInf>\n";
-        $result.="        <SvcLvl>\n";
-        $result.="          <Cd>SEPA</Cd>\n";
-        $result.="        </SvcLvl>\n";
-        if ($myLast) {
-            $result.="        <LclInstrm>\n";
-            $result.='          <Cd>'.$type."</Cd>\n";
-            $result.="        </LclInstrm>\n";
-            $result.='        <SeqTp>'.$this->seqType."</SeqTp>\n";
-        }
-        if (!empty($this->catPurpose)) {
-            $result.="        <CtgyPurp>\n";
-            $result.='          <Cd>'.$this->catPurpose."</Cd>\n";
-            $result.="        </CtgyPurp>\n";
-        }
-        $result.="      </PmtTpInf>\n";
-
-        // Ausfuehrungsdatum
-        $tag=$myLast?'ReqdColltnDt':'ReqdExctnDt';
-        $result.='      <'.$tag.'>'.$this->datum.'</'.$tag.">\n";
-
-        // Eigene Daten
-        $tag=$myLast?'Cdtr':'Dbtr';
-        $result.='      <'.$tag.">\n";
-        $result.='        <Nm>'.$auftraggeber."</Nm>\n";
-        $result.='      </'.$tag.">\n";
-        $tag2=$tag.'Acct';
-        $result.='      <'.$tag2.">\n";
-        $result.="        <Id>\n";
-        $result.='          <IBAN>'.$iban."</IBAN>\n";
-        $result.="        </Id>\n";
-        $result.='      </'.$tag2.">\n";
-        $tag2=$tag.'Agt';
-        $result.='      <'.$tag2.">\n";
-        $result.="        <FinInstnId>\n";
-        if (!empty($bic))
-            $result.='          <BIC>'.$bic."</BIC>\n";
-        else {
-            $result.="          <Othr>\n";
-            $result.="            <Id>NOTPROVIDED</Id>\n";
-            $result.="          </Othr>\n";
-        }
-        $result.="        </FinInstnId>\n";
-        $result.='      </'.$tag2.">\n";
-        $result.="      <ChrgBr>$chargeBearer</ChrgBr>\n";
-        if ($myLast) {
-            $result.="      <CdtrSchmeId>\n";
-            $result.="        <Id>\n";
-            $result.="          <PrvtId>\n";
-            $result.="            <Othr>\n";
-            $result.='              <Id>'.$creditorId."</Id>\n";
-            $result.="              <SchmeNm>\n";
-            $result.="                <Prtry>SEPA</Prtry>\n";
-            $result.="              </SchmeNm>\n";
-            $result.="            </Othr>\n";
-            $result.="          </PrvtId>\n";
-            $result.="        </Id>\n";
-            $result.="      </CdtrSchmeId>\n";
-        }
-
-        foreach ($this->positions as $position)
-        {
-            $result.=$myLast?"      <DrctDbtTxInf>\n":"        <CdtTrfTxInf>\n";
-            $result.="        <PmtId>\n";
-            $result.='          <EndToEndId>'.(empty($position['REF'])?'NOTPROVIDED':$position['REF'])."</EndToEndId>\n";
-            $result.="        </PmtId>\n";
-            if ($myLast) {
-                $result.='        <InstdAmt Ccy="EUR">'.sprintf('%.2F', $position['BETRAG'])."</InstdAmt>\n";
-                $result.="        <DrctDbtTx>\n";
-                $result.="          <MndtRltdInf>\n";
-                $result.='            <MndtId>'.$position['MANDATREF']."</MndtId>\n";
-                $result.='            <DtOfSgntr>'.$position['MANDATDATE']."</DtOfSgntr>\n";
-                $amendmentinfo=!empty($position['OLDMANDATREF']) || !empty($position['OLDNAME']) ||
-                    !empty($position['OLDCREDITORID']) || !empty($position['OLDIBAN']) ||
-                    !empty($position['OLDBIC']);
-                $result.='            <AmdmntInd>'.($amendmentinfo?'true':'false')."</AmdmntInd>\n";
-                if ($amendmentinfo) {
-                    $result.="            <AmdmntInfDtls>\n";
-                    if (!empty($position['OLDMANDATREF']))
-                        $result.='              <OrgnlMndtId>'.$position['OLDMANDATREF']."</OrgnlMndtId>\n";
-                    if (!empty($position['OLDNAME']) or !empty($position['OLDCREDITORID'])) {
-                        $result.="              <OrgnlCdtrSchmeId>\n";
-                        if (!empty($position['OLDNAME']))
-                            $result.='                <Nm>'.$position['OLDNAME']."</Nm>\n";
-                        if (!empty($position['OLDCREDITORID'])) {
-                            $result.="                <Id>\n";
-                            $result.="                  <PrvtId>\n";
-                            $result.="                    <Othr>\n";
-                            $result.='                      <Id>'.$position['OLDCREDITORID']."</Id>\n";
-                            $result.="                      <SchmeNm>\n";
-                            $result.="                        <Prtry>SEPA</Prtry>\n";
-                            $result.="                      </SchmeNm>\n";
-                            $result.="                    </Othr>\n";
-                            $result.="                  </PrvtId>\n";
-                            $result.="                </Id>\n";
-                        }
-                        $result.="              </OrgnlCdtrSchmeId>\n";
-                    }
-                    if (!empty($position['OLDIBAN'])) {
-                        $result.="              <OrgnlDbtrAcct>\n";
-                        $result.="                <Id>\n";
-                        $result.='                  <IBAN>'.$position['OLDIBAN']."</IBAN>\n";
-                        $result.="                </Id>\n";
-                        $result.="              </OrgnlDbtrAcct>\n";
-                    }
-                    if (!empty($position['OLDBIC'])) {
-                        $result.="              <OrgnlDbtrAgt>\n";
-                        $result.="                <FinInstnId>\n";
-                        $result.="                  <Othr>\n";
-                        $result.='                    <Id>'.$position['OLDBIC']."</Id>\n";
-                        $result.="                  </Othr>\n";
-                        $result.="                </FinInstnId>\n";
-                        $result.="              </OrgnlDbtrAgt>\n";
-                    }
-                    $result.="            </AmdmntInfDtls>\n";
-                }
-                $result.="          </MndtRltdInf>\n";
-                $result.="        </DrctDbtTx>\n";
-            }
-            else {
-                $result.="        <Amt>\n";
-                $result.='          <InstdAmt Ccy="EUR">'.sprintf('%.2F', $position['BETRAG'])."</InstdAmt>\n";
-                $result.="        </Amt>\n";
-            }
-
-            $tag=$myLast?'Dbtr':'Cdtr';
-            $tag2=$tag.'Agt';
-
-            if (!empty($position['BIC'])) {
-                $result.='        <'.$tag2.">\n";
-                $result.="          <FinInstnId>\n";
-                $result.='            <BIC>'.$position['BIC']."</BIC>\n";
-                $result.="          </FinInstnId>\n";
-                $result.='        </'.$tag2.">\n";
-            }
-            else {
-                if ($myLast) {
-                    $result.='        <'.$tag2.">\n";
-                    $result.="          <FinInstnId>\n";
-                    $result.="            <Othr>\n";
-                    $result.="              <Id>NOTPROVIDED</Id>\n";
-                    $result.="            </Othr>\n";
-                    $result.="          </FinInstnId>\n";
-                    $result.='        </'.$tag2.">\n";
-                }
-            }
-
-            $result.='        <'.$tag.">\n";
-            $result.='          <Nm>'.$position['NAME']."</Nm>\n";
-            $result.='        </'.$tag.">\n";
-            $tag2=$tag.'Acct';
-            $result.='        <'.$tag2.">\n";
-            $result.="          <Id>\n";
-            $result.='            <IBAN>'.$position['IBAN']."</IBAN>\n";
-            $result.="          </Id>\n";
-            $result.='        </'.$tag2.">\n";
-
-            if (!empty($position['PURP'])) {
-                $result.="        <Purp>\n";
-                $result.='          <Cd>'.$position['PURP']."</Cd>\n";
-                $result.="        </Purp>\n";
-            }
-
-            if (!empty($position['VERWEND'])) {
-                $result.="        <RmtInf>\n";
-                $result.='          <Ustrd>'.$position['VERWEND']."</Ustrd>\n";
-                $result.="        </RmtInf>\n";
-            }
-
-            $result .= $myLast?"      </DrctDbtTxInf>\n":"        </CdtTrfTxInf>\n";
-        }
-
-        $result.="    </PmtInf>\n";
-
-        return $result;
-    }
-}
-
-class SEPAXML
-{
-    private $EXPIRE_TIMESTAMP = 0;
-    private $version, $pmtInf, $totalCount, $totalAmount;
-    private $pmtInfId = NULL;
-
-    public function __construct($pmtInfId) {
-        $this->version = '1';
-        $this->pmtInf = array();
-        $this->totalCount = 0;
-        $this->totalAmount = 0.00;
-        $this->pmtInfId = $pmtInfId;
-
-        // Get the license information
-        $license = ioncube_license_properties();
-        $this->EXPIRE_TIMESTAMP = $license['expires']['value'];
-    }
-
-    private function getPmtInf($datum, $catPurpose, $seqType)
-    {
-        foreach ($this->pmtInf as $myPmtInf) {
-            if ($myPmtInf->datum == $datum and $myPmtInf->catPurpose == $catPurpose and $myPmtInf->seqType == $seqType)
-                return $myPmtInf;
-        }
-
-        $myPmtInf = new PmtInf($catPurpose, $datum, $seqType);
-        $this->pmtInf[] = $myPmtInf;
-
-        return $myPmtInf;
-    }
-
-    protected function _add($transactionDate, $amount, $name, $iban, $bic=NULL, $catPurpose=NULL, $aPurp=NULL, $e2eRef=NULL, $purpose=NULL,
-                            $seqType=NULL, $mandateRef=NULL, $mandateDate=NULL, $oldMandatRef=NULL, $oldName=NULL, $oldCreditorId=NULL, $oldIban=NULL, $oldBic=NULL)
-    {
-        // Check the date! We do not allow anything greater then 7 days then our expire date
-        $dtTransactionDate = new DateTime($transactionDate);
-
-        if( !$dtTransactionDate || ($this->EXPIRE_TIMESTAMP > 0 && $dtTransactionDate->getTimestamp() > $this->EXPIRE_TIMESTAMP + 7 * 86400) ) {
-            throw new Exception('Auftragsdatum ist ungültig.');
-        }
-
-        $myPmtInf = $this->getPmtInf($transactionDate, $catPurpose, $seqType);
-        $myPmtInf->add($amount, $name, $iban, $bic, $aPurp, $e2eRef, $purpose, $mandateRef, $mandateDate, $oldMandatRef, $oldName, $oldCreditorId, $oldIban, $oldBic);
-
-        $this->totalCount++;
-        $this->totalAmount += $amount;
-    }
-
-    protected function _getXML($type, $auftraggeber, $iban, $bic, $creditorId = NULL, $chargeBearer = 'SLEV')
-    {
-        // replace german characters
-        $auftraggeber = str_replace("ä", "ae", $auftraggeber);
-        $auftraggeber = str_replace("ö", "oe", $auftraggeber);
-        $auftraggeber = str_replace("ü", "ue", $auftraggeber);
-        $auftraggeber = str_replace("Ä", "Ae", $auftraggeber);
-        $auftraggeber = str_replace("Ö", "Oe", $auftraggeber);
-        $auftraggeber = str_replace("Ü", "Ue", $auftraggeber);
-        $auftraggeber = str_replace("ß", "ss", $auftraggeber);
-
-        // Remove any other illegal char
-        $auftraggeber = preg_replace('|[^a-zA-Z0-9\ \/\?\:\(\)\.\,\'\+\-]|', '', $auftraggeber);
-        $auftraggeber = strtoupper($auftraggeber);
-
-        $iban = strtoupper($iban);
-        $bic = strtoupper($bic);
-
-        // Initialise defaults
-        $myLast = $type != 'TRF';
-        $pain=$myLast?'pain.008.00'.$this->version.'.02':'pain.001.00'.$this->version.'.03';
-        $urn='urn:iso:std:iso:20022:tech:xsd:'.$pain;
-        $msgId = date("Y-m-d\TH:i:su", time());
-        $creDtTm = date("Y-m-d\TH:i:s", time());
-
-        // Header schreiben
-        $result = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n";
-        $result .= '<Document xmlns="'.$urn."\"\n";
-        $result .= "  xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\n";
-        $result .= '  xsi:schemaLocation="'.$urn.' '.$pain.".xsd\">\n";
-        $result .= $myLast?"  <CstmrDrctDbtInitn>\n":"  <CstmrCdtTrfInitn>\n";
-
-        // Group Header
-        $result .= "    <GrpHdr>\n";
-        $result .= '      <MsgId>' . $msgId . "</MsgId>\n";
-        $result .= '      <CreDtTm>' . $creDtTm . "</CreDtTm>\n";
-        $result .= '      <NbOfTxs>' . $this->totalCount . "</NbOfTxs>\n";
-        $result .= '      <CtrlSum>' . sprintf('%.2F', $this->totalAmount) . "</CtrlSum>\n";
-        $result .= "      <InitgPty>\n";
-        $result .= '        <Nm>' . $auftraggeber . "</Nm>\n";
-        $result .= "      </InitgPty>\n";
-        $result .= "    </GrpHdr>\n";
-
-        // Payment Information(s)
-        foreach ($this->pmtInf as $myPmtInf) {
-            $result .= $myPmtInf->get(!empty($this->pmtInfId)?$this->pmtInfId:$msgId, $type, $auftraggeber, $iban, $bic, $creditorId, $chargeBearer);
-        }
-
-        // Ende
-        $result .= $myLast?"  </CstmrDrctDbtInitn>\n":"  </CstmrCdtTrfInitn>\n";
-        $result .= "</Document>\n";
-
-        return $result;
-    }
-
-    public function getTotalCount() {
-        return $this->totalCount;
-    }
-
-    public function getTotalAmount() {
-        return $this->totalAmount;
-    }
-}
-
-class BusinessDebitBase extends DebitBase
-{
-    public function __construct($transactionDate, $creditorId, $kundenRef=NULL)
-    {
-        parent::__construct($transactionDate, $creditorId, $kundenRef, 'B2B');
-    }
-}
-
-class DebitBase extends SEPAXML
-{
-    private $creditorId;
-    private $type = "CORE";
-    private $transactionDate;
-
-    public function __construct($transactionDate, $creditorId, $type="CORE", $kundenRef=NULL)
-    {
-        parent::__construct($kundenRef);
-
-        $this->creditorId = $creditorId;
-        $this->transactionDate = $transactionDate;
-
-        switch($type) {
-            case 'B2B':
-                $this->type = "B2B";
-                break;
-
-            case 'COR1':
-                $this->type = "COR1";
-                break;
-
-            default:
-                $this->type = "CORE";
-        }
-    }
-
-    public function add( $amount, $name, $iban, $bic=NULL, $purpose=NULL, $e2eRef=NULL, $mandateRef, $mandateDate, $seqType = 'OOFF' ) {
-        $this->_add($this->transactionDate, $amount, $name, $iban, $bic, NULL, NULL, $e2eRef, $purpose, $seqType, $mandateRef, $mandateDate );
-    }
-
-    public function getXML($auftraggeber, $iban, $bic)
-    {
-        return $this->_getXML($this->type, $auftraggeber, $iban, $bic, $this->creditorId);
-    }
-
-    public function getType() {
-        return $this->type;
-    }
-}
-
-class CreditBase extends ScheduledCreditBase
-{
-    public function __construct($kundenRef = NULL, $chargeBearer = 'SLEV')
-    {
-        parent::__construct('1999-01-01', $kundenRef, $chargeBearer);
-    }
-
-    public function add($amount, $name, $iban, $bic=NULL, $purpose=NULL, $e2eRef=NULL) {
-        parent::add($amount, $name, $iban, $bic, $purpose, $e2eRef);
-    }
-}
-
-class ScheduledCreditBase extends SEPAXML
-{
-    private $transactionDate;
-    private $_chargeBearer = 'SLEV';
-
-    public function __construct($transactionDate, $kundenRef = NULL, $chargeBearer = 'SLEV')
-    {
-        parent::__construct($kundenRef);
-        $this->transactionDate = $transactionDate;
-
-        switch($chargeBearer) {
-            case 'DEBT':
-                $this->_chargeBearer = 'DEBT';
-                break;
-
-            case 'CRED':
-                $this->_chargeBearer = 'CRED';
-                break;
-
-            case 'SHAR':
-                $this->_chargeBearer = "SHAR";
-                break;
-        }
-    }
-
-    public function add( $amount, $name, $iban, $bic=NULL, $purpose=NULL, $e2eRef=NULL ) {
-        $this->_add($this->transactionDate, $amount, $name, $iban, $bic, NULL, NULL, $e2eRef, $purpose);
-    }
-
-    public function getXML($auftraggeber, $iban, $bic)
-    {
-        return $this->_getXML('TRF', $auftraggeber, $iban, $bic, null, $this->_chargeBearer);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+T3g0hoG52hrgSd/Z

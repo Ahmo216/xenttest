@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\ImportTemplate\Exception;
+
+use Exception;
+
+class InvalidTemplateDataException extends Exception implements ImportTemplateExceptionInterface
+{
+}

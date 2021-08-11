@@ -1,92 +1,108 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-wZINKTpFgxWL6I81lRuB569j
+<?php
+
+class Mailausgang {
+  var $app;
+
+  static function TableSearch(&$app, $name, $erlaubtevars)
+  {
+    // in dieses switch alle lokalen Tabellen (diese Live Tabellen mit Suche etc.) für dieses Modul
+    switch($name)
+    {
+      case "mailausgang_list":
+      $allowed['mailausgang'] = array('list');
+
+      $heading = array('','Zeit','To','Subject','From','Fehler', 'Men&uuml;');
+      $width = array('1%','10%', '10%', '30%','10%','20%','1%');
+
+      $moreinfo=true;
+      $menucol = 6;
+
+      $findcols = array('open','m.zeit', 'm.to', 'm.subject','m.from','m.status','m.id');
+      $searchsql = array('m.zeit', 'm.to', 'm.subject','m.from','m.status');
+
+      $datecols = array(1);
+
+      $defaultorder = 2;
+      $defaultorderdesc = 1;
+
+      $menu = "<a href=\"#\" onclick=DeleteDialog(\"index.php?module=mailausgang&action=delete&id=%value%\")><img src=\"themes/{$app->Conf->WFconf['defaulttheme']}/images/delete.svg\" border=\"0\"></a>";
+
+      $where = " m.id > 0 ";
+
+      $sql = "SELECT SQL_CALC_FOUND_ROWS m.id, '<img src=./themes/{$app->Conf->WFconf['defaulttheme']}/images/details_open.png class=details>' as open,
+         m.zeit, IF(m.art=0,m.to,IF(m.art = 1,CONCAT('<u>',m.to,'</u>'),CONCAT('<span style=\"border-bottom: 1px dotted #000;\">',m.to,'</span>'))), m.subject, m.from, m.status, m.id FROM mailausgang m";
+
+
+      $count = "SELECT count(m.id) FROM mailausgang m WHERE $where";
+
+      break;
+
+    }
+
+    $erg = [];
+
+    foreach($erlaubtevars as $k => $v)
+    {
+      if(isset($$v))$erg[$v] = $$v;
+    }
+    return $erg;
+  }
+
+  function __construct($app, $intern = false) {
+    $this->app=$app;
+    if($intern)return;
+    $this->app->ActionHandlerInit($this);
+
+    // ab hier alle Action Handler definieren die das Modul hat
+    $this->app->ActionHandler("list", "MailausgangList");
+    $this->app->ActionHandler("delete", "MailausgangDelete");
+    $this->app->ActionHandler("minidetail", "MailausgangMiniDetail");
+    $this->app->DefaultActionHandler("list");
+
+    $this->app->ActionHandlerListen($app);
+
+  }
+
+  
+
+  function MailausgangMenu()
+  {
+    $this->app->erp->MenuEintrag("index.php?module=mailausgang&action=list","Zur&uuml;ck zur &Uuml;bersicht");
+  }
+
+  function MailausgangList()
+  {
+    $this->app->erp->MenuEintrag("index.php?module=mailausgang&action=list","&Uuml;bersicht");
+
+    $this->app->YUI->TableSearch('TAB1','mailausgang_list', "show","","",basename(__FILE__), __CLASS__);
+    $this->app->Tpl->Parse("PAGE","tabview.tpl");
+  }
+
+  function MailausgangMiniDetail()
+  {
+    $id = $this->app->Secure->GetGET("id");
+    echo utf8_encode($this->app->DB->Select("SELECT body FROM mailausgang WHERE id = '$id' LIMIT 1"));
+    exit;
+  }
+
+
+  function MailausgangDelete()
+  {
+    $id = $this->app->Secure->GetGET("id");
+    $this->app->DB->DELETE("DELETE FROM mailausgang WHERE id = '$id' LIMIT 1");
+
+    header("Location: index.php?module=mailausgang&action=list");
+    exit;
+  }
+
+
+}

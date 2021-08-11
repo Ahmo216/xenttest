@@ -1,60 +1,102 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-HyZWwc5mpYzk/gXkV1HhiAYajbW=
+<?php
+
+namespace Xentral\Modules\Resubmission\Exception;
+
+use DomainException;
+
+class TaskMustBeCompletedException extends DomainException implements ResubmissionExceptionInterface
+{
+    /** @var string $requiredStageName */
+    private $requiredStageName;
+
+    /** @var string $currentStageName */
+    private $currentStageName;
+
+    /**
+     * Exception wird geworfen wenn eine Aufgabe als "offen" angelegt werden soll
+     * und die aktuelle Stage und die Einstellung in "Pflichtfeld ab Stage" das nicht zulässt.
+     *
+     * @param string $requiredStageName
+     * @param string $currentStageName
+     *
+     * @return TaskMustBeCompletedException
+     */
+    public static function onCreation($requiredStageName, $currentStageName)
+    {
+        $instance = new self(sprintf(
+            'The Task cannot be created. The task must be completed from stage "%s" on. ' .
+            'The resubmission is currently in stage "%s".',
+            $requiredStageName,
+            $currentStageName
+        ));
+
+        $instance->requiredStageName = $requiredStageName;
+        $instance->currentStageName = $currentStageName;
+
+        return $instance;
+    }
+
+    /**
+     * Exception wird geworfen wenn eine Aufgabe beim Bearbeiten auf "offen" angelegt werden soll
+     * und die aktuelle Stage und die Einstellung in "Pflichtfeld ab Stage" das nicht zulässt.
+     *
+     * @param string $requiredStageName
+     * @param string $currentStageName
+     *
+     * @return TaskMustBeCompletedException
+     */
+    public static function onModification($requiredStageName, $currentStageName)
+    {
+        $instance = new self(sprintf(
+            'The Task modification is invalid. The task must be completed from stage "%s" on. ' .
+            'The resubmission is currently in stage "%s".',
+            $requiredStageName,
+            $currentStageName
+        ));
+
+        $instance->requiredStageName = $requiredStageName;
+        $instance->currentStageName = $currentStageName;
+
+        return $instance;
+    }
+
+    /**
+     * Exception wird geworfen wenn eine abgeschlossene Aufgabe zurück auf "offen" gestellt werden soll
+     * und die aktuelle Stage und die Einstellung in "Pflichtfeld ab Stage" das nicht zulässt.
+     *
+     * @param $requiredStageName
+     * @param $currentStageName
+     *
+     * @return TaskMustBeCompletedException
+     */
+    public static function onChangingStateToOpen($requiredStageName, $currentStageName)
+    {
+        $instance = new self(sprintf(
+            'The Task cannot be changed to "open". The task needs to be completed from stage "%s" on. ' .
+            'The resubmission is currently in stage "%s".',
+            $requiredStageName,
+            $currentStageName
+        ));
+
+        $instance->requiredStageName = $requiredStageName;
+        $instance->currentStageName = $currentStageName;
+
+        return $instance;
+    }
+
+    /**
+     * @return string
+     */
+    public function getRequiredStageName()
+    {
+        return $this->requiredStageName;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCurrentStageName()
+    {
+        return $this->currentStageName;
+    }
+}

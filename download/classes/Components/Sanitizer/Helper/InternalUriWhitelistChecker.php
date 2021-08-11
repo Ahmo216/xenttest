@@ -1,56 +1,89 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Sanitizer\Helper;
+
+use Xentral\Components\Sanitizer\Exception\InvalidArgumentException;
+
+final class InternalUriWhitelistChecker
+{
+    /** @var string $hostname */
+    private $hostname;
+
+    /** @var array $hostnameParts */
+    private $hostnameParts;
+
+    /** @var array $moduleActionWhitelist */
+    private $moduleActionWhitelist;
+
+    /**
+     * @example `$whitelist = [
+     *     ['module' => 'testinger', 'action' => 'example'],
+     *     ['module' => 'welcome', 'action' => 'redirect'],
+     * ]`
+     *
+     * @param string $hostname Der eigene Hostname; nur Domain ohne http
+     * @param array  $moduleActionWhitelist Erlaubte Module-Action-Kombinationen
+     *
+     * @throws InvalidArgumentException
+     */
+    public function __construct($hostname, $moduleActionWhitelist = [])
+    {
+        if (empty($hostname)) {
+            throw new InvalidArgumentException(sprintf('Hostname "%s" is invalid.', $hostname));
+        }
+
+        $this->hostname = (string)$hostname;
+        $this->hostnameParts = array_reverse(explode('.', $this->hostname));
+        $this->moduleActionWhitelist = (array)$moduleActionWhitelist;
+    }
+
+    /**
+     * @param string|null $uriHostname
+     *
+     * @return bool
+     */
+    public function isOwnHost($uriHostname = null)
+    {
+        if ($uriHostname === null) {
+            return true; // Domain fehlt => Relative URL './index.php?module=...'
+        }
+        if ($uriHostname === $this->hostname) {
+            return true; // Domain stimmt 1:1 überein
+        }
+
+        $uriHostParts = array_reverse(explode('.', $uriHostname));
+        foreach ($this->hostnameParts as $index => $hostnamePart) {
+            if (!isset($uriHostParts[$index])) {
+                return false;
+            }
+            if ($this->hostnameParts[$index] !== $uriHostParts[$index]) {
+                return false;
+            }
+        }
+
+        return true; // Geprüfte Domain ist Subdomain von $this->hostname > OK
+    }
+
+    /**
+     * Achtung: Methode prüft nicht ob Domain übereinstimmt; nur in Kombination mit `$this->isOwnHost` verwenden!
+     *
+     * @param string|null $module
+     * @param string|null $action
+     *
+     * @return bool
+     */
+    public function isAllowedAction($module = null, $action = null)
+    {
+        if ($module === null || $action === null) {
+            return false;
+        }
+
+        foreach ($this->moduleActionWhitelist as $params) {
+            if ($params['module'] === $module && $params['action'] === $action) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+}

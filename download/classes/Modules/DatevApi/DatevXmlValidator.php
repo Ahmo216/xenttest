@@ -65,7 +65,7 @@ final class DatevXmlValidator
                 $level = ValidationResultErrorData::DATEV_XML_FATAL;
             }
 
-            $errors[] = new ValidationResultErrorData($level, $error->code, $error->message);
+            $errors[] = new ValidationResultErrorData($level, $error->code, $error->message, $error->line);
         }
         libxml_clear_errors();
 

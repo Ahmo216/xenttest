@@ -1,31 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-fbHCU1eUogPN83stDrpzEG==
+<?php
+
+namespace Xentral\Modules\SystemMailClient\Exception;
+
+use RuntimeException;
+
+class InvalidArgumentException extends RuntimeException implements SystemMailClientExceptionInterface
+{
+}

@@ -1,45 +1,45 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP+nylHnLm0LJPyueF+ZOpL0RSc27364BNCSacakA1U+iAvJNI7eexk1UlGKjCbWlSDvW1Ahc
-RAAiNNG9iqDhiThjVzc8e3F5fu/nz8C5LJJj1UTXjbEvlxoWvd7POtUQ+xXRmp17FH3IzDJvNEHU
-Xj0UZIF9LF8PU9f6QKzgtAxnn6+n24AFLFb22LJiB3QXEOLpApDj4OHbR6GOH4BOnOr/BZjL1jWl
-nXABJi5jSfHvIEM53KXed5GMvaHObO17r4DD90Op70cI4Qup122tGyxZivx0y+8J+4i+FTYMqWWz
-VIeR8QYaHtY6IB7YJ+oJ2iGlS2YKbr39i3X7YaDTpGgmmr8LTxBK69bAkx+TA51FIHpappIIL3SA
-9kY3T2FeUcTsWoXs9p5J3VXW/u3jg6HGrQOsRxa617h1LpXOnpgLMh1WYheM9AMruXkuJmIfXtjL
-SGnceQ8eE6s5NuYqx9zlXUuC9PacTbNdiukp3JfmHYBVtwozFds4airyXPNC3qlI4c3pPyxhO+rk
-9kkpJyjqw89zV8/wuZvcXr7zlxruIH2kRHH7QNEBJl3cTUChxzibdaC3SVhKQZZVHboPdninxSY3
-vdJVrEym9jztmQpX+BENTvhxc+B+qhOcXc5/IBSPS18tdMbM8/07NpavIvDZ9enBvbvaSR6b1PhK
-0ZsHse8eyRFYT+pDti9NsU0RP/RUWDtke1mIglaiRQTq8QDnWasXi54xPGOihGYYxBpal3eGs5IK
-9+XHRKIH/74f/8vx+DQCZUlQD+dg05A+IuyEybJrXfcMqUeTO2BCvWvdsDAdwHoJbSPxemZe8N5c
-P2WbH80Sq6ijsZ97xS+qZvFaTvlYFXlHOHxvZvoN/CJZ82g+I0pPo9oOWE+pjSEJ0g8mfqhxKqLF
-0HoefRvhd1R1YrFNaKqNR7tkAbHW3zR0T5QpUfhDp0ICD3tEnb+3Y6nzN65UTkFl9WFF6Z/wB9wR
-SZxEXt/ACWWm30sIIQjL5/9TGIhAnql1abQWXLM13EhxgLz7FG0zbs773o7ctUPQ0BKgZr4555w8
-WFQL5S2DQO200mAx/8xjs7OibxtTBcedly2Uho6JKEyFMY4o54TJMteC0SdFXcI2R9PZbWkH7KsG
-tzvpWI/T6TEAeSdlTh3N4NRihNRTQQ/wP9MSVquEcNbIWlvzHv02Q7xz1M0cliCQ9hRzmVbP2isS
-/zFXjGJnPVDxp6UdLpE9ZXndbEL7BqGAcjzm4f0BK33HY5SgSRJEs480i8MP8Ce+7tuUp0PRobXJ
-o1HqMkYWGcG9ZUqQte0sgJLWLWTGA7/x1Ue1Ff6oCzfBaSdNVZvexfs6Xn5b9JtHI30u+0yms7FE
-kIUZIte2WBqCE4IxZrYFYyW2ro5J6pTMm8DUSLe25k+QeJRbov2j3CPO8U5GhV3KumbnvxXC4rnV
-H7l7mXlbj8b6r7QT2p1eVQkC00/hVJW6ijBgEis3IMrLovGMg0gWOnSChZ0N3kHwC6fXqWf8rSOS
-slnXDBe1HuAV4X6DrpFFaMtvek75aal5Xrfs+X2C2XIJPqMtBN/nuD3Fb9rB5KLAUe69Vq0e8rQU
-vlk8Do8ahZ8zfulPzAVnajeRKvXcFkQSR+cVvcRHqxvAsCLciEYpZlr8RDtBs8VhD9ZGRc8H7j3F
-DPq9w/PXEeU6vP//6dSbFYeTtZd6aUhbzFs6WXXlYXajM7n8yhHd2UxpOT4QkdosFfW7wAA3Y0VE
-EMXnKsD9XynpKJ8pk9h+cB6Ymrv3Vo7Ahi7+md7//Y0U2wBY5diRbIBtZWyRx74PbdHFnnFqiSY8
-OqWS5ZuHq4WXTdBYqcEr6rmpxIBE4zfYfhUuuv3SMjtaC+Rvj5KXJCnLcR3J9jipDHjLDKIMUjZ2
-IJ2O9yBZTTD19rY8AGHQbHfCviVIPc7IIghcRWwRyZqVbC3T0XwaPitNb9vqE++hwVJG7LmkNRYW
-av+Dghggfo85LFb6IBZnLb2cBeE076c2FbRyjWaQspiLbuXcDj3nlun/pb8VCMwxUd1kiZuiZ0sD
-1v8hKURUaKwL2LocdrjImWwoRgwLEOdJB5CxA4Gk5lJM8hsQAHXOJLCFXkBa/hFkfg5P4QLvLWMd
-GFynfzm5b/fjiGjDxUs+wr5QBtH2lzG7FyZrk+bnJcvGxA/NmmIgfQ1ubWinElx3X5Na9q/5KFAu
-bCwHogYcX0+sUEJFckrI4AQ0Co9kdtL7zhhPndiz4FtLFKdfQ74N9o6sZrBI3QIFrd/ovV7d/1lm
-fxHyM8ZiZ+cpwlt8hzcM5hsqPHq7jdZvbqEYl797j1/+cD+wT0JowIts7rsF2evq20kRZEJhYEEy
-wXpeA0El4/SBhwSFH+OJOh9BIMamshi01eVzdfrgdxBVvzlyK7hltIzm1YBquMpEBCATAshtUXm6
-UzxY12OgvUP4fv9zGDPEzqTeRldRdfgDQA+ZnELYZ9rzz4d4R9IS/QrFCBsE4tIt1xyg0FwScfN5
-N89i2N/GdR3zJuRxVsakwN82mSjdguPgfH/E6wJ2Ym20cdVlc964m3sf0K2IKXUDaAbZs91nQJV1
-wZObDdJq7u/C7Zg/ZQqkrjIMq6NOiIR08ov/9csRZFPxhwl4w7IXyFrNCxVbNOBWRnfyBb6OsM3z
-WaaZDhCV3A544Wgs6lFgVqS4uQAl2RvFvjOA+h58v2RgmuB0SaLJlr69Ju3QhGG1Iun34Q6oJQpW
-XOFV5Ziuk4kZsp5iXizgURYJEtBOPpyQNTFfC5KI5ufcd4NMV9+smVuUL7m6l/MVlpGZIrRjd3G9
-pfhSFNToiXnAvcqPy1tuYn5HR2+hfVjZu11e8muSa1xANE+l1ZM0Cpi5XUcPuLEEkD6U/iYlN2X6
-ZADZC9FiXSZYcb66I9Cf8oS+GEMXQgTyWusSZ3MStrl3j53NpBqt/cV+GHlek6RCSg+/fjJHE1Td
-6HpqsyLTi+Z1UcL4dwfzKcwSceYcxuEpW0zeQufJKX0RC60MxOWrcjwCfSgl/pRrepLd0nBmJMH5
-273TekriHxzI0S8NZd0xKkkeg78FZ1zfloJ96BDc3WOZITMNFSSgnse9E74azunnYvkk42lLLkD3
-gcUZSr6AQuIY1o8ph1OElFm5WF0=
+<?php
+
+namespace Xentral\Components\Sanitizer\Helper;
+
+use Xentral\Components\Sanitizer\Exception\InvalidArgumentException;
+use Xentral\Components\Sanitizer\Exception\InvalidUrlException;
+
+final class UriParser
+{
+    /**
+     * @param string $url
+     *
+     * @throws InvalidArgumentException
+     * @throws InvalidUrlException
+     *
+     * @return UriDefinition
+     */
+    public function parse($url)
+    {
+        if (!is_string($url) || empty($url)) {
+            throw new InvalidArgumentException('Url is invalid. Url can not be empty.');
+        }
+
+        $parts = @parse_url($url);
+        if ($parts === false) {
+            throw new InvalidUrlException(sprintf('Could not parse url: "%s"', $url));
+        }
+
+        $queryParams = [];
+        if (isset($parts['query'])) {
+            parse_str($parts['query'], $queryParams);
+        }
+
+        return new UriDefinition(
+            isset($parts['scheme']) ? $parts['scheme'] : null,
+            isset($parts['user']) ? $parts['user'] : null,
+            isset($parts['pass']) ? $parts['pass'] : null,
+            isset($parts['host']) ? $parts['host'] : null,
+            isset($parts['port']) ? (int)$parts['port'] : null,
+            isset($parts['path']) ? $parts['path'] : null,
+            is_array($queryParams) ? $queryParams : null,
+            isset($parts['fragment']) ? $parts['fragment'] : null
+        );
+    }
+}

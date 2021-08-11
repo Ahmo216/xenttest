@@ -1,81 +1,177 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\CarrierSelect\Data;
+
+
+final class OrderPosition
+{
+    /** @var int $articleId */
+    private $articleId = 0;
+
+    /** @var float $quantity */
+    private $quantity = 0;
+
+    /** @var float $weight */
+    private $weight = 0;
+
+    /** @var float $length */
+    private $length = 0;
+
+    /** @var float $height */
+    private $height = 0;
+
+    /** @var float $width */
+    private $width = 0;
+
+    /**
+     * OrderPosition constructor.
+     *
+     * @param array $position
+     */
+    public function __construct(array $position = [])
+    {
+        if (empty($position)) {
+            return;
+        }
+        if (isset($position['artikel'])) {
+            $this->setArticleId((int)$position['artikel']);
+        }
+        if (isset($position['menge'])) {
+            $this->setQuantity((float)$position['menge']);
+        }
+        if (isset($position['gewicht'])) {
+            $this->setWeight((float)str_replace(',', '.', $position['gewicht']));
+        }
+        if (isset($position['laenge'])) {
+            $this->setLength((float)str_replace(',', '.', $position['laenge']));
+        }
+        if (isset($position['breite'])) {
+            $this->setWidth((float)str_replace(',', '.', $position['breite']));
+        }
+        if (isset($position['hoehe'])) {
+            $this->setHeight((float)str_replace(',', '.', $position['hoehe']));
+        }
+    }
+
+    /**
+     * @return array
+     */
+    public function toArray(): array
+    {
+        return [
+            'artikel' => $this->articleId,
+            'menge'   => $this->quantity,
+            'gewicht' => $this->weight,
+            'breite'  => $this->width,
+            'hoehe'   => $this->height,
+            'laenge'  => $this->length,
+        ];
+    }
+
+    /**
+     * @return int
+     */
+    public function getArticleId(): int
+    {
+        return $this->articleId;
+    }
+
+    /**
+     * @param int $articleId
+     */
+    public function setArticleId(int $articleId): void
+    {
+        $this->articleId = $articleId;
+    }
+
+    /**
+     * @return float
+     */
+    public function getQuantity(): float
+    {
+        return $this->quantity;
+    }
+
+    /**
+     * @param float $quantity
+     */
+    public function setQuantity(float $quantity): void
+    {
+        $this->quantity = $quantity;
+    }
+
+    /**
+     * @return float
+     */
+    public function getWeight(): float
+    {
+        return $this->weight;
+    }
+
+    /**
+     * @param float $weight
+     */
+    public function setWeight(float $weight): void
+    {
+        $this->weight = $weight;
+    }
+
+    /**
+     * @return float
+     */
+    public function getVolume(): float
+    {
+        return $this->width * $this->height * $this->length;
+    }
+
+    /**
+     * @return float
+     */
+    public function getLength(): float
+    {
+        return $this->length;
+    }
+
+    /**
+     * @param float $length
+     */
+    public function setLength(float $length): void
+    {
+        $this->length = $length;
+    }
+
+    /**
+     * @return float
+     */
+    public function getHeight(): float
+    {
+        return $this->height;
+    }
+
+    /**
+     * @param float $height
+     */
+    public function setHeight(float $height): void
+    {
+        $this->height = $height;
+    }
+
+    /**
+     * @return float
+     */
+    public function getWidth(): float
+    {
+        return $this->width;
+    }
+
+    /**
+     * @param float $width
+     */
+    public function setWidth(float $width): void
+    {
+        $this->width = $width;
+    }
+
+}

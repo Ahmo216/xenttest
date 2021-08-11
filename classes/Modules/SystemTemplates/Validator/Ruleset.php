@@ -1,79 +1,98 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-TJhQfuQWvLZYX6UGjzOlnrw4klWUCNUPkQxHOBC=
+<?php
+
+namespace Xentral\Modules\SystemTemplates\Validator;
+
+use Closure;
+use Xentral\Modules\SystemTemplates\Validator\Exception\SystemTemplateValidatorException;
+
+
+final class Ruleset
+{
+    /** @var SystemTemplateValidatorInterface $validator */
+    private $validator;
+
+    /** @var string $configMethod */
+    private $configMethod;
+
+    /** @var string */
+    const DEFAULT_RULES_CONFIGURATOR = 'validateDefault';
+
+    /**
+     * @param string|null $configMethod
+     */
+    public function __construct($configMethod = null)
+    {
+        if (null === $configMethod) {
+            $configMethod = static::DEFAULT_RULES_CONFIGURATOR;
+        }
+        $this->configMethod = $configMethod;
+    }
+
+    /**
+     * @param SystemTemplateValidatorInterface $validator
+     * @param string                           $configMethod
+     */
+    public function setRules(SystemTemplateValidatorInterface $validator, $configMethod = null)
+    {
+        $this->validator = $validator;
+
+        $configMethod = $configMethod === null ? $this->configMethod : $configMethod;
+        if (!method_exists($this->validator, $configMethod)) {
+            throw new SystemTemplateValidatorException(
+                sprintf('Validate Config method %s is missing', $configMethod)
+            );
+        }
+        $ruleConfigs = $this->validator->{$configMethod}();
+        if (!empty($ruleConfigs)) {
+            foreach ($ruleConfigs as $fieldName => $config) {
+                if (!is_string($fieldName) || empty($fieldName)) {
+                    throw new SystemTemplateValidatorException(
+                        sprintf('Field name is missing in Configuration at index %s', $fieldName)
+                    );
+                }
+
+                if (!array_key_exists('rule', $config) || empty($config['rule'])) {
+                    throw new SystemTemplateValidatorException(
+                        sprintf('Rule is missing in Configuration at index "%s', $fieldName)
+                    );
+                }
+
+                $this->addRule($fieldName, $config);
+            }
+        }
+    }
+
+    /**
+     * @param string $fieldName
+     * @param array  $config
+     *
+     * @return void
+     */
+    private function addRule($fieldName, $config)
+    {
+        $callbackResponse = false;
+
+        $rule = $config['rule'];
+        $message = !empty($config['message']) ? $config['message'] : sprintf('%s is Invalid', $fieldName);
+
+        if (is_array($rule) && !method_exists($this->validator, $rule[0])) {
+            throw new SystemTemplateValidatorException(sprintf('Custom check method %s is missing !', $rule[0]));
+        }
+
+        if (array_key_exists('required', $config) && in_array($config['required'], [true, 1], true)) {
+            $this->validator->setMandatoryFieldName($fieldName);
+        }
+
+        if (is_array($rule)) {
+            $arg = empty($rule[1]) ? [] : [$rule[1]];
+            $callbackResponse = call_user_func_array([$this->validator, $rule[0]], $arg);
+
+        } elseif ($rule instanceof Closure) {
+            $callbackResponse = $rule($this->validator->getData());
+        }
+
+        if ($callbackResponse !== true) {
+            $this->validator->addError($message);
+        }
+    }
+}

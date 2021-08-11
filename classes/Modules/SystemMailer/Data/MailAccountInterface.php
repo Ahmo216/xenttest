@@ -1,29 +1,47 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\SystemMailer\Data;
+
+interface MailAccountInterface
+{
+    /** @var string TYPE_SMTP */
+    const TYPE_SMTP = 'smtp';
+
+    /** @var string TYPE_IMAP */
+    const TYPE_IMAP = 'imap';
+
+    /** @var string TYPE_GOOGLE */
+    const TYPE_GOOGLE = 'oauth_google';
+
+    /**
+     * @return string
+     */
+    public function getType():string;
+
+    /**
+     * @return string
+     */
+    public function getServerAddress():string;
+
+    /**
+     * @return string
+     */
+    public function getClientAlias():string;
+
+    /**
+     * @return string
+     */
+    public function getSenderEmailAddress():string;
+
+    /**
+     * @return string
+     */
+    public function getSenderName():string;
+
+    /**
+     * @return string
+     */
+    public function getUserName():string;
+}

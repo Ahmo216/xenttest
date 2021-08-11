@@ -1,85 +1,124 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-o3NMpNihPf7+MLR9rZMJN2mqmfbk9WQY3Mhktm==
+<?php
+
+namespace Xentral\Components\Mailer\Wrapper;
+
+use erpAPI;
+use Xentral\Components\Logger\LoggerInterface;
+
+/**
+ * Anti-Corruption-Layer für erpApi->LogFile()
+ */
+final class LoggerWrapper implements LoggerInterface
+{
+    /** @var erpAPI|MemoryLogger $erp */
+    private $erp;
+
+    /**
+     * @param erpAPI|MemoryLogger $erp
+     */
+    public function __construct($erp)
+    {
+        $this->erp = $erp;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function emergency($message, array $context = [])
+    {
+        $this->log('emergency', $message, $context);
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function alert($message, array $context = [])
+    {
+        $this->log('alert', $message, $context);
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function critical($message, array $context = [])
+    {
+        $this->log('critical', $message, $context);
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function error($message, array $context = [])
+    {
+        $this->log('error', $message, $context);
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function warning($message, array $context = [])
+    {
+        $this->log('warning', $message, $context);
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function notice($message, array $context = [])
+    {
+        $this->log('notice', $message, $context);
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function info($message, array $context = [])
+    {
+        $this->log('info', $message, $context);
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function debug($message, array $context = [])
+    {
+        $this->log('debug', $message, $context);
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function log($level, $message, array $context = [])
+    {
+        $message = sprintf('%s: %s', strtoupper($level), $message);
+        $stack = debug_backtrace(DEBUG_BACKTRACE_IGNORE_ARGS);
+        $caller = [];
+        foreach ($stack as $trace) {
+            if ($trace['class'] !== self::class) {
+                $caller = $trace;
+
+                break;
+            }
+        }
+        if (!empty($caller)) {
+            $csplit = explode('\\', $caller['class']);
+            $module = $csplit[count($csplit)-1];
+            $function = $caller['function'];
+        } else {
+            $module = '';
+            $function = '';
+        }
+        $action = '';
+        if (array_key_exists('action', $context)) {
+            $action = $context['action'];
+        }
+        $dump = '';
+        if (array_key_exists('dump', $context)) {
+            $dump = $context['dump'];
+            if (is_array($dump)) {
+                $dump = print_r($dump, true);
+            }
+        }
+        $this->erp->LogFile($message, $dump, $module, $action, $function);
+    }
+}

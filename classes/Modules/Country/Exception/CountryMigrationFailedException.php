@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-CTviycspgLUjcV5XSOz3vhjTKuY6
+<?php
+
+namespace Xentral\Modules\Country\Exception;
+
+use RuntimeException;
+
+class CountryMigrationFailedException extends RuntimeException implements CountryExceptionInterface
+{
+}

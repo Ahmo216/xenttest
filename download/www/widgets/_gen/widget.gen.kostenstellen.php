@@ -1,68 +1,81 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php 
+
+class WidgetGenkostenstellen
+{
+
+  private $app;            //application object  
+  public $form;            //store form object  
+  protected $parsetarget;    //target for content
+
+  public function __construct($app,$parsetarget)
+  {
+    $this->app = $app;
+    $this->parsetarget = $parsetarget;
+    $this->Form();
+  }
+
+  public function kostenstellenDelete()
+  {
+    
+    $this->form->Execute("kostenstellen","delete");
+
+    $this->kostenstellenList();
+  }
+
+  function Edit()
+  {
+    $this->form->Edit();
+  }
+
+  function Copy()
+  {
+    $this->form->Copy();
+  }
+
+  public function Create()
+  {
+    $this->form->Create();
+  }
+
+  public function Search()
+  {
+    $this->app->Tpl->Set($this->parsetarget,"SUUUCHEEE");
+  }
+
+  public function Summary()
+  {
+    $this->app->Tpl->Set($this->parsetarget,"grosse Tabelle");
+  }
+
+  function Form()
+  {
+    $this->form = $this->app->FormHandler->CreateNew("kostenstellen");
+    $this->form->UseTable("kostenstellen");
+    $this->form->UseTemplate("kostenstellen.tpl",$this->parsetarget);
+
+    $field = new HTMLInput("nummer","text","","40","","","","","","","0");
+    $this->form->NewField($field);
+    $this->form->AddMandatory("nummer","notempty","Pflichfeld!",MSGNUMMER);
+
+    $field = new HTMLInput("beschreibung","text","","40","","","","","","","0");
+    $this->form->NewField($field);
+    $this->form->AddMandatory("beschreibung","notempty","Pflichfeld!",MSGBESCHREIBUNG);
+
+    $field = new HTMLTextarea("internebemerkung",5,50);   
+    $this->form->NewField($field);
+
+
+  }
+
+}
+
+?>

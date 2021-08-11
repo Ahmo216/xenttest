@@ -1,42 +1,135 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Dashboard;
+
+/**
+ * Klasse ist ohne Funktion; dient lediglich als Ideensammlung
+ */
+class DashboardWidget
+{
+    /**
+     * Einstellungsoptionen für Widget abrufen
+     *
+     * @return array
+     */
+    public function getOptions()
+    {
+        // Allgemeine Einstelloptionen für alle Widgets
+        $general = [
+            'dashboard'      => [
+                'type'    => 'int',
+                'options' => [
+                    1 => 'Dashboard #1',
+                    2 => 'Dashboard #2',
+                ],
+            ],
+            'project'        => [
+                'type'    => 'int|list',
+                'options' => [
+                    1 => 'Projekt 1',
+                    2 => 'Projekt 2',
+                ],
+            ],
+            'size' => [
+                'type' => 'string',
+                'options' => [
+                    '1x1' => '1x1',
+                    '1x2' => '1x2',
+                    '2x1' => '2x1',
+                    '2x2' => '2x2',
+                ],
+            ],
+            'color'          => [
+                'type'    => 'string',
+                'options' => [
+                    '#45B9D3' => 'Blau',
+                    '#0E8394' => 'Dunkelblau',
+                    '#A2C55A' => 'Grün',
+                    '#F69E06' => 'Orange',
+                ],
+            ],
+            'color_inverted' => [
+                'type' => 'bool',
+            ],
+        ];
+
+        // Spezielle Einstellungsoptionen für Uhrzeit-Widget
+        $clock = [
+            'time_format' => [
+                'type'    => 'string',
+                'default' => '%H:%i',
+            ],
+            'date_format' => [
+                'type'    => 'string',
+                'default' => '%d.%m.%Y',
+            ],
+        ];
+
+        // Spezielle Einstellungsoptionen für Chart-Widget
+        $chart = [
+            'source'   => [
+                'type'    => 'string',
+                'options' => [
+                    'offers'      => 'Angebote',
+                    'orders'      => 'Bestellungen',
+                    'invoices'    => 'Rechnungen',
+                    'creditnotes' => 'Gutschriften',
+                ],
+            ],
+            'interval' => [
+                'type'    => 'string',
+                'default' => 'day',
+                'options' => [
+                    'day'   => 'Tag',
+                    'week'  => 'Woche',
+                    'month' => 'Monat',
+                ],
+            ],
+            'period'   => [
+                'type' => 'int',
+                'min'  => 2,
+                'max'  => 14,
+            ],
+        ];
+
+        return [];
+    }
+
+    /**
+     * In welcher Kategorie wird das Widget gelistet?
+     *
+     * @return string
+     */
+    public function getCategory()
+    {
+        $all = ['time', 'sales', 'chart', 'email'];
+
+        return 'time';
+    }
+
+    /**
+     * Unter welchen Tags wird das Widget gelistet
+     *
+     * @return array
+     */
+    public function getTags()
+    {
+        $all = [
+            'time',
+            'sales',
+            'chart',
+            'shop',
+            'article',
+            'email',
+            'ticket',
+            'customer',
+            'supplier',
+            'orders',
+            'offers',
+            'invoices',
+            'creditnotes',
+        ];
+
+        return ['sales', 'chart'];
+    }
+}

@@ -1,41 +1,70 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\ImportTemplate\Service;
+
+use RuntimeException;
+use Xentral\Modules\ImportTemplate\Data\ImportTemplate;
+use Xentral\Modules\ImportTemplate\Exception\ImportTemplateNotFoundException;
+use Xentral\Modules\ImportTemplate\Exception\InvalidTemplateDataException;
+
+final class ImportTemplateJsonService
+{
+    /** @var ImportTemplateService $importTemplateService */
+    private $importTemplateService;
+
+    /** @var ImportTemplateGateway $importTemplateGateway */
+    private $importTemplateGateway;
+
+    /**
+     * @param ImportTemplateService $importTemplateService
+     * @param ImportTemplateGateway $importTemplateGateway
+     */
+    public function __construct(
+        ImportTemplateService $importTemplateService,
+        ImportTemplateGateway $importTemplateGateway
+    ) {
+        $this->importTemplateService = $importTemplateService;
+        $this->importTemplateGateway = $importTemplateGateway;
+    }
+
+    /**
+     * @param array $templateData
+     *
+     * @throws InvalidTemplateDataException
+     *
+     * @return int
+     */
+    public function insertAndValidateImportTemplate($templateData)
+    {
+        $validData = ImportTemplate::fromArray($templateData);
+
+        return $this->insertImportTemplate($validData);
+    }
+
+    /**
+     * @param ImportTemplate $importTemplate
+     *
+     * @throws RuntimeException
+     *
+     * @return int
+     */
+    public function insertImportTemplate(ImportTemplate $importTemplate)
+    {
+        return $this->importTemplateService->insertImportTemplate($importTemplate);
+    }
+
+    /**
+     * @param int $importTemplateId
+     *
+     * @throws ImportTemplateNotFoundException
+     *
+     * @return ImportTemplate
+     */
+    public function getImportTemplate($importTemplateId)
+    {
+        $importTemplateData = $this->importTemplateGateway->getImportTemplateById($importTemplateId);
+        $importTemplate = ImportTemplate::fromDbState($importTemplateData);
+
+        return $importTemplate;
+    }
+}

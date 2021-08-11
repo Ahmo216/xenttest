@@ -1,69 +1,146 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-zyfeTBrX8bOR+dlFc7IdCA7VeG==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\GoogleCalendar\Data;
+
+use Xentral\Modules\GoogleCalendar\Exception\InvalidArgumentException;
+
+final class GoogleCalendarListItem
+{
+    /** @var string ROLE_READER */
+    public const ROLE_READER = 'reader';
+
+    /** @var string ROLE_OWNER */
+    public const ROLE_OWNER = 'owner';
+
+    /** @var string ROLE_FREEBUSYREADER */
+    public const ROLE_FREEBUSYREADER = 'freeBusyReader';
+
+    /** @var string $kind */
+    private static $kind = 'calendar#calendarListEntry';
+
+    /** @var string $id */
+    private $id;
+
+    /** @var string $summary */
+    private $summary;
+
+    /** @var string $role */
+    private $role;
+
+    /** @var string $timeZone */
+    private $timeZone;
+
+    /** @var string $colorId */
+    private $colorId;
+
+    /** @var bool $selected */
+    private $selected;
+
+    /** @var bool $primary */
+    private $primary;
+
+    /**
+     * @param string $id
+     * @param string $summary
+     * @param string $role
+     * @param string $timeZone
+     * @param string $colorId
+     * @param bool   $selected
+     * @param bool   $primary
+     */
+    public function __construct($id, $summary, $role, $timeZone, $colorId, $selected = false, $primary = false)
+    {
+        $this->id = $id;
+        $this->summary = $summary;
+        if ($role !== self::ROLE_FREEBUSYREADER && $role !== self::ROLE_READER && $role !== self::ROLE_OWNER) {
+            throw  new InvalidArgumentException('Invalid calendar Role.');
+        }
+        $this->role = $role;
+        $this->timeZone = $timeZone;
+        $this->colorId = $colorId;
+        $this->selected = $selected;
+        $this->primary = $primary;
+    }
+
+    /**
+     * @param $data
+     *
+     * @return GoogleCalendarListItem
+     */
+    public static function fromArray($data)
+    {
+        if (!isset($data['kind']) || $data['kind'] !== self::$kind) {
+            throw new InvalidArgumentException('Invalid resource type. Expected: calendar#event');
+        }
+        if (!isset($data['id'])) {
+            throw new InvalidArgumentException('Missing required resorce field "id".');
+        }
+        $id = $data['id'];
+        $summary = $data['summary'];
+        $role = $data['accessRole'];
+        $timeZone = $data['timeZone'];
+        $colorId = $data['colorId'];
+        $selected = (isset($data['selected']) && $data['selected'] === true);
+        $primary = (isset($data['primary']) && $data['primary'] === true);
+
+        return new self($id, $summary, $role, $timeZone, $colorId, $selected, $primary);
+    }
+
+    /**
+     * @return string
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * @return string
+     */
+    public function getSummary()
+    {
+        return $this->summary;
+    }
+
+    /**
+     * @return string
+     */
+    public function getRole()
+    {
+        return $this->role;
+    }
+
+    /**
+     * @return string
+     */
+    public function getTimeZone()
+    {
+        return $this->timeZone;
+    }
+
+    /**
+     * @return string
+     */
+    public function getColorId()
+    {
+        return $this->colorId;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isSelected()
+    {
+        return $this->selected;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isPrimary()
+    {
+        return $this->primary;
+    }
+}

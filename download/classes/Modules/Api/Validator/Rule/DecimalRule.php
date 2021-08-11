@@ -1,33 +1,21 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ala4WtCMAxfFJaypGwingIosaAP/8W==
+<?php
+
+namespace Xentral\Modules\Api\Validator\Rule;
+
+use Rakit\Validation\Rule;
+
+class DecimalRule extends Rule
+{
+    /** @var string $message */
+    protected $message = "The attribute ':attribute' must be a decimal or integer value.";
+
+    /**
+     * @param mixed $value
+     *
+     * @return bool
+     */
+    public function check($value)
+    {
+        return is_numeric((string)$value);
+    }
+}

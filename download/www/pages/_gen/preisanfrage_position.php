@@ -1,52 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-HR+cPsH053jNh+p/m6dpWHW/yCoYPqv6Vxc71rsH8iMf9QeSoc1dPLk1l7s3FyqVkXPU23ycXMHM
-/ThOdn2r6z66FjTc1oVWSeNLRzIGOld6XoPPVxS+3JUyl1AqG1eQKg5BANTkqW6GtmBOr+cGJOni
-7erfSb4jy9MEq61EmQKBloHSlEnQBYw9CJytZ9OlLMDVHyLhsS+ckNnjCtmANnS4XsVqsKx8FM4a
-j0zZ/fn54B66eXgEg6eEs0pPH2hei3JX2GjfMhE5BNw4xUk2HRn9TBQ6JYLwgBDsjr6kcbF0LZ3f
-CzX1ldp5+bggkgh9EAqXMT+bFIPnFH7n54TyJTUA70bgKxDIqC4MbHSaUxk/dIXGJqaSvCyqabGt
-2YQOWnFZHfUcm+avZOQXIjBX7ptSB6xcK5L8RvhvlykN+K9Xf7OM7MnmIBPH48W2AfJ6jZLZ4JCx
-QgvdVJKRW0WnfIBNINZKcpSMpu08gWcodqCJLHPmp+z6vAUB/oxBqcW5U6N5ADj+Pz4VsUPNhTJT
-M+w0w+6XaL8FnytQEV8Y8PVJu9faSbzLJxTUjTZ+xcAY18GFW5m7O0JPmy8CMKGGCXStjz/ukNcJ
-x6nhzxRLljhV0bs7W0rfBXHhTpkpbQsvw7moRxvAs7A2duLzrsRAOjMfZ9uzPo4++0ffI1NLlQGF
-rsNV3B+VSyLp+b5dpVETI1HLNbWFf3f0EIuz0PBHMZq2WfCRQ/bvIOb86RN23RcQQ8S+mbj0CleA
-oBGYvMJo4tUF2g89mScVaYUezrdKbWFAxv2CguxgkPfh9P0CwCm8bzevktyWCDwfWEWvXfjTpNXh
-V5UVnagbFY30Oh4vVNhwdiKHpkNymmBAWzql+Uk8v25ofmoboJ1UiW5GgmZIBtYTJ94EqMSqiByd
-4L4STTfN3imN/Oin+h/YXjTQk7Ed4fmkuGHHUX+kXlzOV8LF92M+HbCldk0fBt1bErr1wrIUOMtF
-oudQQsJPOALq92vNM+kFcM1gHQEmK9pgJ6v3Y7Ee65TNd2mM9xQSq18sxzT0a9b4TEIXqcKjeo6/
-PJYHOOWtJtOfVC1AX9DhyPJrAnyMW8Pe+V/Tw7MKl3R/HAqtvrVX2ZbpxMPlU5Ef25VKNTrEUwPJ
-ybPl+6RehIK7wGaBCPxzRcnkdcibyJcYivpEU8hg36V9A4KPHfNZGGFaqhtTMFmSGlG2xRiWNICQ
-2IKLRRIN9yDD1q2yyn+it5FBz7zN4hHon29tXY+u5glAhEvY4v7qILo6ZCc+LAf/pfPVCXkgzGmC
-7RQzJnPWCOjorCGYdjGYZ7di9Gdfx2ztmVYMAQficyXfRiaVkNv1dmXun9R6Z5fyWc7Bz3MqRVii
-KFznYefbk8XQqejNROStvaAP+NBKDAMeHfGjefNZtZy/cIHXG/UYMDyC80j1Okahb+CwuM8fmLqn
-rzXHEV+b5nXz5nECrfnE4pIRmjsmZt9QszXFr3XguBo+ftt5NW8p3IMWNWM2pFwXyJ+GFdxLPbRI
-/Ix9aloFUabqHg021VW7Ad11ekQF0Sd8yYcY4TGmSWU8zIDYwsxhn/UepdaUuWB+PalkUhRtGC8J
-+PW138uvoj7SU6dmjInrRHR4n6Ykto26kcrCIWo9xe9qMv2N430ADuZIMh+MW2atoUImk2pRnGi5
-mwH+STvzRUQeJtmu0L1l8N6A8uDqhEhJybtiTWK9RlFEW71Xu8H7RUruQKdvIXwyZI7SRvX0Sgoe
-9pDRBn48dlNZyNEWZIwN9ehQKjG3ovaTwr5zzWsGB9uSJsMTH8ebsan94bmXYHA6xmK9ca27Dqh7
-Kn3EZS5oc+GlLBJBZMucdWqtL1+3iPwyb84Eqmuo8q7whDaMmSw6aU4/G7Fy58G6uDRSuf/yqb+S
-tsXAGYdGWjASFqfr/muaofN0ZWRvIENI15IFg/Lpq8cajBJ5L0fuc6OaXyU1u8H4Ht9osI0m177m
-lkXycg3wEEd9nKKpybEsAYL9jw+8nHraF+U03xrenUyLpmu46XFLrLUDAQzsOk6lstPnTLV+InLW
-diUO8Rnm6W7QBbO/49ukDEvnVTxxySk+o7fZCswv/qWYbV094qu/TM/wVdg+OMtT3v5jvEG2LdaN
-INhW/4ndhUf4/2O64EkYMEJZXdn+ndhGx9KMKuIQjUFlimmjWS2RaUd8+r9zJD/NekrC9RBK2Gjm
-ICa6Kw8Uw1QtlWatUrA6jFJOll2LsHX5w4RGGyEv/vr+Oy2N6xjDOLWmnOpwsr5GIfFmfAlwj8X3
-iF4z9hvKSkiGiZWiGPOjEoYChf+zLqnuNk7tjrJTlDknCNFqTJJ6mAA0fK6jwOCOEojQCAE7KwkI
-vsvBI1eS5HzGuwNK5oN6R1pRN64tWesfBqeZ/VjCHUwXtnN47usji47eR2NtvNlb0PwyU37/mVd+
-MKda+RlLjBEKf4S7TozNePNFiuHM8kwg/ubwl2TbyDDDxK615yKfisKv/bFMGMbpKc1/0k6auym6
-RDEHbuw3V3PWs+nlA3IS6wVided292pa+RuoCyTHuNVxDKr21CVYYnSxKz7BzYavbY7SvXcGwMSX
-ZLtMigwYWNEj4Kw1TvKpPWDHVJiU4qYowRjotyHCTV1PaOaz1Lg1EIkLC6SjwHVTI87utwv/RQB9
-moF99qiwWk8FMsMX2063Y/9zoThygqmZmyn8ca3rqufnAsIhhprI5osFzmCYHVgNJRg6aoCCJrK8
-/+qdhq17/AhzHKr3cm87YAkrgB3w+L45pFDiokOOhhsdxnVn2qrfe+zxGcxZ00z3Ti+FEtvi/j11
-ZD5zuFZ9t7wdWV3dp1iQs3rsW2f45IXESd+79R0frCLVg/4+XvA52ut8f8H64UdI/OYo02kgBOPj
-X+uezP/dV5ChncW0x6rmTdaPjjIb9G4g4sYpfXGP6TGQBs/VGchw35Z3wi9D54eX78o/UtvmWN/J
-ROhjppJK3jtPsiWkiNgIJunUrWgGx+B+OK2qCKvSVz3xQVcFR++n6ZJ47FTLJip8BvQirzQAICkB
-4Rlu+rgrVPRulDmJWNFd9Gpa6LLuoVjboEJLz71s1kYeqpFFNtBef3j52kibguZ9sFSX2Qijb9lu
-OV/dY0zicNm1dNHpVAUekML0YJZp8r3euwZnV7PWTCGhiApKiQao9EVXrjXwbjSEv5S6s2KpdolO
-1IOtRmgTo6ddydjTK4+TH7WsowBYR7MasNwgI89cN2UfxZs2v73dge/fmyj6LF6cXPinorwC6p23
-ZLvNGXDLq0NeHIJs4nse5KxmUChW/lJ1DNVbPwmusCtbpOMCYg7/HCgj8KWnDo9oKMoVqNS9UtTL
-72YLSMKoUGHDiZLvh/j2U2BHt0ULghFV4rZHxci4zQzxY2W/qRLXL4Bk9hWGA7cOveJf7NipuMF8
-WMHAO50XV4aefBGR1UEaupafZGcqoDmYzBZVfXT+nYu/EbyheyCZAwwybsak4RpYZ/zqnN3LhGpW
-S2dId8Sfn8eIivC0kYFRyuueqKl3SmEQ3EDHPqGd3I9Q6WkOKtpwWgw9MPITIRPpd4YBgjuiP5Yj
-NJenPvO5o6tZaEUEPsRDu2jdeODCqu/i8MpGWFiiecShIeEXbMsIa8Vw30jKMd5Y2VvekRR0FwPL
-nUm5
+<?php 
+
+class GenPreisanfrage_Position { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","Preisanfrage_PositionCreate");
+    $this->app->ActionHandler("edit","Preisanfrage_PositionEdit");
+    $this->app->ActionHandler("copy","Preisanfrage_PositionCopy");
+    $this->app->ActionHandler("list","Preisanfrage_PositionList");
+    $this->app->ActionHandler("delete","Preisanfrage_PositionDelete");
+
+    $this->app->Tpl->Set("HEADING","Preisanfrage_Position");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function Preisanfrage_PositionCreate(){
+    $this->app->Tpl->Set("HEADING","Preisanfrage_Position (Anlegen)");
+      $this->app->PageBuilder->CreateGen("preisanfrage_position_create.tpl");
+  }
+
+  function Preisanfrage_PositionEdit(){
+    $this->app->Tpl->Set("HEADING","Preisanfrage_Position (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("preisanfrage_position_edit.tpl");
+  }
+
+  function Preisanfrage_PositionCopy(){
+    $this->app->Tpl->Set("HEADING","Preisanfrage_Position (Kopieren)");
+      $this->app->PageBuilder->CreateGen("preisanfrage_position_copy.tpl");
+  }
+
+  function Preisanfrage_PositionDelete(){
+    $this->app->Tpl->Set("HEADING","Preisanfrage_Position (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("preisanfrage_position_delete.tpl");
+  }
+
+  function Preisanfrage_PositionList(){
+    $this->app->Tpl->Set("HEADING","Preisanfrage_Position (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("preisanfrage_position_list.tpl");
+  }
+
+} 
+?>

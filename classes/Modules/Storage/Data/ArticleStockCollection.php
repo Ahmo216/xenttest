@@ -1,74 +1,106 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Storage\Data;
+
+use Iterator;
+use Countable;
+
+final class ArticleStockCollection implements Iterator, Countable
+{
+    /** @var int $position */
+    private $position = 0;
+
+    /** @var ArticleStock[] $articleStocks */
+    private $articleStocks = [];
+
+    /**
+     * ArticleStockCollection constructor.
+     *
+     * @param ArticleStock[] $articleStocks
+     */
+    public function __construct(array $articleStocks = [])
+    {
+        foreach ($articleStocks as $articleStock) {
+            $this->add($articleStock);
+        }
+    }
+
+    /**
+     * @param ArticleStock $articleStock
+     */
+    public function add(ArticleStock $articleStock): void
+    {
+        $this->articleStocks[] = ArticleStock::fromDbState($articleStock->toArray());
+    }
+
+    /**
+     * @return ObjectStorageLink[]
+     */
+    public function getArticleStocks(): array
+    {
+        $articleStocks = [];
+
+        foreach ($this->articleStocks as $articleStock) {
+            $articleStocks[] = ArticleStock::fromDbState($articleStock->toArray());
+        }
+
+        return $articleStocks;
+    }
+
+    /**
+     * @return float
+     */
+    public function getQuantitySum(): float
+    {
+        $quantity = 0;
+        foreach ($this->articleStocks as $articleStock) {
+            $quantity += $articleStock->getQuantity();
+        }
+
+        return $quantity;
+    }
+
+    /**
+     * @return ArticleStock
+     */
+    public function current(): ArticleStock
+    {
+        return ArticleStock::fromDbState($this->articleStocks[$this->position]->toArray());
+    }
+
+    public function next(): void
+    {
+        $this->position++;
+    }
+
+    /**
+     * @return int
+     */
+    public function key(): int
+    {
+        return $this->position;
+    }
+
+    /**
+     * @return bool
+     */
+    public function valid(): bool
+    {
+        return isset($this->articleStocks[$this->position]);
+    }
+
+    public function rewind(): void
+    {
+        $this->position = 0;
+    }
+
+    /**
+     * @return int
+     */
+    public function count(): int
+    {
+        return count($this->articleStocks);
+    }
+}

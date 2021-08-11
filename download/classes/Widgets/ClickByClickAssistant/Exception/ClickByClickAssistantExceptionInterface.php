@@ -1,29 +1,11 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP+Glvw4CzTkMZfboWhBxQxPw7PU7oi1WLyOagjfzC7F8YpyxA4Ro7XggmCL5j8630xGWS4XB
-97ZdWCqKAexxm4DMkwGSJkoG/MM51rUejDe8xCMTCSaW2N++PV8x7zkkrNPvI/0D1u5cn4HffoCF
-zBKab5gv+objVNGpVY9tf43xO+UjgvP378XOhSZmQhdJFnaYlTjk4BhvoGPU+ggwrxISWB58pO9L
-HXZV3SYbH7UWv0DM4TnNBkh1YQ9gffFObhHFIFMq6bG8yKr0mBRxW8Q2be0A06613QxjC+u2uj7E
-OP+KwFA6JUYS+gqxaVVDxMTPSzUiodCheeikqvrEZi/ZaBUhOvbr3/+FLxk/dIXGJqaSvCyqabGt
-2YRYalFn297suvCy/qMXIk9GA/+6z6ykhn7D7DE8ziQaT4RW2yVaQ9wO49kBaWrxf85ngcfBpaQ/
-hLhfpgl7R42Hb2pma7qEe/2lI6FqM/vYhSHXSOuHbU6fCmHAAioUbtpWXoE8k6ScyhNjCd+F3+6s
-pmusSGG3CpQcQ6UHE94A3WLDwHlWmDJnsyJNGYTMig8ejwR5KqlCdeuMO8sLlCm2uzIyzISZpFza
-SyRVZhcH6qtf2K6D2+kVUtB306jE02kGmFaLmvFzxOfknQA7Tl3O3fDTGZqW2FKFow/ANB1USFpr
-4f7cixMmvdB9Wo3VG8HI5iRnCbMcdRz1bHWI/02d++DrIwO3jIrvnlLpB6WuyJWQhCmpmwFPhV8K
-lQsQGjAoWGU8rYTzP9iX1YGA0XU7H3YjCJV3SY6c9Bnf4c56MT+jX51P7ywrLJuJ2wgyuH319/dj
-fzAa0085tbiYtr/7obDMefR02puF1jR0Mtqk0G0WEuarFXcV+5m6IjFTVAJHgupQoRykEkA1uNfM
-1kXMNjzKivMujXS+VKPGqnXJJ9BRuRLrf4U17GZWIEZTC0rrhQXs5+jaPq2433uRT3kQoMfCuXTe
-MtMllZL0YseZG60ZMX0sDOjL2PhmnhZqfAVKTAOo2zLewnGsHTkSPP3ay5Xpoak8+wcjGOWNtYHI
-YfOIFnRNZUYFkhoNpAvsjuhBHmKBJEeMgI06bQbBG3W5WFjUX3tbbGlvC/lLEma53Q+eg3NzzhnI
-1cjFjiBkPMUZLapPRuKQ1BDoVTmnXOZDh0fGA7NN4K/r+au/E4AhmsTLC7+RWKtrgNfM838RS+/D
-o9+/mXWT/Im/OxHZtdXEbYdrvkIleNAL780qHsEZUz4XLfY/mV1dvAZTsg680VwwwB4R0fYfIvx2
-AmIXHgx+Y+nlNzB6oLmF9sPbQr+fjHTRyFZ6WNLT1oHablykiapnV7MneIMR6sP5dLjT6ZP9MWQS
-vzOj7XhYPSQSia4Uv+LpjanHEgBeUeYCSqJvpWL3aZeSogVbS3EAGk0Dp77B9vPnZuvw3XymJttW
-6qtc7mVveE1MEv3Fm5DayjKhuRIJ+OEGeS5Boo3I91TTkf7t11eEud2yLRIihcklg0af9S3DhqjB
-2u1C7kH4Y31Mwq1BXa8Bc8ZjuyLFHUbUCUJOEEJULQsTPHvKwTfoMnpHSiSNTVpWqDKhlEecvulY
-nj5B1Z12VB3UFuFlvGn4a/FSjk1QdnKM6WT0K1BT46s9hlhJAaMypeURSIDkAvmvYyqeWV/KLiXa
-sNDTauDfoYMFgBvbrW4zqVSn4ZQw/LnjJNe4VVs8pjzC9WOKiRuVzPG6h6aT97Uomw9tLHlat9YI
-bkBmK70/97DKhav7HL9gFUJaaa7wUIippc8zCR3ju+dhD1dMPNU8uFOZHOsgIRvJG5yCXnEAMstx
-hxUWBXsm8guFGvqJk0sm9pYNoLDevcWUQjH6fUyMLP0p7F+nwCvH2NU4kkgjyTfozaLIcFpNrxCz
-B4xi
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Widgets\ClickByClickAssistant\Exception;
+
+use Xentral\Core\Exception\ComponentExceptionInterface;
+
+interface ClickByClickAssistantExceptionInterface extends ComponentExceptionInterface
+{
+}

@@ -1,120 +1,187 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\SystemMailer\Service;
+
+use PHPMailer\PHPMailer\PHPMailer;
+use Xentral\Components\Logger\LoggerAwareTrait;
+use Xentral\Components\Mailer\Config\OAuthMailerConfig;
+use Xentral\Components\Mailer\Config\SmtpMailerConfig;
+use Xentral\Components\Mailer\Transport\MailerTransportInterface;
+use Xentral\Components\Mailer\Transport\PhpMailerOAuth;
+use Xentral\Components\Mailer\Transport\PhpMailerTransport;
+use Xentral\Core\DependencyInjection\ContainerInterface;
+use Xentral\Modules\GoogleApi\Exception\GoogleAccountNotFoundException;
+use Xentral\Modules\GoogleApi\Exception\GoogleCredentialsException;
+use Xentral\Modules\GoogleApi\Service\GoogleAccountGateway;
+use Xentral\Modules\GoogleApi\Service\GoogleAuthorizationService;
+use Xentral\Modules\GoogleApi\Service\GoogleCredentialsService;
+use Xentral\Modules\SystemMailer\Data\EmailBackupAccount;
+use Xentral\Modules\SystemMailer\Exception\GmailOAuthException;
+use Xentral\Modules\SystemMailer\Exception\InvalidArgumentException;
+use Xentral\Modules\SystemMailer\Transport\PhpMailerGoogleAuthentification;
+
+class MailerTransportFactory
+{
+    use LoggerAwareTrait;
+
+    /** @var ContainerInterface $container */
+    private $container;
+
+    /**
+     * @param ContainerInterface $container
+     */
+    public function __construct(ContainerInterface $container) {
+        $this->container = $container;
+    }
+
+    /**
+     * @param EmailBackupAccount $account
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return MailerTransportInterface
+     */
+    public function createMailerTransport(EmailBackupAccount $account):MailerTransportInterface
+    {
+        switch ($account->getSmtpAuthType()) {
+
+            case EmailBackupAccount::AUTH_SMTP:
+                return $this->createSmtpTransport($account);
+                break;
+
+            case EmailBackupAccount::AUTH_GMAIL:
+                return $this->createGoogleOAuthTransport($account);
+
+            default:
+                throw new InvalidArgumentException('Only SMTP accounts are supported.');
+        }
+    }
+
+    /**
+     * @param EmailBackupAccount $account
+     *
+     * @return SmtpMailerConfig
+     */
+    public function createSmtpMailerConfig(EmailBackupAccount $account):SmtpMailerConfig
+    {
+        if ($account->isSmtpEnabled() === false || $account->getSmtpAuthType() !== EmailBackupAccount::AUTH_SMTP) {
+            throw new InvalidArgumentException('Only SMTP accounts are supported.');
+        }
+
+        $email = $account->getSmtpSenderEmail();
+        if ($email === '') {
+            $email = $account->getEmailAddress();
+        }
+        $sender = $account->getSmtpSenderName();
+        if ($sender === '') {
+            $sender = $account->getDisplayName();
+        }
+        $debug = 0;
+        if ($account->isSmtpDebugEnabled()) {
+            $debug = 4;
+        }
+
+        return new SmtpMailerConfig([
+            'sender_email'  => $email,
+            'sender_name'   => $sender,
+            'host'          => $account->getSmtpServer(),
+            'hostname'      => $account->getClientAlias(),
+            'username'      => $account->getUserName(),
+            'password'      => $account->getPassword(),
+            'port'          => $account->getSmtpPort(),
+            'smtp_security' => $account->getSmtpSecurity(),
+            'mailer'        => 'smtp',
+            'smtp_debug'    => $debug
+        ]);
+    }
+
+    /**
+     * @param EmailBackupAccount $account
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return OAuthMailerConfig
+     */
+    public function createGmailMailerConfig(EmailBackupAccount $account):OAuthMailerConfig
+    {
+        if (
+            $account->isSmtpEnabled() === false
+            || $account->getSmtpAuthType() !== EmailBackupAccount::AUTH_GMAIL
+        ) {
+            throw new InvalidArgumentException('Only SMTP OAUTH accounts are supported.');
+        }
+        $email = $account->getSmtpSenderEmail();
+        if ($email === '') {
+            $email = $account->getEmailAddress();
+        }
+        $sender = $account->getSmtpSenderName();
+        if ($sender === '') {
+            $sender = $account->getDisplayName();
+        }
+        $debug = 0;
+        if ($account->isSmtpDebugEnabled()) {
+            $debug = 4;
+        }
+        $cfgValues = [
+            'sender_email'  => $email,
+            'sender_name'   => $sender,
+            'host'          => $account->getSmtpServer(),
+            'hostname'      => $account->getClientAlias(),
+            'port'          => $account->getSmtpPort(),
+            'smtp_security' => $account->getSmtpSecurity(),
+            'mailer'        => 'smtp',
+            'smtp_debug'    => $debug
+        ];
+        if ($cfgValues['host'] === '') {
+            $cfgValues['host'] = 'smtp.gmail.com';
+        }
+
+        return new OAuthMailerConfig($cfgValues);
+    }
+
+    /**
+     * @param EmailBackupAccount $account
+     *
+     * @return PhpMailerTransport
+     */
+    public function createSmtpTransport(EmailBackupAccount $account):PhpMailerTransport
+    {
+        $config = $this->createSmtpMailerConfig($account);
+        $mailer = new PHPMailer(true);
+
+        return new PhpMailerTransport($mailer, $config, $this->logger);
+    }
+
+    /**
+     * @param EmailBackupAccount $account
+     *
+     * @throws GoogleCredentialsException
+     * @throws GmailOAuthException
+     * @throws GoogleAccountNotFoundException
+     *
+     * @return PhpMailerTransport
+     */
+    public function createGoogleOAuthTransport(EmailBackupAccount $account):PhpMailerTransport
+    {
+        $config = $this->createGmailMailerConfig($account);
+        /** @var GoogleCredentialsService $credentialsService */
+        $credentialsService = $this->container->get('GoogleCredentialsService');
+        $credentialsService->getCredentials()->validate();
+        /** @var GoogleAccountGateway $googleApiGateway */
+        $googleApiGateway = $this->container->get('GoogleAccountGateway');
+        $googleAccount = $googleApiGateway->getAccountByGmailAddress($account->getSenderEmailAddress());
+
+        /** @var GoogleAuthorizationService $googleAuth */
+        $googleAuth = $this->container->get('GoogleAuthorizationService');
+        $oauth = new PhpMailerGoogleAuthentification(
+            $googleApiGateway,
+            $googleAuth,
+            $googleAccount
+        );
+        $mailer = new PhpMailerOAuth(true, $oauth);
+
+        return new PhpMailerTransport($mailer, $config, $this->logger);
+    }
+}

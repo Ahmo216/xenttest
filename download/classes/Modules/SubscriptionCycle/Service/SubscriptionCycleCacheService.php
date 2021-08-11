@@ -1,50 +1,59 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-wRUN4x/pdVSS
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\SubscriptionCycle\Service;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\SubscriptionCycle\Data\SubscriptionCycleCacheData;
+
+final class SubscriptionCycleCacheService
+{
+    /** @var Database */
+    private $db;
+
+    /** @var string TABLE_NAME */
+    const TABLE_NAME = 'subscription_cycle_cache';
+
+    /**
+     * @param Database $db
+     */
+    public function __construct(Database $db)
+    {
+        $this->db = $db;
+    }
+
+    /**
+     * @param SubscriptionCycleCacheData[] $data
+     */
+    public function createCacheEntries(array $data): void
+    {
+        if (!empty($data)) {
+            $insert = $this->db->insert()
+                ->into(self::TABLE_NAME);
+
+            foreach ($data as $entry) {
+                $insert->addRow()
+                    ->cols(
+                        [
+                            'subscription_article_id'  => $entry->getSubscriptionArticleId(),
+                            'start_date'               => $entry->getStartDate()->format('Y-m-d'),
+                            'cycles_count'             => $entry->getCyclesCount(),
+                            'calculation_base_date'    => $entry->getCalculationBaseDate()->format('Y-m-d'),
+                            'start_month_price_factor' => $entry->getStartMonthPriceFactor(),
+                        ]
+                    );
+            }
+
+            $insertSql = $insert->getStatement();
+            $values = $insert->getBindValues();
+            $this->db->perform($insertSql, $values);
+        }
+    }
+
+    public function emptyCache(): void
+    {
+        $sql = 'TRUNCATE `subscription_cycle_cache`';
+        $this->db->perform($sql);
+    }
+}

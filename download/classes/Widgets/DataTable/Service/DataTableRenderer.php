@@ -1,64 +1,76 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Widgets\DataTable\Service;
+
+use Xentral\Widgets\DataTable\Column\Column;
+use Xentral\Widgets\DataTable\DataTableInterface;
+use Xentral\Widgets\DataTable\Result\DataTableHtmlResult;
+
+final class DataTableRenderer
+{
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return DataTableHtmlResult
+     */
+    public function createHtmlResult(DataTableInterface $table)
+    {
+        return new DataTableHtmlResult($this->getHtmlTable($table), $this->getDataTableOptions($table));
+    }
+
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return array
+     */
+    private function getDataTableOptions(DataTableInterface $table)
+    {
+        $options = $table->getOptions()->toArray();
+
+        $options['ajax'] = [
+            'url'  => $table->getConfig()->getAjaxUrl(),
+            'type' => $table->getConfig()->getAjaxMethod(),
+            'data' => $table->getConfig()->getAjaxParams(),
+        ];
+        $options['columns'] = $table->getColumns()->toArray();
+
+        return $options;
+    }
+
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return string
+     */
+    private function getHtmlTable(DataTableInterface $table)
+    {
+        $columns = $table->getColumns();
+        $headerHtml1 = '';
+        $footerHtml = '';
+
+        /** @var Column $column */
+        foreach ($columns as $column) {
+            $headerHtml1 .= sprintf('<th data-name="%s">%s</th>', $column->getName(), $column->getTitle());
+            if ($column->has('footerHtml')) {
+                $footerHtml .= sprintf('<th data-name="%s">%s</th>', $column->getName(), $column->get('footerHtml'));
+            } else {
+                $footerHtml .= sprintf('<th data-name="%s">%s</th>', $column->getName(), $column->getTitle());
+            }
+        }
+
+        $html = "\n";
+        $html .= sprintf(
+                '<table id="%s" class="%s" width="100%%" data-autoinit="%s">',
+                $table->getConfig()->getTableName(),
+                $table->getConfig()->getCssClassesString(),
+                $table->getConfig()->isAutoInit() ? 'true' : 'false'
+            ) . "\n";
+        $html .= '<thead>';
+        $html .= '<tr>' . $headerHtml1 . '</tr>';
+        $html .= '</thead>' . "\n";
+        $html .= '<tfoot><tr>' . $footerHtml . '</tr></tfoot>' . "\n";
+        $html .= '</table>' . "\n";
+
+        return $html;
+    }
+}

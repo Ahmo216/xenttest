@@ -1,113 +1,198 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Hubspot;
+
+use GuzzleHttp\Exception\GuzzleException;
+use GuzzleHttp\Exception\RequestException;
+use GuzzleHttp\Client;
+use Xentral\Modules\Hubspot\HubspotHttpResponseService as Response;
+use Xentral\Modules\Hubspot\Exception\HttpClientException;
+use Xentral\Modules\Hubspot\Interfaces\HubspotHttpClientInterface;
+
+final class HubspotHttpClientService implements HubspotHttpClientInterface
+{
+    /**
+     * @var string
+     */
+    protected $endpoint = null;
+
+    /**
+     * @var array
+     */
+    protected $userAgent = [];
+
+    /**
+     * @var array
+     */
+    protected $hRequestVerbs = [
+        self::GET_REQUEST    => null,
+        self::POST_REQUEST   => 'json',
+        self::PUT_REQUEST    => 'json',
+        self::PATCH_REQUEST  => 'json',
+        self::DELETE_REQUEST => null,
+    ];
+
+    /**
+     * @var int
+     */
+    private $timeout;
+
+    /**
+     * @var array
+     */
+    private $_headers = [];
+
+    /**
+     * @param int $timeout > 0
+     *
+     */
+    public function __construct($timeout = 0)
+    {
+        if (!is_int($timeout) || $timeout < 0) {
+            throw new HttpClientException(
+                sprintf(
+                    'Connection timeout must be an int >= 0, got "%s".',
+                    is_object($timeout) ? get_class($timeout) : gettype($timeout) . ' ' . var_export($timeout, true)
+                )
+            );
+        }
+        if (!empty($timeout)) {
+            $this->timeout = $timeout;
+        }
+    }
+
+    /**
+     * @param string $url
+     * @param string $method
+     * @param array  $data
+     *
+     * @param array  $headers
+     *
+     * @return HubspotHttpResponseService
+     * @throws HttpClientException
+     */
+    public function performRequest($url, $method, array $data = [], $headers = [])
+    {
+        $this->setHeader($headers);
+
+        $hHeaders = $this->getHeaders();
+
+        try {
+            $client = $this->getClient();
+
+            $keyParam = $this->hRequestVerbs[$method];
+            $paramData = ['headers' => $hHeaders];
+            if ($keyParam !== null) {
+                $paramData[$keyParam] = $data;
+            }
+
+            /** @var Response */
+            $response = $client->request($method, $url, $paramData);
+
+            return new HubspotHttpResponseService($response);
+        } catch (RequestException $exception) {
+            throw new HttpClientException($exception->getMessage());
+        } catch (GuzzleException $exception) {
+            throw new HttpClientException($exception->getMessage());
+        }
+    }
+
+    /**
+     * @return Client
+     */
+    protected function getClient()
+    {
+        return new Client(['timeout' => $this->timeout]);
+    }
+
+    /**
+     * @param string $url
+     * @param array  $data
+     * @param array  $header
+     *
+     * @return Response
+     */
+    public function get($url, $data = [], $header = [])
+    {
+        if (!empty($data)) {
+            $query = parse_url($url, PHP_URL_QUERY);
+            $newQuery = http_build_query($data);
+            $url = $query ? $url . '&' . $newQuery : $url . '?' . $newQuery;
+        }
+
+        return $this->performRequest($url, static::GET_REQUEST, [], $header);
+    }
+
+    /**
+     * @param string $url
+     * @param array  $data
+     * @param array  $header
+     *
+     * @return Response
+     */
+    public function post($url, $data = [], $header = [])
+    {
+        $defHeader = ['Content-Type' => 'application/json', 'Accept' => 'application/json'];
+        $header += $defHeader;
+
+        return $this->performRequest($url, static::POST_REQUEST, $data, $header);
+    }
+
+    /**
+     * @param string $url
+     * @param array  $data
+     * @param array  $header
+     *
+     * @return Response
+     */
+    public function patch($url, $data = [], $header = [])
+    {
+        return $this->performRequest($url, static::PATCH_REQUEST, $data, $header);
+    }
+
+    /**
+     * @param string $url
+     * @param array  $data
+     * @param array  $header
+     *
+     * @return Response
+     */
+    public function delete($url, $data = [], $header = [])
+    {
+        return $this->performRequest($url, static::DELETE_REQUEST, $data, $header);
+    }
+
+    /**
+     * @param array $option
+     */
+    protected function setHeader($option = [])
+    {
+        $this->_headers += $option;
+    }
+
+    /**
+     * @return array
+     */
+    protected function getHeaders()
+    {
+        $default = ['User-Agent' => 'Xentral-ERP-CRM'];
+
+        return $this->_headers += $default;
+    }
+
+    /**
+     * @param string $url
+     * @param array  $data
+     * @param array  $header
+     *
+     * @return Response
+     */
+    public function put($url, $data = [], $header = [])
+    {
+        $defHeader = ['Content-Type' => 'application/json', 'Accept' => 'application/json'];
+        $header += $defHeader;
+
+        return $this->performRequest($url, static::PUT_REQUEST, $data, $header);
+    }
+
+}

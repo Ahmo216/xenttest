@@ -11,8 +11,11 @@
     },
     "require": {
         "ext-json": "*",
+        "ext-simplexml": "*",
+        "ext-soap": "*",
         "aura/sqlquery": "^2.7.1",
         "aws/aws-sdk-php": "^3.163",
+        "bensampo/laravel-enum": "^3.3",
         "cpliakas/git-wrapper": "^3.0",
         "digitick/sepa-xml": "^2.0",
         "ezyang/htmlpurifier": "^4.13",
@@ -37,7 +40,7 @@
         "swiss-payment-slip/swiss-payment-slip": "0.13.0 as 0.11.1",
         "swiss-payment-slip/swiss-payment-slip-fpdf": "~0.6.0",
         "tecnickcom/tcpdf": "^6.3",
-        "xentral/shopify-adapter": "^0.5.0",
+        "xentral/shopify-adapter": "v0.5.1",
         "y0lk/oauth1-etsy": "^1.0.2"
     },
     "require-dev": {

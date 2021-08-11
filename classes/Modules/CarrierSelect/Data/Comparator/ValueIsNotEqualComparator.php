@@ -1,42 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPmBBY7rU575oO7eTNi2GooRael55adF9lKk4u8xIHsJTAdew/tQ86YTaK1+E0+XZnSuIcFHJ
-apT14YV/PVJvhoedAkAS93zeIvjQ3qgnHBIHwjCuvgDTWWIZX6bvbWV1r4ZVwYADFbItMZEB0hPx
-z1gY8TktUMVnshMlwEbLrfaL1YvXhaJnOjRyCU1ZsKROocjH4Rxd54aoOtbI5Tc/5j4wwsOSGTeT
-6/cY397tWCSpjgEzEUvWDVaDScl+SKIiILD7xJTUnze8i6xt1xJ+yR5LXwf/fVKxBH9g6yO2jYua
-BT20xu0YrPG3yB6m8VyNNLJ6QxmPx9IX4lFp/LAh74MsN1G/TNHEwl0Oihk/dIXGJqaSvCyqabGt
-2YODZFNRcC4Su5PuVwEHqI+f5gBgiOntx+2ouwoFJXBbMCNRw1lxs08goQXWGyPe7+tKdMcTsTYe
-awiTKPocGsN2dbRgIHBt37iQnZunveJbA2xaho7we74aaQcboSquBzCu5yKJ0G9kLAPhNHdwIJIL
-C5uec3HLkwOB25Hf3k75Vyl3GYcWsDscUA3MZdy0QzRxNZ5EeCFWNJv45iJb2J7brj3GoPZvgKwi
-7n80TgZbcz7eEVcMXs1SJpEKJY//neLrRT722lsG0iC4u4Vgs1WxksRiT3WvAL2+AB1YcsQweRb4
-Mzo5TJ7xKf++us9ZSqDVAfQ64KI8tTNb56jSzcuLHlaakdqK/uPrF/lEun5gJOp3PtHSJTuznArA
-gMUZ9UuwQgRR9bZJ2rFsTzwXn4TaXvXjeqRd6XVBIWCep5U4G3wae7iiAFSQAKu1Md1bRwXLKILX
-XgZ04sDBMF0nnRdhlwncd2jdUwyF+aIkeJwOvFh2MjDlsOfeqv2DBhgdleQY8jYa9UF/BM256r55
-dZ/elZFdjBUzJLUiCqgWLwbhURbpPKjdfJDHxa495MwKYps0dCAacQIcMrMaiFtnD5LI9QvgUOrN
-05r5bWUjCUN/k6jtGSCPZ69fbj+53FgNjzUk0uVBCo4v9Q/UkW8Hmq+leqCuAJI3HVg/3AI6eL5K
-K4wP1fNTcJkJhbOJBw9qgEGjkHEdKIfJVYn2/3vYqGd/P+MLx0sgxrniRc8Fgd2lbxmrVXfSZJrK
-dSdUgcDs1q93txi0AcJqvYENkAZkbt0eQGWXSZSkoBfNruXiwPhFvpNYzUDeWv4FqsYwrLXSxsEp
-GUuNBvo/LLeejkSu43AZN2MsWJj9wyd98xi2xbqQAiH8R6jRDYTUy4KhtEXTO13iJR0e9O2+v+1V
-MjfxiJBKzYRlijHfUTszPeX4/eBrdS7tRQCatEcdTqsSC4A1+2L0e74+UxXDTajXMnEZuzeztELo
-SI3p9By18lNGOZrmdYwrluxCVkCn3yU2RtBgCNyYtcuORyFf0/JRmDs2FGZhBbVI9pKeC6yI1Yi6
-185z6VycxqnqD2HbOjNMAQLlzYLP2gb+X/yhhUHDMXC0XiiTDyRHnIoFgc4bTHsoWIZ6fUv9mySf
-NWC3zeRMOzPXv65NRaLYVkISstcPJ2fKT9ZSkcWx+En2rH/Hthfr1hg1Ylcq9YUVZaAz5m2Hn2uJ
-I4X6TptzjPNZwKN/mjT4sdd2t2h6wzFAdzbqm8NsT+BXkZtiHYqLUmJKXz3EQD5JxrVGVyBaU3F4
-re4TO2sx4vvcm3XoBpl3Sm/dEF8A8ZNf9/Ja+i6E5F9523lSkvgbTCJ8IQ7J7eh0OwzmefZWjfiG
-+MrQmNRwtmKcngCHg2GtCGDtvQI3SJFjMNOMFnsZLCGqJp9vkmjNYVTkgLG5Jwm2ejzng9YvnK5B
-hXk4+q6CaNdmMxrQ6WfCnbRHvKYjKjUUNlKFo3TinxJ9Gk5g3zNjHgmqLhkD+JSKexJdN+vYMO6K
-C724fDQOC3/vWSH9T1vJY8ija+Q2gZzWk/xp3NFcX6jpBtgXNbzfHwXaM3DEuABbLit6rsBWOOUU
-WaYEHJAVsYrfV+bpxeIfzGNXVSoerjSDjTO3wrozMCOcMtDPURIVRJLtSGPT7WAR0UoB/0yMn/Pj
-tNhx4KQ8sWlD1oLRKd4ZoLoMMKjeaCbAAdOcioWlpO79jXZl/UjyOCks8UpUIRqE/EsUZmFxJD/U
-LFl50xYvV9bUGp9g1f/aCrbHLum1rGhvneImHtnMnnZBk/FDKK+x+T7P9LzzS/JJXl1Thw98tEeR
-5ZVRxdifIhUQkrPkOxJUrhKtMwRascjsXu3N6TklK8C61lKEdgOwv+t2Vu5RN1hOAIAmEbdB/hv1
-KtrU5v9L1vHbVmV+Ijp2jOMt4ddc77iV/cLfUp2BSlPo/x66v2dEzRmzm9lyuXAliayfny7pM1b3
-wm6BkktGm38YuiuIwDAF+GsSN0KkHBUfeC9s5UAL7+725Xu4IQcMtEewjuhVsHcW2/DhahYL9hrt
-e9JQv3KRKphtxXbHlWmn2NwJc+xlt0xv+v1beMO1/oLtD6bBQmthnQ3C56OYdqDz7OOV3mSKZ8ob
-WG7D4f5DAkvgyf8MNYd4WUdhcMjnCzEdZK7Pa6SfuCMrpY7GmSUknyyM4h1kwlL9gQUbabfly8Bp
-pNNstZbc1AtzkVxCKdxiq+MgljPWokAEhXePrIHCVvIKSt6ONfcofrt5ch6Sxu+VWrswzUV32CnE
-KY6T1chyKOf+bxOj6wv33v4/DDpLqDLhUe5NCDPRXVVKs5TkIo2okAhuZKkqOtmoUmVrSSJG8565
-R96ZgcPTnUMfMj+A/sNKgf91xxJ05A36SoUlR3R9ZFTRWpYpt2TMXnGJZnJ2bmVOTD5JPyxHBmVH
-lckH0vFE11UZRB5P1fu/2Ra1Huxyq/QuRtttm0AcTd6ID0wShNgl4r7lrFFHNwGOlEeezp3H0+gX
-YVvGabF7MjpUtdzAL+C9p0uK/blcu1ZOvkyhlKvTDuSRjTN9iyy=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\CarrierSelect\Data\Comparator;
+
+
+final class ValueIsNotEqualComparator implements FilterComparatorInterface
+{
+    /**
+     * @return string
+     */
+    public function getName(): string
+    {
+        return '!=';
+    }
+
+    /**
+     * @param array $filterValues
+     * @param array $values
+     *
+     * @return bool
+     */
+    public function matches(array $filterValues, array $values): bool
+    {
+        if(empty($filterValues) && empty($values)) {
+            return false;
+        }
+        $firstValue = (string)reset($filterValues);
+        foreach ($values as $value) {
+            if ((string)$value === $firstValue) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+}

@@ -1,69 +1,59 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPua79HEhsfqazSYmC8bCz6tAQ87/K7haYSy1S+GZ9jBFtKwy0acWzeU1Pbvi4S4rZuW3QtX1
-3JjLShLO5qCEEHV1A5pqAeDUvFHwPmRJhLR2/yAgRxPMGyW8YMj1BKL8CgywOuw91Vthnux+bRdF
-P2rm++4MO9rXtoWSFsX/BJ/nQIgPfrhAjcFHLS5oBKnKhX/cWweCSqLSiG2NvceZ/8MGQFmLDi+s
-EOLmDOvGpFL606hSruEnHSzd1VdN9yLRvZuImxlDLBKgXoon6D9k+eaFP+aPuQlTBNzIqCiQ29GA
-d9OjfFNWPvhgvGsdh9kxg/tBAPYUXggG/vbWKA9xnyVqYHgaNxYHafRxBEAHkx+TA51FIHpappII
-L3SA9WEF8Wvq0aJN6TGKa95HHzjhnDM2WXdX4ph2DwFRD53RqIU9bpTQr1el1EaMDQSmaL1Hv9f6
-38ZODsU8ssoJhmxIVaSv7yLSmdgPExpVv6PZnc0ZBTDTFLbQ3Ygs6HLZ/JGtMAPD/gexVzw5q3yT
-DA9d0STfR2gfK13r6BJfhCKcNucUChoL2+analqk0esPitPclWW6h5Ebz1yetolecFGl913bIEbR
-8WuDEd//3Ozw1GkOg4eI282TPOl2LCTuwR+QPcI9FhSUUgQW1HHh255S3ExS8tUBLtawn9lSiEob
-2CRD6zj/KYKeP2Aiy4b/3cIzlWHGtIAfgIyI9cCIh9bpNgsEjjngPAnGIpvzJCzmySQdWtN/hFze
-VkOjlpS2IgtYwRdQaB0/QmnO0yfuxqom2QBfGc/W1BiYjt8PHCOF8AeYv0EanpRVJu9oihYQGGcA
-RSHrW8Kf+i/88ILUH+R7ElKb5MfkQSfVmav/St2xVcmwJDwDiaxEsunCXH+k0yMK6Ls1gIerwnoe
-wmVPMCu2ACGTQWnjKkmo3JAKl55oGxjOxVEdzOQtDGnYbag7pBtUACsn1ZlcK2he4b97GSMe0he9
-YpfmCqoOvh4KwqRlRxdINqXgWYBsSiy5mBQvRCGvIAUQ2qUZMKZ2xgi1okdpYJU2X0txriXAf6AX
-ulHpZRP43sh+F/EARkRdDTKXqjjnNZwNGOnsIIw8a+pB2u7xYUHpLIA1tGi96z+ZtT9M89zwTZ7B
-+J5H4E2kMlLTBtJJYO5Vgni3WiV2AmFw2i6WDMJrvCyf9If173DnEpguDggTV/OOpLMnJqUP0IA/
-Br70pyuqZckif4MbLidc4pxJg9lKqtOl8iM1/1Q5xSwXb+zV7sgq/AozylZdhyUuwCkEb84tENBh
-tv76hIxTtoIy7k6O+PDwzQlHfQduVulfL6ar7AyBt1JqEo7JeRVW7+1RaQ50sF81kBi+Wc7JGXmf
-m2+GNR3VwFvZslewW6rQfkL0m86swXfEni5/C25P0zYz8DqA/7ldROoY3lUOoDb5CdYEHBk70f42
-/qnL/3k4BkIjqDM0tAsin3NhOQwuV/tGopdoiPm845SOR9DyDVrsmbP8d8jIOW1cCrFUwyi+AClr
-GIpNc0gk+PSJ9UDiAY/QYDDZBYAzeD8bU2ntFiZHsUb3j4cqgEIV7mwJUHN4CekvP8vYzr2IIcjJ
-9TaHjJBUdWbxZE/Zjwu12l+kK96yWkLiZa2IoE68oEsHA+uNEf9CkOe6opEj/LDNG0fNPWiYFPXv
-OdCxqtC35nUuzn3EX/PHguoomfwfogZEkJhiLhElOVyICAjlRiuIru0SPUvh+GsQikICt6zl7WtR
-y/8G7PbK3bis697wsi/yTfKLlfyrS/Dx3vqilK7/InvEh16dQ2mxVoySCqaZFMl9pSdczBGZPIk3
-mePruVcE3gS08c8TqnI6zdunhqHCBHEQqciW+s1L0QLS/lMvD0zv8D8/PtsOIWtq73SQHxBoEhXW
-061ppjpxIGS4E9Sd9s9R8lwS66Ut74pxdU0K70MpP4s7Avm63NtmjmCJlwt6m8zs18LW7V6mdFUC
-GC24Q1WFz+UhP6pEFg/X/yGPOWCRVCqIgZenazg4s6utRPwUD+nZ9/k7MxEo6QQDPDkuFRHQ/EeA
-ft+RpD1csRFeMVqYwNKrOI1sbHzsu1o4ZnEm/KlVT43P4GBrhPgizmR7pzh7N+Y9ME1+qys+vb0k
-0Vy67L3imD3e1RoE2dXQEmRk4jwvszcsct6FVAUkB631mqKhH3BqPhGTC5UXxHIW1h1MBnTTcx7D
-A3kz3GO3WHyikTtDdlCwn0IEy2xCVs+jxgH5FaPv/e5T2T6kXkaihN33UV8ngu6uUBm9sH0qfJvU
-XV8Vx89xXaTQ+1puYWQvdW+ii8ILriuhb4Y19URwJag/wVeb3OEt7kFM87b6a2JeDC4Qik3/324S
-dXhiJxiHRhlveh8g8Ch55Gg0BNA+1S6ZMzED++AYE86v9Ngc59bbmRC32Pr4sZjWJdFyhclbxLwg
-ALs6MTC3oe4TbDzKPPFvA8Oou2c6XleRQQ+bUVzY/rN0DyGqPZ9fRSM2XoKX3u5K0TsVQ3fR/sPZ
-hk5qH2CELX1+HBV75Y3y+r3RyF7xIhEcxiMFjYy6K0m/lcc3q/OZDBBQN1OYJMqIZakZCnbtmMk+
-KJjEgsGzLcj4goJgcNYcd0mhO4XsBJ+LLRwOpr2fwTUeU/LJRE29hwiOArA20ZLt6y1BUs7ZxG2K
-6qFWA6f8HPqWCyMS+NH1PsuAa8njjP/pzXFohjL4YjVr64s7JyxGTK+oI3E8Pv/4G0Johm7d3H7r
-pS3qlEftclOeuTx2lF3KBILE3YZGeA4PTJSdnK6TnQJS++pP6n7rgEBg5viTLvhM4sxqBWDsBPlu
-CNvsguITKyySXHxHQ0iYIAYmKL6LwEspeP1nMlwHHprL5p1M4qlFf8Q5WdiibXXh8P8SYkXiZzGY
-a0nm1dz4tiwCzaFT0Ui6ysnR7MQyizYgfR3VWXSsIwu9CwbIOGlu/2rI1+qBw2v/X1l2xNMALetl
-6pzsWqSNTPwiGOZ6/u7IAUhYyc1yeonBzRafY55bN4B5Ia6CGQJIXGfyBMJXp4ePr5WoqQtDjJKv
-Z18K1zeDyNA5buRfnDaUZv/XMM/eZoYUuRI7jlA3sTzTbrVvnELi+58D3FmfcSN3ug3WLXo5V2CS
-+albdGy21NPwHkvTmPfLFPBaG9r61hxWxYnDf+D7lieG6Vz/USC+1WTv6154bOYFjuA23C8KOgY0
-B3D4izaHqCa0ZRRYKwCbt/FelnCzud/jVUZVnJgw/LEikAGdTDAZp4S3PiUZbW1reAnfiC3vCcGs
-5ubZSx8Pq9F1FS2KETjhlpvIEdiIWGkmksE6MIfe8S6Pk1Q1k17d2hVymShpJjqbbS+fjDxsgdew
-8WxdD/16z0wKk3JHtG4OYVVLt5bLDY+e94upYRqRX04iEraZXgFzNHAWUxFi1tcxApVCTaj/e92t
-z5OSaXswtDjKpI0An4x17Xkp449VFXp2lUcQMzN77lZhwdcGrDLrzDQjPh1R0VmI/tiFDV4EX02F
-qIUSLifI/nsjX0U83sl9S2bqIFj6Lsp2IH9/lV8vp1P8gdE1mzZ6o0hI7gceL5wU3Bs7Sn0unY+A
-osSlKCHndLlHCIg72xO34E9RdYjGHnR7umxOTL5/wM7WiOCAdTGjFcRc1Cwfc7QaeWT3B6Hz1Ebz
-FGJzQbBshi5UrgERJv8gLgfnafKoeux0FfirgR5PUVMFKEUAFPBhSQ5DiYuf5ZQ8CwvgwnZwXAEN
-LtT+Wul7MLWCpu3Q33D5bFlg4DUW/r4tlNrz+9b2cNoGVGbUsk3uFL7hHMwhBMDKB+h7bGnZfcIL
-4gKpaUFJC0rIE4jns8oImJqCedSR+IyY2Ks05No+dhxQtm7/rzsRJ5y5nYxTTIR6xqcclWaFyfTK
-nIqvaIag+ud2ivRjwmDNownKqFm2fexRxX0Z1zpFhV621cZv1ziYOqnA7R7pSrYiEP9rSXRJlMmi
-xg5no5C2R5nFc5gSiyAjXrYPntjO4xOSRxWlfvchjmnF8Y2Y0uuzmVZuLF47fbJ2Bhd/tMfHjsia
-sByhkiJtwoRPovVi7JC2K+atGGjWL0EK7tz/Lo++483D5gr8rdSw58daccmuXgditRC6V85uxXGq
-+y34O31cZ+O9hsMGUuk1CMEbJdfdI0wwaPEzhv78jCyjgvNTTfEfAoapVMikb26aVFASDAyNMuJO
-HnJUIn0dMXANMI85iW/UsUxH1aiIDgaMcX6QpbIpEJD50X3Owg/T/R9WhVHP9o5qXHMBQ4ytUgb4
-wyQHkRmRHN9cZASH+ea3pdR8uMOQcUX50eWs/QQIsEZtu6krPOBtj+lej2vz/gvDVwrNfJgte2Cg
-AE67ulAbCItTj5tEZPRCxJ7X3jVOjiMEjyGxuHnjBEKwfx/qi8OTCAJ+6VwSockkB+s+CeW9pzk+
-SjyhJ0SvGWE0NMcDnghN0f+1bW/AaDjNk591zQTEC7i/Qt40MDwKQW8Ndho0AL65yCQIXnnzjlIK
-+biOFutB/Yg2V0iW0tMS2Z7bmm66BF7aqTPKvqTZGgwhwFMcFdVVX9WOSDOXcvKzZqQVDZfc+Bpi
-xSosXr99Zqxt8wBIN+S7AZzugodPGOcyd84zXhcHZbk/8V9aw2NlNPQjgwdt0boYpqfHWkxhWkBF
-r1RWx1l0f2w6Qls0gtdUC8lyIIj4Rd1O9uAo9jG8CKMuI5QJ6bdGmuI5oWGlHe2t6lcNmTnbZjkr
-cBP3Vf4rdL0DlaffYOBYqUA2LrNmVym1WF5c+X2aWVaAOpJLSdwIAyLiQqgU7azyTUWpmTM9sBmQ
-u5BQ0SnvX6SIVFEEVGLkk/dj24UhRN6gdAlvs81kV6/xgJH7rvqWO82Ib6tdodmXr4OnOcdjZpx3
-seM4Rt3UfInpt02eZjoKDqqYd6iebMWHIsWQRWRvPegJj4JcMULnPPXDbfw6Q6BZzTrQPUYQoZCh
-DJ5eNR6wesmd
+<?php
+
+namespace Xentral\Modules\Backup\Scheduler\Adapter;
+
+use ArrayObject;
+use Xentral\Modules\Backup\Exception\SchedulerAdapterBadMethodException;
+use Xentral\Modules\Backup\Scheduler\BackupSchedulerTaskInterface;
+
+final class SchedulerAdapter
+{
+
+    public $debugMode = false;
+
+    /**
+     * @var BackupSchedulerTaskInterface
+     */
+    private $schedulerTask;
+
+    public function __construct(BackupSchedulerTaskInterface $schedulerTask)
+    {
+        $this->schedulerTask = $schedulerTask;
+    }
+
+    public function __call($method, $args)
+    {
+        if (!method_exists($this->schedulerTask, $method)) {
+            $class = get_class($this->schedulerTask);
+            throw new SchedulerAdapterBadMethodException(sprintf('Method %s at %s class is missing', $method, $class));
+        }
+        if (is_callable([$this->schedulerTask, $method])) {
+            $this->debug(json_encode(new ArrayObject($args)));
+            $this->schedulerTask->beforeScheduleAction(new ArrayObject($args));
+            if ($this->debugMode === true) {
+                $message = 'Call ' . get_class($this->schedulerTask) . '::' . $method . ' with args ' . json_encode($args);
+                $this->debug($message);
+            }
+            call_user_func([$this->schedulerTask, $method], $args);
+            $this->schedulerTask->afterScheduleAction(new ArrayObject($args));
+        } else {
+            $class = get_class($this->schedulerTask);
+            throw new SchedulerAdapterBadMethodException(sprintf('No callable method %s at %s class', $method, $class));
+        }
+    }
+
+    /**
+     * @param string      $message
+     * @param null|string $debuggerFile
+     *
+     * @return null|void
+     */
+    public function debug($message, $debuggerFile = null)
+    {
+        if ($this->debugMode === false) {
+            return null;
+        }
+        $logFile = null === $debuggerFile ? sys_get_temp_dir() . '/backup_debug.log' : $debuggerFile;
+        file_put_contents($logFile, date('Y-m-d H:i:s') . '- ' . $message . "\n", FILE_APPEND | LOCK_EX);
+    }
+}

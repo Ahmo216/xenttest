@@ -1,208 +1,210 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-1RuM9I12
+<?php
+
+class Laender {
+  var $app;
+
+  static function TableSearch(&$app, $name, $erlaubtevars)
+  {
+    // in dieses switch alle lokalen Tabellen (diese Live Tabellen mit Suche etc.) für dieses Modul
+    switch($name)
+    {
+      case "laender_list":
+      $allowed['laender'] = array('list');
+
+      $heading = array('ISO', 'Bezeichnung DE', 'Bezeichnung EN','EU', 'Men&uuml;');
+      $width = array('9%', '40%', '40%','10%','1%');
+
+      $findcols = array('l.iso', 'l.bezeichnung_de', 'l.bezeichnung_en', "if(l.eu,'EU','')", 'l.id');
+      $searchsql = array('l.iso', 'l.bezeichnung_de', 'l.bezeichnung_en');
+
+      $defaultorder = 1;
+      $defaultorderdesc = 0;
+
+      $menu = "<a href=\"index.php?module=laender&action=edit&id=%value%\"><img src=\"themes/{$app->Conf->WFconf['defaulttheme']}/images/edit.svg\" border=\"0\"></a>&nbsp;<a href=\"#\" onclick=DeleteDialog(\"index.php?module=laender&action=delete&id=%value%\")><img src=\"themes/{$app->Conf->WFconf['defaulttheme']}/images/delete.svg\" border=\"0\"></a>";
+
+      $where = " l.id > 0 ";
+
+      $sql = "SELECT SQL_CALC_FOUND_ROWS l.id, l.iso, l.bezeichnung_de, l.bezeichnung_en, if(l.eu,'EU',''), l.id FROM laender l";
+
+      $count = "SELECT count(l.id) FROM laender l WHERE $where";
+      break;
+
+    }
+
+    $erg = false;
+
+    foreach($erlaubtevars as $k => $v)
+    {
+      if(isset($$v))$erg[$v] = $$v;
+    }
+    return $erg;
+  }
+
+  function __construct($app, $intern = false) {
+    $this->app=$app;
+    if($intern)return;
+    $this->app->ActionHandlerInit($this);
+
+    // ab hier alle Action Handler definieren die das Modul hat
+    $this->app->ActionHandler("list", "LaenderList");
+    $this->app->ActionHandler("create", "LaenderCreate");
+    $this->app->ActionHandler("edit", "LaenderEdit");
+    $this->app->ActionHandler("delete", "LaenderDelete");
+    $this->app->ActionHandler('test', 'LaenderTest');
+
+    $this->app->ActionHandlerListen($app);
+  }
+
+  function LaenderTest(){
+      $countryModule = $this->app->Container->get('CountryMigrationService');
+      if($countryModule->needsMigration()){
+          $countryModule->doMigration();
+      }
+  }
+
+  function LaenderMenu()
+  {
+    $this->app->erp->MenuEintrag("index.php?module=laender&action=list","Zur&uuml;ck zur &Uuml;bersicht");
+  }
+
+  function LaenderList()
+  {
+    $this->app->erp->MenuEintrag("index.php?module=laender&action=create","Neues Land");
+    $this->app->erp->MenuEintrag("index.php?module=laender&action=list","&Uuml;bersicht");
+
+    $this->app->YUI->TableSearch('TAB1','laender_list', "show","","",basename(__FILE__), __CLASS__);
+    $this->app->Tpl->Parse("PAGE","laender_list.tpl");
+  }
+
+  function LaenderEdit()
+  {
+    $id = (int)$this->app->Secure->GetGET('id');
+    $submit = $this->app->Secure->GetPOST('submitland');
+
+    $this->app->Tpl->Add('KURZUEBERSCHRIFT2',$bezeichnung_de);
+
+
+
+    $input = array();
+
+    $this->app->erp->MenuEintrag("index.php?module=laender&action=edit&id=$id","Details");
+
+    $this->app->erp->MenuEintrag("index.php?module=laender&action=list","Zur&uuml;ck zur &Uuml;bersicht");
+
+    $input = $this->GetInput();
+
+    if(is_numeric($id) && $submit!=''){
+
+      $error = '';
+      if($input['iso']=='' || strlen(trim($input['iso'])) > 2) $error .= 'Geben Sie bitte einen zweistelligen ISO-Code ein.<br>';
+      if($input['bezeichnung_de'] == '') $error .= 'Geben Sie bitte eine deutsche L&auml;nderbezeichnung ein.<br>';
+      if($input['bezeichnung_en'] =='') $error .= 'Geben Sie bitte eine englische L&auml;nderbezeichnung ein.<br>';
+
+      if($error!=''){
+        $this->app->Tpl->Set('MESSAGE', "<div class=\"error\">$error</div>");
+      }else{
+        if($error == ""){
+          $this->app->DB->Update("UPDATE laender SET iso='{$input['iso']}', bezeichnung_de='{$input['bezeichnung_de']}', bezeichnung_en='{$input['bezeichnung_en']}', eu='{$input['eu']}' WHERE id = '$id' LIMIT 1");
+          if($input['eu']==1){
+            $this->app->Tpl->Set('EU', "checked");
+          }
+          $this->app->Tpl->Set('MESSAGE', "<div class=\"success\">Die Einstellungen wurden erfolgreich &uuml;bernommen.</div>");
+        }
+      }
+    }
+    $iso = $this->app->DB->Select("SELECT iso FROM laender WHERE id = '$id'");
+    $bezeichnung_de = $this->app->DB->Select("SELECT bezeichnung_de FROM laender WHERE id = '$id'");
+    $bezeichnung_en = $this->app->DB->Select("SELECT bezeichnung_en FROM laender WHERE id = '$id'");
+    $eu = $this->app->DB->Select("SELECT eu FROM laender WHERE id = '$id'");
+
+
+    $this->app->Tpl->Set('ISO', $iso);
+    $this->app->Tpl->Set('BEZEICHNUNG_DE', $bezeichnung_de);
+    $this->app->Tpl->Set('BEZEICHNUNG_EN', $bezeichnung_en);
+    if($eu == 1){
+      $this->app->Tpl->Set('EU', "checked");
+    }
+
+
+    //$this->SetInput($input);
+
+    $this->app->Tpl->Parse('PAGE', "laender_edit.tpl");
+  }
+
+  function LaenderDelete()
+  {
+    $ref = $_SERVER['HTTP_REFERER'];
+    $id = $this->app->Secure->GetGET("id");
+    $this->app->DB->DELETE("DELETE FROM laender WHERE id = '$id' LIMIT 1");
+
+    //$this->VorlageList();
+    header("Location: $ref");
+    exit;
+  }
+
+  function LaenderCreate(){
+    //		$this->app->Tpl->Add(KURZUEBERSCHRIFT,"Benutzer");
+    $this->app->erp->MenuEintrag("index.php?module=laender&action=list","Zur&uuml;ck zur &Uuml;bersicht");
+
+    $input = $this->GetInput();
+    $submit = $this->app->Secure->GetPOST('submitland');
+
+    if($submit!='') {
+
+      $error = '';
+
+      if($input['iso']=='' || strlen(trim($input['iso'])) > 2) $error .= 'Geben Sie bitte einen zweistelligen ISO-Code ein.<br>';
+      if($input['bezeichnung_de']=='') $error .= 'Geben Sie bitte eine deutsche L&auml;nderbezeichnung ein.<br>';
+      if($input['bezeichnung_en']=='') $error .= 'Geben Sie bitte eine englische L&auml;nderbezeichnung ein.<br>';
+
+      if($this->app->DB->Select("SELECT '1' FROM laender WHERE iso='{$input['iso']}' LIMIT 1")=='1')
+        $error .= "Es existiert bereits ein ISO-Code mit diesem Namen.<br />";
+
+      if($error!=''){
+        $this->app->Tpl->Set('MESSAGE', "<div class=\"error\">$error</div>");
+      }else {
+        $this->app->DB->Insert("INSERT INTO laender (iso, bezeichnung_de, bezeichnung_en, eu) VALUES ('{$input['iso']}', '{$input['bezeichnung_de']}', '{$input['bezeichnung_en']}', '{$input['eu']}')");
+        $newid = $this->app->DB->GetInsertID();
+        $msg = $this->app->erp->base64_url_encode("<div class=\"success\">Der L&auml;ndereintrag wurde erfolgreich angelegt.</div>");
+        header("Location: index.php?module=laender&action=edit&id=$newid&msg=$msg");
+        exit;
+      }
+    }
+
+    $this->SetInput($input);
+
+    $this->app->Tpl->Parse('PAGE', "laender_edit.tpl");
+  }
+
+
+  function GetInput(){
+    $input = array();
+    $input['iso'] = $this->app->Secure->GetPOST('iso');
+    $input['bezeichnung_de'] = $this->app->Secure->GetPOST('bezeichnung_de');
+    $input['bezeichnung_en'] = $this->app->Secure->GetPOST('bezeichnung_en');
+    $input['eu'] = (int)$this->app->Secure->GetPOST('eu');
+    return $input;
+
+  }
+
+  function SetInput($input){
+    $this->app->Tpl->Set('ISO', $input['iso']);
+    $this->app->Tpl->Set('BEZEICHNUNG_DE', $input['bezeichnung_de']);
+    $this->app->Tpl->Set('BEZEICHNUNG_EN', $input['bezeichnung_en']);
+    if($input['eu']==1){
+      $this->app->Tpl->Set('EU', "checked");
+    }
+
+
+  }
+
+}

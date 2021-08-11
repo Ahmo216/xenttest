@@ -23,6 +23,10 @@ final class DatevXmlCreator
 
     private const FALLBACK_NOMINAL_ACCOUNT_LENGTH = 4;
 
+    private const APPEND_INTERNET_STANDARD_NUMBER = 1;
+
+    private const APPEND_INTERNET_TRANSACTION_NUMBER = 2;
+
     /** @var DocumentGateway $documentGateway */
     private $documentGateway;
 
@@ -68,6 +72,27 @@ final class DatevXmlCreator
         $this->accountingExportModule = $accountingExportModule;
     }
 
+    public function getDocumentInfosFromDateRange(
+        string $documentType,
+        DateTimeInterface $from,
+        DateTimeInterface $till,
+        int $projectId = 0
+    ): array {
+        $documentType = $this->ensureDocumentType($documentType);
+        $isZeroEuroAllowed = (bool)$this->systemConfig->tryGetLegacyValue('buchaltungexport_list_nulleurorechnungen');
+        $datevLiabilityInvoiceDate =
+            (int)$this->systemConfig->tryGetLegacyValue('buchaltungexport_list_datevverbindlichkeitrechnungsdatum');
+
+        return $this->getDocumentInfos(
+            $documentType,
+            $from,
+            $till,
+            $isZeroEuroAllowed,
+            $datevLiabilityInvoiceDate,
+            $projectId
+        );
+    }
+
     /**
      * @param string            $documentType
      * @param DateTimeInterface $from
@@ -103,9 +128,7 @@ final class DatevXmlCreator
             );
         }
         $documentInfos = $this->formatDocumentInfosForXmlExport($documentType, $documentInfos);
-        $datevAppendInternet = $this->systemConfig->tryGetLegacyValue('datev_append_internet') == '1';
-
-        $xmlstringdoc = $this->getXmlHead($documentType);
+        $datevAppendInternet = (int)$this->systemConfig->tryGetLegacyValue('datev_append_internet');
 
         foreach ($documentInfos as $documentInfo) {
             $xmlFileContents[] = $this->getXmlFileContentByDocument(
@@ -114,14 +137,13 @@ final class DatevXmlCreator
                 $datevAppendInternet,
                 $nominalAccountLength
             );
-            $xmlstringdoc .= $this->getDocumentXmlString($documentType, $documentInfo);
         }
-        $xmlstringdoc .= '  </content>
-        </archive>';
 
         $xmlFileContents[] = [
             'name' => 'document.xml',
-            'content' => $xmlstringdoc,
+            'content_head' => $this->getXmlHead($documentType),
+            'content_foot' => '  </content>
+        </archive>',
         ];
 
         return $xmlFileContents;
@@ -138,8 +160,8 @@ final class DatevXmlCreator
         $debitMultiplierFactor = $documentType === self::DOCUMENT_TYPE_INVOICE ? 1 : -1;
         foreach ($documentInfos as $documentInfo) {
             $documentInfo->setDocumentNumber($this->getValidDocumentNumberFromInfo($documentInfo));
-            $debitFormatatted = number_format($documentInfo->getDebit() * $debitMultiplierFactor, 2, '.', '');
-            $documentInfo->setDebit((float)$debitFormatatted);
+            $debitFormatted = number_format($documentInfo->getDebit() * $debitMultiplierFactor, 2, '.', '');
+            $documentInfo->setDebit((float)$debitFormatted);
         }
 
         return $documentInfos;
@@ -148,7 +170,7 @@ final class DatevXmlCreator
     /**
      * @param string       $documentType
      * @param DocumentData $documentInfo
-     * @param bool         $datevAppendInternet
+     * @param int          $datevAppendInternet
      * @param int          $nominalAccountLength
      *
      * @return array
@@ -156,7 +178,7 @@ final class DatevXmlCreator
     public function getXmlFileContentByDocument(
         string $documentType,
         DocumentData $documentInfo,
-        bool $datevAppendInternet,
+        int $datevAppendInternet,
         int $nominalAccountLength
     ): array {
         $xmldescription2 = $this->getXmlDocumentTypeDescription($documentType);
@@ -168,11 +190,12 @@ final class DatevXmlCreator
             if ($booking['betrag'] == 0) {
                 continue;
             }
-            $valueFactor = ($booking['haben'] == '1' && $documentType === self::DOCUMENT_TYPE_INVOICE)
-            || ($booking['haben'] == '0' && $documentType !== self::DOCUMENT_TYPE_INVOICE
-            ) ? -1 : 1;
+            $valueFactor =
+                ($booking['haben'] == '1' && $documentType !== self::DOCUMENT_TYPE_LIABILITY)
+                || ($booking['haben'] == '0' && $documentType === self::DOCUMENT_TYPE_LIABILITY)
+                    ? -1 : 1;
             $amount = $valueFactor * $booking['betrag'];
-            $xmlString = $this->addBookingInfoToXml(
+            $xmlString .= $this->addBookingInfoToXml(
                 $documentType,
                 $documentInfo,
                 $booking,
@@ -195,11 +218,45 @@ final class DatevXmlCreator
         $xmlString .= '</LedgerImport>';
 
         return [
-            'name'          => $xmldescription2 . '_' . $documentInfo->getDocumentNumber(),
-            'document_id'   => $documentInfo->getDocumentId(),
+            'name' => $xmldescription2 . '_' . $documentInfo->getDocumentNumber(),
+            'document_id' => $documentInfo->getDocumentId(),
             'document_type' => $documentType,
-            'content'       => $xmlString,
+            'content' => $xmlString,
+            'pdf' => $this->getFileExtension($documentType, $documentInfo),
+            'document_content' => $this->getDocumentInfoForDocumentXML($documentType, $documentInfo),
         ];
+    }
+
+    public function addContentPropertyToDocument(array $xmlFiles, string $documentType): array
+    {
+        foreach ($xmlFiles as $xmlKey => $xmlFile) {
+            if ($xmlFile['name'] === 'document.xml') {
+                $xmlFiles[$xmlKey]['content'] = $this->generateDocumentContentString($xmlFiles, $xmlFile, $documentType);
+            }
+        }
+
+        return $xmlFiles;
+    }
+
+    public function generateDocumentContentString(array $xmlFiles, array $xmlFile, string $documentType): string
+    {
+        $content = $xmlFile['content_head'];
+
+        foreach ($xmlFiles as $xml) {
+            if ($xml['name'] === 'document.xml') {
+                continue;
+            }
+            $content .= '
+<document>
+' . $xml['document_content'];
+            if ($documentType !== 'verbindlichkeit' || !empty($xml['file_name'])) {
+                $content .= $xml['pdf'];
+            }
+            $content .= '
+</document>';
+        }
+
+        return $content . $xmlFile['content_foot'];
     }
 
     /**
@@ -222,6 +279,25 @@ final class DatevXmlCreator
               </extension>
               <extension xsi:type="File" name="' . $xmlDescription2 . '_' . $documentInfo->getDocumentNumber() . '.pdf"/>
               </document>';
+    }
+
+    public function getDocumentInfoForDocumentXML(string $documentType, DocumentData $documentInfo): string
+    {
+        $xmlDescription1 = $this->getXmlAccountDescription($documentType);
+        $xmlDescription2 = $this->getXmlDocumentTypeDescription($documentType);
+
+        return '
+              <extension xsi:type="' . $xmlDescription1 . '" datafile="' . $xmlDescription2 . '_' . $documentInfo->getDocumentNumber(
+            ) . '.xml">
+              <property value="' . $documentInfo->getYearMonth() . '" key="1" />
+              <property value="' . $xmlDescription2 . 'en" key="3" />
+              </extension>';
+    }
+
+    public function getFileExtension(string $documentType, DocumentData $documentInfo): string
+    {
+        return '<extension xsi:type="File" name="'
+            . $this->getXmlDocumentTypeDescription($documentType) . '_' . $documentInfo->getDocumentNumber() . '.pdf"/>';
     }
 
     /**
@@ -335,21 +411,25 @@ final class DatevXmlCreator
 
     /**
      * @param DocumentData $documentInfo
-     * @param bool         $datevAppendInternet
+     * @param int          $datevAppendInternet
      * @param float        $totalAmount
      *
      * @return string
      */
     private function getDocumentXmlHead(
         DocumentData $documentInfo,
-        bool $datevAppendInternet,
+        int $datevAppendInternet,
         float $totalAmount
     ): string {
         $consolidatedOrderIdPart = '';
         $internetNumber = $documentInfo->getOnlineOrderId();
-        if ($datevAppendInternet && !empty($internetNumber)) {
-            $consolidatedOrderIdPart = "consolidatedOrderId=\"{$internetNumber}\"";
+        $transactionNumber = $documentInfo->getTransactionNumber();
+        if ($datevAppendInternet === self::APPEND_INTERNET_STANDARD_NUMBER && !empty($internetNumber)) {
+            $consolidatedOrderIdPart = "consolidatedOrderId=\"{$this->ensureValidPattern($internetNumber, 'p13')}\"";
+        } elseif ($datevAppendInternet === self::APPEND_INTERNET_TRANSACTION_NUMBER && !empty($transactionNumber)) {
+            $consolidatedOrderIdPart = "consolidatedOrderId=\"{$this->ensureValidPattern($transactionNumber, 'p13')}\"";
         }
+
         return '<?xml version="1.0" encoding="utf-8"?>
                 <LedgerImport xmlns="http://xml.datev.de/bedi/tps/ledger/' .
             $this->datevDocumentExportVersionPath .
@@ -388,8 +468,7 @@ final class DatevXmlCreator
         array $booking,
         float $amount,
         int $nominalAccountLength
-    ): string
-    {
+    ): string {
         $booking['ort'] = $this->ensureValidXmlString($booking['ort'], 30);
         $booking['name'] = $this->ensureValidXmlString($booking['name'], 50);
 
@@ -401,8 +480,8 @@ final class DatevXmlCreator
         if ($documentType === self::DOCUMENT_TYPE_CREDITNOTE) {
             $booking['betrag'] *= -1;
         }
-        $booking['betrag'] = number_format($booking['betrag'], 2, '.', '');
-        $booking['steuersatz'] = number_format($booking['steuersatz'], 2, '.', '');
+        $booking['betrag'] = number_format((float)$booking['betrag'], 2, '.', '');
+        $booking['steuersatz'] = number_format((float)$booking['steuersatz'], 2, '.', '');
         if ($documentType === self::DOCUMENT_TYPE_LIABILITY) {
             $bookingText = 'Wareneingang ' . $booking['steuersatz'] . '%';
             $ledgerTag = 'accountsPayableLedger';
@@ -423,24 +502,27 @@ final class DatevXmlCreator
         }
         $xmlString .= '<tax>' . $booking['steuersatz'] . "</tax>\r\n";
         $xmlString .= '<information>' . $booking['buchungstext'] . "</information>\r\n";
-        $xmlString .= '<currencyCode>' . $booking['waehrung'] . "</currencyCode>\r\n";
-        $xmlString .= '<invoiceId>' . $documentInfo->getDocumentNumber() . "</invoiceId>\r\n";
+        $xmlString .= '<currencyCode>' . ($booking['waehrung'] ?: 'EUR') . "</currencyCode>\r\n";
+        $xmlString .= '<invoiceId>' . $this->ensureValidPattern($documentInfo->getDocumentNumber(), 'p10040') . "</invoiceId>\r\n";
         $xmlString .= '<bookingText>' . $bookingText . "</bookingText>\r\n";
-
+        $xmlString .= $this->addShipFromInfo($booking, $documentType);
         if (strpos($booking['konto'], 'DEL-') === 0) {
             $booking['konto'] = substr($booking['konto'], 4);
         }
 
-        $xmlString .= '<partyId>' . $booking['konto'] . "</partyId>\r\n";
-
+        $xmlString .= '<partyId>' . $this->ensureValidPattern($booking['konto'], 'p10011') . "</partyId>\r\n";
+        $booking['ustid'] = $this->ensureValidPattern($booking['ustid'] ?? '', 'p10027');
         if ($booking['ustid'] != '' && $booking['land'] !== 'DE') {
             $xmlString .= '<vatId>' . $booking['ustid'] . "</vatId>\r\n";
         }
+        if ($documentType !== self::DOCUMENT_TYPE_LIABILITY && !empty($booking['delivery_country'])) {
+            $xmlString .= '<shipToCountry>' . $booking['delivery_country'] . '</shipToCountry>';
+        }
         if (!empty($booking['kurs']) && $booking['kurs'] > 0 && $booking['kurs'] != 1) {
-            $xmlString .= '<exchangeRate>' . number_format((float)$booking['kurs'], 6, '.', '') . "</exchangeRate>\r\n";
+            $xmlString .= '<exchangeRate>' . number_format(1 / (float)$booking['kurs'], 6, '.', '') . "</exchangeRate>\r\n";
         }
 
-        $xmlString .= '<bpAccountNo>' . $booking['konto'] . "</bpAccountNo>\r\n";
+        $xmlString .= '<bpAccountNo>' . $this->ensureValidPattern($booking['konto'], 'p11') . "</bpAccountNo>\r\n";
         if ($booking['name'] != '') {
             $xmlString .= "<{$tagPrefix}Name>" . $booking['name'] . "</{$tagPrefix}Name>\r\n";
         }
@@ -451,6 +533,40 @@ final class DatevXmlCreator
         return $xmlString . "</{$ledgerTag}>\r\n";
     }
 
+    private function addShipFromInfo(array $booking, string $documentType): string
+    {
+        if ($documentType === self::DOCUMENT_TYPE_LIABILITY) {
+            return '';
+        }
+        $xmlString = '';
+        $country = substr(strtoupper(trim($this->legacyWrapper->findCompanyData('land'))), 0, 2);
+        $ustId = $this->legacyWrapper->findCompanyData('steuernummer');
+        if (!empty($booking['deliverythresholdvatid'])) {
+            $ustId = $booking['deliverythresholdvatid'];
+        }
+        $ustId = $this->ensureValidPattern($ustId, 'p10027');
+        $ustId = preg_replace('/[^A-Z0-9]/', '', strtoupper($ustId));
+        if (!preg_match('/^[A-Z]{2}[A-Z0-9]+$/', $ustId)) {
+            $ustId = '';
+        }
+        if (!empty($ustId)) {
+            $country = substr($ustId, 0, 2);
+            $xmlString .= "<ownVatId>${ustId}</ownVatId>\n";
+            $xmlString .= "<shipFromCountry>${country}</shipFromCountry>\n";
+
+            return $xmlString;
+        }
+        if (!empty($booking['storage_country'])) {
+            $country = substr(strtoupper(trim($booking['storage_country'])), 0, 2);
+        }
+        if (!preg_match('/^[A-Z]{2}$/', $country)) {
+            return '';
+        }
+        $xmlString .= "<shipFromCountry>${country}</shipFromCountry>\n";
+
+        return $xmlString;
+    }
+
     /**
      * @param array $booking
      * @param int   $nominalAccountLength
@@ -459,15 +575,20 @@ final class DatevXmlCreator
      */
     private function getContrAccountXmlString(array $booking, int $nominalAccountLength): string
     {
-        // gegenkonto sachkontenlaenge + 2 ist dann abschneiden und aufteilen
-        $contraAccount = (string)$booking['gegenkonto'];
+        // gegenkonto sachkontenlaenge + 2 .. 4 ist dann abschneiden und aufteilen
+        $contraAccount = trim((string)$booking['gegenkonto']);
         $bookingKey = '';
-
-        if (strlen($contraAccount) === ($nominalAccountLength + 2)) {
-            $bookingKey = substr($contraAccount, 0, 2);
-            $bookingKey = rtrim($bookingKey, '0');
-            $contraAccount = substr($contraAccount, 2);
+        if ($contraAccount === '') {
+            return '';
         }
+        $buLength = strlen($contraAccount) - $nominalAccountLength;
+        if ($buLength >= 2 && $buLength <= 4) {
+            $bookingKey = substr($contraAccount, 0, $buLength);
+            $bookingKey = rtrim($bookingKey, '0');
+            $contraAccount = substr($contraAccount, $buLength);
+        }
+
+        $contraAccount = ltrim($contraAccount, '0');
 
         $xmlString = '<accountNo>' . $contraAccount . "</accountNo>\r\n";
         if ($bookingKey != '') {
@@ -483,7 +604,7 @@ final class DatevXmlCreator
     private function getCompanyName(): string
     {
         $companyName = $this->legacyWrapper->readyForPdf($this->legacyWrapper->findCompanyData('name'));
-        $companyName = str_replace(['&', ',', '  '], ['&amp;', ' ', ' '], $companyName);
+        $companyName = str_replace(['&', ',', '  ', '<', '>'], ['&amp;', ' ', ' ', '&lt;', '&gt;'], $companyName);
         if (mb_strlen($companyName, 'UTF-8') <= 36) {
             return $companyName;
         }
@@ -508,9 +629,9 @@ final class DatevXmlCreator
         }
         // oder besser letzte 10 Stellen der ID der Verbindlichkeit
 
-        // Wenn Rechnungsnummer länger als 12 Stellen
-        if (strlen($match) > 12) {
-            return substr($match, 0, 2) . substr($match, -10);
+        // Wenn Rechnungsnummer länger als 30 Stellen
+        if (strlen($match) > 30) {
+            return substr($match, 0, 2) . substr($match, -28);
         }
 
         if (!empty($match)) {
@@ -529,28 +650,10 @@ final class DatevXmlCreator
     private function getBookingsFromDocumentInfo(string $documentType, DocumentData $documentInfo): array
     {
         if ($documentType === self::DOCUMENT_TYPE_INVOICE) {
-            return (array)$this->accountingExportModule->DatevEinnahmenExport(
-                '',
-                '',
-                0,
-                'datum',
-                '',
-                false,
-                $documentInfo->getDocumentId(),
-                0
-            );
+            return $this->accountingExportModule->getDatevExportForInvoiceId($documentInfo->getDocumentId());
         }
         if ($documentType === self::DOCUMENT_TYPE_CREDITNOTE) {
-            return (array)$this->accountingExportModule->DatevEinnahmenExport(
-                '',
-                '',
-                0,
-                'datum',
-                '',
-                false,
-                0,
-                $documentInfo->getDocumentId()
-            );
+            return $this->accountingExportModule->getDatevExportForCreditNoteId($documentInfo->getDocumentId());
         }
 
         return (array)$this->accountingExportModule->DatevVerbindlichkeitKontierungExport(
@@ -599,17 +702,51 @@ final class DatevXmlCreator
         return self::DOCUMENT_TYPE_INVOICE;
     }
 
-    private function ensureValidXmlString(string $string, ?int $maxLength = null): string
+    private function ensureValidXmlString(?string $string, ?int $maxLength = null): string
     {
-        $string = str_replace(['&', ',', '  '], ['&amp;', ' ', ' '], $this->legacyWrapper->readyForPdf($string));
-        if($maxLength === null || mb_strlen($string) <= $maxLength) {
+        if ($string === null) {
+            return '';
+        }
+        $string = str_replace(['&', ',', '  ', '<', '>'], ['&amp;', ' ', ' ', '&lt;', '&gt;'], $this->legacyWrapper->readyForPdf($string));
+        if ($maxLength === null || mb_strlen($string) <= $maxLength) {
             return $string;
         }
-        $ampPos = mb_strrpos($string, '&amp;');
-        if($ampPos === false || $ampPos < $maxLength - 5) {
-            return trim(mb_substr($string, 0, $maxLength, 'UTF-8'));
+        while (true) {
+            $ampPos = mb_strrpos($string, '&');
+            if ($ampPos === false) {
+                return trim(mb_substr($string, 0, $maxLength, 'UTF-8'));
+            }
+            $ampLen = mb_strpos($string, ';', $ampPos) - $ampPos + 1;
+            if ($ampPos < $maxLength - $ampLen) {
+                return trim(mb_substr($string, 0, $maxLength, 'UTF-8'));
+            }
+
+            $string = trim(mb_substr($string, 0, $ampPos, 'UTF-8'));
+            if (mb_strlen($string) <= $maxLength) {
+                return $string;
+            }
+        }
+    }
+
+    private function ensureValidPattern(string $string, string $patternName): string
+    {
+        switch ($patternName) {
+            case 'p10027':
+                return preg_replace("/[^0-9a-zA-Z\. _]/", '', trim($string));
+            case 'p10030':
+                return preg_replace('/[^0-9a-zA-Z]/', '', trim($string));
+            case 'p10037':
+                return preg_replace("/[^0-9A-Fa-f\-]/", '', trim($string));
+            case 'p13':
+                return $this->ensureValidXmlString(preg_replace("/[^a-zA-Z0-9\$%&amp;*+\-.\/]/", '', trim($string)), 30);
+            case 'p11':
+                return $this->ensureValidXmlString(preg_replace('/[^0-9]/', '', trim($string)), 9);
+            case 'p10011':
+                return $this->ensureValidXmlString(trim($string), 15);
+            case 'p10040':
+                return $this->ensureValidXmlString(preg_replace("/[^a-zA-Z0-9$%&amp;*+\-\/]/", '', trim($string)), 36);
         }
 
-        return trim(mb_substr($string, 0, $ampPos, 'UTF-8'));
+        return $string;
     }
 }

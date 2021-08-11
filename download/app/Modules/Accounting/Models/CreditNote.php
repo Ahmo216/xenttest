@@ -48,7 +48,7 @@ class CreditNote extends Model
 
     public function invoice(): BelongsTo
     {
-        return $this->belongsTo(Invoice::class, 'id', 'rechnungid');
+        return $this->belongsTo(Invoice::class, 'rechnungid');
     }
 
     public function items(): HasMany

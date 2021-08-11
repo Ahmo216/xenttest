@@ -1,156 +1,204 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php
+
+class KorrespondenzPDF extends Briefpapier {
+  public $logofile;
+  public $sender;
+  public $recipient;
+  public $letterDetails;
+  public $app;
+  public $details;
+
+
+  function __construct($app,$projekt="")
+  {
+    $this->app=$app;
+    $this->doctype="brief";
+    $this->details = array();
+
+    parent::__construct($this->app,$projekt);
+  }
+
+  function SetDetail($id, $value)
+  {
+    $this->details[$id] = $value;	
+  }
+
+  function SetBetreff($betreff)
+  {
+    $this->doctypeOrig=$betreff;
+  }
+
+  function SetAdresse($adresse) 
+  {
+    $this->setRecipient($adresse);
+  }
+
+  function Create()
+  {
+    $this->setCorrDetails($this->details);
+
+    $datum = $this->app->DB->Select("SELECT DATE_FORMAT(NOW(),'%Y%m%d-%h%i')");
+    $this->filename = $datum."_".rand(11111,99999).".pdf";
+  }
+
+  function GetBriefTMP($adresse,$betreff,$text,$fax="")
+  {
+    $this->doctypeOrig=$betreff;
+    $this->setRecipientDB($adresse);
+
+    if(!$this->app->erp->Firmendaten('briefpapier_bearbeiter_ausblenden'))$details['Bearbeiter'] = $this->app->User->GetName();
+    $kundennummer = $this->app->DB->Select("SELECT kundennummer FROM adresse WHERE id='$adresse' LIMIT 1");
+
+    if($kundennummer!="" && $kundennummer!=0)
+      $details['Ihre Kundennummer']=$kundennummer;
+
+    $lieferantennummer = $this->app->DB->Select("SELECT lieferantennummer FROM adresse WHERE id='$adresse' LIMIT 1");
+
+    $unserekundennummer = $this->app->DB->Select("SELECT kundennummer FROM lieferantvorlage WHERE adresse='$adresse' LIMIT 1"); 
+
+    if($lieferantennummer!="" && $lieferantennummer!=0)
+      $details['Lieferantennummer']=$lieferantennummer;
+
+    if($lieferantennummer!="" && $lieferantennummer!=0 && $unserekundennummer!="" && $unserekundennummer!=0)
+      $details['Unsere Kundennummer']=$unserekundennummer;
+
+
+    $telefax= $this->app->DB->Select("SELECT telefax FROM adresse WHERE id='$adresse' LIMIT 1");
+    //if($telefax!="" && $telefax!=0)
+    //  $details['Ihre Faxnummer']=$telefax;
+
+
+    $datum = $this->app->DB->Select("SELECT DATE_FORMAT(zeit,'%d.%m.%Y') FROM dokumente_send WHERE id='$id' LIMIT 1");
+    $details['Datum']=$datum;
+
+
+
+    $this->setCorrDetails($details);
+
+    $this->setBarcode($adresse);
+
+    $this->setLetterDetails(array($betreff,str_replace('\r\n',"\n\n",$text)));
+
+    $datum = $this->app->DB->Select("SELECT DATE_FORMAT(NOW(),'%Y%m%d')");
+    //$this->filename = $datum."_".str_replace(' ','',trim($this->recipient['enterprise'])).".pdf";
+    $this->filename = $datum.".pdf";
+
+    //$this->setBarcode($id);
+  }
+
+  function GetBrief($id)
+  {
+
+    $tmp = $this->app->DB->SelectArr("SELECT * FROM dokumente_send WHERE id='$id' LIMIT 1");
+    $adresse = $tmp['adresse'];
+    $this->setRecipientDB($adresse);
+
+    if(!$this->app->erp->Firmendaten('briefpapier_bearbeiter_ausblenden'))$details['Bearbeiter'] = $this->app->User->GetName();
+    $kundennummer = $this->app->DB->Select("SELECT kundennummer FROM adresse WHERE id='$adresse' LIMIT 1");
+
+    if($kundennummer!="" && $kundennummer!=0)
+      $details['Ihre Kundennummer']=$kundennummer;
+
+    $lieferantennummer = $this->app->DB->Select("SELECT lieferantennummer FROM adresse WHERE id='$adresse' LIMIT 1");
+
+    if($lieferantennummer!="" && $lieferantennummer!=0)
+      $details['Lieferantennummer']=$lieferantennummer;
+
+    $telefax= $this->app->DB->Select("SELECT telefax FROM adresse WHERE id='$adresse' LIMIT 1");
+    //if($telefax!="" && $telefax!=0)
+    //  $details['Ihre Faxnummer']=$telefax;
+
+    $datum = $this->app->DB->Select("SELECT DATE_FORMAT(zeit,'%d.%m.%Y') FROM dokumente_send WHERE id='$id' LIMIT 1");
+    $details['Datum']=$datum;
+
+    $this->setCorrDetails($details);
+
+    if(strpos($tmp[0]['text'],'}') !== false) {
+      $tmp[0]['text'] = $this->app->erp->ParseUserVars('adresse', $adresse,$tmp[0]['text']);
+    }
+    if(strpos($tmp[0]['betreff'],'}') !== false) {
+      $tmp[0]['betreff'] = $this->app->erp->ParseUserVars('adresse', $adresse,$tmp[0]['betreff']);
+    }
+
+    $this->setLetterDetails(array($tmp[0]['betreff'],$tmp[0]['text']));
+    $this->doctypeOrig=$tmp[0]['betreff'];
+    $this->docBody=$tmp[0]['text'];
+
+    $datum = $this->app->DB->Select("SELECT DATE_FORMAT(NOW(),'%Y%m%d') LIMIT 1");
+    $this->filename = $datum."_".str_replace(' ','',trim($this->recipient['enterprise'])).".pdf";
+
+    $this->setBarcode($id);
+  }
+
+
+
+
+  /***********************************
+   *     user space functions
+   ***********************************/
+  public function setLetterDetails($rdata){
+    $this->letterDetails['subject']     = $rdata[0];
+    $this->letterDetails['body']         = $rdata[1];
+  }
+
+  /***********************************
+   *       public functions
+   ***********************************/  
+  /* 
+     public function renderDocument() {
+  // prepare page details
+  parent::PDF('P','mm','A4');
+
+  $this->AddFont('HelveticaBoldCond','','HLBC____.php');
+  $this->AddFont('HelveticaBoldCondItalic','','HLBCO___.php');
+  $this->AddFont('HelveticaCond','','HLC_____.php');
+  $this->AddFont('HelveticaCondItalic','','HLCO____.php');
+  // invoke Header() and Footer() by adding a new page
+  $this->AddPage();
+  $this->SetDisplayMode("real","single");
+
+  $this->SetMargins(15,50);
+  $this->SetAutoPageBreak(true,50); 
+  $this->AliasNbPages('{nb}');
+
+  // render document top to bottom
+  if(!empty($this->recipient)) 
+  $this->renderRecipient();
+
+  //    if(!empty($this->sender)) 
+  //      $this->renderSender();
+
+  $this->renderCorrDetails();
+
+  $this->renderSubject();
+  $this->renderBody();
+  }
+   */
+  public function renderSubject() {
+    $this->SetFont('HelveticaBoldCond','',11);
+    $this->SetY(90);
+    $this->Cell(80,5,$this->letterDetails['subject']);
+  }
+
+  public function renderBody() {
+    $this->SetFont('HelveticaCond','',11);
+    $this->SetY(116);
+    $this->MultiCell(180,5,$this->letterDetails['body']);
+    //$this->Ln(10);
+    //$this->Cell(80,5,$this->letterDetails['valediction']);
+    //$this->Ln(20);
+    //$this->Cell(80,5,$this->sender['firstname']." ".$this->sender['familyname']);
+  }
+
+
+
+}

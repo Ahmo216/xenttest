@@ -1,35 +1,53 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-KVgwboXFqQXFvOU5
+<?php
+
+namespace Xentral\Modules\CalDav;
+
+use Xentral\Core\DependencyInjection\ContainerInterface;
+use Xentral\Modules\CalDav\SabreDavBackend\WawisionAuthBackend;
+use Xentral\Modules\CalDav\SabreDavBackend\WawisionCalendarBackend;
+use Xentral\Modules\CalDav\SabreDavBackend\WawisionPrincipalBackend;
+
+final class Bootstrap
+{
+    /**
+     * @return array
+     */
+    public static function registerServices()
+    {
+        return [
+            'WawisionAuthBackend'      => 'onInitAuthBackend',
+            'WawisionCalendarBackend'  => 'onInitCalendarBackend',
+            'WawisionPrincipalBackend' => 'onInitPrincipalBackend',
+        ];
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return WawisionAuthBackend
+     */
+    public static function onInitAuthBackend(ContainerInterface $container)
+    {
+        return new WawisionAuthBackend($container->get('Database'));
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return WawisionCalendarBackend
+     */
+    public static function onInitCalendarBackend(ContainerInterface $container)
+    {
+        return new WawisionCalendarBackend($container->get('Database'));
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return WawisionPrincipalBackend
+     */
+    public static function onInitPrincipalBackend(ContainerInterface $container)
+    {
+        return new WawisionPrincipalBackend($container->get('Database'));
+    }
+}

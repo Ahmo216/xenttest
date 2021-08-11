@@ -1,189 +1,271 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
-/Yy2C86LFpGfhDHhE8ycj/dgZ/8=
+<?php
+
+class Placetel {
+  var $app;
+
+  static function TableSearch(&$app, $name, $erlaubtevars)
+  {
+    // in dieses switch alle lokalen Tabellen (diese Live Tabellen mit Suche etc.) für dieses Modul
+    switch($name)
+    {
+      case "placetel_list":
+      $allowed['laender'] = array('list');
+
+      $heading = array('Firma', 'Ansprechpartner', 'Telefon','Men&uuml;');
+      $width = array('40%', '40%', '15%','5%');
+
+      $findcols = array('t.name', 't.ansprechpartner', 't.telefon','t.did');
+      $searchsql = array('t.name', 't.ansprechpartner', 't.telefon');
+      $doppelteids = true;
+      $defaultorder = 1;
+      $defaultorderdesc = 0;
+
+      $menu = "<a href=\"#\" onclick=call(\"%value%\",\"index.php?module=placetel&action=call&id=%value%\")><img src=\"themes/{$app->Conf->WFconf['defaulttheme']}/images/phone.png\" border=\"0\"></a>";
+
+      $where = "";
+
+      $sql = "SELECT SQL_CALC_FOUND_ROWS t.id, t.name, t.ansprechpartner, t.telefon, t.did
+      
+      FROM   (              
+          (
+            SELECT 
+             a.id, a.name, a.ansprechpartner, a.telefon,concat('1-',a.id) as did FROM adresse a WHERE a.geloescht <> 1 AND a.telefon <> ''
+          ) UNION ALL (
+            SELECT 
+             a.id, a.name, a.ansprechpartner, a.mobil as telefon, concat('2-',a.id) as did FROM adresse a WHERE a.geloescht <> 1 AND a.mobil <> '' 
+          )UNION ALL (
+          
+            SELECT 
+             ansp.id, a.name, ansp.name as ansprechpartner, ansp.telefon as telefon, concat('3-',ansp.id) as did FROM adresse a INNER JOIN ansprechpartner ansp ON a.id = ansp.adresse WHERE a.geloescht <> 1 AND ansp.telefon <> '' AND  ansp.geloescht <> 1         
+          )UNION ALL (
+          
+            SELECT 
+             ansp.id, a.name, ansp.name as ansprechpartner, ansp.mobil as telefon, concat('4-',ansp.id) as did FROM adresse a INNER JOIN ansprechpartner ansp ON a.id = ansp.adresse WHERE a.geloescht <> 1 AND ansp.mobil <> ''  AND ansp.geloescht <> 1         
+          )
+          
+      )t
+      ";
+
+      $count = "SELECT
+            SUM(anzahl)
+          FROM 
+          (
+            (
+              SELECT 0 as anzahl
+            )
+            UNION ALL
+            (
+            SELECT count(a.id) as anzahl FROM adresse a WHERE  a.geloescht <> 1 AND a.telefon <> ''
+            )
+            UNION ALL
+            (
+            SELECT count(a.id) as anzahl FROM adresse a   WHERE a.geloescht <> 1 AND a.mobil <> '' 
+            )
+            UNION ALL
+            (
+            SELECT  count(ansp.id) as anzahl FROM adresse a INNER JOIN ansprechpartner ansp ON a.id = ansp.adresse WHERE a.geloescht <> 1 AND ansp.telefon <> '' AND ansp.geloescht <> 1         
+            )
+            UNION ALL
+            (
+            SELECT  count(ansp.id) as anzahl FROM adresse a INNER JOIN ansprechpartner ansp ON a.id = ansp.adresse WHERE a.geloescht <> 1 AND ansp.mobil <> ''  AND ansp.geloescht <> 1         
+            )
+            
+          ) a  
+            ";
+      break;
+
+    }
+
+    $erg = false;
+
+    foreach($erlaubtevars as $k => $v)
+    {
+      if(isset($$v))$erg[$v] = $$v;
+    }
+    return $erg;
+  }
+
+
+  
+  function __construct(&$app, $intern = false)
+  {
+    $this->app=&$app;
+    if($intern)return;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("list","PlacetelList");
+    $this->app->ActionHandler("call","PlacetelCall");
+    $this->app->ActionHandler("einstellungen","PlacetelEinstellungen");
+
+    $this->app->DefaultActionHandler("list");
+
+    $this->app->ActionHandlerListen($app);
+  }
+
+  function PlacetelList()
+  {
+    $telefon = $this->app->Secure->GetPOST("telefon");
+    if($telefon!="")
+    {
+      $this->PlacetelCall($telefon);
+      $this->app->Tpl->Set("TELEFON",$telefon);
+    }
+
+
+    $this->app->YUI->TableSearch('TELEFONBUCH','placetel_list', "show","","",basename(__FILE__), __CLASS__);
+
+    $this->PlacetelMenu();
+    $this->app->Tpl->Parse('PAGE',"placetel_list.tpl");
+  }
+
+  function PlacetelEinstellungen()
+  {
+    $this->app->YUI->AutoSaveKonfiguration("apikey","placetel_list_apikey");
+    $this->app->YUI->AutoSaveKonfiguration("accounts","placetel_list_accounts");
+    $this->app->YUI->AutoSaveKonfiguration("sharedsecret","placetel_shared_secret");
+
+    $apikey = $this->app->erp->GetKonfiguration("placetel_list_apikey");
+    $accounts = $this->app->erp->GetKonfiguration("placetel_list_accounts");
+    $sharedSecret = $this->app->erp->GetKonfiguration("placetel_shared_secret");
+
+    $this->app->Tpl->Set('APIKEY',$apikey);
+    $this->app->Tpl->Set('ACCOUNTS',$accounts);
+    $this->app->Tpl->Set('SHAREDSECRET',$sharedSecret);
+
+    if($apikey!="")
+    {
+      $result = json_decode($this->PlacetelAPI("getVoIPUsers"),true);
+      for($i=0;$i<count($result);$i++)
+      {
+        $this->app->Tpl->Add(ACCOUNTROW,"<tr><td>".$result[$i]['name']."</td><td>".$result[$i]['stype']."</td><td>".$result[$i]['uid']."</td></tr>");
+      }
+      //print_r($this->PlacetelAPI("test"));
+    }
+
+    $this->PlacetelMenu();
+    $this->app->Tpl->Parse('PAGE',"placetel_einstellungen.tpl");
+  }
+
+  function PlacetelMenu()
+  {
+    $this->app->erp->MenuEintrag("index.php?module=placetel&action=list","&Uuml;bersicht");
+    $this->app->erp->MenuEintrag("index.php?module=placetel&action=einstellungen","Einstellungen");
+  }
+
+
+  function PlacetelAPI($request,$fields=array())
+  {
+    $apikey = $this->app->erp->GetKonfiguration("placetel_list_apikey");
+    $fields['api_key']=$apikey;
+
+    //url-ify the data for the POST
+    foreach($fields as $key=>$value) { $fields_string .= $key.'='.$value.'&'; }
+    rtrim($fields_string, '&');
+
+    $curl = curl_init();
+    // Set some options - we are passing in a useragent too here
+    curl_setopt_array($curl, array(
+      CURLOPT_RETURNTRANSFER => 1,
+      CURLOPT_POST => count($fields),
+      CURLOPT_POSTFIELDS => $fields_string,
+      CURLOPT_URL => 'https://api.placetel.de/api/'.$request.'.json',
+      CURLOPT_USERAGENT => 'Codular Sample cURL Request'
+    ));
+      //CURLOPT_URL => 'https://api.placetel.de/api/".$request.".json?sipuid='.$fields['sipuid'],
+    // Send the request & save response to $resp
+    $resp = curl_exec($curl);   // Close request to clear up some resources
+    curl_close($curl);
+    return $resp;
+  }
+
+  function PlacetelCall($target="")
+  {
+    
+    $internal=false;
+    if($target=="")
+      $target=$this->app->Secure->GetGET("target");
+    else $internal=true;
+
+    if(!$target)
+    {
+      $ida = explode('-',$this->app->Secure->GetGET('id'));
+      if(count($ida) == 2)
+      {
+        $id = (int)$ida[1];
+        switch($ida[0])
+        {
+          case '1':
+            $target = $this->app->DB->Select("SELECT telefon FROM adresse WHERE id = '$id' LIMIT 1");
+          break;
+          case '2':
+            $target = $this->app->DB->Select("SELECT mobil FROM adresse WHERE id = '$id' LIMIT 1");
+          break;
+          case '3':
+            $target = $this->app->DB->Select("SELECT telefon FROM ansprechpartner WHERE id = '$id' LIMIT 1");
+          break;
+          case '4':
+            $target = $this->app->DB->Select("SELECT mobil FROM ansprechpartner WHERE id = '$id' LIMIT 1");
+          break;
+        }
+      }
+    }
+
+    // ersetzt ein führendes Plust durch 00
+    $target = preg_replace('/\A\+/', '00', $target);
+    // entfernt Nicht-Ziffern
+    $target = preg_replace('/[^0-9]+/', '', $target); 
+
+    // telefon im format 004908125 dann 0 entfernen
+    if(substr($target,0,2)=="00" && substr($target,4,1)=="0")
+    {
+      $target = substr($target,0,4).substr($target,4+1);
+    }
+
+    $username = $this->app->User->GetUsername();
+    $accounts = $this->app->erp->GetKonfiguration("placetel_list_accounts");
+  
+    $tmp = explode(PHP_EOL,trim($accounts));
+
+    for($i=0;$i<count($tmp);$i++)
+    {
+      $subtmp = explode(':',trim($tmp[$i]));
+
+      if(count($subtmp)>0)
+      {
+        $subtmp[0] = trim($subtmp[0]);
+        $subtmp[1] = trim($subtmp[1]);
+
+        if($subtmp[0]==$username)
+        {
+          $sipuid = $subtmp[1];
+          break;
+        } 
+      }
+    }
+
+    $fields['target']= $target;
+    $fields['sipuid']= $sipuid;
+
+    
+    if($target)$this->PlacetelAPI("initiateCall",$fields);
+
+    if($internal) return;
+    else 
+    {
+      echo json_encode(true);
+      exit;
+    }
+  }
+
+}
+
+?>

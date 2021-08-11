@@ -1,79 +1,82 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php
+include ("_gen/adresse_typ.php");
+
+class Adresse_typ extends GenAdresse_typ {
+  var $app;
+  
+  function __construct(&$app) {
+    //parent::GenAdresse_typ($app);
+    $this->app=&$app;
+
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","Adresse_typCreate");
+    $this->app->ActionHandler("edit","Adresse_typEdit");
+    $this->app->ActionHandler("list","Adresse_typList");
+    $this->app->ActionHandler("delete","Adresse_typDelete");
+
+    $this->app->erp->Headlines('Adresse Typ');
+
+    $this->app->ActionHandlerListen($app);
+  }
+
+
+  function Adresse_typCreate()
+  {
+    $this->Adresse_typMenu();
+    parent::Adresse_typCreate();
+  }
+
+  function Adresse_typList()
+  {
+    $this->Adresse_typMenu();
+    parent::Adresse_typList();
+  }
+
+  function Adresse_typMenu()
+  {
+    $id = $this->app->Secure->GetGET("id");
+    $this->app->erp->MenuEintrag("index.php?module=adresse_typ&action=create","Neue Versandart anlegen");
+    if($this->app->Secure->GetGET("action")=="list")
+    {
+      $this->app->erp->MenuEintrag("index.php?module=adresse_typ&action=list","&Uuml;bersicht");
+      $this->app->erp->MenuEintrag("index.php?module=einstellungen&action=list","Zur&uuml;ck zur &Uuml;bersicht");
+    }
+    else if($this->app->Secure->GetGET("action")=="edit")
+      $this->app->erp->MenuEintrag("index.php?module=adresse_typ&action=edit&id=$id","Details");
+    else
+      $this->app->erp->MenuEintrag("index.php?module=adresse_typ&action=list","Zur&uuml;ck zur &Uuml;bersicht");
+  }
+
+
+
+  function Adresse_typEdit()
+  {
+    $this->Adresse_typMenu();
+    parent::Adresse_typEdit();
+  }
+
+  function Adresse_typDelete()
+  {
+    $id = $this->app->Secure->GetGET("id");
+
+    $msg = $this->app->erp->base64_url_encode("<div class=\"info\">Die Versandart wurde gel&ouml;scht!</div>");
+    $this->app->DB->Update("DELETE FROM adresse_typ WHERE id='$id' LIMIT 1");
+
+    header("Location: index.php?module=adresse_typ&action=list&msg=$msg");  
+    exit;
+  } 
+
+
+
+}
+

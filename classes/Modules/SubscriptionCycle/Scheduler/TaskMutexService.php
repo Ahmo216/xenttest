@@ -1,50 +1,50 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\SubscriptionCycle\Scheduler;
+
+
+use Xentral\Components\Database\Database;
+
+class TaskMutexService implements TaskMutexServiceInterface
+{
+    /** @var Database $db */
+    private $db;
+
+    /**
+     * TaskMutexService constructor.
+     *
+     * @param Database $db
+     */
+    public function __construct(Database $db)
+    {
+        $this->db = $db;
+    }
+
+    /**
+     * @param string $parameter
+     * @param bool   $active
+     */
+    public function setMutex(string $parameter, bool $active = true): void
+    {
+        $this->db->perform(
+            'UPDATE `prozessstarter` SET `mutex` = :mutex, `mutexcounter` = 0, `letzteausfuerhung` = NOW()
+            WHERE `parameter` = :parameter AND `aktiv` = 1',
+            ['mutex' => (int)$active, 'parameter' => $parameter]
+        );
+    }
+
+    /**
+     * @param string $parameter
+     *
+     * @return bool
+     */
+    public function isTaskInstanceRunning(string $parameter): bool
+    {
+        return (int)$this->db->fetchValue(
+                'SELECT COUNT(`id`) FROM `prozessstarter` WHERE `parameter` = :parameter AND `aktiv` = 1 AND `mutex` = 1',
+                ['parameter' => $parameter]
+            ) > 0;
+    }
+}

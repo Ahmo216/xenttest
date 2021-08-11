@@ -1,98 +1,158 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\CarrierSelect\Data;
+
+
+use Iterator;
+
+final class CarrierSelectRuleCollection implements Iterator
+{
+
+    /** @var CarrierSelectRule[] $rules */
+    private $rules = [];
+
+    /** @var int $position */
+    private $position = 0;
+
+    /**
+     * CarrierSelectRuleCollection constructor.
+     *
+     * @param CarrierSelectRule[] $ruleArray
+     */
+    public function __construct($ruleArray = [])
+    {
+        foreach ($ruleArray as $rule) {
+            $this->add($rule);
+        }
+    }
+
+    /**
+     * @param CarrierSelectRule $rule
+     */
+    public function add(CarrierSelectRule $rule): void
+    {
+        $this->rules[] = $rule;
+        $this->sortRules();
+    }
+
+    /**
+     * @param Order      $order
+     * @param array|null $allowedShippingMethods
+     *
+     * @return string|null
+     */
+    public function getMatchingCarrierByOrder(Order $order, ?array $allowedShippingMethods = null): ?string
+    {
+        $rule = $this->tryGetMatchingRuleByOrder($order, $allowedShippingMethods);
+        if ($rule === null) {
+            return null;
+        }
+
+        return $rule->getCarrier();
+    }
+
+    /**
+     * @param Order      $order
+     * @param array|null $allowedShippingMethods
+     *
+     * @return CarrierSelectRule|null
+     */
+    public function tryGetMatchingRuleByOrder(Order $order, ?array $allowedShippingMethods = null): ?CarrierSelectRule
+    {
+        foreach ($this->rules as $rule) {
+            if ($rule->isRuleMatching($order)) {
+                if ($allowedShippingMethods === null || in_array($rule->getCarrier(), $allowedShippingMethods, true)) {
+                    return $rule;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    private function sortRules(): void
+    {
+        if (count($this->rules) <= 1) {
+            return;
+        }
+
+        uasort(
+            $this->rules,
+            static function ($a, $b) {
+                if ($a->getPriority() < $b->getPriority()) {
+                    return -1;
+                }
+                if ($a->getPriority() > $b->getPriority()) {
+                    return 1;
+                }
+
+                $idFromA = $a->getId();
+                $idFromB = $b->getId();
+                if ($idFromA === null && $idFromB === null) {
+                    return 0;
+                }
+                if ($idFromB === null) {
+                    return 1;
+                }
+                if ($idFromA === null) {
+                    return -1;
+                }
+
+                if ($idFromA === $idFromB) {
+                    return 0;
+                }
+
+                return $idFromA < $idFromB ? -1 : 1;
+            }
+        );
+    }
+
+    /**
+     * @return array
+     */
+    public function getRules(): array
+    {
+        $rules = [];
+        foreach ($this->rules as $rule) {
+            $rules[] = CarrierSelectRule::fromDbState($rule->toArray());
+        }
+
+        return $rules;
+    }
+
+    /**
+     * @return CarrierSelectRule
+     */
+    public function current(): CarrierSelectRule
+    {
+        return CarrierSelectRule::fromDbState($this->rules[$this->position]->toArray());
+    }
+
+    public function next(): void
+    {
+        $this->position++;
+    }
+
+    /**
+     * @return int
+     */
+    public function key(): int
+    {
+        return $this->position;
+    }
+
+    /**
+     * @return bool
+     */
+    public function valid(): bool
+    {
+        return isset($this->rules[$this->position]);
+    }
+
+    public function rewind(): void
+    {
+        $this->position = 0;
+    }
+}

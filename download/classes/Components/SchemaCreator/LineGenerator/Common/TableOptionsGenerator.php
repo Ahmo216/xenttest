@@ -1,104 +1,162 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\SchemaCreator\LineGenerator\Common;
+
+use Xentral\Components\Database\Database;
+use Xentral\Components\Database\Exception\EscapingException;
+use Xentral\Components\SchemaCreator\Option\TableOption;
+
+final class TableOptionsGenerator
+{
+    /** @var Database */
+    private $db;
+
+    /** @var string $optionLine */
+    private $optionLine;
+
+    /** @var string[] $defaultParams */
+    protected $defaultParams = [
+        'engine'        => 'InnoDB',
+        'table_charset' => 'utf8',
+        'collation'     => 'utf8_general_ci',
+        'comment'       => null,
+    ];
+
+    /**
+     * @param Database $db
+     */
+    public function __construct(Database $db)
+    {
+        $this->db = $db;
+    }
+
+    /**
+     * @param array $options
+     *
+     * @throws EscapingException
+     *
+     * @return string
+     */
+    public function generate(array $options = []): string
+    {
+        $options = array_merge($this->defaultParams, $options);
+        $this->addEngine($options['engine']);
+
+        if (array_key_exists('table_charset', $options) && !empty($options['table_charset'])) {
+            $this->addCharset($options['table_charset']);
+        }
+
+        if (array_key_exists('collation', $options) && !empty($options['collation'])) {
+            $this->addCollation($options['collation']);
+        }
+
+        if (array_key_exists('comment', $options) && !empty($options['comment'])) {
+            $this->addComment($options['comment']);
+        }
+
+        return $this->optionLine;
+    }
+
+    /**
+     * @param string $engine
+     *
+     * @throws EscapingException
+     *
+     * @return void
+     */
+    private function addEngine(string $engine): void
+    {
+        $this->optionLine = sprintf(' ENGINE=%s', $this->db->escapeString($engine));
+    }
+
+    /**
+     * @param string $charset
+     *
+     * @throws EscapingException
+     *
+     * @return void
+     */
+    private function addCharset(string $charset): void
+    {
+        $this->optionLine .= sprintf(' DEFAULT CHARSET=%s', $this->db->escapeString($charset));
+    }
+
+    /**
+     * @param string $collation
+     *
+     * @throws EscapingException
+     *
+     * @return void
+     */
+    private function addCollation(string $collation): void
+    {
+        $this->optionLine .= sprintf(' DEFAULT COLLATE = %s', $this->db->escapeString($collation));
+    }
+
+    /**
+     * @param string $comment
+     *
+     * @throws EscapingException
+     *
+     * @return void
+     */
+    private function addComment(string $comment): void
+    {
+        $this->optionLine .= sprintf(" COMMENT = %s", $this->db->escapeString($comment));
+    }
+
+    /**
+     * @param string $tableName
+     *
+     * @return array
+     */
+    public function fetchOptionsFromDb(string $tableName): array
+    {
+        $options = $this->db->fetchRow('SHOW TABLE STATUS WHERE Name =:table', ['table' => $tableName]);
+
+        return [
+            'engine'        => array_key_exists('Engine', $options) ? $options['Engine'] : 'InnoDB',
+            'table_charset' => array_key_exists('Charset', $options) ? $options['Charset'] : 'utf8',
+            'collation'     => array_key_exists('Collation', $options) ? $options['Collation'] : 'utf8_general_ci',
+            'comment'       => array_key_exists('Comment', $options) ? $options['Comment'] : '',
+        ];
+    }
+
+    /**
+     * @param TableOption $option
+     * @param string|null $charset
+     *
+     * @throws EscapingException
+     *
+     * @return string
+     */
+    public function alterOptions(TableOption $option, ?string $charset = null): string
+    {
+        switch ($option->getOption()) {
+            case 'comment':
+                $sqlOption = sprintf('COMMENT = %s', $this->db->escapeString($option->getValue()));
+                break;
+            case 'engine':
+                $sqlOption = sprintf('ENGINE = %s', $this->db->escapeString($option->getValue()));
+                break;
+            case 'charset':
+                $sqlOption = sprintf('CONVERT TO CHARACTER SET %s', $this->db->escapeString($option->getValue()));
+                break;
+            case 'collation':
+                $charset = $charset ?? $this->defaultParams['table_charset'];
+                $sqlOption = sprintf(
+                    'CONVERT TO CHARACTER SET %s COLLATE %s',
+                    $this->db->escapeString($charset),
+                    $this->db->escapeString($option->getValue())
+                );
+                break;
+            default:
+                $sqlOption = '';
+        }
+
+        return $sqlOption;
+    }
+
+}

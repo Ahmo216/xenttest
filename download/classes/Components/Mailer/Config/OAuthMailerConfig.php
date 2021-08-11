@@ -1,66 +1,66 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-AwSKtgLW4BuVL0k4
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\Mailer\Config;
+
+use PHPMailer\PHPMailer\PHPMailer;
+use Xentral\Components\Mailer\Exception\MailerConfigException;
+
+final class OAuthMailerConfig extends AbstractMailerConfig
+{
+    /**
+     * @param array $data
+     */
+    public function __construct($data = [])
+    {
+        parent::__construct($this->getDefaults());
+        foreach ($data as $key => $value) {
+            $this->data[$key] = $value;
+        }
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function validate(): void
+    {
+        if (!array_key_exists('sender_email', $this->data) || $this->data['sender_email'] === '') {
+            throw new MailerConfigException('Key "sender_email" is required!');
+        }
+        if (!array_key_exists('host', $this->data) || $this->data['host'] === '') {
+            throw new MailerConfigException('Key "host" is required!');
+        }
+        if (!array_key_exists('smtp_security', $this->data)) {
+            throw new MailerConfigException('Key "smtp_security" is required!');
+        }
+    }
+
+    /**
+     * @return array
+     */
+    private function getDefaults(): array
+    {
+        return [
+            'priority'             => 3,
+            'charset'              => PHPMailer::CHARSET_UTF8,
+            'contenttype'          => 'text/html',
+            'encoding'             => '8bit',
+            'sender_name'          => '',
+            'wordwrap'             => 0,
+            'mailer'               => 'smtp',
+            'hostname'             => '',
+            'port'                 => 25,
+            'helo'                 => '',
+            'timeout'              => 30,
+            'singleto'             => false,
+            'sendmail'             => '/usr/sbin/sendmail',
+            'smtp_enabled'         => true,
+            'smtp_autotls_enabled' => false,
+            'smtp_options'         => [],
+            'smtp_debug'           => 0,
+            'smtp_keepalive'       => false,
+            'auth_type'            => 'XOAUTH2',
+        ];
+    }
+}

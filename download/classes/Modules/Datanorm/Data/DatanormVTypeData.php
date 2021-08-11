@@ -1,126 +1,317 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Datanorm\Data;
+
+final class DatanormVTypeData extends AbstractDatanormTypeData implements DatanormTypeDataInterface
+{
+
+    /** @var string $dataMark */
+    protected $dataMark = '';
+
+    /** @var string $date */
+    protected $date = '';
+
+    /** @var string $currency */
+    protected $currency = '';
+
+    /** @var string $description */
+    protected $description = '';
+
+    /** @var string $producerToken */
+    protected $producerToken = '';
+
+    /** @var string $adress1 */
+    protected $adress1 = '';
+
+    /** @var string $adress2 */
+    protected $adress2 = '';
+
+    /** @var string $adress3 */
+    protected $adress3 = '';
+
+    /** @var string $street */
+    protected $street = '';
+
+    /** @var string $countryId */
+    protected $countryId = '';
+
+    /** @var string $zip */
+    protected $zip = '';
+
+    /** @var string $city */
+    protected $city = '';
+
+    /** @var int $userAddressId */
+    protected $userAddressId;
+
+    /** @var int $supplierAddressId */
+    protected $supplierAddressId;
+
+    /**
+     * @return string
+     */
+    public function getDataMark(): string
+    {
+        return $this->dataMark;
+    }
+
+    /**
+     * @return string
+     */
+    public function getAdress3(): string
+    {
+        return $this->adress3;
+    }
+
+    /**
+     * @return string
+     */
+    public function getProducerToken(): string
+    {
+        return $this->producerToken;
+    }
+
+    /**
+     * @return string
+     */
+    public function getDate(): string
+    {
+        return $this->date;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCurrency(): string
+    {
+        return $this->currency;
+    }
+
+    /**
+     * @return string
+     */
+    public function getDescription(): string
+    {
+        return $this->description;
+    }
+
+    /**
+     * @return string
+     */
+    public function getAdress1(): string
+    {
+        return $this->adress1;
+    }
+
+    /**
+     * @return string
+     */
+    public function getAdress2(): string
+    {
+        return $this->adress2;
+    }
+
+    /**
+     * @return string
+     */
+    public function getStreet(): string
+    {
+        return $this->street;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCountryId(): string
+    {
+        return $this->countryId;
+    }
+
+    /**
+     * @return string
+     */
+    public function getZip(): string
+    {
+        return $this->zip;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCity(): string
+    {
+        return $this->city;
+    }
+
+    /**
+     * @return int
+     */
+    public function getUserAddressId(): int
+    {
+        return $this->userAddressId;
+    }
+
+    /**
+     * @return int
+     */
+    public function getSupplierAddressId(): int
+    {
+        return $this->supplierAddressId;
+    }
+
+    /**
+     * @param string $dataMark
+     */
+    public function setDataMark(string $dataMark): void
+    {
+        $this->dataMark = $dataMark;
+    }
+
+    /**
+     * @param string $date
+     */
+    public function setDate(string $date): void
+    {
+        $this->date = $date;
+    }
+
+    /**
+     * @param string $currency
+     */
+    public function setCurrency(string $currency): void
+    {
+        $this->currency = $currency;
+    }
+
+    /**
+     * @param string $description
+     */
+    public function setDescription(string $description): void
+    {
+        $this->description = $description;
+    }
+
+    /**
+     * @param string $adress1
+     */
+    public function setAdress1(string $adress1): void
+    {
+        $this->adress1 = $adress1;
+    }
+
+    /**
+     * @param string $adress2
+     */
+    public function setAdress2(string $adress2): void
+    {
+        $this->adress2 = $adress2;
+    }
+
+    /**
+     * @param string $street
+     */
+    public function setStreet(string $street): void
+    {
+        $this->street = $street;
+    }
+
+    /**
+     * @param string $countryId
+     */
+    public function setCountryId(string $countryId): void
+    {
+        $this->countryId = $countryId;
+    }
+
+    /**
+     * @param string $zip
+     */
+    public function setZip(string $zip): void
+    {
+        $this->zip = $zip;
+    }
+
+    /**
+     * @param string $city
+     */
+    public function setCity(string $city): void
+    {
+        $this->city = $city;
+    }
+
+    /**
+     * @param string $producerToken
+     */
+    public function setProducerToken(string $producerToken): void
+    {
+        $this->producerToken = $producerToken;
+    }
+
+    /**
+     * @param string $adress3
+     */
+    public function setAdress3(string $adress3): void
+    {
+        $this->adress3 = $adress3;
+    }
+
+    /**
+     * @param int $userAddressId
+     */
+    public function setUserAddressId(int $userAddressId): void
+    {
+        $this->userAddressId = $userAddressId;
+    }
+
+    /**
+     * @param int $supplierAddressId
+     */
+    public function setSupplierAddressId(int $supplierAddressId): void
+    {
+        $this->supplierAddressId = $supplierAddressId;
+    }
+
+    /**
+     * @return array
+     */
+    public function jsonSerialize(): array
+    {
+        return [
+            'dataMark'      => $this->dataMark,
+            'date'          => $this->date,
+            'currency'      => $this->currency,
+            'description'   => $this->description,
+            'adress1'       => $this->adress1,
+            'adress2'       => $this->adress2,
+            'adress3'       => $this->adress3,
+            'street'        => $this->street,
+            'countryId'     => $this->countryId,
+            'zip'           => $this->zip,
+            'city'          => $this->city,
+            'producerToken' => $this->producerToken,
+        ];
+    }
+
+    /**
+     * @param string $data
+     */
+    public function fillByJson(string $data): void
+    {
+        $obj = json_decode($data);
+
+        $this->dataMark = $obj->dataMark;
+        $this->date = $obj->date;
+        $this->currency = $obj->currency;
+        $this->description = $obj->description;
+        $this->adress1 = $obj->adress1;
+        $this->adress2 = $obj->adress2;
+        $this->adress3 = $obj->adress3;
+        $this->street = $obj->street;
+        $this->countryId = $obj->countryId;
+        $this->zip = $obj->zip;
+        $this->city = $obj->city;
+        $this->producerToken = $obj->producerToken;
+    }
+}

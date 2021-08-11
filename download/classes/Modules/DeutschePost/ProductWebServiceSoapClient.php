@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Xentral\Modules\DeutschePost;
 
+use Illuminate\Support\Facades\Log;
 use SimpleXMLElement;
 use SoapClient;
 use SoapFault;
@@ -13,7 +14,7 @@ use SoapVar;
 class ProductWebServiceSoapClient extends SoapClient
 {
     /** @var string */
-    const SOAP_ENDPOINT = 'https://prodws.deutschepost.de:8443/ProdWSProvider_1_1/prodws?wsdl';
+    const SOAP_ENDPOINT = 'https://prodws.deutschepost.de/ProdWSProvider_1_1/prodws?wsdl';
 
     /** @var string */
     private $mandantId;
@@ -26,7 +27,11 @@ class ProductWebServiceSoapClient extends SoapClient
 
     public function __construct(array $options, string $mandantId, string $username, string $password)
     {
-        parent::__construct(self::SOAP_ENDPOINT, $options);
+        try {
+            parent::__construct(self::SOAP_ENDPOINT, $options);
+        } catch (SoapFault $exception){
+            Log::error('Error while instantiating ' . __CLASS__ . " with message: {$exception->getMessage()}");
+        }
 
         $this->mandantId = $mandantId;
         $this->username = $username;

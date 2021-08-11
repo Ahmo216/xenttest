@@ -1,108 +1,169 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Util;
+
+use Xentral\Components\Util\Exception\InvalidArgumentException;
+
+final class ColorUtil
+{
+    /**
+     * @example '#369' or '#336699' => array('r' => 51, 'g' => 102, 'b' => 153)
+     *
+     * @param string $hexColor
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return array ['r' => {$red}, 'g' => {$green}, 'b' => {$blue}]
+     */
+    public static function convertHexToRgb($hexColor)
+    {
+        self::ensureHexColorFormat($hexColor);
+
+        $hexColor = self::normalizeHexColor($hexColor);
+        $hexColor = str_replace('#', '', $hexColor);
+
+        $colorParts = str_split($hexColor, 2);
+        $red = (int)hexdec($colorParts[0]);
+        $green = (int)hexdec($colorParts[1]);
+        $blue = (int)hexdec($colorParts[2]);
+
+        return ['r' => $red, 'g' => $green, 'b' => $blue];
+    }
+
+    /**
+     * @param int $red [0-255]
+     * @param int $green [0-255]
+     * @param int $blue [0-255]
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return string
+     */
+    public static function convertRgbToHex($red, $green, $blue)
+    {
+        if ($red < 0 || $red > 255) {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid value for color red "%s". Color values must be between 0 and 255.', $red
+            ));
+        }
+        if ($green < 0 || $green > 255) {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid value for color green "%s". Color values must be between 0 and 255.', $green
+            ));
+        }
+        if ($blue < 0 || $blue > 255) {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid value for color blue "%s". Color values must be between 0 and 255.', $blue
+            ));
+        }
+
+        $rHex = StringUtil::padLeft(dechex($red), 2, '0');
+        $gHex = StringUtil::padLeft(dechex($green), 2, '0');
+        $bHex = StringUtil::padLeft(dechex($blue), 2, '0');
+        $hexColor = '#' . strtoupper($rHex . $gHex . $bHex);
+        self::ensureHexColorFormat($hexColor);
+
+        return $hexColor;
+    }
+
+    /**
+     * Normalizes hex colors
+     *
+     * - Transforms shorthand hexcolors (e.g. #369) into long hexcolor format (#336699)
+     * - Long hexcolor format (#336699) will be unchanged
+     *
+     * @param string $hexColor
+     *
+     * @return string
+     */
+    public static function normalizeHexColor($hexColor)
+    {
+        self::ensureHexColorFormat($hexColor);
+
+        $hexColor = str_replace('#', '', $hexColor);
+
+        if (strlen($hexColor) === 3) {
+            $red = !empty($hexColor[0]) ? $hexColor[0] : '0';
+            $green = !empty($hexColor[1]) ? $hexColor[1] : '0';
+            $blue = !empty($hexColor[2]) ? $hexColor[2] : '0';
+
+            $hexColor = $red . $red . $green . $green . $blue . $blue;
+        }
+
+        return '#' . $hexColor;
+    }
+
+    /**
+     * Calculates the brightness level (YIQ formula); is the given color more darker or lighter?
+     *
+     * Result 'dark' means: The given color is more darker than light. When using the given color as
+     * a background color, then use a light text color for better contrast (and vice versa).
+     *
+     * @param int $red   [0-255]
+     * @param int $green [0-255]
+     * @param int $blue  [0-255]
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return string [dark|light]
+     */
+    public static function calculateBrightnessLevel($red, $green, $blue)
+    {
+        if ($red < 0 || $red > 255) {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid value for color red "%s". Color values must be between 0 and 255.', $red
+            ));
+        }
+        if ($green < 0 || $green > 255) {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid value for color green "%s". Color values must be between 0 and 255.', $green
+            ));
+        }
+        if ($blue < 0 || $blue > 255) {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid value for color blue "%s". Color values must be between 0 and 255.', $blue
+            ));
+        }
+
+        /** @see http://dannyruchtie.com/color-contrast-calculator-with-yiq/ */
+        $yiqValue = ($red * 299 + $green * 587 + $blue * 114) / 1000;
+
+        return $yiqValue >= 128 ? 'light' : 'dark';
+    }
+
+    /**
+     * @param string $hexColor
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return void
+     */
+    private static function ensureHexColorFormat($hexColor)
+    {
+        if (strpos($hexColor, '#') !== 0) {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid format for hex color "%s". Hex color must start with hash char (#).',
+                $hexColor
+            ));
+        }
+
+        $hexString = substr_replace($hexColor, '', 0, 1);
+        $hexCleaned = preg_replace('/[^0-9A-Fa-f]/', '', $hexString);
+        if ($hexString !== $hexCleaned) {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid format for hex color "%s". Hex color contains invalid chars. ' .
+                'Valid chars are: A-F, a-f and 0-9.',
+                $hexColor
+            ));
+        }
+
+        $hexColorLength = strlen($hexColor);
+        if ($hexColorLength !== 4 && $hexColorLength !== 7) {
+            throw new InvalidArgumentException(sprintf(
+                'Invalid format for hex color "%s". Hex color must be four or seven chars long; ' .
+                'with leading hash char (#).',
+                $hexColor
+            ));
+        }
+    }
+}

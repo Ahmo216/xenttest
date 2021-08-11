@@ -1,35 +1,22 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-8GagqYzRlFAPr9bAbuPCbRnkah1Zvhi5
+<?php
+
+namespace Xentral\Modules\Api\Validator\Rule;
+
+use Rakit\Validation\Rule;
+
+class NotPresentRule extends Rule
+{
+    /** @var bool $implicit */
+    protected $implicit = true;
+
+    /** @var string $message */
+    protected $message = 'The attribute \':attribute\' is not allowed.';
+
+    /**
+     * @param mixed $value
+     */
+    public function check($value)
+    {
+        return !$this->validation->hasValue($this->attribute->getKey());
+    }
+}

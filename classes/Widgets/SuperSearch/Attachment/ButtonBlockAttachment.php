@@ -1,43 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPr2l6jnRSFzQ4sKUZ/z5Rs2ZDasB+uu8zzBAzTo6JVy/5zMttjBmYA+whnEM58kXhzFy8bW2
-6puiK8vDcGTm9wb7NcL8jwBPhtcDtjbqHs3N/jyk/LC4Stl6uuSIOkswq42HmkZElF8AXdz1ttyO
-c8bvrK3EziyDd798fPVQA91L0b3jtZNP5TL6K3HpQk7f6mS2jPGuuzl9RO3BkGYXfkAkMsoPy9cp
-Q0vGJ3VPRRRceOzW44R/SmKvMqubSHNGHrVdLK2m5nbDU8PCtFTcS5+momT1hXloS7QmUCASCUU7
-5zMiry8KX7DlgRPzab2Hq9Ub+DinmsqidHwx7rwo9Cl5bLPQrAqDA1K+lxk/dIXGJqaSvCyqabGt
-2YOcZqg7yI71xUGG2YIXYif2TFzUWI/FLD+hLbAvbBZbJkGKl+6x3/tizitKHPVnN0jDjM8Iy9fk
-CjUaQ88LDcm8X/rwir1z06vLGMXtHTlSpW17hMEGhwYaLRb963vN2i8onX9P77JrdtuZlyQTVDNn
-Vj6vp66+NVTVGBzHoZKQrAhlvzuRcLIz/nh/mlYF6s+RfohzEma50xC6xk5XbzOtaYpwiEERh1t+
-pP8HdrPVakCYMZ6YMMdVYL7yev7aZ4BGmZ1JnWsQp3/6x8pP/ww2TcCQJAm5D7dEnebD2MevJ2uf
-xTtW53bWovbsK0etQ4UI4CtYkfJuZ7+B5J6W1q+/EIuHkWXSM+G4Jnue4japlnKS4Qg8HyMkAP30
-9bL/0fIxi13Cd79e4y6XdmULWtootRLwT4vNGFoD6co87JP6vnmWTuCFxta1rk3/zY9oWafznvEU
-/KfCO0rYEdBnLG3+UIsoPOiBsP9lamVQdNLlxyou1g9O7dV+WO0nvd9lcfCIeYXeRfQWL9AnGdJN
-MtADZHFUPojxYmJk0QjX93da3koIUEZdQGctGfcecaVDV0XkhTs89DlPVcL/hUxEWP53Y4BVGxlt
-oMeMXD4Mpse6jRVb7EUDnW650vLADt/wAHttnIb7CK0koeteVIINiM1XokZYl8Uu6pAeUiI66BxT
-qls3TM4iZPTRpyPpitwTXGh/ezdzACyIAxrjC1rnDM5yU3ie/LOVp3YVNgj6M3I/R1aP9uDK+8qX
-WOm4/cWjtvQWEIfNBLK/WMvk417omLpuMBm4QuNiHqZ9ijYgf05f7jwO/AozJdK7vJ0XHiSzyx82
-e7aCXV2Q/hbB5x5rGu+czNLHtyMNHyjl7Lk33RoTl5wDyQlOGSXRuj4/3tAsSATaIOrSvy1m3a/Z
-JqFNueCaczb82Bda47Uj5+Mmt9/LlAbwKgQx++trkBZ0D0AN1Zgc5AxbTI9UMrSkor7UJuvrl/eU
-44vwAHHxfEyZdZz2L348VPIVXQoMUG3A6Gdo6Qn3+ooXoQF7SPOxltsUNordIznKWdMU5z6UyNQh
-zas8R+VqpzT0mYSc8LEYTf9zCPD5TcZsCg8SMZFa7ncUJC3q9/8WjlA/TGKoSaAjq/ogwr2cMZAE
-ZvP10UdE5rrIKvdudKIvZMXgeTcHUOmIpVtU4TwDbsKBwEMEX8MV3CP3qjOepQAm7Uq4A1Ia0jyQ
-KJ+9VG6If2fk3S8pgyn/9BUgS02Z+vEtFelCXYKz8fO87GfQ7l5A4KhaCgcrRqt+Q7vEzzkk59Ta
-MlwwDHJ781Rtnq7BPhasFggvljydtWfAmeogLpRuC29D+v8mDHyDTvYMUaGLraGh5UxRAnCtrOCA
-3htV3Pd1NLIF3KWNQzNuNbY+JFxyxYKuNG8ZRsvKYvzMGN1iPkfmmrxb9lj9Ms4tJSUZZKq3f4Ou
-iII/y9tqdtQzwlBNPxV0oT9lA9+R2sbRt7vlSZZ0w9kpyyOZ1Sqa6NDbFHuBYD7BWbTG/vOcMrqu
-Gih/x3+TTE+e2p2rlstvXhiBQXp0mE9btemE9fZzUMLDqGn+WQwxhG3q1OJTb7F6CXY5+A2retrs
-l0R8aFcHF+OBMMs1c8I02hAaWKFOniZRIcrlox0UkYdbuqh7/+va3IOQuy7soQzUtAjBjHwJew10
-VsRKcpFHB93SKfIgBkEQv+GQ74puhK4m8lk7oIIU2pdkNZGEJGWoS1KPgbklSDTCdsgmtDGuvpF8
-92WexONXdY5cA6UY16acdPAcOWOx1aNjHgRYyqJKoFjOdoGG4S6Z0Q4LqWIvGk1fPpudUHLewE70
-7r6hjDA8sc+ZSwQaT9EB5QzA/BN3q01c0pkC2/m5g892FKz2fYy79fX/7orCh+VITBexOWVckzaJ
-gtqKkp22DwWq7ibBnbD2JGjn+50L/OQH/BNpdKHsr7oixU4X/g7cbtC2ce1/WCoN8hYv+24MOzS/
-0NVMXnu3N7gpKZtGXdpqazIIjEnIhH47jIYKkAGopqOB75l6N3F+Hhjov/jurgGEdVro7iJr7gJW
-vW2I5yqjmGa2TGr4fczQU4VrSDkMecvoViVw7dnvfw+NOOTPth2NJNs0341q8bGW6w/ylreBPQRF
-KBOfaeriPVM9rklK9PP54SK6f+euXIJgXDLgARHKsXL0nBqzOBlxCXBTuztUwo45pCN4Z6vXUN4v
-iZMG5psPMz2HmX5GTFuNphuWgfnU2cbwY3vsu1jvUlgG1TslsHYQuRr2ws+xSXZvl8wnORzUX2CP
-MjMzTtOWKFReUDQ60Aq8IROEkCqCtAeR5sTUdxFQj21h67ECkEWW/1o+MS2jLJKaUd6nCs4SWMnD
-OsJ7eAE1YqH4Sptnl8qsD0Q4PWXrWv+CTLOdIRC0NzKYmssCDJh6wLwQuR0nrW4TpBoP6HHZIm1e
-SEpauw5+38qUWQ0Q8XAHKufU2A0HSoCgjDsd5daZdjyv9ElFwDFTqdwiW/Qn7lAhwCH99dBWsaRP
-bOhpjZumQbSevePmJ2oprLYJkHl4kuddOIvkIeVV9tSYrX9f+RQmmKOiFPKJs1u3//G6JDL2YtGr
-VFTK55AtHMi5Y8CvL6Hj2J3OSTCv80Mx1hu3QW==
+<?php
+
+namespace Xentral\Widgets\SuperSearch\Attachment;
+
+final class ButtonBlockAttachment extends AbstractAttachment
+{
+    /** @var array $buttons */
+    private $buttons = [];
+
+    /**
+     * @inheritDoc
+     */
+    public function getType()
+    {
+        return self::TYPE_BUTTON_BLOCK;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getData()
+    {
+        return $this->buttons;
+    }
+
+    /**
+     * @todo Attribute validieren
+     *
+     * @param string $title
+     * @param array  $attributes
+     *
+     * @return void
+     */
+    public function addButton($title, array $attributes = [])
+    {
+        $this->buttons[] = [
+            'title'      => (string)$title,
+            'attributes' => !empty($attributes) ? $attributes : null,
+        ];
+    }
+}

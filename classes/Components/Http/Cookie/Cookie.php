@@ -1,150 +1,321 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Http\Cookie;
+
+use DateTime;
+use DateTimeInterface;
+use Exception;
+use Xentral\Components\Http\Exception\InvalidArgumentException;
+use Xentral\Components\Util\StringUtil;
+
+class Cookie
+{
+    /** @var string SAMESITE_LAX */
+    const SAMESITE_LAX = 'Lax';
+
+    /** @var string SAMESITE_STRICT */
+    const SAMESITE_STRICT = 'Strict';
+
+    /** @var string SAMESITE_NONE */
+    const SAMESITE_NONE = '';
+
+    /** @var string $name */
+    private $name;
+
+    /** @var string $value */
+    private $value;
+
+    /** @var DateTime $expire */
+    private $expire;
+
+    /** @var string $path */
+    private $path;
+
+    /** @var string $domain */
+    private $domain;
+
+    /** @var bool $secure */
+    private $secure;
+
+    /** @var bool $httpOnly */
+    private $httpOnly;
+
+    /** @var string $sameSite */
+    private $sameSite;
+
+    /**
+     * @param string $name
+     * @param string $value
+     * @param int    $timeToLive
+     * @param string $path
+     * @param string $domain
+     * @param bool   $secure
+     * @param bool   $httpOnly
+     * @param string $sameSite
+     */
+    public function __construct(
+        $name,
+        $value,
+        $timeToLive = 0,
+        $path = '/',
+        $domain = '',
+        $secure = true,
+        $httpOnly = true,
+        $sameSite = self::SAMESITE_STRICT
+    ) {
+        if (!$this->isValidCookieName($name)) {
+            throw new InvalidArgumentException('Invalid Cookie name.');
+        }
+        if (!$this->isValidCookieValue($value)) {
+            throw new InvalidArgumentException('Invalid Cookie value.');
+        }
+        $this->name = $name;
+        $this->value = $value;
+        $this->setTimeToLive($timeToLive);
+        $this->setPath($path);
+        $this->setDomain($domain);
+        $this->secure = $secure;
+        $this->httpOnly = $httpOnly;
+        $this->setSameSite($sameSite);
+    }
+
+    /**
+     * Returns string representation of cookie to be sent in Http response
+     *
+     * @return string
+     */
+    public function toHttpHeader()
+    {
+        $header = sprintf('Set-Cookie: %s=%s', $this->name, $this->value);
+        if ($this->expire !== null) {
+            $header .= sprintf('; Expires=%s',
+                gmdate(DateTimeInterface::RFC7231, $this->expire->getTimestamp()));
+        }
+        if ($this->path !== '') {
+            $header .= sprintf('; Path=%s', $this->path);
+        }
+        if ($this->domain !== '') {
+            $header .= sprintf('; Domain=%s', $this->domain);
+        }
+        if ($this->isSecure()) {
+            $header .= '; Secure';
+        }
+        if ($this->isHttpOnly()) {
+            $header .= '; HttpOnly';
+        }
+        if (in_array($this->sameSite, [self::SAMESITE_LAX, self::SAMESITE_STRICT], true)) {
+            $header .= sprintf('; SameSite=%s', $this->sameSite);
+        }
+
+        return StringUtil::toAscii($header);
+    }
+
+    /**
+     * Sets cookie expiry time to current time
+     *
+     * The client will delete this cookie.
+     *
+     * @return void
+     */
+    public function expireNow()
+    {
+        $this->setTimeToLive(-1);
+    }
+
+    /**
+     * @return string
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
+
+    /**
+     * @return string
+     */
+    public function getValue()
+    {
+        return $this->value;
+    }
+
+    /**
+     * @return DateTime
+     */
+    public function getExpire()
+    {
+        return $this->expire;
+    }
+
+    /**
+     * Sets date and time of expiration of the cookie
+     *
+     * @param DateTimeInterface $expirationDate
+     *
+     * @return void
+     */
+    public function setExpirationDate(DateTimeInterface $expirationDate)
+    {
+        try {
+            $this->expire = new DateTime($expirationDate->format(DateTimeInterface::RFC7231));
+        } catch (Exception $e) {
+            $this->expire = null;
+            throw new InvalidArgumentException($e->getMessage());
+        }
+    }
+
+    /**
+     * Sets date and time of expiration based on specific time to live
+     *
+     * @param int $timeToLive in seconds
+     *
+     * @return void
+     */
+    public function setTimeToLive($timeToLive)
+    {
+        if ($timeToLive === 0) {
+            $this->expire = null;
+        } else {
+            try {
+                $this->expire = new DateTime();
+                $time = time() + $timeToLive;
+                $this->expire->setTimestamp($time);
+            } catch (Exception $e) {
+                $this->expire = null;
+                throw new InvalidArgumentException($e->getMessage());
+            }
+        }
+    }
+
+    /**
+     * @return string
+     */
+    public function getPath()
+    {
+        return $this->path;
+    }
+
+    /**
+     * @param string $path
+     */
+    public function setPath($path)
+    {
+        if ($path === '' || $this->isValidCookieValue($path)) {
+            $this->path = $path;
+        } else {
+            throw new InvalidArgumentException('Invalid path value.');
+        }
+
+    }
+
+    /**
+     * @return string
+     */
+    public function getDomain()
+    {
+        return $this->domain;
+    }
+
+    /**
+     * @param string $domain
+     */
+    public function setDomain($domain)
+    {
+        if ($domain === '' || $this->isValidCookieValue($domain)) {
+            $this->domain = $domain;
+        } else {
+            throw new InvalidArgumentException('Invalid domain value.');
+        }
+    }
+
+    /**
+     * @return bool
+     */
+    public function isSecure()
+    {
+        return $this->secure;
+    }
+
+    /**
+     * Sets the Http secure flag
+     *
+     * @param bool $secure true=cookie will only be sent over secure connection
+     */
+    public function setSecure($secure)
+    {
+        $this->secure = $secure;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isHttpOnly()
+    {
+        return $this->httpOnly;
+    }
+
+    /**
+     * Sets the HttpOnly flag
+     *
+     * @param bool $httpOnly true=cookie will only be sent in http responses
+     */
+    public function setHttpOnly($httpOnly)
+    {
+        $this->httpOnly = $httpOnly;
+    }
+
+    /**
+     * @return string
+     */
+    public function getSameSite()
+    {
+        return $this->sameSite;
+    }
+
+    /**
+     * Sets the sameSite token
+     *
+     *Values:
+     *  'lax':      cookie can be sent cross-site for top-level navigation and GET, HEAD, OPTIONS and TRACE requests
+     *  'strict':   cookie can never be sent cross-site
+     *  '':         disable the sameSite token
+     *
+     * @param string $sameSite values: 'lax'|'scrict'|'none'
+     *
+     * @return void
+     */
+    public function setSameSite($sameSite)
+    {
+        if (!in_array($sameSite, [self::SAMESITE_LAX, self::SAMESITE_STRICT, self::SAMESITE_NONE], true)) {
+            throw new InvalidArgumentException('Invalid "samesite" attribute.');
+        }
+        $this->sameSite = $sameSite;
+    }
+
+    /**
+     * @return string
+     */
+    public function __toString()
+    {
+        return $this->toHttpHeader();
+    }
+
+    /**
+     * @param $name
+     *
+     * @return bool
+     */
+    protected function isValidCookieName($name)
+    {
+        return (bool)preg_match('/^[a-zA-Z0-9\\\\!#$%&\'*+.\-^_`|~]+$/', $name);
+    }
+
+    /**
+     * @param $value
+     *
+     * @return bool
+     */
+    protected function isValidCookieValue($value)
+    {
+        return (bool)preg_match('/^"?[a-zA-Z0-9\\\\!#$%&\'()*+\-.\/:<=>?@\[\]^_`{|}~]+"?$/', $value);
+    }
+}

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://xml.datev.de/DD/DE/bedi/tps/invoice/v050">
-	<xsd:simpleType name="p1">
-		<xsd:annotation>
-			<xsd:documentation>Name: Währung ISO-Code 4217</xsd:documentation>
-			<xsd:documentation>English Name: Currency Code ISO 4217</xsd:documentation>
-			<xsd:documentation>
+<xsd:schema targetNamespace="http://xml.datev.de/DD/DE/bedi/tps/invoice/v050" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:simpleType name="p1">
+<xsd:annotation>
+<xsd:documentation>Name: Währung ISO-Code 4217</xsd:documentation>
+<xsd:documentation>English Name: Currency Code ISO 4217</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Gesetzliches Zahlungsmittel eines Landes. ISO 4217 ist die von der Internationalen Organisation für Normung publizierte Norm für Währungs-Abkürzungen, die im internationalen Zahlungsverkehr zur eindeutigen Identifizierung benutzt werden sollen. Es sind die aktuellen und früher gültigen Währungen des DATEV-Währungsrechners enthalten. Währungen, die nicht von einem Einzelstaat oder Staatenbund herausgegeben werden, der durch ein Kürzel klar definiert ist, haben als ersten Buchstaben ein X. Die beiden folgenden Buchstaben geben die Währung an. Dies ist sowohl bei Währungsunionen der Fall, die keinem durch Kürzel definierten Staatenbund zugehörig sind (z. B. der Ostkaribische Dollar (XCD)), als auch bei den IWF-Sonderziehungsrechten (XDR).
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 A country’s statutory legal tender. ISO 4217 embodies the currency abbreviations published by the International Organisation for Standardisation used in international monetary transactions to clearly identify the currency or currencies used. It contains both currently and formerly valid DATEV currency calculator currencies. Each abbreviation comprises three letters. Currencies which are not issued by an individual state or union of countries which is clearly defined by an abbreviation are designated by an initial letter ‘X’. The two subsequent letters then designate the currency itself. This applies both in the case of currency unions not associated with any union of countries designated by an abbreviation (e.g., the East Caribbean dollar (XCD) and also to IMF Special Drawing Rights (XDR).
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Aufzählungstyp) / Value range (Enumeration)
 AED = Vereinigte Arabische Emirate Dirham  = United Arab Emirates Dirham
 AFA = Afghani bis 2002 = Afghani until 2002
@@ -221,67 +221,67 @@ ZMW = Sambia Kwacha = Zambia Kwacha
 ZRN = Zaire bis 1997 = Zairean New Zaire until 1997
 ZWD = Zimbabwe Dollar bis 2008 = Zimbabwe Dollar until 2008
 ZWR = Zimbabwe Dollar = Zimbabwe Dollar</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="3"/>
-			<xsd:pattern value="AED|AFA|AFN|ALL|AMD|ANG|AOA|AON|AOR|ARS|ATS|AUD|AWG|AZM|AZN|BAM|BBD|BDT|BEF|BGL|BGN|BHD|BIF|BMD|BND|BOB|BRL|BSD|BTN|BWP|BYB|BYN|BYR|BZD|CAD|CDF|CHF|CLP|CMG|CNH|CNY|COP|CRC|CSD|CUP|CVE|CYP|CZK|DEM|DJF|DJV|DKK|DOP|DZD|ECS|EEK|EGP|ERN|ESP|ETB|EUR|FIM|FJD|FKP|FRF|GBP|GEL|GHC|GHS|GIP|GMD|GNF|GRD|GTQ|GWP|GYD|HKD|HNL|HRK|HTG|HUF|IDR|IEP|ILS|INR|IQD|IRR|ISK|ITL|JMD|JOD|JPY|KES|KGS|KHR|KMF|KPW|KRW|KWD|KYD|KZT|LAK|LBP|LKR|LRD|LSL|LTL|LUF|LVL|LYD|MAD|MDL|MGA|MGF|MKD|MMK|MNT|MOP|MRO|MRU|MTL|MUR|MVR|MWK|MXN|MYR|MZM|MZN|NAD|NGN|NIO|NLG|NOK|NPR|NZD|OMR|PAB|PEN|PGK|PHP|PKR|PLN|PLZ|PTE|PYG|QAR|ROL|RON|RSD|RUB|RUR|RWF|SAR|SBD|SCR|SDD|SDG|SEK|SGD|SHP|SIT|SKK|SLL|SOS|SRD|SRG|SSP|STD|SVC|SYP|SZL|THB|TJR|TJS|TMM|TMT|TND|TOP|TRL|TRY|TTD|TWD|TZS|UAH|UGX|USD|UYU|UZS|VEB|VEF|VES|VND|VUV|WST|XAF|XCD|XEU|XOF|XPF|YER|YUM|ZAR|ZMK|ZMW|ZRN|ZWD|ZWR"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p2">
-		<xsd:annotation>
-			<xsd:documentation>Name: Beschreibung</xsd:documentation>
-			<xsd:documentation>English Name: Description</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="3" />
+<xsd:pattern value="AED|AFA|AFN|ALL|AMD|ANG|AOA|AON|AOR|ARS|ATS|AUD|AWG|AZM|AZN|BAM|BBD|BDT|BEF|BGL|BGN|BHD|BIF|BMD|BND|BOB|BRL|BSD|BTN|BWP|BYB|BYN|BYR|BZD|CAD|CDF|CHF|CLP|CMG|CNH|CNY|COP|CRC|CSD|CUP|CVE|CYP|CZK|DEM|DJF|DJV|DKK|DOP|DZD|ECS|EEK|EGP|ERN|ESP|ETB|EUR|FIM|FJD|FKP|FRF|GBP|GEL|GHC|GHS|GIP|GMD|GNF|GRD|GTQ|GWP|GYD|HKD|HNL|HRK|HTG|HUF|IDR|IEP|ILS|INR|IQD|IRR|ISK|ITL|JMD|JOD|JPY|KES|KGS|KHR|KMF|KPW|KRW|KWD|KYD|KZT|LAK|LBP|LKR|LRD|LSL|LTL|LUF|LVL|LYD|MAD|MDL|MGA|MGF|MKD|MMK|MNT|MOP|MRO|MRU|MTL|MUR|MVR|MWK|MXN|MYR|MZM|MZN|NAD|NGN|NIO|NLG|NOK|NPR|NZD|OMR|PAB|PEN|PGK|PHP|PKR|PLN|PLZ|PTE|PYG|QAR|ROL|RON|RSD|RUB|RUR|RWF|SAR|SBD|SCR|SDD|SDG|SEK|SGD|SHP|SIT|SKK|SLL|SOS|SRD|SRG|SSP|STD|SVC|SYP|SZL|THB|TJR|TJS|TMM|TMT|TND|TOP|TRL|TRY|TTD|TWD|TZS|UAH|UGX|USD|UYU|UZS|VEB|VEF|VES|VND|VUV|WST|XAF|XCD|XEU|XOF|XPF|YER|YUM|ZAR|ZMK|ZMW|ZRN|ZWD|ZWR" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p2">
+<xsd:annotation>
+<xsd:documentation>Name: Beschreibung</xsd:documentation>
+<xsd:documentation>English Name: Description</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 fixer Wert "DATEV Import invoices"
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Fixer value "DATEV Import invoices"
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Basistyp) / Value range (Extentable enumeration)
 DATEV Import invoices = DATEV Import invoices</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="30"/>
-			<xsd:pattern value="[0-9a-zA-Z\. _]{1,30}"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p3">
-		<xsd:annotation>
-			<xsd:documentation>Name: Version</xsd:documentation>
-			<xsd:documentation>English Name: Version</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="30" />
+<xsd:pattern value="[0-9a-zA-Z\. _]{1,30}" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p3">
+<xsd:annotation>
+<xsd:documentation>Name: Version</xsd:documentation>
+<xsd:documentation>English Name: Version</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Versionsnummer; aktuell 5.0
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Version number; currently 5.0
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Aufzählungstyp) / Value range (Enumeration)
 5.0 = 5.0</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="3"/>
-			<xsd:pattern value="5.0"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p4">
-		<xsd:annotation>
-			<xsd:documentation>Name: Rechnungsart</xsd:documentation>
-			<xsd:documentation>English Name: Invoice Type</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="3" />
+<xsd:pattern value="5.0" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p4">
+<xsd:annotation>
+<xsd:documentation>Name: Rechnungsart</xsd:documentation>
+<xsd:documentation>English Name: Invoice Type</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Identifizierung der Rechnungsart (Rechnung/Gutschrift);
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Identification of invoice type (invoice/credit note)
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Aufzählungstyp) / Value range (Enumeration)
 Abschlagsrechnung = Abschlagsrechnung
 Bargutschrift = Bargutschrift
@@ -292,698 +292,718 @@ Gutschrift/Rechnungskorrektur = Gutschrift/Rechnungskorrektur
 Rechnung = Rechnung
 Rechnungskorrektur = Rechnungskorrektur
 Schlussrechnung = Schlussrechnung</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="30"/>
-			<xsd:pattern value="Abschlagsrechnung|Bargutschrift|Barrechnung|Barrechnungskorrektur|Gutschrift § 14 UStG|Gutschrift/Rechnungskorrektur|Rechnung|Rechnungskorrektur|Schlussrechnung"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p5">
-		<xsd:annotation>
-			<xsd:documentation>Name: Globale Lokationsnummer</xsd:documentation>
-			<xsd:documentation>English Name: Global Location Number</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="30" />
+<xsd:pattern value="Abschlagsrechnung|Bargutschrift|Barrechnung|Barrechnungskorrektur|Gutschrift § 14 UStG|Gutschrift/Rechnungskorrektur|Rechnung|Rechnungskorrektur|Schlussrechnung" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p5">
+<xsd:annotation>
+<xsd:documentation>Name: Globale Lokationsnummer</xsd:documentation>
+<xsd:documentation>English Name: Global Location Number</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 GLN-Angabe (Global Location Number) Beschreibung lt. standardisierter GLN z.B. auf GS1-Homepage;
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 GLN (Global Location Number) description re standardised GLN e.g., on GS1 homepage
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:long">
-			<xsd:totalDigits value="13"/>
-			<xsd:minInclusive value="0000000000000"/>
-			<xsd:maxInclusive value="9999999999998"/>
-			<xsd:pattern value="[\+\-]?(\d{1,13})"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p6">
-		<xsd:annotation>
-			<xsd:documentation>Name: Prozentsatz in Relation zum Maximum 2.2</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:long">
+<xsd:totalDigits value="13" />
+<xsd:minInclusive value="0000000000000" />
+<xsd:maxInclusive value="9999999999998" />
+<xsd:pattern value="[\+\-]?(\d{1,13})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p6">
+<xsd:annotation>
+<xsd:documentation>Name: Prozentsatz in Relation zum Maximum 2.2</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 DER PROZENTSATZ IN RELATION ZUM MAXIMUM IST DER ANTEIL IN PROZENT, DER VOM MAXIMUM (=100) GEGEBEN IST.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Input of a percentage. The percentage states the ratio of a given value (=100) to the value under consideration. value 0.00 not permitted; no prefixed sign permitted
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:decimal">
-			<xsd:totalDigits value="4"/>
-			<xsd:fractionDigits value="2"/>
-			<xsd:minInclusive value="0.00"/>
-			<xsd:maxInclusive value="99.99"/>
-			<xsd:pattern value="[\+\-]?([1-9]\d{0,1}|0)(\.\d{2})"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p7">
-		<xsd:annotation>
-			<xsd:documentation>Name: Betrag</xsd:documentation>
-			<xsd:documentation>English Name: Amount</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="4" />
+<xsd:fractionDigits value="2" />
+<xsd:minInclusive value="0.00" />
+<xsd:maxInclusive value="99.99" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,1}|0)(\.\d{2})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p7">
+<xsd:annotation>
+<xsd:documentation>Name: Betrag</xsd:documentation>
+<xsd:documentation>English Name: Amount</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Betragsfelder für alle Betragseingabemöglichkeiten (z.B. Rechnungsbetrag, Steuerbertrag …); Betrag 0.00 nicht zulässig; Vorzeichen vor Betrag und nur Minus verwenden
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Amount fields for all amount entry options (e.g., invoice amount, tax amount, etc.); amount of 0.00 not permitted; sign before amount and only use minus
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction>
-			<xsd:simpleType>
-				<xsd:union>
-					<xsd:simpleType>
-						<xsd:restriction base="xsd:decimal">
-							<xsd:totalDigits value="12"/>
-							<xsd:fractionDigits value="2"/>
-							<xsd:minInclusive value="0.01"/>
-							<xsd:maxInclusive value="9999999999.99"/>
-							<xsd:pattern value="[\+\-]?([1-9]\d{0,9}|0)(\.\d{2})"/>
-						</xsd:restriction>
-					</xsd:simpleType>
-					<xsd:simpleType>
-						<xsd:restriction base="xsd:decimal">
-							<xsd:totalDigits value="12"/>
-							<xsd:fractionDigits value="2"/>
-							<xsd:minInclusive value="-9999999999.99"/>
-							<xsd:maxInclusive value="-0.01"/>
-							<xsd:pattern value="[\+\-]?([1-9]\d{0,9}|0)(\.\d{2})"/>
-						</xsd:restriction>
-					</xsd:simpleType>
-				</xsd:union>
-			</xsd:simpleType>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p8">
-		<xsd:annotation>
-			<xsd:documentation>Name: Mengenangabe</xsd:documentation>
-			<xsd:documentation>English Name: Quantity entry</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction>
+<xsd:simpleType>
+<xsd:union>
+<xsd:simpleType>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="12" />
+<xsd:fractionDigits value="2" />
+<xsd:minInclusive value="0.01" />
+<xsd:maxInclusive value="9999999999.99" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,9}|0)(\.\d{2})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="12" />
+<xsd:fractionDigits value="2" />
+<xsd:minInclusive value="-9999999999.99" />
+<xsd:maxInclusive value="-0.01" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,9}|0)(\.\d{2})" />
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:union>
+</xsd:simpleType>
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p8">
+<xsd:annotation>
+<xsd:documentation>Name: Mengenangabe</xsd:documentation>
+<xsd:documentation>English Name: Quantity entry</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Mengenangaben zu Artikeln; Menge 0.00 nicht zulässig;
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Quantity entry re items; quantity of 0.00 not permitted;
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction>
-			<xsd:simpleType>
-				<xsd:union>
-					<xsd:simpleType>
-						<xsd:restriction base="xsd:decimal">
-							<xsd:totalDigits value="9"/>
-							<xsd:fractionDigits value="2"/>
-							<xsd:minInclusive value="0.01"/>
-							<xsd:maxInclusive value="9999999.99"/>
-							<xsd:pattern value="[\+\-]?([1-9]\d{0,6}|0)(\.\d{2})"/>
-						</xsd:restriction>
-					</xsd:simpleType>
-					<xsd:simpleType>
-						<xsd:restriction base="xsd:decimal">
-							<xsd:totalDigits value="9"/>
-							<xsd:fractionDigits value="2"/>
-							<xsd:minInclusive value="-9999999.99"/>
-							<xsd:maxInclusive value="-0.01"/>
-							<xsd:pattern value="[\+\-]?([1-9]\d{0,6}|0)(\.\d{2})"/>
-						</xsd:restriction>
-					</xsd:simpleType>
-				</xsd:union>
-			</xsd:simpleType>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p9">
-		<xsd:annotation>
-			<xsd:documentation>Name: Betrag mit 3 Nachkommastellen</xsd:documentation>
-			<xsd:documentation>English Name: Amount with 3 decimal places</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction>
+<xsd:simpleType>
+<xsd:union>
+<xsd:simpleType>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="9" />
+<xsd:fractionDigits value="2" />
+<xsd:minInclusive value="0.01" />
+<xsd:maxInclusive value="9999999.99" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,6}|0)(\.\d{2})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="9" />
+<xsd:fractionDigits value="2" />
+<xsd:minInclusive value="-9999999.99" />
+<xsd:maxInclusive value="-0.01" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,6}|0)(\.\d{2})" />
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:union>
+</xsd:simpleType>
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p9">
+<xsd:annotation>
+<xsd:documentation>Name: Betrag mit 3 Nachkommastellen</xsd:documentation>
+<xsd:documentation>English Name: Amount with 3 decimal places</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Betragsfeld mit 3 Nachkommastellen; Betrag 0.00 nicht zulässig; Vorzeichen vor Betrag und nur Minus erlaubt
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Amount field with 3 decimal places; amount of 0.00 not permitted; sign before amount and only minus permitted
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction>
-			<xsd:simpleType>
-				<xsd:union>
-					<xsd:simpleType>
-						<xsd:restriction base="xsd:decimal">
-							<xsd:totalDigits value="13"/>
-							<xsd:fractionDigits value="3"/>
-							<xsd:minInclusive value="0.001"/>
-							<xsd:maxInclusive value="9999999999.999"/>
-							<xsd:pattern value="[\+\-]?([1-9]\d{0,9}|0)(\.\d{3})"/>
-						</xsd:restriction>
-					</xsd:simpleType>
-					<xsd:simpleType>
-						<xsd:restriction base="xsd:decimal">
-							<xsd:totalDigits value="13"/>
-							<xsd:fractionDigits value="3"/>
-							<xsd:minInclusive value="-9999999999.999"/>
-							<xsd:maxInclusive value="-0.001"/>
-							<xsd:pattern value="[\+\-]?([1-9]\d{0,9}|0)(\.\d{3})"/>
-						</xsd:restriction>
-					</xsd:simpleType>
-				</xsd:union>
-			</xsd:simpleType>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p11">
-		<xsd:annotation>
-			<xsd:documentation>Name: Kontonummer in der Buchhaltung</xsd:documentation>
-			<xsd:documentation>English Name: account number in the bookkeeping</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction>
+<xsd:simpleType>
+<xsd:union>
+<xsd:simpleType>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="13" />
+<xsd:fractionDigits value="3" />
+<xsd:minInclusive value="0.001" />
+<xsd:maxInclusive value="9999999999.999" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,9}|0)(\.\d{3})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="13" />
+<xsd:fractionDigits value="3" />
+<xsd:minInclusive value="-9999999999.999" />
+<xsd:maxInclusive value="-0.001" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,9}|0)(\.\d{3})" />
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:union>
+</xsd:simpleType>
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p11">
+<xsd:annotation>
+<xsd:documentation>Name: Kontonummer in der Buchhaltung</xsd:documentation>
+<xsd:documentation>English Name: account number in the bookkeeping</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Die Personen-Kontonummer (Debitorenkonto bzw. Kreditorenkonto) identifiziert ein Konto innerhalb der Buchhaltung eindeutig. Format Personenkonten numerisch 9, 8, 7, 6, 5 – abhängig von der angegebenen Kontonummernlänge des Sachkontos
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The personal account number (debtor account or creditor account) uniquely identifies an account within the bookkeeping. Format personal accounts numerical 9, 8, 7, 6, 5 – depending on the stated length of the impersonal account number
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:unsignedInt">
-			<xsd:totalDigits value="9"/>
-			<xsd:minInclusive value="10000"/>
-			<xsd:maxInclusive value="999999999"/>
-			<xsd:pattern value="([1-9]\d*|0)"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p12">
-		<xsd:annotation>
-			<xsd:documentation>Name: Skontobetrag im Fibu-Buchungssatz</xsd:documentation>
-			<xsd:documentation>English Name: Discount Fibu accounting record</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:unsignedInt">
+<xsd:totalDigits value="9" />
+<xsd:minInclusive value="10000" />
+<xsd:maxInclusive value="999999999" />
+<xsd:pattern value="([1-9]\d*|0)" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p12">
+<xsd:annotation>
+<xsd:documentation>Name: Skontobetrag im Fibu-Buchungssatz</xsd:documentation>
+<xsd:documentation>English Name: Discount Fibu accounting record</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Eingegebener Betrag im Fibu-Buchungssatz für Skonto-Abzug. Das Skonto ist ein Nachlass vom Zieleinkaufspreis bei Barzahlung binnen einer bestimmten Frist. Betrag 0,00 unzulässig;
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Deducted discount amount entered in Fibu accounting record. The discount is a reduction of the target sale price offered in return for cash payment within a specified period. value of 0.00 not permitted;
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction>
-			<xsd:simpleType>
-				<xsd:union>
-					<xsd:simpleType>
-						<xsd:restriction base="xsd:decimal">
-							<xsd:totalDigits value="10"/>
-							<xsd:fractionDigits value="2"/>
-							<xsd:minInclusive value="0.01"/>
-							<xsd:maxInclusive value="99999999.99"/>
-							<xsd:pattern value="[\+\-]?([1-9]\d{0,7}|0)(\.\d{2})"/>
-						</xsd:restriction>
-					</xsd:simpleType>
-					<xsd:simpleType>
-						<xsd:restriction base="xsd:decimal">
-							<xsd:totalDigits value="10"/>
-							<xsd:fractionDigits value="2"/>
-							<xsd:minInclusive value="-99999999.99"/>
-							<xsd:maxInclusive value="-0.01"/>
-							<xsd:pattern value="[\+\-]?([1-9]\d{0,7}|0)(\.\d{2})"/>
-						</xsd:restriction>
-					</xsd:simpleType>
-				</xsd:union>
-			</xsd:simpleType>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p13">
-		<xsd:annotation>
-			<xsd:documentation>Name: AuftragsId</xsd:documentation>
-			<xsd:documentation>English Name: OrderId</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction>
+<xsd:simpleType>
+<xsd:union>
+<xsd:simpleType>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="10" />
+<xsd:fractionDigits value="2" />
+<xsd:minInclusive value="0.01" />
+<xsd:maxInclusive value="99999999.99" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,7}|0)(\.\d{2})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="10" />
+<xsd:fractionDigits value="2" />
+<xsd:minInclusive value="-99999999.99" />
+<xsd:maxInclusive value="-0.01" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,7}|0)(\.\d{2})" />
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:union>
+</xsd:simpleType>
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p13">
+<xsd:annotation>
+<xsd:documentation>Name: AuftragsId</xsd:documentation>
+<xsd:documentation>English Name: OrderId</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Identifiziert einen Auftrag. Eine Rechnung kann z.B. mehrere Aufträge umfassen.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 doesn't exist in english
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Regeltyp) / Value range (Regular expression)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="30"/>
-			<xsd:pattern value="[a-zA-Z0-9$%&amp;\*\+\-\./]{1,30}"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p14">
-		<xsd:annotation>
-			<xsd:documentation>Name: Währungsfaktor / Umrechnungskurs</xsd:documentation>
-			<xsd:documentation>English Name: Currency factor / conversion rate</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="30" />
+<xsd:pattern value="[a-zA-Z0-9$%&amp;\*\+\-\./]{1,30}" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p14">
+<xsd:annotation>
+<xsd:documentation>Name: Währungsfaktor / Umrechnungskurs</xsd:documentation>
+<xsd:documentation>English Name: Currency factor / conversion rate</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Der Währungsfaktor gibt den Faktor an, der eine Währung wertmäßig in der anderen Währung ausdrückt. Kein Vorzeichen zulässig.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The currency factor expresses the value of one currency in terms of another currency. No prefixed sign permitted.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:decimal">
-			<xsd:totalDigits value="10"/>
-			<xsd:fractionDigits value="6"/>
-			<xsd:minInclusive value="0.000001"/>
-			<xsd:maxInclusive value="9999.999999"/>
-			<xsd:pattern value="[\+\-]?([1-9]\d{0,3}|0)(\.\d{6})"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p23">
-		<xsd:annotation>
-			<xsd:documentation>Name: Zahlungsbedingungs-Nummer OPOS</xsd:documentation>
-			<xsd:documentation>English Name: payment_conditions_id</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="10" />
+<xsd:fractionDigits value="6" />
+<xsd:minInclusive value="0.000001" />
+<xsd:maxInclusive value="9999.999999" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,3}|0)(\.\d{6})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p23">
+<xsd:annotation>
+<xsd:documentation>Name: Zahlungsbedingungs-Nummer OPOS</xsd:documentation>
+<xsd:documentation>English Name: payment_conditions_id</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Zahlungsbedingungsnummer in der Offenen Posten Buchhaltung incl. nicht Mahn-/Zahlkennzeichnung
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 id of the payment-condition in the booking-programm by datev
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:short">
-			<xsd:totalDigits value="3"/>
-			<xsd:minInclusive value="10"/>
-			<xsd:maxInclusive value="999"/>
-			<xsd:pattern value="[\+\-]?([1-9]\d*|0)"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p29">
-		<xsd:annotation>
-			<xsd:documentation>Name: Datum TTMM</xsd:documentation>
-			<xsd:documentation>English Name: DateTTMM</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:short">
+<xsd:totalDigits value="3" />
+<xsd:minInclusive value="9" />
+<xsd:maxInclusive value="999" />
+<xsd:pattern value="[\+\-]?([1-9]\d*|0)" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p29">
+<xsd:annotation>
+<xsd:documentation>Name: Datum TTMM</xsd:documentation>
+<xsd:documentation>English Name: DateTTMM</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Das Datum ist eine konkrete Zeitangabe nach dem Kalender mit der Genauigkeit Tag und Monat.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The date is a specific calendar-based time statement comprising the day and month.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:gMonthDay">
-			<xsd:minInclusive value="--01-01"/>
-			<xsd:maxInclusive value="--12-31"/>
-			<xsd:pattern value="[^:Z]*"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p30">
-		<xsd:annotation>
-			<xsd:documentation>Name: Bezeichnung 120</xsd:documentation>
-			<xsd:documentation>English Name: Designation 120</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:gMonthDay">
+<xsd:minInclusive value="--01-01" />
+<xsd:maxInclusive value="--12-31" />
+<xsd:pattern value="[^:Z]*" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p30">
+<xsd:annotation>
+<xsd:documentation>Name: Bezeichnung 120</xsd:documentation>
+<xsd:documentation>English Name: Designation 120</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Allgemeine Bezeichnung, Benennung, Begriff.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 General designation, name, heading.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 -</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="120"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p31">
-		<xsd:annotation>
-			<xsd:documentation>Name: Kurs nur positiv</xsd:documentation>
-			<xsd:documentation>English Name: Exchange Rate</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="120" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p31">
+<xsd:annotation>
+<xsd:documentation>Name: Kurs nur positiv</xsd:documentation>
+<xsd:documentation>English Name: Exchange Rate</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Betragsfelder für Betragseingabemöglichkeiten zum Kurs; Betrag 0.00 nicht zulässig;
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Amount fields for exchange rate; amount of 0.00 not permitted
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:decimal">
-			<xsd:totalDigits value="10"/>
-			<xsd:fractionDigits value="6"/>
-			<xsd:minInclusive value="0.000001"/>
-			<xsd:maxInclusive value="9999.999999"/>
-			<xsd:pattern value="[\+\-]?([1-9]\d{0,3}|0)(\.\d{6})"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p33">
-		<xsd:annotation>
-			<xsd:documentation>Name: Prozentsatz mit 2 Vorkommastellen</xsd:documentation>
-			<xsd:documentation>English Name: Percentage</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="10" />
+<xsd:fractionDigits value="6" />
+<xsd:minInclusive value="0.000001" />
+<xsd:maxInclusive value="9999.999999" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,3}|0)(\.\d{6})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p33">
+<xsd:annotation>
+<xsd:documentation>Name: Prozentsatz mit 2 Vorkommastellen</xsd:documentation>
+<xsd:documentation>English Name: Percentage</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Eingabe eines %-Satzes. Der Prozentsatz bestimmt das Verhältnis einer gegebenen Größe (=100) zu einer betrachteten Größe. Wert 0.00 nicht zulässig; Kein Vorzeichen erlaubt
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Input of a percentage. The percentage states the ratio of a given value (=100) to the value under consideration. value 0.00 not permitted; no prefixed sign permitted
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:decimal">
-			<xsd:totalDigits value="4"/>
-			<xsd:fractionDigits value="2"/>
-			<xsd:minInclusive value="0.00"/>
-			<xsd:maxInclusive value="99.99"/>
-			<xsd:pattern value="[\+\-]?([1-9]\d{0,1}|0)(\.\d{2})"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p34">
-		<xsd:annotation>
-			<xsd:documentation>Name: Skontobetrag positiv im Fibu-Buchungssatz</xsd:documentation>
-			<xsd:documentation>English Name: Discount Fibu accounting record positivly</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="4" />
+<xsd:fractionDigits value="2" />
+<xsd:minInclusive value="0.00" />
+<xsd:maxInclusive value="99.99" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,1}|0)(\.\d{2})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p34">
+<xsd:annotation>
+<xsd:documentation>Name: Skontobetrag positiv im Fibu-Buchungssatz</xsd:documentation>
+<xsd:documentation>English Name: Discount Fibu accounting record positivly</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Eingegebener Betrag im Fibu-Buchungssatz für Skonto-Abzug. Das Skonto ist ein Nachlass vom Zieleinkaufspreis bei Barzahlung binnen einer bestimmten Frist. Betrag 0,00 unzulässig;
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Deducted discount amount entered in Fibu accounting record. The discount is a reduction of the target sale price offered in return for cash payment within a specified period. value of 0.00 not permitted;
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:decimal">
-			<xsd:totalDigits value="10"/>
-			<xsd:fractionDigits value="2"/>
-			<xsd:minInclusive value="0.01"/>
-			<xsd:maxInclusive value="99999999.99"/>
-			<xsd:pattern value="[\+\-]?([1-9]\d{0,7}|0)(\.\d{2})"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p35">
-		<xsd:annotation>
-			<xsd:documentation>Name: Kennzeichen Boolean True_False</xsd:documentation>
-			<xsd:documentation>English Name: Boolean True_False</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="10" />
+<xsd:fractionDigits value="2" />
+<xsd:minInclusive value="0.01" />
+<xsd:maxInclusive value="99999999.99" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,7}|0)(\.\d{2})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p35">
+<xsd:annotation>
+<xsd:documentation>Name: Kennzeichen Boolean True_False</xsd:documentation>
+<xsd:documentation>English Name: Boolean True_False</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Dieses Kennzeichen wird verwendet: true = gültig bzw. ja bzw. gesetzt false = ungültig bzw. nein bzw. nicht gesetzt
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 doesn't exist in english
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Aufzählungstyp) / Value range (Enumeration)
 false = false
 true = true</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:boolean"/>
-	</xsd:simpleType>
-	<xsd:simpleType name="p36">
-		<xsd:annotation>
-			<xsd:documentation>Name: XML-Data Beschreibung</xsd:documentation>
-			<xsd:documentation>English Name: Description</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:boolean" />
+</xsd:simpleType>
+<xsd:simpleType name="p36">
+<xsd:annotation>
+<xsd:documentation>Name: XML-Data Beschreibung</xsd:documentation>
+<xsd:documentation>English Name: Description</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 fixer Wert "Kopie nur zur Verbuchung berechtigt nicht zum Vorsteuerabzug"
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Fixer value "Kopie nur zur Verbuchung berechtigt nicht zum Vorsteuerabzug"
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Basistyp) / Value range (Extentable enumeration)
 Kopie nur zur Verbuchung berechtigt nicht zum Vorsteuerabzug = Kopie nur zur Verbuchung berechtigt nicht zum Vorsteuerabzug</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="60"/>
-			<xsd:pattern value="[0-9a-zA-Z\. _]{1,60}"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p37">
-		<xsd:annotation>
-			<xsd:documentation>Name: KostMenge 12.4</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="60" />
+<xsd:pattern value="[0-9a-zA-Z\. _]{1,60}" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p37">
+<xsd:annotation>
+<xsd:documentation>Name: KostMenge 12.4</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 KostMenge ist ein Feld der Kostenrechnung des Rechnungswesens. Die KostMenge besitzt fachlich eine Länge von 12 Vorkammastellen und 4 Nachkommastellen.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The cost quantity is the quantity of a given benchmark figure to be charged to the cost centre or cost unit. no prefixed sign permitted; permitted characters: [ a-Z, 0-9, special characters]
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:decimal">
-			<xsd:totalDigits value="16"/>
-			<xsd:fractionDigits value="4"/>
-			<xsd:minInclusive value="0.0001"/>
-			<xsd:maxInclusive value="+999999999999.9999"/>
-			<xsd:pattern value="[\+\-]?([1-9]\d{0,11}|0)(\.\d{4})"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10003">
-		<xsd:annotation>
-			<xsd:documentation>Name: Bemerkung 020</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="16" />
+<xsd:fractionDigits value="4" />
+<xsd:minInclusive value="0.0001" />
+<xsd:maxInclusive value="+999999999999.9999" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,11}|0)(\.\d{4})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10001">
+<xsd:annotation>
+<xsd:documentation>Name: Identifizierung Matchcode 10</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
-FREITEXTLICHE BEMERKUNG ZU EINEM SACHVERHALT. BEMERKUNG, ANMERKUNG, NOTIZ.
+ALLGEMEINER IDENTIFIZIERER, DARGESTELLT DURCH NUMMERN, BUCHSTABEN UND SONDERZEICHEN.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 doesn't exist in english
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 -</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="20"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10005">
-		<xsd:annotation>
-			<xsd:documentation>Name: Bankkontonummer International</xsd:documentation>
-			<xsd:documentation>English Name: International bank account number</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="10" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10003">
+<xsd:annotation>
+<xsd:documentation>Name: Bemerkung 020</xsd:documentation>
+<xsd:documentation>
+Beschreibung: 
+FREITEXTLICHE BEMERKUNG ZU EINEM SACHVERHALT. BEMERKUNG, ANMERKUNG, NOTIZ.
+</xsd:documentation>
+<xsd:documentation>
+Description: 
+doesn't exist in english
+</xsd:documentation>
+<xsd:documentation>
+Wertebereich (Exemplartyp) / Value range (Example):
+-</xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="20" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10005">
+<xsd:annotation>
+<xsd:documentation>Name: Bankkontonummer International</xsd:documentation>
+<xsd:documentation>English Name: International bank account number</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Die Bankkontonummer identifiziert ein Bankkonto innerhalb einer Bank.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The bank account number identifies a bank account within a bank.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 Zentrale DEId:
 DE: 11, AT:34, IT: 35, CZ: 38, PL: 36
 
 SDV Projekt DEId
 DE = 697, AT = 2096, IT = 2321, CZ = 2181, PL = 2452</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="30"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10006">
-		<xsd:annotation>
-			<xsd:documentation>Name: Bankkurzbezeichnung</xsd:documentation>
-			<xsd:documentation>English Name: Brief bank designation</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="30" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10006">
+<xsd:annotation>
+<xsd:documentation>Name: Bankkurzbezeichnung</xsd:documentation>
+<xsd:documentation>English Name: Brief bank designation</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Bezeichnung (Name) einer Bank.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Designation (name) of a bank.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 Stadtsparkasse Nürnber, Dresdner Bank Ansbach, ETC.</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="27"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10007">
-		<xsd:annotation>
-			<xsd:documentation>Name: Bankleitzahl International</xsd:documentation>
-			<xsd:documentation>English Name: International bank sort code</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="27" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10007">
+<xsd:annotation>
+<xsd:documentation>Name: Bankleitzahl International</xsd:documentation>
+<xsd:documentation>English Name: International bank sort code</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Numerische Schlüsselzahl zur Identifizierung aller Kreditinstitute eines Landes mit eigenem Zentralbankgirokonto. Bankfilialen werden nicht identifiziert.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Numeric key number to identify all banking institutions in a country which have their own central bank current account. Bank branches are not identified.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Regeltyp) / Value range (Regular expression)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="10"/>
-			<xsd:pattern value="([1-9]|[0-9]{2,10})"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10008">
-		<xsd:annotation>
-			<xsd:documentation>Name: Bezeichnung 030</xsd:documentation>
-			<xsd:documentation>English Name: Designation 030</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="10" />
+<xsd:pattern value="([1-9]|[0-9]{2,10})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10008">
+<xsd:annotation>
+<xsd:documentation>Name: Bezeichnung 030</xsd:documentation>
+<xsd:documentation>English Name: Designation 030</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Allgemeine Bezeichnung, Benennung, Begriff.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 General designation, name, heading.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 -</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="30"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10009">
-		<xsd:annotation>
-			<xsd:documentation>Name: Bezeichnung 040</xsd:documentation>
-			<xsd:documentation>English Name: Designation 040</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="30" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10009">
+<xsd:annotation>
+<xsd:documentation>Name: Bezeichnung 040</xsd:documentation>
+<xsd:documentation>English Name: Designation 040</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Allgemeine Bezeichnung, Benennung, Begriff.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 General designation, name, heading.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 -</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="40"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10010">
-		<xsd:annotation>
-			<xsd:documentation>Name: IBAN International Bank Account Number</xsd:documentation>
-			<xsd:documentation>English Name: IBAN International Bank Account Number</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="40" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10010">
+<xsd:annotation>
+<xsd:documentation>Name: IBAN International Bank Account Number</xsd:documentation>
+<xsd:documentation>English Name: IBAN International Bank Account Number</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Identifiziert ein Bankkonto weltweit. ISO 13616
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Identifies a bank account worldwide. ISO 13616
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Regeltyp) / Value range (Regular expression)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="34"/>
-			<xsd:pattern value="([A-Z]{2}\d\d([A-Za-z0-9]){11,30})"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10011">
-		<xsd:annotation>
-			<xsd:documentation>Name: Bezeichnung 015</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="34" />
+<xsd:pattern value="([A-Z]{2}\d\d([A-Za-z0-9]){11,30})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10011">
+<xsd:annotation>
+<xsd:documentation>Name: Bezeichnung 015</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 ALLGEMEINE BEZEICHNUNG, BENENNUNG, BEGRIFF.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 doesn't exist in english
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 -</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="15"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10012">
-		<xsd:annotation>
-			<xsd:documentation>Name: Name Betrieb 3zeilig</xsd:documentation>
-			<xsd:documentation>English Name: Name company 3lines</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="15" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10012">
+<xsd:annotation>
+<xsd:documentation>Name: Name Betrieb 3zeilig</xsd:documentation>
+<xsd:documentation>English Name: Name company 3lines</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Sehr langer Betriebsname
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Very long business name.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 Huber GmbH, und Söhne, Metallwaren</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="50"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10013">
-		<xsd:annotation>
-			<xsd:documentation>Name: Zusatzinfo-Inhalt zum Buchungssatz</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="50" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10013">
+<xsd:annotation>
+<xsd:documentation>Name: Zusatzinfo-Inhalt zum Buchungssatz</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Hier können zusätzliche Informationen für einen Buchungssatz erfaßt werden.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 doesn't exist in english
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 Dieser Buchungssatz gehört eigentlich zu Geschäftsbereich B - wurde allerdings aus best. Gründen dem Bereich A zugeordnet, etc.</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="210"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10014">
-		<xsd:annotation>
-			<xsd:documentation>Name: Nationalitätskennzeichen ISO 3166 2stellig</xsd:documentation>
-			<xsd:documentation>English Name: Nationality codes ISO 3166, 2 characters</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="210" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10014">
+<xsd:annotation>
+<xsd:documentation>Name: Nationalitätskennzeichen ISO 3166 2stellig</xsd:documentation>
+<xsd:documentation>English Name: Nationality codes ISO 3166, 2 characters</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Name eines Staates, einer Nation. Die ISO 3166 ist ein Standard für die Kodierung von Staaten und einigen abhängigen Gebieten, herausgegeben von der Internationalen Organisation für Normung (ISO). Die deutschen Bedeutungswerte richten sich nach der offiziellen deutschen Bezeichnung der Länder, festgelegt durch den ständigen Ausschuß für geografische Namen.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Name of a country, a nation. Die ISO 3166 defines codes for country and dependent area names. The German designations are the official German designations for countries as determined by the Standing Committee for Geographical Names.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Aufzählungstyp) / Value range (Enumeration)
 AD = Andorra = Andorra
 AE = Vereinigte Arabische Emirate = United Arab Emirates
@@ -1042,7 +1062,7 @@ CV = Cabo Verde = Cabo Verde
 CW = Curaçao = Curaçao
 CX = Weihnachtsinsel = Christmas Island
 CY = Zypern = Cyprus
-CZ = Tschechische Republik = Czech Republic
+CZ = Tschechien = Czechia
 DE = Deutschland = Germany
 DJ = Dschibuti = Djibouti
 DK = Dänemark = Denmark
@@ -1082,7 +1102,7 @@ GU = Guam = Guam
 GW = Guinea-Bissau = Guinea-Bissau
 GY = Guyana = Guyana
 HK = Hongkong = Hong Kong
-HM = Heard und McDonaldinseln = Heard Island  and McDonald Islands
+HM = Heard und McDonaldinseln = Heard Island and McDonald Islands
 HN = Honduras = Honduras
 HR = Kroatien = Croatia
 HT = Haiti = Haiti
@@ -1231,161 +1251,162 @@ VN = Vietnam = Viet Nam
 VU = Vanuatu = Vanuatu
 WF = Wallis und Futuna = Wallis and Futuna
 WS = Samoa = Samoa
+XI = Nordirland = Northern Ireland
 XK = Kosovo = Kosovo
 YE = Jemen = Yemen
 YT = Mayotte = Mayotte
 ZA = Südafrika = South Africa
 ZM = Sambia = Zambia
 ZW = Simbabwe = Zimbabwe</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="2"/>
-			<xsd:pattern value="AD|AE|AF|AG|AI|AL|AM|AN|AO|AQ|AR|AS|AT|AU|AW|AX|AZ|BA|BB|BD|BE|BF|BG|BH|BI|BJ|BL|BM|BN|BO|BQ|BR|BS|BT|BV|BW|BY|BZ|CA|CC|CD|CF|CG|CH|CI|CK|CL|CM|CN|CO|CR|CS|CU|CV|CW|CX|CY|CZ|DE|DJ|DK|DM|DO|DZ|EC|EE|EG|EH|ER|ES|ET|FI|FJ|FK|FM|FO|FR|GA|GB|GD|GE|GF|GG|GH|GI|GL|GM|GN|GP|GQ|GR|GS|GT|GU|GW|GY|HK|HM|HN|HR|HT|HU|ID|IE|IL|IM|IN|IO|IQ|IR|IS|IT|JE|JM|JO|JP|KE|KG|KH|KI|KM|KN|KP|KR|KW|KY|KZ|LA|LB|LC|LI|LK|LR|LS|LT|LU|LV|LY|MA|MC|MD|ME|MF|MG|MH|MK|ML|MM|MN|MO|MP|MQ|MR|MS|MT|MU|MV|MW|MX|MY|MZ|NA|NC|NE|NF|NG|NI|NL|NO|NP|NR|NU|NZ|OM|PA|PE|PF|PG|PH|PK|PL|PM|PN|PR|PS|PT|PW|PY|QA|RE|RO|RS|RU|RW|SA|SB|SC|SD|SE|SG|SH|SI|SJ|SK|SL|SM|SN|SO|SR|SS|ST|SV|SX|SY|SZ|TC|TD|TF|TG|TH|TJ|TK|TL|TM|TN|TO|TR|TT|TV|TW|TZ|UA|UG|UM|US|UY|UZ|VA|VC|VE|VG|VI|VN|VU|WF|WS|XK|YE|YT|ZA|ZM|ZW"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10016">
-		<xsd:annotation>
-			<xsd:documentation>Name: Bezeichnung 060</xsd:documentation>
-			<xsd:documentation>English Name: Designation 060</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="2" />
+<xsd:pattern value="AD|AE|AF|AG|AI|AL|AM|AN|AO|AQ|AR|AS|AT|AU|AW|AX|AZ|BA|BB|BD|BE|BF|BG|BH|BI|BJ|BL|BM|BN|BO|BQ|BR|BS|BT|BV|BW|BY|BZ|CA|CC|CD|CF|CG|CH|CI|CK|CL|CM|CN|CO|CR|CS|CU|CV|CW|CX|CY|CZ|DE|DJ|DK|DM|DO|DZ|EC|EE|EG|EH|ER|ES|ET|FI|FJ|FK|FM|FO|FR|GA|GB|GD|GE|GF|GG|GH|GI|GL|GM|GN|GP|GQ|GR|GS|GT|GU|GW|GY|HK|HM|HN|HR|HT|HU|ID|IE|IL|IM|IN|IO|IQ|IR|IS|IT|JE|JM|JO|JP|KE|KG|KH|KI|KM|KN|KP|KR|KW|KY|KZ|LA|LB|LC|LI|LK|LR|LS|LT|LU|LV|LY|MA|MC|MD|ME|MF|MG|MH|MK|ML|MM|MN|MO|MP|MQ|MR|MS|MT|MU|MV|MW|MX|MY|MZ|NA|NC|NE|NF|NG|NI|NL|NO|NP|NR|NU|NZ|OM|PA|PE|PF|PG|PH|PK|PL|PM|PN|PR|PS|PT|PW|PY|QA|RE|RO|RS|RU|RW|SA|SB|SC|SD|SE|SG|SH|SI|SJ|SK|SL|SM|SN|SO|SR|SS|ST|SV|SX|SY|SZ|TC|TD|TF|TG|TH|TJ|TK|TL|TM|TN|TO|TR|TT|TV|TW|TZ|UA|UG|UM|US|UY|UZ|VA|VC|VE|VG|VI|VN|VU|WF|WS|XI|XK|YE|YT|ZA|ZM|ZW" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10016">
+<xsd:annotation>
+<xsd:documentation>Name: Bezeichnung 060</xsd:documentation>
+<xsd:documentation>English Name: Designation 060</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Allgemeine Bezeichnung, Benennung, Begriff.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 General designation, name, heading
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 -</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="60"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10017">
-		<xsd:annotation>
-			<xsd:documentation>Name: Postfach</xsd:documentation>
-			<xsd:documentation>English Name: PO Box</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="60" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10017">
+<xsd:annotation>
+<xsd:documentation>Name: Postfach</xsd:documentation>
+<xsd:documentation>English Name: PO Box</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Kennung für ein vom Adressaten bei einem Postamt gemietetes Postschliesfach. Es können Auslands- und Inlandspostfächer eingetragen werden.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Code for a post office box rented from a post office by the addressee. Both foreign and domestic PO boxes may be entered.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 2345, 123, 643243, 798xy98763, etc.</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="10"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10018">
-		<xsd:annotation>
-			<xsd:documentation>Name: Postleitzahl  International</xsd:documentation>
-			<xsd:documentation>English Name: International postcode</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="10" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10018">
+<xsd:annotation>
+<xsd:documentation>Name: Postleitzahl  International</xsd:documentation>
+<xsd:documentation>English Name: International postcode</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Kennzahl eines Ortes für den postalen Brief- und Paketdienst innerhalb eines Landes.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 A place code for the postal letters and parcel service within a country.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 Zentrale DatenelementId für die nationalen Ersetzungen
 Richtet sich in der Länge nach CZ
 DE = 94, AT = 97, CZ = 541, IT = 96, PL = 98
 </xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="10"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10019">
-		<xsd:annotation>
-			<xsd:documentation>Name: Ortsname</xsd:documentation>
-			<xsd:documentation>English Name: Place name</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="10" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10019">
+<xsd:annotation>
+<xsd:documentation>Name: Ortsname</xsd:documentation>
+<xsd:documentation>English Name: Place name</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Stadt bzw. Gemeindenamen.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 City, town or local authority names.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 AACHEN, NUERNBERG, OLCHING, ROSENHEIM, SCHLIERSEE, ZUERICH, ETC.</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="30"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10020">
-		<xsd:annotation>
-			<xsd:documentation>Name: Prozentsatz 2.2</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="30" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10020">
+<xsd:annotation>
+<xsd:documentation>Name: Prozentsatz 2.2</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 DER PROZENTSATZ BESTIMMT DAS VERHÄLTNIS EINER GEGEBENEN GRÖßE (=100) ZU EINER BETRACHTETEN GRÖßE.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The percentage (%) states the ratio of a given value (=100) to the value under consideration.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:decimal">
-			<xsd:totalDigits value="4"/>
-			<xsd:fractionDigits value="2"/>
-			<xsd:minInclusive value="-99.99"/>
-			<xsd:maxInclusive value="+99.99"/>
-			<xsd:pattern value="[\+\-]?([1-9]\d{0,1}|0)(\.\d{2})"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10023">
-		<xsd:annotation>
-			<xsd:documentation>Name: Steuernummer</xsd:documentation>
-			<xsd:documentation>English Name: Tax number</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:decimal">
+<xsd:totalDigits value="4" />
+<xsd:fractionDigits value="2" />
+<xsd:minInclusive value="-99.99" />
+<xsd:maxInclusive value="+99.99" />
+<xsd:pattern value="[\+\-]?([1-9]\d{0,1}|0)(\.\d{2})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10023">
+<xsd:annotation>
+<xsd:documentation>Name: Steuernummer</xsd:documentation>
+<xsd:documentation>English Name: Tax number</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Die Steuernummer identifiziert einen Steuerpflichtigen bei seinem zuständigen Finanzamt. Der Steuerpflichtige hat pro Steuerart eine Steuernummer.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The tax number identifies taxpayers to their respective tax office. Taxpayers have one tax number per tax type.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 450045045, 3343J/43223, ETC.</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="20"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10025">
-		<xsd:annotation>
-			<xsd:documentation>Name: Straße und Hausnummer International</xsd:documentation>
-			<xsd:documentation>English Name: Street with house number International</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="20" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10025">
+<xsd:annotation>
+<xsd:documentation>Name: Straße und Hausnummer International</xsd:documentation>
+<xsd:documentation>English Name: Street with house number International</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Name einer Straße in einer Stadt/Ort, in der sich ein Gebäude befindet, und die Nummer des Gebäudes in dieser Straße.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Name of a street in the city/town/place where the building is located, plus the number of the building in that street.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 richtet sich nach Polen:
 Zentrale DEId
@@ -1393,241 +1414,241 @@ PL: 135, DE: 136, AT: 136, IT: 134
 
 SDV Projekt DEId
 PL = 2366, DE: 1411, AT = 1411, IT = 2449</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="41"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10027">
-		<xsd:annotation>
-			<xsd:documentation>Name: Umsatzsteuer-ID</xsd:documentation>
-			<xsd:documentation>English Name: Value added tax ID no.</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="41" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10027">
+<xsd:annotation>
+<xsd:documentation>Name: Umsatzsteuer-ID</xsd:documentation>
+<xsd:documentation>English Name: Value added tax ID no.</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Die Umsatzsteuer-Id (USt-IdNr.) ist eine eindeutige EU-weite Kennzeichnung eines Umsatzsteuerpflichtigen.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The Value added tax identification number (VATIN) is an identifier used in the European Union Value Added Tax for taxation purposes.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 DE833475312, DE938485329, DE93857364, DE039583749, ETC.</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="15"/>
-			<xsd:pattern value="[0-9a-zA-Z\. _]{1,15}"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10028">
-		<xsd:annotation>
-			<xsd:documentation>Name: Kontonummer Sachkonto</xsd:documentation>
-			<xsd:documentation>English Name: Impersonal account number</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="15" />
+<xsd:pattern value="[0-9a-zA-Z\. _]{1,15}" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10028">
+<xsd:annotation>
+<xsd:documentation>Name: Kontonummer Sachkonto</xsd:documentation>
+<xsd:documentation>English Name: Impersonal account number</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Die Kontonummer identifiziert eindeutig ein Konto. Die Kontonummer gilt sowohl für den eigentlichen Buchungssatz als auch für die Stammdaten. Für Konto-von und Konto-bis einer Bereichsangabe werden somit zwei Datenelemente des Typs Kontonummer verwendet. Die Sachkontolänge kann zwischen 4 und 8 Stellen variieren.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The account number uniquely identifies an account. The account number applies both to the actual accounting record and to the master data. Thus, two data elements of the type ‘account number’ are used for the Account from and the Account to of an area statement. The impersonal account length can be from 4 to 8 characters long.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:unsignedInt">
-			<xsd:totalDigits value="8"/>
-			<xsd:minInclusive value="1"/>
-			<xsd:maxInclusive value="99999999"/>
-			<xsd:pattern value="([1-9]\d*|0)"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10029">
-		<xsd:annotation>
-			<xsd:documentation>Name: Datum</xsd:documentation>
-			<xsd:documentation>English Name: Date</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:unsignedInt">
+<xsd:totalDigits value="8" />
+<xsd:minInclusive value="1" />
+<xsd:maxInclusive value="99999999" />
+<xsd:pattern value="([1-9]\d*|0)" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10029">
+<xsd:annotation>
+<xsd:documentation>Name: Datum</xsd:documentation>
+<xsd:documentation>English Name: Date</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Das Datum ist eine konkrete Zeitangabe nach dem Kalender mit der Genauigkeit Jahr, Monat und Tag.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The date is a specific calendar-based time statement comprising the year, month and day.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:date">
-			<xsd:minInclusive value="1753-01-01"/>
-			<xsd:maxInclusive value="9999-12-31"/>
-			<xsd:pattern value="[^:Z]*"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10030">
-		<xsd:annotation>
-			<xsd:documentation>Name: BIC Bank Identifier Code</xsd:documentation>
-			<xsd:documentation>English Name: BIC Bank Identifier Code</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:date">
+<xsd:minInclusive value="1753-01-01" />
+<xsd:maxInclusive value="9999-12-31" />
+<xsd:pattern value="[^:Z]*" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10030">
+<xsd:annotation>
+<xsd:documentation>Name: BIC Bank Identifier Code</xsd:documentation>
+<xsd:documentation>English Name: BIC Bank Identifier Code</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Eindeutige Kennung für einen SWIFT-Teilnehmer. BIC (Bank Identifier Code). SWIFT ist die Abkürzung für "Society for Worldwide Interbank Financial Telecommunications". Wie aus dem Namen hervorgeht, handelt es sich um eine Gesellschaft, die für Telekommunikation zwischen Banken weltweit sorgt.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Unique code for each SWIFT participant. BIC (Bank Identifier Code). A familiar term in connection with foreign payment transactions is SWIFT, which stands for "Society for Worldwide Interbank Financial Telecommunications".
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Regeltyp) / Value range (Regular expression)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="11"/>
-			<xsd:pattern value="([A-Z]{4}[A-Z]{2}([A-Z0-9]){2}([A-Z0-9]){0,3})"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10031">
-		<xsd:annotation>
-			<xsd:documentation>Name: Rufnummer Teilnehmer Telefon und Fax</xsd:documentation>
-			<xsd:documentation>English Name: Telephone and fax number</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="11" />
+<xsd:pattern value="([A-Z]{4}[A-Z]{2}([A-Z0-9]){2}([A-Z0-9]){0,3})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10031">
+<xsd:annotation>
+<xsd:documentation>Name: Rufnummer Teilnehmer Telefon und Fax</xsd:documentation>
+<xsd:documentation>English Name: Telephone and fax number</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Die Rufnummer ist eine Kommunikationsnummer für ein Kommunikationsmedium wie z.B. Telefon und Fax,
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The number is for communications using media such as telephone or fax.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 08123999999, 0911223322, 0041833422222, ETC.</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="20"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10032">
-		<xsd:annotation>
-			<xsd:documentation>Name: E-Mail Adresse</xsd:documentation>
-			<xsd:documentation>English Name: Email address</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="20" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10032">
+<xsd:annotation>
+<xsd:documentation>Name: E-Mail Adresse</xsd:documentation>
+<xsd:documentation>English Name: Email address</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Eine E-Mail-Adresse ist die eindeutige Absender- und Empfängeradresse im E-Mail-Verkehr. Eine E-Mail-Adresse, wie sie für den Transport per SMTP im Internet verwendet wird, besteht aus zwei Teilen: Einem lokalen Teil, im Englischen local-part genannt (steht vor dem @-Zeichen) und einem globalen Teil, im Englischen domain-part genannt (steht nach dem @-Zeichen).
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 An email address is the unique sender and recipient address used for email communications. An email address as used for SMTP Internet transmissions consists of two parts: the local part found to the left of the ‘@’ character plus a global domain part to the right of the ‘@’ character.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Regeltyp) / Value range (Regular expression)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="60"/>
-			<xsd:pattern value="[^@]+@([^@\.\s]+\.)+([^@\.\s]{2,})"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10033">
-		<xsd:annotation>
-			<xsd:documentation>Name: Berichtigungs-/Umsatzsteuerschlüssel</xsd:documentation>
-			<xsd:documentation>English Name: Adjustment code/value added tax code</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="60" />
+<xsd:pattern value="[^@]+@([^@\.\s]+\.)+([^@\.\s]{2,})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10033">
+<xsd:annotation>
+<xsd:documentation>Name: Berichtigungs-/Umsatzsteuerschlüssel</xsd:documentation>
+<xsd:documentation>English Name: Adjustment code/value added tax code</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Durch den Berichtigungs-/Umsatzsteuerschlüssel wird angegeben, ob es sich bei dem komplexen Buchungssatz um Berichtigungsbuchungen oder Umsatzsteuerbuchungen handelt. Der Berichtigungs-/Umsatzsteuerschlüssel hat folgende Form: Die erste Stelle enthält den Berichtigungsschlüssel. Wenn kein Berichtigungsschlüssel benötigt wird, ist die erste Stelle leer (Blank). Die zweite Stelle enthält den Umsatzsteuerschlüssel. Wenn kein Umsatzsteuerschlüssel benötigt wird, wird an zweiter Stelle eine 0 eingetragen. Detailliertere Hinweise zu Berichtigungs-/Umsatzsteuerschlüsseln finden sie im FIBU-Handbuch.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The adjustment code or VAT code indicates whether a complex accounting record relates to adjustment accounting or VAT accounting. The adjustment code/VAT code takes the following form: the first space contains the adjustment code. If no adjustment code is needed this space is left blank. The second space contains the VAT code. If no VAT code is needed a zero is entered in the second space. Details of the adjustment and VAT codes are given in the FIBU manual.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:unsignedShort">
-			<xsd:totalDigits value="4"/>
-			<xsd:minInclusive value="0"/>
-			<xsd:maxInclusive value="9999"/>
-			<xsd:pattern value="([1-9]\d*|0)"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10036">
-		<xsd:annotation>
-			<xsd:documentation>Name: Buchungstext 60stellig</xsd:documentation>
-			<xsd:documentation>English Name: Booking text</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:unsignedShort">
+<xsd:totalDigits value="4" />
+<xsd:minInclusive value="0" />
+<xsd:maxInclusive value="9999" />
+<xsd:pattern value="([1-9]\d*|0)" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10036">
+<xsd:annotation>
+<xsd:documentation>Name: Buchungstext 60stellig</xsd:documentation>
+<xsd:documentation>English Name: Booking text</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 DER BUCHUNGSTEXT IST EIN INDIVIDUELLER TEXT ZU EINEM BUCHUNGSSATZ.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The booking text is the individual text accompanying an accounting record. Al characters permitted.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Exemplartyp) / Value range (Example):
 Aushilfslöhne, Fahrgeldzuschuß, etc.</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:minLength value="1"/>
-			<xsd:maxLength value="60"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10039">
-		<xsd:annotation>
-			<xsd:documentation>Name: Kontonummer in der Buchhaltung</xsd:documentation>
-			<xsd:documentation>English Name: account number for bookkeeping</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:minLength value="1" />
+<xsd:maxLength value="60" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10039">
+<xsd:annotation>
+<xsd:documentation>Name: Kontonummer in der Buchhaltung</xsd:documentation>
+<xsd:documentation>English Name: account number for bookkeeping</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Die Kontonummer identifiziert eindeutig ein Konto innerhalb der Buchhaltung. Die Kontonummer gilt sowohl für den eigentlichen Buchungssatz als auch für die Stammdaten (S,K,I). Für Konto-von und Konto-bis einer Bereichsangabe werden somit zwei Datenelemente des Typs KONTONUMMER verwendet.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 doesn't exist in english
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Bereichstyp) / Value range (Range)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:unsignedInt">
-			<xsd:totalDigits value="9"/>
-			<xsd:minInclusive value="1"/>
-			<xsd:maxInclusive value="999999999"/>
-			<xsd:pattern value="([1-9]\d*|0)"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10040">
-		<xsd:annotation>
-			<xsd:documentation>Name: Belegnummer der Länge 36</xsd:documentation>
-			<xsd:documentation>English Name: Voucher number</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:unsignedInt">
+<xsd:totalDigits value="9" />
+<xsd:minInclusive value="1" />
+<xsd:maxInclusive value="999999999" />
+<xsd:pattern value="([1-9]\d*|0)" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10040">
+<xsd:annotation>
+<xsd:documentation>Name: Belegnummer der Länge 36</xsd:documentation>
+<xsd:documentation>English Name: Voucher number</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Identifiziert einen Beleg. Ein Beleg ist z.B. eine Rechnung. Entspricht dem Belegfeld1.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 Uniquely identifies a document according to GOB. A document is, for instance, an invoice and corresponds to the invoice number. Corresponds to Document Field 1 in the DATEV bookkeeping system. 
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Regeltyp) / Value range (Regular expression)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="36"/>
-			<xsd:pattern value="[a-zA-Z0-9$%&amp;\*\+\-/]{1,36}"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="p10041">
-		<xsd:annotation>
-			<xsd:documentation>Name: Kostenstellennummer Länge 36</xsd:documentation>
-			<xsd:documentation>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="36" />
+<xsd:pattern value="[a-zA-Z0-9$%&amp;\*\+\-/]{1,36}" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="p10041">
+<xsd:annotation>
+<xsd:documentation>Name: Kostenstellennummer Länge 36</xsd:documentation>
+<xsd:documentation>
 Beschreibung: 
 Kostenstelle des Rechnungswesens.
 </xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Description: 
 The cost centre number identifies a cost centre. A cost centre is a delimited sphere of responsibility, a sub-unit of the overall business for accounting purposes for which a cost burden is calculated.</xsd:documentation>
-			<xsd:documentation>
+<xsd:documentation>
 Wertebereich (Regeltyp) / Value range (Regular expression)</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:string">
-			<xsd:maxLength value="36"/>
-			<xsd:pattern value="([\S][\S ]{0,34}[\S]|[\S]{0,1})"/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="noTYPE">
-		<xsd:restriction base="xsd:string"/>
-	</xsd:simpleType>
+</xsd:annotation>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="36" />
+<xsd:pattern value="([\S][\S ]{0,34}[\S]|[\S]{0,1})" />
+</xsd:restriction>
+</xsd:simpleType>
+<xsd:simpleType name="noTYPE">
+<xsd:restriction base="xsd:string" />
+</xsd:simpleType>
 </xsd:schema>

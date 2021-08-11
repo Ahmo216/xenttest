@@ -1,66 +1,118 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPwti6g0tVFzhbuaYZuFSqdU9GCAs3FL3yrXbdGwJLb/995hMGjUBgi6kw8A5Er5otVnA+2Yd
-SS6m3VLY+xQ6fC0G+B4Jv9+SJrHa4CHqbsBilNVNqnqrYYKSOM6yXY5q/SNxQT31ZAbAW0+xgAOr
-VRxLRZVKD2FU5ZQru7TVCvSPtb4S02xL8v10zn3/vt0zosJMlUBD3b80x7qMQyKofq7LPBhrNLNA
-YDClpFBJHmplI/Q6ZYGH+v3s1O+S4RwVrjFYD8AhH9r7frSd2H1wGv+sfj9gIfTytUwKZmHh/6WC
-yUkRBdW6Xtz2yfNOWK2gsxmfqovtlHfTdi2Ny3Qr71pdwnX7dR2RlBQTQBk/dIXGJqaSvCyqabGt
-2YR1aWJnNNXlImyrrRGn4mG0TbI12joTx5ogWrb3yMSiGDohpr3HjmJra47dHlDPVaPnqQYWzJ1s
-UNtnM2rqGAOeM6Sc0rT3DCd6LTDPaPLEUnsxO/NaZerJ/VHjd5wuPASTBUVdAqsM4HcgHhyN03rS
-C8AfaSnsHbl6M/9bfQSzUEqcpA3/MnND4FsmVLZJGjolU5lq/tCC7Xv1+V8wtDbBAlwCVkiMdgfx
-Cu1FHRsw+NILAAjxyHvcO/a5+uc7L+nl9T4qwDsR6lWOnei4VfeiyGHv06MmyIebtno96PHxRvPp
-Jl995Xg1w8mBsKwAUWk2AEDre3CJlYAstOrxTgruZhaDPU818IYbiR8xRA49fGBp3Hq0VtnXblrB
-z2899fbp9oPJImmzHDZLEBVgislBkgc76pXakSbd8ejRDynPqBbqNNSoK0i/MgyFlfCZDeWZSaXR
-jhrgy0lIt0GCeB5SX7gkfi/1LDF0Iunn7LheauCObTdsk8tgUxltuo/Ed4VxyxbimMCYzRZR8XaV
-yy8RZAUUePw0U1v/BXstQj2R65bnZl/zyYAf1q2pH7Bq86ffZYr3v2Gr0t349YSwSwDE6/nngMvg
-XCOesU2m32XNQFAQtBORZafdl/2WjCVFaRAkUx7Zw1GTg2wMlYax3bl7XyxqEHJJmnf9GY9u9lmA
-S6QNVS2AshV9Gj3gBztbFljJiRsJyMhZxL8HIAnEp9qjNSBkFaAJavcBndAIyGNjU4KQlPXl0SAO
-mtbM26CEyHuEESSdYKIUuLUn+7FEjB+pmeCK3XN+QNgR6uv9QCYMdSSq6JOin1McD4IYpeUk8z8h
-UH9h5QruwRJDzfv2WUNBsCaxynKq2JgIdfKK28rEpMe1+jS2RU0mwrm2AgblrF6dhdJfAcWqPsgD
-Bv4qnvNZbixs8rl2To+WJ+eQbzBpybwdXiYTwoo8fdxOB1fZQxKnSO/+d88OM95mzyMuu5duzDQg
-zFmXOtHJb4shEvnSxYn7KtQmuP/nU2I6+mISE+BsyXsdy+O+dcuKIXhQgU7YZWVhaqjenr/9tHwa
-1F/CK9Xjs26KRPaGBISoIgNMgSontEozhA2C7EMlJEsTGYx0B3Z0q4uYJHKveBdELXwOmEmt4d4q
-4hU0jRPqFjml1DYCa1J7TwmUB3CiEauGRhIAGhxZrKI8dLlkjl/r0HpKWs8oUyAM861StLCU1ft+
-5w2RiwztnYnmHYz+4e7n9PUBI2pZEP6Fwni6afsYXhED98GNYK3iXYwC6g+7vG4Qt1rwKE/HClUW
-Ap97M9vroBj3MhCkeMghHQ/eFSwOdjlFXQIM9XDOp8/Pig2JysLnY5KXvoLiN50/pvPS5tUZMDnI
-XZFTNPSVRCKM+fV7ckzTlkXATvhrIE9cSlAs/IOlDCR7MM2kjX+6R5768NBj9OLJzRPkVKKjLkS2
-r0AskuCQWgYv42kXr3Lo/wGBKKuPMtmuftUFn2mlY+NHsfuzbOMwxukh/UizJXg6Ovnh49+PfFPi
-07jauXWwH1KCQ9xo8ehl3hFc3HYC+XgQYWamdCsdSTCvPd3uHXzvjt8ehDqfcce6MsvEiIGpnnyl
-zlEqyPtKK9AvK34ZtF8JXhWaBfi03EE/Y4h5QZzMhqAJ/6E6pWs5Sprgb7I0z7/A2lL1szD0ldUM
-/8k3lb1MvlTnjImsz4fbrQ88vQvAMKkGOz14PFY5Hd1vaCVrec/LyGSm0gsHW+KJAFtkDeSxgGL2
-mSPxKCkD+s04wqwly81dLVeqrspJtGqJWUtmMn/cr0tc+zIwTHsGqUtE9CA/j06wzqNN+vYzXjFk
-AG/767EMSQwyAAoPUGJz6tNTk6Bh/TYjOovoecgoPWJuUmeRARAJ0+NYkYpv6dWrIpc0TZ4+wikR
-LPTrgr5hGuNQgcjptAgj5/6QqC/t2npOWG21zT4PEtP24660dbz4N9Hso86HJcf5zJqdLLBuLfMt
-Jw0bbfRy1gl4uzm7E0Qc3+J83GFWSGY/3GFGb97uMwOp/2MQP/oQHL9gr8Y1UJ8m6rgkhopkWtui
-UvLIah3ZYDjb1rnAYYngSFl0Syc6snFHwrHZnO5jX0sBTjAZ4wn9T0oX5Ho02HfBAaEQ/CsK03do
-OYVQVVYj2bJrDsfOoFDCj4Ngjt91VwfTUs15snyAXduul/dZ5Gb3LIgJo/IjoithLd0XKckEc6+d
-7wkFuyYKep6wz3b02U/MSz1v4wEM7+nIkYzCx1mFgAgSft6iu5hpH4hYsoTGEw+aeY45LI0m7TT+
-9MYEPbpToDBAx5XjRbqZlrggNo5BuxN2R+Pm1rI9ugfrxK0ot5c8hWUKoykyi/Nen9+t1eJfVeLU
-JoU1OyQK76W+X4QR4Ilzy0NX4FRvtm63V5SQ0Gf9rkYFXAAaK+3AeACTYxfBaMh9ABXadY3xQZei
-YHj7XXeXV85AW4InXGi8/nzPim4p72UfgqLmmEY/oebQPI2I8mRbL4Lh40L/w0rKv/I2fY3wLhNf
-P2jH682Ab0kw2OcP2ZSCVBhu1MaAvkIB998dUEQEV3ikS8gA3RqsCZRfR49Ek0TRH12ciB/WFcPc
-UJG3rofCsV1nXw2mBjHedsIV86StYew7L/JXgs/wiace1sY25aJsxHj01rTF2rKLcG/YYpYnOE8O
-pBGfOSvEbi/rDCSnzZlw8GtBIKT/vDq6mYPhkkW1pecfjdOT7j0M6fEBqLtR81bzg1sHndvFcqkF
-IBqwlkNIhMpxeM95wpVcWi8XzvWtnPu9chmJ26yxZoChxhW7YlOju32PEIGekAE+U2sI7E0ltsVo
-jXGtbinPhS5xSvHsUpvtP9hQpAMlOmVv3418KeG39KHQAjnRLUvAZ8Wx0zzGiHeJZ4Yki5Mod7es
-sCQqLUe/zvsYatJe4nrKOTeo5u1yWdYtntStYpFIGNDpNV/3v1vzQhaPZONDKf7yFoigy42X8mwu
-BMANdFP+iFbeSkicfikEUPnkSv8JGfveBZvyWR7d1aYH5Hx8GMk5+XS17cd0zo2e9YO4nx4hstOA
-8NfSRFxCWnAMGV/2BKDyHlW6S/Vvg7eWMRikMblzuOw71KdVj534Axxu8fFapVjogLCBTCs8CNoI
-aVhizYV0zgqfcRk6lLPupqeYSuouCalqAaNjaPsHkrjtGQfzqQxRR/RW3dDY3kmINqS5EiW8phul
-KrT/bKOzIrFgXhHfyo1HyZRp+W7tVWdD9A8Wmg/vtvf7OyNKxC0rZVQI4pEp4WWAyHL/dpcF/T+O
-lFlp0XOHSMXHdVyZ+6Ir43WqeMnuYMHv/jXPDycK/F+Hm5/jNLhcMms5idmXJ4zXksAI1zx/7Gu+
-tju0OWTaAH/J23u0zzi5r5GUSTDddAwd9BPwPk70uYFev4XKIdDsu5VzuZkcobB2ESqSAlaKD5jm
-JNGNqlVmsrolT1WeGsVKxBGWjWtNCr4C4iRxfcLMkb7WnUl9AllGRAfmJKOHQbjVOYzGYHvktmpy
-6ad15OMZ6sNCZUH0+M5hTg1LTCrzF+wd6WWtVic2YTXJ4y3sL7muNllg9Ob2Kn6oTIs0/uDRJ92V
-FHtR4sDz/ABWxi1HwDczvTULHpKoOStQ/Ip4XTOZeKVdjkAcYn7Rc6vnLN8IbCarmUMlfmyB6Kmr
-uA4OtKR3RhFVo80GO/SIWUobPsfYKcEJeaDI43arJjlePqJJlAbfYcfzu7lCLyyoSIVPsNpRHg61
-15X7Ru2MxisgWZve3DCOZSlPsEf5jQ0shThgycPTHmcvKdUD+uQz0UKYdlz3D9IfSPoEcHKV90YR
-M2RywF2ID5SmonZdZb1xmAVnhyK9UFZOhrjFj2d//ZeRmJ0PEcXhSamqtjP2ELgqT/ur4KIJ7v68
-7EAN/ndMJ7AE+j4CLEbrXGIVz7L0FUCQiBfepg/Sm3YDprJQTdGYHGodB6OOWtikfMfLU4Arqn2E
-Ng3BLxwUFpYyW7+9cR3dBMNEcKBqEjTcNDvWUoPf8oFoXUYZGM7kY3NA5biDL21aFL7a+08o3ueE
-hXAZvxooJ3lt7FS651tquKX1QwjvM+2VnNmdYFvSGZgL1tZ4sbBrucmW4eE1dkyAhrfcRHqa6Rxn
-z4Utagq1cbzqMitkJPZJa/vLs6KRmMbE+131iA4OextvbRpmQ52txDQ5Ug+KwvyF3gQ4H/yvGXvZ
-S1VgEaULQ/rOPVxlCaQU2Ua3jCZ6kyKRIv2tHLnEaW2VMCaDwsdVrZ/GjtsC9lz3Z2/E4bo7IRzT
-pmDtOJuY3GgNyAAxXnU87Y//PwiDu8Vx0IyEEYik/xjYghAY8lN+oFl9AzmN1rpiC6ZOo7hExW9K
-E8sLKdQAIwmNJiJM
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF\Data;
+
+class InvoiceItem
+{
+    /** @var string */
+    private $itemSequenceNumber;
+    /** @var string */
+    private $buyerProductIdentifier;
+    /** @var string */
+    private $vendorProductIdentifier;
+    /** @var Quantity */
+    private $invoicedQuantity;
+    /** @var Price */
+    private $netCost;
+    /** @var string */
+    private $purchaseOrderNumber;
+    /** @var TaxDetails */
+    private $taxDetails;
+
+    public function getItemSequenceNumber(): string
+    {
+        return $this->itemSequenceNumber;
+    }
+
+    public function setItemSequenceNumber(string $itemSequenceNumber): self
+    {
+        $this->itemSequenceNumber = $itemSequenceNumber;
+
+        return $this;
+    }
+
+    public function getBuyerProductIdentifier(): string
+    {
+        return $this->buyerProductIdentifier;
+    }
+
+    public function setBuyerProductIdentifier(string $buyerProductIdentifier): self
+    {
+        $this->buyerProductIdentifier = $buyerProductIdentifier;
+
+        return $this;
+    }
+
+    public function getVendorProductIdentifier(): string
+    {
+        return $this->vendorProductIdentifier;
+    }
+
+    public function setVendorProductIdentifier(string $vendorProductIdentifier): self
+    {
+        $this->vendorProductIdentifier = $vendorProductIdentifier;
+
+        return $this;
+    }
+
+    public function getInvoicedQuantity(): Quantity
+    {
+        return $this->invoicedQuantity;
+    }
+
+    public function setInvoicedQuantity(Quantity $invoicedQuantity): self
+    {
+        $this->invoicedQuantity = $invoicedQuantity;
+
+        return $this;
+    }
+
+    public function getNetCost(): Price
+    {
+        return $this->netCost;
+    }
+
+    public function setNetCost(Price $netCost): self
+    {
+        $this->netCost = $netCost;
+
+        return $this;
+    }
+
+    public function getPurchaseOrderNumber(): string
+    {
+        return $this->purchaseOrderNumber;
+    }
+
+    public function setPurchaseOrderNumber(string $purchaseOrderNumber): self
+    {
+        $this->purchaseOrderNumber = $purchaseOrderNumber;
+
+        return $this;
+    }
+
+    public function getTaxDetails(): TaxDetails
+    {
+        return $this->taxDetails;
+    }
+
+    public function setTaxDetails(TaxDetails $taxDetails): self
+    {
+        $this->taxDetails = $taxDetails;
+
+        return $this;
+    }
+
+    public function toArray()
+    {
+        return [
+            'purchaseOrderNumber' => $this->purchaseOrderNumber,
+            'itemSequenceNumber' => $this->itemSequenceNumber,
+            'invoicedQuantity' => $this->invoicedQuantity->toArray(),
+            'netCost' => $this->netCost->toArray(),
+            'taxDetails' => $this->taxDetails->toArray(),
+            // not implemented yet
+            'chargeDetails' => [],
+        ];
+    }
+}

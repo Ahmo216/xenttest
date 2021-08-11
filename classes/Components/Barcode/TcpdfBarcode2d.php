@@ -1,81 +1,148 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-zzzLFTbT2/1b7YD9HNJugzFp2FyD
+<?php
+
+namespace Xentral\Components\Barcode;
+
+use TCPDF2DBarcode;
+use Xentral\Components\Barcode\Exception\BarcodeCreationFailedException;
+use Xentral\Components\Barcode\Exception\InvalidArgumentException;
+use Xentral\Components\Barcode\Exception\MissingPhpExtensionException;
+
+/**
+ * Anti-Corruption-Layer for TCPDF2DBarcode class
+ */
+final class TcpdfBarcode2d
+{
+    /** @var array $validTypes */
+    public static $validTypes = [
+        Qrcode::TYPE_DEFAULT,
+        Qrcode::TYPE_EC_LOW,
+        Qrcode::TYPE_EC_MEDIUM,
+        Qrcode::TYPE_EC_QUARTILE,
+        Qrcode::TYPE_EC_HIGH,
+    ];
+
+    /** @var TCPDF2DBarcode $barcode */
+    private $barcode;
+
+    /** @var string $codeType */
+    private $type;
+
+    /** @var string $codeText */
+    private $text;
+
+    /**
+     * @param string $type
+     * @param string $text
+     *
+     * @throws InvalidArgumentException
+     * @throws BarcodeCreationFailedException
+     */
+    public function __construct($type, $text)
+    {
+        if (empty($type)) {
+            throw new InvalidArgumentException('Could not create barcode. Required parameter "type" is empty.');
+        }
+        if (empty($text)) {
+            throw new InvalidArgumentException('Could not create barcode. Required parameter "text" is empty.');
+        }
+        if (!in_array($type, self::$validTypes, true)) {
+            throw new InvalidArgumentException(sprintf(
+                'Could not create barcode. Invalid Type: "%s". Valid types: [%s]',
+                $type,
+                implode('|', self::$validTypes)
+            ));
+        }
+
+        $barcode = new TCPDF2DBarcode($text, $type);
+        if ($barcode->getBarcodeArray() === false) {
+            throw new BarcodeCreationFailedException(sprintf(
+                'Could not create barcode. Type "%s" - Text "%s"', $type, $text
+            ));
+        }
+
+        $this->barcode = $barcode;
+        $this->text = $text;
+        $this->type = $type;
+    }
+
+    /**
+     * @return string
+     */
+    public function getText()
+    {
+        return $this->text;
+    }
+
+    /**
+     * @return string
+     */
+    public function getType()
+    {
+        return $this->type;
+    }
+
+    /**
+     * @return array
+     */
+    public function getBarcodeArray()
+    {
+        return $this->barcode->getBarcodeArray();
+    }
+
+    /**
+     * Returns the QR code as HTML representation
+     *
+     * @param int    $width  Width of a single rectangle element in pixels.
+     * @param int    $height Height of a single rectangle element in pixels.
+     * @param string $color  Foreground color for bar elements (background is transparent).
+     *
+     * @return string HTML code
+     */
+    public function getBarcodeHtml($width = 10, $height = 10, $color = 'black')
+    {
+        return $this->barcode->getBarcodeHTML($width, $height, $color);
+    }
+
+    /**
+     * Returns the QR code as SVG document
+     *
+     * @param int    $width  Width of a single rectangle element in user units
+     * @param int    $height Height of a single rectangle element in user units
+     * @param string $color  Foreground color (in SVG format) for bar elements (background is transparent)
+     *
+     * @return string SVG document
+     */
+    public function getBarcodeSvg($width = 10, $height = 10, $color = 'black')
+    {
+        return $this->barcode->getBarcodeSVGcode($width, $height, $color);
+    }
+
+    /**
+     * Returns the QR code as PNG image (requires GD or Imagick library)
+     *
+     * @param int   $width  Width of a single rectangle element in pixels
+     * @param int   $height Height of a single rectangle element in pixels
+     * @param array $color  RGB-Array (0-255) foreground color for bar elements (background is transparent)
+     *
+     * @throws MissingPhpExtensionException If gd and imagick extension missing
+     * @throws BarcodeCreationFailedException
+     *
+     * @return string Image as string
+     */
+    public function getBarcodePng($width, $height, $color = [0, 0, 0])
+    {
+        $imageData = $this->barcode->getBarcodePngData($width, $height, $color);
+        if (!function_exists('imagecreate') && !extension_loaded('imagick')) {
+            throw new MissingPhpExtensionException(
+                'Barcode image creation failed. PHP extension "gd" or "imagick" is required; both missing.'
+            );
+        }
+        if ($imageData === false) {
+            throw new BarcodeCreationFailedException(
+                'Barcode image creation failed. Unknown error.'
+            );
+        }
+
+        return $imageData;
+    }
+}

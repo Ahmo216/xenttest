@@ -1,39 +1,34 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP+Rhp1kMDpLSA5fPE0/7dF6ojnD2xeifDkZODmK9kwPQSvuuCL2Tac4Ngt288lOxg/mYcMg9
-YEwYGOtcQJlng+wDCQi6V6gAx/chXgni99q7zebA47b8DwC+iSZBVMrCLWbXoUzSUFRXjCAdMWNg
-Mejqe8bvqpUZdPgRJ/cIrnFKu8VyuBW9zAbfr+Dri7L9m84c+mhz6wmagBXW35E4Y3VeDfoNbbQy
-2uaiUrZ9T18xy5n9e9qGfhpi0g4e7N4Wv82QyILHBFNPBYFQjJ9Y3jfOwxL/QNjhk8TLyi7A+VdB
-+eGOl42nnkHpRgpIcGxCCmJCl2P8Q9AopKZg/iS1EQcdrtYm2G+Y8wIGkx+TA51FIHpappIIL3SA
-9Y2G1P9MgixQhA9eyv4HBAaDCs8jUogipg0YihltJVVIpnCig/9ANm9yrOr3kqULkcBKKXIpu6CW
-Uyo4nVllAZrnqVhNt8tbCij8yRpoT6UKO8C7SLIKpuFHcjiXvBNXsvRyWXcDJeG9busvn0zDTzrm
-qnmpIMhpjP4Znsu0eunY37zk5Oas4p5ba0DB95PjrLLFPYB5aO8sg1i4f1fgrGqBW9FaKDuAsI84
-qY3qSWO5E/b9QzmuJ5/EK52DRPJRnR0kRF9be+F21on+uVSDoBQPpCVWBQjabRbWSo6M+mJrZWXS
-6qdGUe1G1l1Bz+dNpfZpYBb17yadkSxt8Tk1fHaGjDw/kM90UWYbH65a6CPpxv/IGbWAWl44/iXd
-XQ7h+vWv4J6W7HlJoS1ZUOKnUpGsrQbg4pAe4bGVk7pNT1RNiiyOSZqwgLv6BqitoJEgUQNIlki0
-aNfCMy7RcJqdtG8e795Zrb1TSju94dZQLPp2/Xit5JLyhEtMCFrNmO/SBOnkeWPvzc/hRifTgTIZ
-X0Sp2C8btZiCqqiF3SKF4jBTGn6/D4q6+x4cDhUFpbDxDnyZvVoCToPcDS5wTaE3Y+FHbqr+RYiM
-BOk0kXonPQu/zb9R8kXtmAjx5QSSU5btisU+q3fFJ2jrTOfFho8HRMETKK96UeR0kb9HQZzjGuW1
-/kzjobc2ivquM8f3MuRQ5bXEaP/H+/pP7BXaGrU4IF/tlNbxOL1Os9aOdEhiHkjCsh6+nzhUuFlD
-YXm80Pg6p+yrprLgo72cSoJEl4qauiplQYfkxTIyJplPN8age3Ap6k2myM7xeOuaiDxWv8MsV+qD
-pRVWe0sMcet9bWm7tDKrYazxdbNqAYWVlDFT8Dhvw6LekonNh3cVUO5x9SwX6+c/8tLO9xBBIhsN
-+whsSkWf/WNGWxXKs34BOIHwA9UtfAM3rwTZw1alBOKEKIoYiU6vAnKNoC89jg6dK0rgpnwyK49X
-ccxD72IZLS2/SamQXj+uavUnBL/YzH1N9Mv1GmbcVILLc7KoBjGTvodnz6aOwjzINvPYgy8ZdeH/
-qdHa/pfBYd1Eh9Uus7GGj8eCVMzTtKL4SX40w1L2TLNq4PhU3BUv7X7TiYPrg/Es2ZReoOrjZBSu
-Iz6AI6RKumqHwZbYyOOzB/eXecbT5hQFaweBlfc54vwx9rDGVwpuCMjtqYgxEVL7QfiimwgnvzRk
-F/OU5VGScn6gUQFl/dmVIQ2U8FiWEr9O2RrF8Yxv9UlL+3HSLuwoIS5wyyL6Vfrd0isOl+Lkr5Kr
-PpTq0P/GmOyH0J4vjY69raMbTK/n+h8/dszascHqeeB8uzreoWbwLZiPsI6sxaZfa4/ymfYt4YXt
-C7H+y/76dFg30Ad8frdIY9mSYdgWHxtxO6wTbqTDSrB/9swpTzoH0+FOjZqBHFYZUHEChGqnqIl9
-HVfqPv5rdlmZXihjzzD1itEEiZOAKiCO1c2bG+LwQYbw9cyC/XtgAjLhB7xLXvxTHvEnHr4BTbfr
-fRF7z5Kj/UYDlfIzjD9GFuPjcP2KSlW46t+kinlFGsBWOIvERoCBRMOnliW8APYrbVZzRDKTrWVz
-kCoj6/ntZzDvstSEZuwDM3jq6d/fr4S/+5f0VDHq7rPHvntzdRH7wKhpGTHr6pi/LSJwPg13KM7u
-3TvAWoKq7gX+Ip5PE5fiXMVCzuBObnUDPJi6Lq5vpOTwi0ijrqYuWAUXIHf6wRuV7y4evKh63hCN
-NG4sDl+xaSqp2oZyX70CFyUm0MbA7ICkX5n6xBoex9iteTnzAmkGnTe8QOu6rPnam3OGWeW792yc
-WTi3SiMqjI6raG1ImyRsGPJFe27X6X1MJHp8mvbDnxEBjfRaLI0fNEWFEBfxSm5RrdzebUDgFRVU
-398t+HdAalUqziIzTKAGf51WM9zIuIIIuZGhTZED6JkgxmsYHJGCXCJj5VQAWmdGvNlAG0npkcei
-W4W0G2UC/YBqpxlwVSZH2F5qGKIGV8bafLcbNGFTeKnOOfzkoc7Q4/TVM7/1nzzfOxlipMj240wW
-wPe0ndpcA9ihCWtqkIhbqk/cdI4TO5gfg5zq3h2g2EjegTCCP0uKOxgFUWcbs2/tpklh/IRtWGR0
-D9qXS+ZLkowyuHHg6ShJMwcToA92vgNiXiLLo0ZkjftH2x3YtZaXd2RV/te8T95GanUlimphm+qk
-JVH2s1zlFOow6Kp2zcideVrrXegBKod1YxrApQkJ4j9BarurDhOS9tc3eNKLnNGr9bkeH6yqlf0d
-Q9Rr0qm847MEFogSANfTl65wFz0OplRjSJTEc+iQGgEx6rTmO0==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\CarrierSelect\Data\Comparator;
+
+
+final class ValueIsNotEmptyComparator implements FilterComparatorInterface
+{
+    /**
+     * @return string
+     */
+    public function getName(): string
+    {
+        return 'not_empty';
+    }
+
+    /**
+     * @param array $filterValues
+     * @param array $values
+     *
+     * @return bool
+     */
+    public function matches(array $filterValues, array $values): bool
+    {
+        foreach ($values as $value) {
+            if (!empty($value)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+}

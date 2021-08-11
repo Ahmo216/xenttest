@@ -1,52 +1,75 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Aj8ZVTw58BkS9PosP5M3lTB6X+C=
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF\Data;
+
+class Container
+{
+    /** @var string */
+    private $containerType;
+    /** @var string */
+    private $containerIdentifier;
+    /** @var string */
+    private $length;
+    /** @var string */
+    private $width;
+    /** @var string */
+    private $height;
+    /** @var string */
+    private $unitOfMeasure;
+    /** @var array */
+    private $items = [];
+
+    public function __construct(string $containerIdentifier, string $containerType = 'carton')
+    {
+        $this->containerIdentifier = $containerIdentifier;
+        $this->containerType = $containerType;
+    }
+
+    public function setDimensions(string $length, string $width, string $height, string $unitOfMeasure = 'CM')
+    {
+        $this->length = $length;
+        $this->width = $width;
+        $this->height = $height;
+        $this->unitOfMeasure = $unitOfMeasure;
+    }
+
+    public function addItem(
+        string $itemSequenceNumber,
+        string $buyerProductIdentifier,
+        string $vendorProductIdentifier,
+        Quantity $packedQuantity
+    ) {
+        $quantity = $packedQuantity->toArray();
+        unset($quantity['unitSize']);
+        $this->items[] = [
+            'itemSequenceNumber'      => (int)$itemSequenceNumber,
+            'buyerProductIdentifier'  => $buyerProductIdentifier,
+            'vendorProductIdentifier' => $vendorProductIdentifier,
+            'packedQuantity'          => $quantity,
+        ];
+    }
+
+    public function getItems(): array
+    {
+        return $this->items;
+    }
+
+    public function toArray()
+    {
+        return [
+            'containerType'       => $this->containerType,
+            'containerIdentifier' => $this->containerIdentifier,
+            'dimensions'          => [
+                'length'        => $this->length,
+                'width'         => $this->width,
+                'height'        => $this->height,
+                'unitOfMeasure' => $this->unitOfMeasure,
+            ],
+            'weight'              => [
+                'unitOfMeasure' => 'KG',
+                'value'         => '1',
+            ],
+            'packedItems'         => $this->items,
+        ];
+    }
+}

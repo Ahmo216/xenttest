@@ -1,50 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php 
+
+class GenUservorlage { 
+
+  function __construct(&$app) { 
+
+    $this->app=&$app;
+    $this->app->ActionHandlerInit($this);
+
+    $this->app->ActionHandler("create","UservorlageCreate");
+    $this->app->ActionHandler("edit","UservorlageEdit");
+    $this->app->ActionHandler("copy","UservorlageCopy");
+    $this->app->ActionHandler("list","UservorlageList");
+    $this->app->ActionHandler("delete","UservorlageDelete");
+
+    $this->app->Tpl->Set("HEADING","Uservorlage");    //$this->app->ActionHandlerListen($app);
+  }
+
+  function UservorlageCreate(){
+    $this->app->Tpl->Set("HEADING","Uservorlage (Anlegen)");
+      $this->app->PageBuilder->CreateGen("uservorlage_create.tpl");
+  }
+
+  function UservorlageEdit(){
+    $this->app->Tpl->Set("HEADING","Uservorlage (Bearbeiten)");
+      $this->app->PageBuilder->CreateGen("uservorlage_edit.tpl");
+  }
+
+  function UservorlageCopy(){
+    $this->app->Tpl->Set("HEADING","Uservorlage (Kopieren)");
+      $this->app->PageBuilder->CreateGen("uservorlage_copy.tpl");
+  }
+
+  function UservorlageDelete(){
+    $this->app->Tpl->Set("HEADING","Uservorlage (L&ouml;schen)");
+      $this->app->PageBuilder->CreateGen("uservorlage_delete.tpl");
+  }
+
+  function UservorlageList(){
+    $this->app->Tpl->Set("HEADING","Uservorlage (&Uuml;bersicht)");
+      $this->app->PageBuilder->CreateGen("uservorlage_list.tpl");
+  }
+
+} 
+?>

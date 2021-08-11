@@ -1,218 +1,636 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Datanorm\Data;
+
+final class DatanormATypeData extends AbstractDatanormTypeData implements DatanormTypeDataInterface
+{
+    /** @var string $workflowState */
+    protected $workflowState = '';
+
+    /** @var string $articleNumber */
+    protected $articleNumber = '';
+
+    /** @var string $shortDescription1 */
+    protected $shortDescription1 = '';
+
+    /** @var string $shortDescription2 */
+    protected $shortDescription2 = '';
+
+    /** @var string $matchcode */
+    protected $matchcode = '';
+
+    /** @var string $ean */
+    protected $ean = '';
+
+    /** @var string $discountGroup */
+    protected $discountGroup = '';
+
+    /** @var string $mainProductGroup */
+    protected $mainProductGroup = '';
+
+    /** @var string $productGroup */
+    protected $productGroup = '';
+
+    /** @var string $minimumPackageAmount */
+    protected $minimumPackageAmount = '';
+
+    /** @var string $priceMark */
+    protected $priceMark = '';
+
+    /** @var float $price */
+    protected $price = 0.0;
+
+    /** @var int $priceAmount */
+    protected $priceAmount = 0;
+
+    /** @var string $packingUnit */
+    protected $packingUnit = '';
+
+    /** @var string $producerToken1 */
+    protected $producerToken1 = '';
+
+    /** @var string $producerToken2 */
+    protected $producerToken2 = '';
+
+    /** @var string $producerToken3 */
+    protected $producerToken3 = '';
+
+    /** @var string $altArticleNumber */
+    protected $altArticleNumber = '';
+
+    /** @var string $producerModel */
+    protected $producerModel = '';
+
+    /** @var string $connectionNumber */
+    protected $connectionNumber = '';
+
+    /** @var string $cataloguePage */
+    protected $cataloguePage = '';
+
+    /** @var string $longDecriptionKey */
+    protected $longDecriptionKey = '';
+
+    /** @var string $costType */
+    protected $costType = '';
+
+    /** @var string $articleType */
+    protected $articleType = '';
+
+    /** @var string $referenceNumber */
+    protected $referenceNumber = '';
+
+    /** @var int $mwstType */
+    protected $mwstType = 1;
+
+    /** @var string $textkey */
+    protected $textkey = '';
+
+    /** @var string $producerNumber */
+    protected $producerNumber = '';
+
+    /**
+     * Values : N:Neuanlage, L:Löschung, A:Änderung, X:Artikelnummernänderung
+     *
+     * @return string
+     */
+    public function getWorkflowState(): string
+    {
+        return $this->workflowState;
+    }
+
+    /**
+     * @return string
+     */
+    public function getArticleNumber(): string
+    {
+        return $this->articleNumber;
+    }
+
+    /**
+     * @return string
+     */
+    public function getShortDescription1(): string
+    {
+        return $this->shortDescription1;
+    }
+
+    /**
+     * @return string
+     */
+    public function getShortDescription2(): string
+    {
+        return $this->shortDescription2;
+    }
+
+    /**
+     * @return string
+     */
+    public function getMatchcode(): string
+    {
+        return $this->matchcode;
+    }
+
+    /**
+     * @return string
+     */
+    public function getEan(): string
+    {
+        return $this->ean;
+    }
+
+    /**
+     * @return string
+     */
+    public function getDiscountGroup(): string
+    {
+        return $this->discountGroup;
+    }
+
+    /**
+     * @return string
+     */
+    public function getMainProductGroup(): string
+    {
+        return $this->mainProductGroup;
+    }
+
+    /**
+     * @return string
+     */
+    public function getProductGroup(): string
+    {
+        return $this->productGroup;
+    }
+
+    /**
+     * @return string
+     */
+    public function getMinimumPackageAmount(): string
+    {
+        return $this->minimumPackageAmount;
+    }
+
+    /**
+     * Values: 1:Listenpreis, 2:Nettopreis
+     *
+     * @return string
+     */
+    public function getPriceMark(): string
+    {
+        return $this->priceMark;
+    }
+
+    /**
+     * @return float
+     */
+    public function getPrice(): float
+    {
+        return $this->price;
+    }
+
+    /**
+     * @return int
+     */
+    public function getPriceAmount(): int
+    {
+        return $this->priceAmount;
+    }
+
+    /**
+     * @return string
+     */
+    public function getPackingUnit(): string
+    {
+        return $this->packingUnit;
+    }
+
+    /**
+     * @return string
+     */
+    public function getProducerToken1(): string
+    {
+        return $this->producerToken1;
+    }
+
+    /**
+     * @return string
+     */
+    public function getProducerToken2(): string
+    {
+        return $this->producerToken2;
+    }
+
+    /**
+     * @return string
+     */
+    public function getProducerToken3(): string
+    {
+        return $this->producerToken3;
+    }
+
+    /**
+     * @return string
+     */
+    public function getAltArticleNumber(): string
+    {
+        return $this->altArticleNumber;
+    }
+
+    /**
+     * @return string
+     */
+    public function getProducerModel(): string
+    {
+        return $this->producerModel;
+    }
+
+    /**
+     * @return string
+     */
+    public function getConnectionNumber(): string
+    {
+        return $this->connectionNumber;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCataloguePage(): string
+    {
+        return $this->cataloguePage;
+    }
+
+    /**
+     * @return string
+     */
+    public function getLongDecriptionKey(): string
+    {
+        return $this->longDecriptionKey;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCostType(): string
+    {
+        return $this->costType;
+    }
+
+    /**
+     * Values: 1:Lagerartikel, 2:Bestellartikel
+     *
+     * @return string
+     */
+    public function getArticleType(): string
+    {
+        return $this->articleType;
+    }
+
+    /**
+     * @return string
+     */
+    public function getReferenceNumber(): string
+    {
+        return $this->referenceNumber;
+    }
+
+    /**
+     * Values: 1:normal 2:erhöht 3:reduziert
+     *
+     * @return int
+     */
+    public function getMwstType(): int
+    {
+        return $this->mwstType;
+    }
+
+    /**
+     * Values: 0:'KT1 + KT2', 1:'LT + KT2', 2:'KT1 + DT', 3: 'LT + DT', 4:'KT1 + KT2 + LT', 5:'KT1 + KT2 + DT', 6: 'KT1
+     * + KT2 + LT + DT' KT1 = $shortDescription1, KT2 = $shortDescription2
+     *
+     * @return string
+     */
+    public function getTextkey(): string
+    {
+        return $this->textkey;
+    }
+
+    /**
+     * @return string
+     */
+    public function getProducerNumber(): string
+    {
+        return $this->producerNumber;
+    }
+
+    /**
+     * Values : N:Neuanlage, L:Löschung, A:Änderung, X:Artikelnummernänderung
+     *
+     * @param string $workflowState
+     */
+    public function setWorkflowState(string $workflowState): void
+    {
+        $this->workflowState = $workflowState;
+    }
+
+    /**
+     * @param string $articleNumber
+     */
+    public function setArticleNumber(string $articleNumber): void
+    {
+        $this->articleNumber = $articleNumber;
+    }
+
+    /**
+     * @param string $shortDescription1
+     */
+    public function setShortDescription1(string $shortDescription1): void
+    {
+        $this->shortDescription1 = $shortDescription1;
+    }
+
+    /**
+     * @param string $shortDescription2
+     */
+    public function setShortDescription2(string $shortDescription2): void
+    {
+        $this->shortDescription2 = $shortDescription2;
+    }
+
+    /**
+     * @param string $matchcode
+     */
+    public function setMatchcode(string $matchcode): void
+    {
+        $this->matchcode = $matchcode;
+    }
+
+    /**
+     * @param string $ean
+     */
+    public function setEan(string $ean): void
+    {
+        $this->ean = $ean;
+    }
+
+    /**
+     * @param string $discountGroup
+     */
+    public function setDiscountGroup(string $discountGroup): void
+    {
+        $this->discountGroup = $discountGroup;
+    }
+
+    /**
+     * @param string $mainProductGroup
+     */
+    public function setMainProductGroup(string $mainProductGroup): void
+    {
+        $this->mainProductGroup = $mainProductGroup;
+    }
+
+    /**
+     * @param string $productGroup
+     */
+    public function setProductGroup(string $productGroup): void
+    {
+        $this->productGroup = $productGroup;
+    }
+
+    /**
+     * @param string $minimumPackageAmount
+     */
+    public function setMinimumPackageAmount(string $minimumPackageAmount): void
+    {
+        $this->minimumPackageAmount = $minimumPackageAmount;
+    }
+
+    /**
+     * Values: 1:Listenpreis, 2:Nettopreis
+     *
+     * @param string $priceMark
+     */
+    public function setPriceMark(string $priceMark): void
+    {
+        $this->priceMark = $priceMark;
+    }
+
+    /**
+     * @param float $price
+     */
+    public function setPrice(float $price): void
+    {
+        $this->price = $price;
+    }
+
+    /**
+     * @param int $priceAmount
+     */
+    public function setPriceAmount(int $priceAmount): void
+    {
+        $this->priceAmount = $priceAmount;
+    }
+
+    /**
+     * @param string $packingUnit
+     */
+    public function setPackingUnit(string $packingUnit): void
+    {
+        $this->packingUnit = $packingUnit;
+    }
+
+    /**
+     * @param string $producerToken1
+     */
+    public function setProducerToken1(string $producerToken1): void
+    {
+        $this->producerToken1 = $producerToken1;
+    }
+
+    /**
+     * @param string $producerToken2
+     */
+    public function setProducerToken2(string $producerToken2): void
+    {
+        $this->producerToken2 = $producerToken2;
+    }
+
+    /**
+     * @param string $producerToken3
+     */
+    public function setProducerToken3(string $producerToken3): void
+    {
+        $this->producerToken3 = $producerToken3;
+    }
+
+    /**
+     * @param string $altArticleNumber
+     */
+    public function setAltArticleNumber(string $altArticleNumber): void
+    {
+        $this->altArticleNumber = $altArticleNumber;
+    }
+
+    /**
+     * @param string $producerModel
+     */
+    public function setProducerModel(string $producerModel): void
+    {
+        $this->producerModel = $producerModel;
+    }
+
+    /**
+     * @param string $connectionNumber
+     */
+    public function setConnectionNumber(string $connectionNumber): void
+    {
+        $this->connectionNumber = $connectionNumber;
+    }
+
+    /**
+     * @param string $cataloguePage
+     */
+    public function setCataloguePage(string $cataloguePage): void
+    {
+        $this->cataloguePage = $cataloguePage;
+    }
+
+    /**
+     * @param string $longDecriptionKey
+     */
+    public function setLongDecriptionKey(string $longDecriptionKey): void
+    {
+        $this->longDecriptionKey = $longDecriptionKey;
+    }
+
+    /**
+     * @param string $costType
+     */
+    public function setCostType(string $costType): void
+    {
+        $this->costType = $costType;
+    }
+
+    /**
+     * Values: 1:Lagerartikel, 2:Bestellartikel
+     *
+     * @param string $articleType
+     */
+    public function setArticleType(string $articleType): void
+    {
+        $this->articleType = $articleType;
+    }
+
+    /**
+     * @param string $referenceNumber
+     */
+    public function setReferenceNumber(string $referenceNumber): void
+    {
+        $this->referenceNumber = $referenceNumber;
+    }
+
+    /**
+     * Values: 1:normal 2:erhöht 3:reduziert
+     *
+     * @param int $mwstType
+     */
+    public function setMwstType(int $mwstType): void
+    {
+        $this->mwstType = $mwstType;
+    }
+
+    /**
+     * Values: 0:'KT1 + KT2', 1:'LT + KT2', 2:'KT1 + DT', 3: 'LT + DT', 4:'KT1 + KT2 + LT', 5:'KT1 + KT2 + DT', 6: 'KT1
+     * + KT2 + LT + DT' KT1 = $shortDescription1, KT2 = $shortDescription2
+     *
+     * @param string $textkey
+     */
+    public function setTextkey(string $textkey): void
+    {
+        $this->textkey = $textkey;
+    }
+
+    /**
+     * @param string $producerNumber
+     */
+    public function setProducerNumber(string $producerNumber): void
+    {
+        $this->producerNumber = $producerNumber;
+    }
+
+    /**
+     * @return array
+     */
+    public function jsonSerialize(): array
+    {
+        return [
+            'workflowState'        => $this->workflowState,
+            'articleNumber'        => $this->articleNumber,
+            'shortDescription1'    => $this->shortDescription1,
+            'shortDescription2'    => $this->shortDescription2,
+            'matchcode'            => $this->matchcode,
+            'ean'                  => $this->ean,
+            'discountGroup'        => $this->discountGroup,
+            'mainProductGroup'     => $this->mainProductGroup,
+            'productGroup'         => $this->productGroup,
+            'minimumPackageAmount' => $this->minimumPackageAmount,
+            'priceMark'            => $this->priceMark,
+            'price'                => $this->price,
+            'priceAmount'          => $this->priceAmount,
+            'packingUnit'          => $this->packingUnit,
+            'producerToken1'       => $this->producerToken1,
+            'producerToken2'       => $this->producerToken2,
+            'producerToken3'       => $this->producerToken3,
+            'altArticleNumber'     => $this->altArticleNumber,
+            'producerModel'        => $this->producerModel,
+            'connectionNumber'     => $this->connectionNumber,
+            'cataloguePage'        => $this->cataloguePage,
+            'longDecriptionKey'    => $this->longDecriptionKey,
+            'costType'             => $this->costType,
+            'articleType'          => $this->articleType,
+            'referenceNumber'      => $this->referenceNumber,
+            'mwstType'             => $this->mwstType,
+            'textkey'              => $this->textkey,
+            'producerNumber'       => $this->producerNumber,
+        ];
+    }
+
+    /**
+     * @param string $data
+     */
+    public function fillByJson(string $data): void
+    {
+        $obj = json_decode($data);
+
+        $this->workflowState = $obj->workflowState;
+        $this->articleNumber = $obj->articleNumber;
+        $this->shortDescription1 = $obj->shortDescription1;
+        $this->shortDescription2 = $obj->shortDescription2;
+        $this->matchcode = $obj->matchcode;
+        $this->ean = $obj->ean;
+        $this->discountGroup = $obj->discountGroup;
+        $this->mainProductGroup = $obj->mainProductGroup;
+        $this->productGroup = $obj->productGroup;
+        $this->minimumPackageAmount = $obj->minimumPackageAmount;
+        $this->priceMark = $obj->priceMark;
+        $this->price = (float)$obj->price;
+        $this->priceAmount = (int)$obj->priceAmount;
+        $this->packingUnit = $obj->packingUnit;
+        $this->producerToken1 = $obj->producerToken1;
+        $this->producerToken2 = $obj->producerToken2;
+        $this->producerToken3 = $obj->producerToken3;
+        $this->altArticleNumber = $obj->altArticleNumber;
+        $this->producerModel = $obj->producerModel;
+        $this->connectionNumber = $obj->connectionNumber;
+        $this->cataloguePage = $obj->cataloguePage;
+        $this->longDecriptionKey = $obj->longDecriptionKey;
+        $this->costType = $obj->costType;
+        $this->articleType = $obj->articleType;
+        $this->referenceNumber = $obj->referenceNumber;
+        $this->mwstType = (int)$obj->mwstType;
+        $this->textkey = $obj->textkey;
+        $this->producerNumber = $obj->producerNumber;
+    }
+}

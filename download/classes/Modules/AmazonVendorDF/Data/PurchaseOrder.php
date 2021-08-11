@@ -1,108 +1,151 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-iThlCAS=
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF\Data;
+
+use DateTime;
+use InvalidArgumentException;
+
+class PurchaseOrder
+{
+    /** @var string */
+    private $purchaseOrderNumber;
+    /** @var DateTime|false */
+    private $purchaseOrderDate;
+    /** @var array|PurchaseOrderItem[] */
+    private $items;
+    /** @var SellingParty */
+    private $sellingParty;
+    /** @var Address */
+    private $shipToParty;
+    /** @var string */
+    private $warehouseId;
+    /** @var ShipmentDetails */
+    private $shipmentDetails;
+    /** @var array */
+    private $rawData;
+
+    public function __construct(
+        string $purchaseOrderNumber,
+        $purchaseOrderDate,
+        array $items,
+        SellingParty $sellingParty,
+        string $warehouseId,
+        Address $shipToParty,
+        ShipmentDetails $shipmentDetails,
+        array $rawData = []
+    ) {
+        $this->purchaseOrderNumber = $purchaseOrderNumber;
+        $this->purchaseOrderDate = $purchaseOrderDate;
+        $this->items = $items;
+        $this->sellingParty = $sellingParty;
+        $this->warehouseId = $warehouseId;
+        $this->shipToParty = $shipToParty;
+        $this->shipmentDetails = $shipmentDetails;
+        $this->rawData = $rawData;
+    }
+
+    /** @return string */
+    public function getPurchaseOrderNumber(): string
+    {
+        return $this->purchaseOrderNumber;
+    }
+
+    /** @return DateTime|false */
+    public function getPurchaseOrderDate()
+    {
+        return $this->purchaseOrderDate;
+    }
+
+    /** @return array|PurchaseOrderItem[] */
+    public function getItems()
+    {
+        return $this->items;
+    }
+
+    /** @return SellingParty */
+    public function getSellingParty(): SellingParty
+    {
+        return $this->sellingParty;
+    }
+
+    public function getShipToParty(): Address
+    {
+        return $this->shipToParty;
+    }
+
+    public function getShipmentDetails(): ShipmentDetails
+    {
+        return $this->shipmentDetails;
+    }
+
+    public function getRawData(): array
+    {
+        return $this->rawData;
+    }
+
+    public static function fromPurchaseOrderResponse(array $data)
+    {
+        if (isset($data['payload'])) {
+            $data = $data['payload'];
+        }
+
+        $items = array_map(
+            function (array $item) {
+                return PurchaseOrderItem::fromPurchaseOrderResponse($item);
+            },
+            $data['orderDetails']['items']
+        );
+
+        $sellingParty = new SellingParty($data['orderDetails']['sellingParty']['partyId']);
+        $shipToParty = (new Address())
+            ->setName($data['orderDetails']['shipToParty']['name'])
+            ->setAddressLines(
+                [
+                    $data['orderDetails']['shipToParty']['addressLine1'],
+                    $data['orderDetails']['shipToParty']['addressLine2'],
+                    $data['orderDetails']['shipToParty']['addressLine3'],
+                ]
+            )
+            ->setCity($data['orderDetails']['shipToParty']['city'])
+            ->setStateOrRegion($data['orderDetails']['shipToParty']['stateOrRegion'])
+            ->setPostalCode($data['orderDetails']['shipToParty']['postalCode'])
+            ->setCountryCode($data['orderDetails']['shipToParty']['countryCode']);
+
+        $shipmentDetails = new ShipmentDetails(
+            $data['orderDetails']['shipmentDetails']['isPriorityShipment'],
+            $data['orderDetails']['shipmentDetails']['isPslipRequired'],
+            $data['orderDetails']['shipmentDetails']['shipMethod'],
+            self::parseDate($data['orderDetails']['shipmentDetails']['shipmentDates']['requiredShipDate']),
+            self::parseDate($data['orderDetails']['shipmentDetails']['shipmentDates']['promisedDeliveryDate']),
+            isset($data['orderDetails']['shipmentDetails']['messageToCustomer'])
+                ? $data['orderDetails']['shipmentDetails']['messageToCustomer']
+                : ''
+        );
+
+        // @TODO billToParty needs to be set
+        return new static(
+            $data['purchaseOrderNumber'],
+            self::parseDate($data['orderDetails']['orderDate']),
+            $items,
+            $sellingParty,
+            $data['orderDetails']['shipFromParty']['partyId'],
+            $shipToParty,
+            $shipmentDetails,
+            $data
+        );
+    }
+
+    protected static function parseDate(string $iso8601DateString): DateTime
+    {
+        $date = DateTime::createFromFormat(
+            DateTime::ISO8601,
+            $iso8601DateString
+        );
+
+        if(!$date instanceof DateTime){
+            throw new InvalidArgumentException("Date is not in ISO8601 format: {$iso8601DateString}");
+        }
+
+        return $date;
+    }
+}

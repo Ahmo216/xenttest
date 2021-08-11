@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-jh++1ee2mthty4/Jo8sxfFPQpW4=
+<?php
+
+namespace Xentral\Modules\SystemConfig\Exception;
+
+use TypeError;
+
+class SystemConfigClassTypeError extends TypeError implements SystemConfigExceptionInterface
+{
+}

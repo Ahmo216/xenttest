@@ -1,32 +1,57 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\CopperSurcharge\Data;
+
+final class DocumentPositionData
+{
+
+    /** @var int $positionId */
+    private $positionId;
+
+    /** @var int $articleId */
+    private $articleId;
+
+    /** @var string $currency */
+    private $currency;
+
+    /**
+     * @param int    $positionId
+     * @param int    $articleId
+     * @param string $currency
+     */
+    public function __construct(
+        int $positionId,
+        int $articleId,
+        string $currency
+    ) {
+        $this->positionId = $positionId;
+        $this->articleId = $articleId;
+        $this->currency = $currency;
+    }
+
+    /**
+     * @return int
+     */
+    public function getPositionId(): int
+    {
+        return $this->positionId;
+    }
+
+    /**
+     * @return int
+     */
+    public function getArticleId(): int
+    {
+        return $this->articleId;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCurrency(): string
+    {
+        return $this->currency;
+    }
+}

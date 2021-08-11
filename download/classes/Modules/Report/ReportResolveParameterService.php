@@ -1,134 +1,268 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Report;
+
+use Xentral\Modules\Report\Data\ReportData;
+use Xentral\Modules\Report\Data\ReportParameter;
+use Xentral\Modules\Report\Data\ReportParameterCollection;
+use Xentral\Modules\Report\Exception\UnresolvedParameterException;
+
+class ReportResolveParameterService
+{
+    /** @var string CONTROL_TYPE_DATE */
+    const CONTROL_TYPE_DATE = 'date';
+
+    /** @var string CONTROL_TYPE_TEXT */
+    const CONTROL_TYPE_TEXT = 'text';
+
+    /** @var string CONTROL_TYPE_COMBOBOX */
+    const CONTROL_TYPE_COMBOBOX = 'combobox';
+
+    /** @var string CONTROL_TYPE_PROJECT */
+    const CONTROL_TYPE_PROJECT = 'autocomplete_project';
+
+    /** @var string CONTROL_TYPE_GROUP */
+    const CONTROL_TYPE_GROUP = 'autocomplete_group';
+
+    /** @var string CONTROL_TYPE_ADDRESS */
+    const CONTROL_TYPE_ADDRESS = 'autocomplete_address';
+
+    /** @var string CONTROL_TYPE_ARTICLE */
+    const CONTROL_TYPE_ARTICLE = 'autocomplete_article';
+
+    /** @var int $userId */
+    private $userId;
+
+    /** @var array $userProjects */
+    private $userProjects;
+
+    /** @var bool $userIsAdmin */
+    private $userIsAdmin;
+
+    /**
+     * @param int           $userId
+     * @param array         $userProjects
+     * @param bool          $userIsAdmin
+     */
+    public function __construct($userId, $userProjects, $userIsAdmin)
+    {
+        $this->userId = $userId;
+        $this->userProjects = $userProjects;
+        $this->userIsAdmin = $userIsAdmin;
+    }
+
+    /**
+     * @param ReportData $report
+     * @param array $parameterValues
+     *
+     * @return string compiled sql query
+     */
+    public function resolveParameters(ReportData $report, $parameterValues = [])
+    {
+        $compiledQuery = $this->resolveEnvironmentVariables($report);
+        $resolvedReport = $this->resolveInputParameters($report, $parameterValues);
+        $parameters = $resolvedReport->getParameters();
+        if ($parameters !== null) {
+            foreach ($parameters as $param) {
+                $value = $param->getValue();
+                $pattern = sprintf('/\{%s\}/', mb_strtoupper($param->getVarname()));
+                $compiledQuery = preg_replace($pattern, $value, $compiledQuery);
+            }
+        }
+
+        preg_match_all('/{([^{}]+)}/', $compiledQuery, $matches);
+        if (!empty($matches[1])) {
+            throw new UnresolvedParameterException(sprintf('unresolved Variable "%s"', $matches[1][0]));
+        }
+
+        return $compiledQuery;
+    }
+
+    /**
+     * @param ReportData $report
+     * @param array      $parameterValues
+     *
+     * @return ReportData
+     */
+    public function resolveInputParameters(ReportData $report, $parameterValues = [])
+    {
+        $params = $report->getParameters();
+        if ($params === null || count($params) < 1) {
+            return $report;
+        }
+
+        $resolvedParams = [];
+        foreach ($params as $param) {
+            $varname = strtolower($param->getVarname());
+            foreach ($parameterValues as $varkey => $varvalue) {
+                if ($varname === strtolower($varkey)) {
+                    $resolvedValue = $this->resolveParameterValue($param, $varvalue);
+                    $param->setTemporaryValue($resolvedValue);
+                }
+            }
+            $resolvedParams[] = $param;
+        }
+        $report->setParameters(new ReportParameterCollection($resolvedParams));
+
+        return $report;
+    }
+
+    /**
+     * @param ReportData $report
+     *
+     * @return string
+     */
+    public function resolveEnvironmentVariables(ReportData $report)
+    {
+        $variables = $this->getEnvironMentVariables($report);
+        $compiledQuery = $report->getSqlQuery();
+        foreach ($variables as $key => $value) {
+            $pattern = sprintf('/\{%s\}/', $key);
+            $compiledQuery = preg_replace($pattern, $value, $compiledQuery);
+        }
+
+        return $compiledQuery;
+    }
+
+    /**
+     * @param ReportData $report
+     *
+     * @return array
+     */
+    public function getEnvironmentVariables(ReportData $report)
+    {
+        $variables = [];
+        if ($this->userId > 0) {
+            $variables['USER_ID'] = $this->userId;
+            $variables['USER_PROJECTS'] = sprintf('(%s)', implode(', ', $this->userProjects));
+            $variables['USER_ADMIN'] = 0;
+            if ($this->userIsAdmin === true) {
+                $variables['USER_ADMIN'] = 1;
+            }
+        }
+        $variables['REPORT_PROJECT'] = $report->getProjectId();
+
+        return $variables;
+    }
+
+    /**
+     * @param $sql
+     *
+     * @return string[]
+     */
+    public function findInvalidVariableNames($sqlStatement)
+    {
+        if (
+            !preg_match_all('/{([^{}]+)}/', $sqlStatement, $matches)
+            || count($matches) < 2
+        ) {
+            return [];
+        }
+
+        $errors = [];
+        foreach ($matches[1] as $varname) {
+            if(!preg_match('/^[A-Z_0-9]+$/', $varname)) {
+                $errors[] = $varname;
+            }
+        }
+
+        return $errors;
+    }
+
+    /**
+     * @param ReportParameter $parameter
+     * @param mixed           $value
+     *
+     * @throws UnresolvedParameterException
+     *
+     * @return mixed
+     */
+    private function resolveParameterValue(ReportParameter $parameter, $value)
+    {
+        $control_type = $parameter->getControlType();
+        if ($value === null) {
+            return null;
+        }
+
+        switch ($control_type) {
+
+            case self::CONTROL_TYPE_PROJECT:
+                return $this->resolveProject($value);
+                break;
+
+            case self::CONTROL_TYPE_GROUP:
+                return $this->resolveGroup($value);
+                break;
+
+            case self::CONTROL_TYPE_ADDRESS:
+                return $this->resolveAddress($value);
+                break;
+
+            case self::CONTROL_TYPE_ARTICLE:
+                return $this->resolveArticle($value);
+                break;
+        }
+
+        return $value;
+    }
+
+    /**
+     * @param string $input
+     *
+     * @return string
+     */
+    private function resolveProject($input)
+    {
+        $split = explode(' ', $input);
+        if (count($split) < 1) {
+            throw new UnresolvedParameterException('project parameter format incorrect');
+        }
+
+        return $split[0];
+    }
+
+    /**
+     * @param string $input
+     *
+     * @return string
+     */
+    private function resolveGroup($input)
+    {
+        $split = explode(' ', $input);
+        if (count($split) < 2) {
+            throw new UnresolvedParameterException('group parameter format incorrect');
+        }
+
+        return $split[count($split)-1];
+    }
+
+    /**
+     * @param string $input
+     *
+     * @return string
+     */
+    private function resolveAddress($input)
+    {
+        $split = explode(' ', $input);
+        if (count($split) < 1) {
+            throw new UnresolvedParameterException('address parameter format incorrect');
+        }
+
+        return $split[0];
+    }
+
+    /**
+     * @param string $input
+     *
+     * @return string
+     */
+    private function resolveArticle($input)
+    {
+        $split = explode(' ', $input);
+        if (count($split) < 2) {
+            throw new UnresolvedParameterException('article parameter format incorrect');
+        }
+
+        return $split[0];
+    }
+}

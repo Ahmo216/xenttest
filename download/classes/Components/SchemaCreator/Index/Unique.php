@@ -1,55 +1,66 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\SchemaCreator\Index;
+
+use Xentral\Components\SchemaCreator\Interfaces\IndexInterface;
+use Xentral\Components\SchemaCreator\Interfaces\UniqueIndexInterface;
+
+final class Unique implements IndexInterface, UniqueIndexInterface
+{
+    /** @var string $type */
+    private $type = UniqueIndexInterface::TYPE;
+
+    /** @var string|null $name */
+    private $name;
+
+    /** @var array $references */
+    private $references;
+
+    /**
+     * @param array       $references
+     * @param string|null $name
+     */
+    public function __construct(array $references, ?string $name = null)
+    {
+        $this->name = $name;
+        $this->references = $references;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getType(): string
+    {
+        return $this->type;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getName(): string
+    {
+        if (empty($this->name)) {
+            return 'unique_'.implode('_', array_map('strtolower', $this->references));
+        }
+
+        return $this->name;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getReferences(): array
+    {
+        return $this->references;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function isUnique(): bool
+    {
+        return true;
+    }
+}

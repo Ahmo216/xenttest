@@ -1,58 +1,114 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Widgets\DataTable;
+
+use Closure;
+use Xentral\Components\Database\SqlQuery\SelectQuery;
+use Xentral\Widgets\DataTable\Column\ColumnCollection;
+use Xentral\Widgets\DataTable\Options\DataTableOptions;
+use Xentral\Widgets\DataTable\Feature\FeatureCollection;
+use Xentral\Widgets\DataTable\Filter\FilterCollection;
+
+final class PreparedDataTable implements DataTableInterface
+{
+    /** @var DataTableBuildConfig $config */
+    private $config;
+
+    /** @var SelectQuery $query */
+    private $query;
+
+    /** @var DataTableOptions $options */
+    private $options;
+
+    /** @var ColumnCollection $columns */
+    private $columns;
+
+    /** @var FeatureCollection $features */
+    private $features;
+
+    /** @var FilterCollection $filters */
+    private $filters;
+
+    /** @var Closure|null $customSearch @todo */
+    private $customSearch;
+
+    /**
+     * @param DataTableBuildConfig $config
+     * @param DataTableOptions     $options
+     * @param SelectQuery          $selectQuery
+     * @param ColumnCollection     $columns
+     * @param FeatureCollection    $features
+     * @param FilterCollection     $filters
+     */
+    public function __construct(
+        DataTableBuildConfig $config,
+        DataTableOptions $options,
+        SelectQuery $selectQuery,
+        ColumnCollection $columns,
+        FeatureCollection $features,
+        FilterCollection $filters
+    ) {
+        $this->config = $config;
+        $this->options = $options;
+        $this->query = $selectQuery;
+        $this->columns = $columns;
+        $this->features = $features;
+        $this->filters = $filters;
+    }
+
+    /**
+     * @return DataTableBuildConfig
+     */
+    public function getConfig()
+    {
+        return $this->config;
+    }
+
+    /**
+     * @return DataTableOptions
+     */
+    public function getOptions()
+    {
+        return $this->options;
+    }
+
+    /**
+     * @return SelectQuery
+     */
+    public function getBaseQuery()
+    {
+        return $this->query;
+    }
+
+    /**
+     * @return ColumnCollection
+     */
+    public function getColumns()
+    {
+        return $this->columns;
+    }
+
+    /**
+     * @return FeatureCollection
+     */
+    public function getFeatures()
+    {
+        return $this->features;
+    }
+
+    /**
+     * @return FilterCollection
+     */
+    public function getFilters()
+    {
+        return $this->filters;
+    }
+
+    /**
+     * @return Closure|null @todo
+     */
+    public function getCustomSearch()
+    {
+        return $this->customSearch;
+    }
+}

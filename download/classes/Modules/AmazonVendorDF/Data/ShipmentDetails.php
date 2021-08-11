@@ -1,44 +1,68 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-nG==
+<?php
+
+namespace Xentral\Modules\AmazonVendorDF\Data;
+
+use DateTime;
+
+class ShipmentDetails
+{
+    /** @var bool */
+    private $isPriorityShipment;
+    /** @var bool */
+    private $isPslipRequired;
+    /** @var string */
+    private $shipMethod;
+    /** @var DateTime */
+    private $promisedDeliveryDate;
+    /** @var DateTime */
+    private $requiredShipDate;
+    /** @var string */
+    private $messageToCustomer;
+
+    public function __construct(
+        bool $isPriorityShipment,
+        bool $isPslipRequired,
+        string $shipMethod,
+        DateTime $requiredShipDate,
+        DateTime $promisedDeliveryDate,
+        string $messageToCustomer
+    ) {
+        $this->isPriorityShipment = $isPriorityShipment;
+        $this->isPslipRequired = $isPslipRequired;
+        $this->shipMethod = $shipMethod;
+        $this->requiredShipDate = $requiredShipDate;
+        $this->promisedDeliveryDate = $promisedDeliveryDate;
+        $this->messageToCustomer = $messageToCustomer;
+    }
+
+    public function isPriorityShipment(): bool
+    {
+        return $this->isPriorityShipment;
+    }
+
+    public function isPslipRequired(): bool
+    {
+        return $this->isPslipRequired;
+    }
+
+
+    public function getShipMethod(): string
+    {
+        return $this->shipMethod;
+    }
+
+    public function getRequiredShipDate(): DateTime
+    {
+        return $this->requiredShipDate;
+    }
+
+    public function getPromisedDeliveryDate(): DateTime
+    {
+        return $this->promisedDeliveryDate;
+    }
+
+    public function getMessageToCustomer(): string
+    {
+        return $this->messageToCustomer;
+    }
+}

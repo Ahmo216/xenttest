@@ -1,30 +1,7 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-UfXwt1JgPFuKRggRO2CZ9nckEMEVzW==
+<?php
+
+namespace Xentral\Modules\DocuvitaApi\Exception;
+
+class FileNotFoundException extends \RuntimeException implements DocuvitaApiExceptionInterface
+{
+}

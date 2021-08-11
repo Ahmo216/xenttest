@@ -1,31 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-mYZ/eWHdoFa=
+<?php
+
+namespace Xentral\Modules\Resubmission\Exception;
+
+use RuntimeException;
+
+class ResubmissionTaskNotFoundException extends RuntimeException implements ResubmissionExceptionInterface
+{
+}

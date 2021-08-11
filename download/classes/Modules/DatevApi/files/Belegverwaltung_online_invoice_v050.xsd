@@ -79,6 +79,7 @@
 			<xsd:attribute name="eu_tax_rate" type="de:p6" use="optional"/>
 			<xsd:attribute name="bu_code" type="de:p10033" use="optional"/>
 			<xsd:attribute name="booking_text" type="de:p10036" use="required"/>
+			<xsd:attribute name="type_of_receivable" type="de:p10001" use="optional"/>
 		</xsd:complexType>
 	</xsd:element>
 	<xsd:element name="accounting_additional_info">
@@ -110,6 +111,7 @@
 				<xsd:sequence>
 					<xsd:element ref="booking_info_bp" minOccurs="0" maxOccurs="1"/>
 				</xsd:sequence>
+				<xsd:attribute name="ship_to_country" type="de:p10014" use="optional"/>
 			</xsd:extension>
 		</xsd:complexContent>
 	</xsd:complexType>
@@ -141,7 +143,15 @@
 	<xsd:element name="invoice_recipient" type="invoice_participant"/>
 	<xsd:element name="delivery_party" type="invoice_participant"/>
 	<xsd:element name="delivery_recipient" type="invoice_participant"/>
-	<xsd:element name="supplier_party" type="invoice_issuer"/>
+	<xsd:element name="supplier_party">
+		<xsd:complexType>
+			<xsd:complexContent>
+				<xsd:extension base="invoice_issuer">
+					<xsd:attribute name="ship_from_country" type="de:p10014" use="optional"/>
+				</xsd:extension>
+			</xsd:complexContent>
+		</xsd:complexType>	
+	</xsd:element>
 	<xsd:element name="supplier_issuer" type="invoice_participant"/>
 	<xsd:element name="address">
 		<xsd:complexType>

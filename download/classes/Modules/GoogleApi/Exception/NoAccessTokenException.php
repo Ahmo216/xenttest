@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-D49/YG==
+<?php
+
+namespace Xentral\Modules\GoogleApi\Exception;
+
+use RuntimeException;
+
+class NoAccessTokenException extends RuntimeException implements GoogleApiExceptionInterface
+{
+}

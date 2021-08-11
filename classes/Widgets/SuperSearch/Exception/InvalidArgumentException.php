@@ -1,30 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Widgets\SuperSearch\Exception;
+
+use InvalidArgumentException as SplInvalidArgumentException;
+
+class InvalidArgumentException extends SplInvalidArgumentException implements SuperSearchExceptionInterface
+{
+}

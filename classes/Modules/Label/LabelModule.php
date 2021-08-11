@@ -1,46 +1,93 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPy4Syz/fuCSGiwvc/1hU5eITlus1H/PUp2HgTFrLwu/mp7kDPXFGIc+D6wscHkxx7PjbR4OV
-Ec//htFi6oTho2qxm8wIdVsla85E9BVLH2WjwfCMM53bYeD80sSo0fbo1ff+ER5HecFUgZMC8jXM
-RusYN5DgetT/pTrKIDfQmd5TtgGIyFEhdnvPOP47LOcGictB295/JBBCABMiGc7YRra2koWX1jdc
-Y7iwidVcpfAsL8T5pdwXE6Xfx6teGzZP+fk8l/f+luRXh05bPkU3p8XJ9DMpMDNwJgpuQKJ/J2AG
-YLYrryB3euBb9L+hYAkmM37ATb6CD0n/iQQMMgkU7Ae5s0QQ0hJj8rHZQRk/dIXGJqaSvCyqabGt
-2YRJaD+gcTP4oxx8eKoHKRU21t17l5N1rrgFegwcqNhv0bHmtfnLUJVtZw6VeCuBCE2Q+AxyV2Jn
-3PHcM9nuH3k3sXZZlSLdVaTX/JqXEMhG75cRqQJX/iDj67s2XP5XsNc0JTYj7VwwsTyLgMK8Rrnj
-hRIJc3RQ3UdxAdn5aq34q3i+X/izZegZP+NrvssSsVNPnZB6WZHJbm5OUflxMgEV/dtmg3K6XQ1s
-I9hzDCZENycE0gaNFh+9W9IOAAiEjcNkbGLmBMKQacVhDEewu9TqALw+YAD9OxRmXi8UTaWnM15f
-TEAqv0ZHvFvYqNHdEgcmcK6Qzi+vp/7zxW4Aota7136iMBEyK/7bTFRoHH/DPyLW8kff0Ug9IpFz
-khRb1Sthvxb4A0MovTVCWAtX3migoxlnV15SUD/IAlSUaJAjFp+r52UhuPMQC2AsrMiKmpQonB1K
-Gs8djE46b5W8ko9zZanFWi27W6CwUy+JVwAyCWwrNgEzLYarsd8EPULmDdpfJ8t64k1R6UuXdbre
-OMQG04mqUn3+qVpm3kgQDn79N/lCaddSUFeGG7xIPaoqMLG6CZr4R08akgMnhptz7L7ow6gveHY4
-Dm7y1IZ1GjqfE6LsKWOlrgG5MwPn9bkWaUGizfAeCLI40ThZw9N8cKmn1THefyGbCnOZvL9d0beq
-my+u+0HZV2UVJ4KeWcgyPgUdPWMuRUXf2fK2TIs3Q3hzYStNWxPMrfWwLh5jIaHZuS1IQrSIIDv/
-gdHzEewF7f0DZa3Yb2vmGasLSNdGKKJlXIueuIM15wUCctgqp9yuwqNg5q1uaGOhRQEApwrY/x2Y
-C2iqYFxM0liV7QVeqC56UU3Uk2JV64ebqJzyr4Mo4JMV9193toWgBq52rPkOYKqRtcq/tW+EVFzo
-iS19L8akfXIH6Zxk3HEuQqS7k7QKgww59h7ILebOTGdSSgOwieMINNZiMIccphNhdI2AW/0GSDbS
-nmqbGqqa273iA/Kr7tiVGJrsvDFRO5zm1s7rsAVy42FVoDuiEZ2/x7xR1pq87KAg5MH5XgTluCrI
-8LOgCdqsQg4nXfDYtFZsPgLJRkUnHzTlD6VrgTd+ibCogTqX/I9Xsi3vyPR+bfKHFUW5Bgincfnv
-iAs1kDi+KJESmp81KyBn2P1lefO7B8IZ3BdJZWTBc7zw5pFlj2RQcrLK1RGW8iyeclgAnX+HZGwM
-070tOGxqWmZ4XE00X3sONhFd8ga6Drxydap20H/BRMnpy9/VwFC6v/e/UBwJGCIjpW0G3s5Uj77Z
-iQlcnr3uqGC9VzPdi1F+EBxtcYh7xt2MKBB7TlMwstexNk2cvESCTtrMT6pDW0J9D4KSSI11lzIy
-y1SP9jPP6U9QhAhyl1ObMrXRaPo/5rbsNEQYZLxwgNhq5wPo2zoaJIZYXvD2dijpiy/pQuf4HgAE
-IsZJb2U0CKNXg2OqTAagUFEn4wX51/qfxBHyypf4jMG+uXCHX5Xg+oAeryQ4R1iojFoNhyPmcAbT
-SHS1MbgjVNQSgxWDKQZrnHRJ+HtM4spUTt7EtrtKrCoDU0C3iB3+pZFoc+REek07PQTEvIYh4TE3
-J/K+95B7dFG6hrDsZWw1GN36sbwsf6OW92KHOvgJ5QP9HAOdTyCT88iont8Sx+UooKehbx2agyL5
-CT5DE5/2XRFJ50W8D7vAsCHyZksSOC14dhKbzNHcYnHz8f9mLE89obMXSoLdg6J2qMAmhZqH4CwK
-JyRB1HPZ/Zu4jFL9abK84tw6Lggdj5i61qeC38XZc4SOPBYwZJv5c7hgML89Ix3PRmkoNfnYZ/D9
-j+038M5boebZ+mdRBo0Wzv12pas4juh0/UohJAWdMWpxfKrxHSOM+MCA7QKz7IOnuR0XRxjklSvo
-Wq0bEA3sbSkM7OVQTbiDPK5XkcuEpR8CRk6QuD0eyBWg7G7o0W+MSsYCQleZYTD5R5rQekw3o1ZV
-iW6KQ/pyzDwC4cAH+PpKuEBJalcjjcefT9aK4o/OzuMHQERlZqN6P9nZJlsggaptgwKSa4TnvUWB
-8j6LlXwJFHK0XlMtBFOrRLPrRQUhBUzazs2iu7s4vnUYpfwH6/Ru7xHaqLs43pJ2HxDkGtSxp2/+
-ddwP1oUYZCV1MOi8J2v8RzP2QpVUCMwPOvPVSyh8qvZL7FUdaOCn17qj4Y0vsbi+TF712NAA61NA
-cItpegMQu5ZywxaYKDCvGysZPTRYPLwSG2Rkj1i8PHsvIrJaw9UeTwgsgs+5DUAaqryP2ADRsRdo
-2GCLWCkDdNzmJqj0sVSA5ps4MWoh5wgaZb8VhK3f5xH/rCt5U1aCjogTksW+/KKce2nNcOOniAvt
-DI1Dq/G1n497uRriESBKjcE6JfZb9QPrtc9vRBkLBrQG7om4MSZ0l8osEoNSUNk4F/RcVT8ME6rk
-0dUPVM9nUnFpgblvoq8Ub2ctHnQKOsK39JlQAJvZn4IsXPjDHPrO8/enaMKMR6hU7pEskZwdcVvJ
-UZfI3/GE0/nhQu35+TLdaCURdKL9WvGCN29i+uMzJoJ4oO3HO8/rKsoqZVOaDtbDebSj3rX/u7H5
-TTHkq9Z5O7Xvfe6F/G8v2rgfN9B+qukuwSifq9z/yKAlS31bqB+qfuTWeTiDvMAnyYlE2wuL05Nn
-YaJU6datatma7BtKCAVuWXzaP8DuudaC5WTQ+tk2K1kxsClfJwLI+qqmyOTBRgQiVNGEvSyQdkOt
-cG0hyUrtsOmXCTg/NIElwGJOmdLckdfS1h25NsD0TKOWqLu1HqcKM0LGaG7uj1OgAvRk2hvftt8m
-xE7IOT4B9jm7eHQ+K70DtTwcn66diE8FcGTA8W9/rWjA/FM6f7C9mxCHraq7kyaVEYe=
+<?php
+
+namespace Xentral\Modules\Label;
+
+use Xentral\Modules\Label\Exception\InvalidArgumentException;
+use Xentral\Modules\Label\Exception\LabelAssignException;
+use Xentral\Modules\Label\Exception\LabelTypeNotFoundException;
+
+/**
+ * Simple Facade for accessing LabelService and LabelGateway
+ */
+final class LabelModule
+{
+    /** @var LabelService $service */
+    private $service;
+
+    /** @var LabelGateway $gateway */
+    private $gateway;
+
+    /**
+     * @param LabelService $service
+     * @param LabelGateway $gateway
+     */
+    public function __construct(LabelService $service, LabelGateway $gateway)
+    {
+        $this->service = $service;
+        $this->gateway = $gateway;
+    }
+
+    /**
+     * @param string $referenceTable
+     * @param int    $referenceId
+     * @param string $labelType
+     *
+     * @throws InvalidArgumentException
+     * @throws LabelTypeNotFoundException
+     * @throws LabelAssignException If assignment fails
+     *
+     * @return int Created ID from label_reference table
+     */
+    public function assignLabel($referenceTable, $referenceId, $labelType)
+    {
+        return $this->service->assignLabel($referenceTable, $referenceId, $labelType);
+    }
+
+    /**
+     * @param string $referenceTable
+     * @param int    $referenceId
+     * @param string $labelType
+     *
+     * @throws InvalidArgumentException
+     * @throws LabelAssignException If assignment fails
+     *
+     * @return void
+     */
+    public function unassignLabel($referenceTable, $referenceId, $labelType)
+    {
+        $this->service->unassignLabel($referenceTable, $referenceId, $labelType);
+    }
+
+    /**
+     * @param string $referenceTable
+     * @param int    $referenceId
+     *
+     * @return array
+     */
+    public function findLabelsByReference($referenceTable, $referenceId)
+    {
+        return $this->gateway->findLabelsByReference($referenceTable, $referenceId);
+    }
+
+    /**
+     * @param string      $referenceTable
+     * @param int[]|array $referenceIds
+     *
+     * @return array
+     */
+    public function findLabelsByReferences($referenceTable, $referenceIds)
+    {
+        return $this->gateway->findLabelsByReferences($referenceTable, $referenceIds);
+    }
+
+    /**
+     * @param string $referenceTable
+     * @param int    $referenceId
+     *
+     * @return array
+     */
+    public function findLabelTypesByReference($referenceTable, $referenceId)
+    {
+        return $this->gateway->findLabelTypesByReference($referenceTable, $referenceId);
+    }
+}

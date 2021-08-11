@@ -1,29 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Sipgate\Exception;
+
+use RuntimeException;
+
+class ResponseDecodeException extends RuntimeException implements SipgateExceptionInterface
+{
+}

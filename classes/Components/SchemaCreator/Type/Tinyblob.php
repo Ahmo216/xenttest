@@ -1,61 +1,90 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-T8QOupiKtVpk4k8OBhu/KmXetQHbeuNRVfm=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\SchemaCreator\Type;
+
+use Xentral\Components\SchemaCreator\Exception\SchemaCreatorInvalidArgumentException;
+use Xentral\Components\SchemaCreator\Interfaces\ColumnInterface;
+use Xentral\Components\SchemaCreator\Interfaces\ColumnTextInterface;
+
+final class Tinyblob implements ColumnInterface, ColumnTextInterface
+{
+
+    /** @var string $type */
+    private $type = 'TINYBLOB';
+
+    /** @var string $name */
+    private $name;
+
+    /** @var array $options */
+    private $options;
+
+    /** @var bool $nullable */
+    private $nullable;
+
+    /**
+     * @param string $name
+     * @param bool   $nullable
+     * @param array  $options
+     */
+    public function __construct(string $name, bool $nullable = true, array $options = [])
+    {
+        $this->name = $name;
+        $this->nullable = $nullable;
+        $options['default'] = null;
+        $this->options = $options;
+    }
+
+    /**
+     * @param array $options
+     *
+     * @return ColumnInterface
+     *
+     * @internal Use constructor instead
+     */
+    public static function fromDBColumn(array $options): ColumnInterface
+    {
+        if (empty($options)) {
+            throw new SchemaCreatorInvalidArgumentException('Options cannot be empty');
+        }
+
+        return new self(
+            $options['field'],
+            $options['nullable'],
+            $options
+        );
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getType(): string
+    {
+        return $this->type;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getField(): string
+    {
+        return $this->name;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getOptions(): array
+    {
+        return $this->options;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function isNullable(): bool
+    {
+        return $this->nullable;
+    }
+}

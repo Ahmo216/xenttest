@@ -1,157 +1,355 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Components\Filesystem\Adapter;
+
+use League\Flysystem\AdapterInterface as LeagueAdapterInterface;
+use League\Flysystem\Config as LeagueConfig;
+use League\Flysystem\Util;
+use League\Flysystem\Util\ContentListingFormatter;
+use Xentral\Components\Filesystem\PathInfo;
+
+final class LeagueAdapterWrapper implements AdapterInterface
+{
+    /** @var LeagueAdapterInterface $league */
+    private $league;
+
+    /** @var bool $caseSensitive */
+    private $caseSensitive = true;
+
+    /**
+     * @param LeagueAdapterInterface $league
+     */
+    public function __construct(LeagueAdapterInterface $league)
+    {
+        $this->league = $league;
+    }
+
+    /**
+     * @param string $path
+     *
+     * @return bool
+     */
+    public function has($path)
+    {
+        $path = $this->normalizePath($path);
+
+        return (bool)$this->league->has($path) !== false;
+    }
+
+    /**
+     * @param string $path
+     *
+     * @return PathInfo|false
+     */
+    public function getInfo($path)
+    {
+        $path = $this->normalizePath($path);
+        $metainfo = $this->league->getMetadata($path);
+        if (!$metainfo) {
+            return false;
+        }
+
+        $directory = Util::dirname($path);
+        $metainfo['path'] = $path;
+
+        $formatter = new ContentListingFormatter($directory, false, $this->caseSensitive);
+        $contents = $formatter->formatListing([$metainfo]);
+        if (count($contents) !== 1) {
+            return false;
+        }
+
+        return new PathInfo($contents[0]);
+    }
+
+    /**
+     * @param string $path
+     *
+     * @return string|false
+     */
+    public function read($path)
+    {
+        $path = $this->normalizePath($path);
+        $meta = $this->league->getMetadata($path);
+        if ($meta['type'] === self::TYPE_DIR) {
+            return false;
+        }
+
+
+        $result = $this->league->read($path);
+        if (!$result || !isset($result['contents'])) {
+            return false;
+        }
+
+        return $result['contents'];
+    }
+
+    /**
+     * @param string $path
+     *
+     * @return resource|false
+     */
+    public function readStream($path)
+    {
+        $path = $this->normalizePath($path);
+        $meta = $this->league->getMetadata($path);
+        if ($meta['type'] === self::TYPE_DIR) {
+            return false;
+        }
+
+        $result = $this->league->readStream($path);
+        if (!$result || !isset($result['stream'])) {
+            return false;
+        }
+
+        return $result['stream'];
+    }
+
+    /**
+     * @param string $directory
+     * @param bool   $recursive
+     *
+     * @return array
+     */
+    public function listContents($directory = '', $recursive = false)
+    {
+        $directory = $this->normalizePath($directory);
+        $contents = $this->getLeagueAdapter()->listContents($directory, $recursive);
+        $formatter = new ContentListingFormatter($directory, $recursive, $this->caseSensitive);
+
+        return $formatter->formatListing($contents);
+    }
+
+    /**
+     * @param string $path
+     *
+     * @return array|false
+     */
+    public function getMetadata($path)
+    {
+        $path = $this->normalizePath($path);
+
+        return $this->league->getMetadata($path);
+    }
+
+    /**
+     * @param string $path
+     *
+     * @return string|false
+     */
+    public function getType($path)
+    {
+        $path = $this->normalizePath($path);
+        $meta = $this->league->getMetadata($path);
+        if ($meta === false || !isset($meta['type'])) {
+            return false;
+        }
+
+        return $meta['type'];
+    }
+
+    /**
+     * @param string $path
+     *
+     * @return int|false
+     */
+    public function getSize($path)
+    {
+        $path = $this->normalizePath($path);
+        $meta = $this->league->getSize($path);
+        if ($meta === false || !isset($meta['size'])) {
+            return false;
+        }
+
+        return (int)$meta['size'];
+    }
+
+    /**
+     * @param string $path
+     *
+     * @return int|false
+     */
+    public function getTimestamp($path)
+    {
+        $path = $this->normalizePath($path);
+        $meta = $this->league->getTimestamp($path);
+        if ($meta === false || !isset($meta['timestamp'])) {
+            return false;
+        }
+
+        return (int)$meta['timestamp'];
+    }
+
+    /**
+     * @param string $path
+     *
+     * @return string|false
+     */
+    public function getMimetype($path)
+    {
+        $path = $this->normalizePath($path);
+        $meta = $this->league->getMimetype($path);
+        if ($meta === false || !isset($meta['mimetype'])) {
+            return false;
+        }
+        if ($meta['type'] === 'dir') {
+            return 'directory';
+        }
+
+        return $meta['mimetype'];
+    }
+
+    /**
+     * Creates a new file
+     *
+     * @param string $path
+     * @param string $contents
+     * @param array  $config
+     *
+     * @return bool
+     */
+    public function write($path, $contents, array $config = [])
+    {
+        $path = $this->normalizePath($path);
+
+        return $this->league->write($path, $contents, new LeagueConfig($config)) !== false;
+    }
+
+    /**
+     * Creates a new file using a stream
+     *
+     * @param string   $path
+     * @param resource $resource
+     * @param array    $config
+     *
+     * @return bool
+     */
+    public function writeStream($path, $resource, array $config = [])
+    {
+        $path = $this->normalizePath($path);
+
+        return $this->league->writeStream($path, $resource, new LeagueConfig($config)) !== false;
+    }
+
+    /**
+     * Updates an existing file
+     *
+     * @param string $path
+     * @param string $contents
+     * @param array  $config
+     *
+     * @return bool
+     */
+    public function update($path, $contents, array $config = [])
+    {
+        $path = $this->normalizePath($path);
+
+        return $this->league->update($path, $contents, new LeagueConfig($config)) !== false;
+    }
+
+    /**
+     * Updates an existing file using a stream
+     *
+     * @param string   $path
+     * @param resource $resource
+     * @param array    $config
+     *
+     * @return bool
+     */
+    public function updateStream($path, $resource, array $config = [])
+    {
+        $path = $this->normalizePath($path);
+
+        return $this->league->updateStream($path, $resource, new LeagueConfig($config)) !== false;
+    }
+
+    /**
+     * Renames a file
+     *
+     * @param string $path
+     * @param string $newpath
+     *
+     * @return bool
+     */
+    public function rename($path, $newpath)
+    {
+        $path = $this->normalizePath($path);
+        $newpath = $this->normalizePath($newpath);
+
+        return $this->league->rename($path, $newpath);
+    }
+
+    /**
+     * Copies a file to new location
+     *
+     * @param string $path
+     * @param string $newpath
+     *
+     * @return bool
+     */
+    public function copy($path, $newpath)
+    {
+        $path = $this->normalizePath($path);
+        $newpath = $this->normalizePath($newpath);
+
+        return $this->league->copy($path, $newpath);
+    }
+
+    /**
+     * Deletes a single file
+     *
+     * @param string $path
+     *
+     * @return bool
+     */
+    public function delete($path)
+    {
+        $path = $this->normalizePath($path);
+
+        return $this->league->delete($path);
+    }
+
+    /**
+     * Deletes a directory and its contents
+     *
+     * @param string $directory
+     *
+     * @return bool
+     */
+    public function deleteDir($directory)
+    {
+        $directory = $this->normalizePath($directory);
+
+        return $this->league->deleteDir($directory);
+    }
+
+    /**
+     * @param string $directory
+     * @param array  $config
+     *
+     * @return bool
+     */
+    public function createDir($directory, array $config = [])
+    {
+        $directory = $this->normalizePath($directory);
+
+        return $this->league->createDir($directory, new LeagueConfig($config)) !== false;
+    }
+
+    /**
+     * @return LeagueAdapterInterface
+     */
+    public function getLeagueAdapter()
+    {
+        return $this->league;
+    }
+
+    /**
+     * @param string $path
+     *
+     * @return string
+     */
+    public function normalizePath($path)
+    {
+        return Util::normalizePath($path);
+    }
+}

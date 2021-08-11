@@ -1,101 +1,138 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php
+
+class ObjGenArbeitsfreietage
+{
+
+  private  $id;
+  private  $bezeichnung;
+  private  $typ;
+  private  $datum;
+  private  $projekt;
+
+  public $app;            //application object 
+
+  public function __construct($app)
+  {
+    $this->app = $app;
+  }
+
+  public function Select($id)
+  {
+    if(is_numeric($id))
+      $result = $this->app->DB->SelectArr("SELECT * FROM arbeitsfreietage WHERE (id = '$id')");
+    else
+      return -1;
+
+$result = $result[0];
+
+    $this->id=$result['id'];
+    $this->bezeichnung=$result['bezeichnung'];
+    $this->typ=$result['typ'];
+    $this->datum=$result['datum'];
+    $this->projekt=$result['projekt'];
+  }
+
+  public function Create()
+  {
+    $sql = "INSERT INTO arbeitsfreietage (id,bezeichnung,typ,datum,projekt)
+      VALUES('','{$this->bezeichnung}','{$this->typ}','{$this->datum}','{$this->projekt}')"; 
+
+    $this->app->DB->Insert($sql);
+    $this->id = $this->app->DB->GetInsertID();
+  }
+
+  public function Update()
+  {
+    if(!is_numeric($this->id))
+      return -1;
+
+    $sql = "UPDATE arbeitsfreietage SET
+      bezeichnung='{$this->bezeichnung}',
+      typ='{$this->typ}',
+      datum='{$this->datum}',
+      projekt='{$this->projekt}'
+      WHERE (id='{$this->id}')";
+
+    $this->app->DB->Update($sql);
+  }
+
+  public function Delete($id="")
+  {
+    if(is_numeric($id))
+    {
+      $this->id=$id;
+    }
+    else
+      return -1;
+
+    $sql = "DELETE FROM arbeitsfreietage WHERE (id='{$this->id}')";
+    $this->app->DB->Delete($sql);
+
+    $this->id="";
+    $this->bezeichnung="";
+    $this->typ="";
+    $this->datum="";
+    $this->projekt="";
+  }
+
+  public function Copy()
+  {
+    $this->id = "";
+    $this->Create();
+  }
+
+ /** 
+   Mit dieser Funktion kann man einen Datensatz suchen 
+   dafuer muss man die Attribute setzen nach denen gesucht werden soll
+   dann kriegt man als ergebnis den ersten Datensatz der auf die Suche uebereinstimmt
+   zurueck. Mit Next() kann man sich alle weiteren Ergebnisse abholen
+   **/ 
+
+  public function Find()
+  {
+    //TODO Suche mit den werten machen
+  }
+
+  public function FindNext()
+  {
+    //TODO Suche mit den alten werten fortsetzen machen
+  }
+
+ /** Funktionen um durch die Tabelle iterieren zu koennen */ 
+
+  public function Next()
+  {
+    //TODO: SQL Statement passt nach meiner Meinung nach noch nicht immer
+  }
+
+  public function First()
+  {
+    //TODO: SQL Statement passt nach meiner Meinung nach noch nicht immer
+  }
+
+ /** dank dieser funktionen kann man die tatsaechlichen werte einfach 
+  ueberladen (in einem Objekt das mit seiner klasse ueber dieser steht)**/ 
+
+  function SetId($value) { $this->id=$value; }
+  function GetId() { return $this->id; }
+  function SetBezeichnung($value) { $this->bezeichnung=$value; }
+  function GetBezeichnung() { return $this->bezeichnung; }
+  function SetTyp($value) { $this->typ=$value; }
+  function GetTyp() { return $this->typ; }
+  function SetDatum($value) { $this->datum=$value; }
+  function GetDatum() { return $this->datum; }
+  function SetProjekt($value) { $this->projekt=$value; }
+  function GetProjekt() { return $this->projekt; }
+
+}
+
+?>

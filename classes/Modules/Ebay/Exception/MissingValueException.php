@@ -1,29 +1,9 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPqQoioDpdWWKJGGc07gaiNi0PtP5WBSTCYr6sF6canu8bpZSKMjzKmwD/IKZHF4TQhXvv9XI
-YAtLxpRb8Tnz+U8e9SIbWl+HLJgbkOFoNhXDUIL4Url3wj2/ESNjxf6cEruLtvQaAWfp+u5Apzzl
-gdC8xYWDV+gsDtfeRA3nV6Xp2GguByzAolM8f9717D2foPcgiquSH93AG1I2WYxYlFYWr3dMWBL5
-SAxYDkR0l+/XJW2uUdPmAsHEHvjFBgHaRm8IfFrrtWL7GVZMpXT1KXrMECAloi2Ty9SFq5hG3xOt
-bGMRdQDnaUGlV6dU/5L9R1iC3McHDXNeRjgyLqMx798b7BEEMhhmwt+vnxk/dIXGJqaSvCyqabGt
-2YQOYwWMlDwLB8+nkPsH4QN1KRsiAlJqunCT5adcRWQ5RwQc1SDF1CySJB3WpIjgDbb6acLeb21V
-L8UYI6H5PDICoExdivqTVrcYzu/aZgndLlvAkQvAypu4tSDMJrj/kaF6jcxyvvTZN4rtW9q0rjqk
-pAxiHWMsMLISShQLVUftwgW3VItr+ktUp+CJ7GYu4QMii2iPiFDjRQK4Lfrpq+8EYtJ0Jf2eQeri
-qh4ABJ4QVsmPrqwfC03FKtlJxiOFuUtaqZ92hkdPZ2VQIaUPMAUHqmb1k68L5j7b0H/yhGNnslR3
-/FIvgAxkoqbceZIWp4pC5JAnnutIgYq7AOFHeHTmE5D9gB3xLFOoQkLNggx/rUKVzFPKUTaHuXDN
-NlVIMVXhldib15Hp6zsXUz504Qj2nkLdpQe0AwiShEkAYuvMyP8xRBnPXKF0iidaFX6NCIFgOihg
-zKKIhxSawu05Pf/VpA+Ypdr78t9F7YUE0daREbFfYN7As1au239BXKU6r/FR9gpWMH8OGM7PG+RL
-7+EKr5s5sV6c+gdTHd28HxDkMv52LRyQXJL99CvV5VfcYrlLsmn+crZ0/SRjCT43ERzpXzwRxdwx
-OC9SglWrc6i5oUrpzdfHOWJs5alxXWqkDzBewHYrf3F4gEETuhUw0yLOWARC0xHsWFDFqqSQm+8t
-Sb3B7UaaQHjoeoEOfvtWIkLvL5c33k+a+bGSbMmmSJlXs+BpWVHcMfBNTgEO135cEJsIIarIJfJb
-RU9/Iz0Y3Bl2dqIyipW6fAXvb8DusbjEZQpKnkUG2avjxLeLu/pnskXcTBIMp/fvWmo/n3XmcT7r
-Mzuf8ZKqAcwWwPlRfgpc2+rNtgnM7QunmlIMOurkKbdTOxSXw2GsXcE4i6MWLoNeTzIHSczlHYUo
-TK/dO0zHVFahitpmc0+r57+vEblCVQi5MhYhAQ44xVSb9X8jj8Q6qDEjylezNN83sgfHNAJlGDww
-gIwJ3TxoUilPQycuY3l32TrJB9lQr+tcR/uEzoJGEipzz735L9RYntoNbaDtLqLyrmbf0c0wdI5a
-CqJ5tQ9OJahJFLN6LSwGS0JLpcp9O1JoecbWFtE88v5dH3w7j8QzeQSH+N8kDBK39ycYmxUgaVl7
-PD8mwXsG77KerPDjHPFD38FEjw4vRxT8Y7I+IFGVN7XheVZ+FyBAXq//vgETvI11eatrX+LRVjNt
-fF5mrhUEcjQGRWB0iSt9VDJ5LankOSZWNMGq3pZxKCv6oIFkfC86rwxDMBCjdGjbO1hiog41r8rc
-NxLWxmImLwIx+l247ejNemOeuOCc1xlP6eC04oHK9rNWj8pp0I6jU1Isw47ThaD8NVb4MSFHXT1S
-3p/iZAiWOMryLHrNZrE1kNeKrLPdhYGNHTRDZgkk1q16bubJldP4QRvp4sNilL2TgxMFsVWlP3t3
-paR12CJATxkZn2jd7Vtpv1yHEejnepZmU9YBKL6vBLET8OYuSkIESHB709DMfYRZXUyjkez7M2Vn
-H+i9cgltfVPIHbW3Pfe+QD8ACBii+43o8fcrX5cnNh5rL1dD
+<?php
+
+namespace Xentral\Modules\Ebay\Exception;
+
+use UnexpectedValueException as SplUnexpectedValueException;
+
+class MissingValueException extends SplUnexpectedValueException implements EbayExceptionInterface
+{
+}

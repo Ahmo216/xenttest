@@ -1,88 +1,97 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php 
+
+class WidgetGenreisekosten_position
+{
+
+  private $app;            //application object  
+  public $form;            //store form object  
+  protected $parsetarget;    //target for content
+
+  public function __construct($app,$parsetarget)
+  {
+    $this->app = $app;
+    $this->parsetarget = $parsetarget;
+    $this->Form();
+  }
+
+  public function reisekosten_positionDelete()
+  {
+    
+    $this->form->Execute("reisekosten_position","delete");
+
+    $this->reisekosten_positionList();
+  }
+
+  function Edit()
+  {
+    $this->form->Edit();
+  }
+
+  function Copy()
+  {
+    $this->form->Copy();
+  }
+
+  public function Create()
+  {
+    $this->form->Create();
+  }
+
+  public function Search()
+  {
+    $this->app->Tpl->Set($this->parsetarget,"SUUUCHEEE");
+  }
+
+  public function Summary()
+  {
+    $this->app->Tpl->Set($this->parsetarget,"grosse Tabelle");
+  }
+
+  function Form()
+  {
+    $this->form = $this->app->FormHandler->CreateNew("reisekosten_position");
+    $this->form->UseTable("reisekosten_position");
+    $this->form->UseTemplate("reisekosten_position.tpl",$this->parsetarget);
+
+    $field = new HTMLInput("datum","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLSelect("reisekostenart",0,"reisekostenart","","","0");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("betrag","text","","10","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLCheckbox("abrechnen","","","1","0","0");
+    $this->form->NewField($field);
+
+    $field = new HTMLCheckbox("keineust","","","1","0","0");
+    $this->form->NewField($field);
+
+    $field = new HTMLSelect("uststeuersatz",0,"uststeuersatz","","","0");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("bezeichnung","text","","50","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+    $field = new HTMLSelect("bezahlt_wie",0,"bezahlt_wie","","","0");
+    $this->form->NewField($field);
+
+    $field = new HTMLInput("mitarbeiter","text","","30","","","","","","","","0","","");
+    $this->form->NewField($field);
+
+
+  }
+
+}
+
+?>

@@ -1,38 +1,70 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPrFh0CDSD/dqNbkLu66hYmMjM98OfIyrHFhF7SZu0HxZzKM0fcnbw7jisasx6yR2lybPWYhM
-wQWgjkD9S/kr4v1+9eanmJNDSkjl/GcxXuK62+ztD/G7zYILk4WFwhw1YhT3XMgmsmbnsdYfHFFZ
-PhxjqThFI41UK3w7BHZCfJ80fZHu72gjwVobsbx1paeq8mcicvKuACS8Hy/H0bXWSehozwgOC9wE
-ik4A/rT1Grnix1yUy2Y4ojgCI+OPCthQSG6BRNaciBL6t+g1yC9VFbXFpE5Vt0SZABxWlSeRut3/
-t6gL/CfaSOC0e2yCY5Vy9yVadZSMcCx9JuS3igpmhZy5PgRoVutag97bkx+TA51FIHpappIIL3SA
-9lkG2RcwmFJ3XABFbP5HcqG2dV5dUDqSejgpBdS7MoDHtjzStu1iRRZs66BbcbY6IUrMUkm9voPR
-nxpGujaP+WEEL142t7UKNMQ+WzsIdQDjMUqw5Fsvzkqk1gjzG1qiW5Om32mixS+2Z+4qanTaJtNy
-ub7k6hqxRDTuMW5BP9MoxvHfEm77hpXtopxh2y8mNMeg20fLfbetDyA/Av0+4p2uj+r1mRvJj4vg
-PL9Txcw2EobXstubfqxj+OYpR1uakW1aUzYt2jt0dYJIfh5a5VnPQvxmIkM+glI2n7hu5+Qajc2u
-QeSB6IlI0UfZ8TcsUX8bwG3Jn+mRXasD6DU/z1kSZZR6BBbjMD3CSWgkGxClpLU1tKuGKY6zde1m
-h+wyfTKYldK6Quu7IdF0nyp1XI5KK/gI9fbzy1bXhdnsNzqNBj5yOHKAz/t3CQPPpET9wOei4Dpu
-T7dFa419DPyMaJTl6r4FRJ14W053dfycZomGh4L8/CEDgq2onNnlNEwCOAgryb3ha14TwoqeFHiF
-zBgS9Dl/99PKb6RO81IaYjLfUhxOESTHlJU5l+X93CpMPhNrRZS6pOBDo+bWeQWfg9A3jKNe0aG/
-wZeX3Bua2vEeBTfewP1HtC/JtQLGhzwNH5h3Ji3bHnPOsk8OYzjO8QUP5uQM8xzboAiVf5DO/7D4
-SHQcmsDHvUw7WgwXFr5roX5xEZIx6CrKkS9U9VyHGP1G0pD5wJde0wUw25R28uxwPhwjO8Ur0ezi
-FPy8CBGcUBeHncdjHa98TKfFcOHgnqifQIhdGQwLHNhDKZ/3Ss+Nix5kiPT5+ymoJ2KBhWjhPKYp
-OV5me9UpSY9PUH+fS2XbZwGNgthgPsF6NZdMw1lLN+aFuXw+8FxH/HXcc8m9YlxtkkXoSBrSWzgT
-zYaqeTFGV0NPheZQOLaSyCKHT5h4WnIp9hcHfCuEnRypRck2ZvenHYXbgYfQehzN9qaOYePaI88k
-Zak8muTEoVVsJXKXVBPbxXtMp9lMiDrzHGi52p65uZMOPGO1sF3c9kjo1VwezExVAZFiTEuw6+er
-/sadf01yNspfjrFNBJuSsFI4Az3ZR1+m+2RBvIJ/hG7LZQN1YvVQH5PPyrKg/hT0u8WaGHDZpiLL
-ZqJ3iMb6p7Q38PKclfxlRxmvrhiOu2+59vd4XTtVGy/S/0hvxcfp8dbVWgFTXWW+oSvdzUolbyGV
-QDjvvwyo9WAjegfAlOZJh7BOTHJptM22XzkmUtCVJjz1gJOeW8hDV0DIJ56mDTa9RWvq0MEarnEY
-k7a5MFRIpXByltNEekDWGZK6HnG+IXb2CFNWxW8ei+j3MCydIkfVAH4FbgHjmuKXCz4ewKQ8unkE
-YRbNN7+iFmT44sLYyLgF0t3MrJDCl1wSv7UR2HjEejSP0p1T7WvfM3NmdWhRjIs64PBiHY3rAI+0
-IBJc95imkktPchgq1d10/MBb07/zBhV6NWu1EayAzlPDG6b+ijif1DJ8S5ggujuZe0QlcxCdiFzH
-9o9le48qZ0eB1BNMPlNCYc92OXyH5k118GF4JfssJ4TfX2l2VONMG7wbV8YcW48SE5Zekq51gn6k
-QM7U9jRKZy4+ACIS5Aasu++fWHojq5DbWDjj+4TUmkTmtic6mCeNJrp+2yGxRX2T62TPtOWoIH2m
-m0276FcsGyq//IMwQuzE+fglT7nOK5vC8xf4oYONR/QX3J6hQO81UZewO4hanWamzpFSofMEmjEn
-faLR6dAicsob2c5ilWVFmVhA2w09LqNueJBESz7u1spXQ93p9hqtSINgogSV18g2RCDyfVO+yx2S
-95PkGacTf+p7XfRLmT0BwUquEzLnLuiTIVSG++d97Q+siJk1wtLmrTpXP2ot+ucN5I4Wo9zXmxKw
-uSe3g5wQ+6k3Ou1i810fX62hO6oeda694+zCNpGdT5igU4pKzWHy1S9Cn8S5A074GXPL2iZ9RdX4
-sYNOv8HmE36907QqhGGDzJM8kKhj2sEvQr0LV3WvW15AZn1AfA/vmn1CqaOryNnK56UeAZu9DN3Q
-NDRaFY9rvbOpwnrBqaIQ3/uLTo2dlHDnKpABspa874Z/vXQrbuue1O0ZozrnY9vENQa3R1LOD/nz
-pOYy0c9zhc9kbBpkeU0pxUcgeQ6uiZCksrzV3rkKh2ppnioi5+z/tfC+WEax7mJuz1G8Jz2jDLn3
-5ZYd5t3k3BdptrTQFf0d0/KBncoLuDjo+ooNKw2oBN15
+<?php
+namespace Xentral\Modules\SystemHealth;
+
+use Xentral\Core\DependencyInjection\ContainerInterface;
+use Xentral\Modules\SystemHealth\Gateway\SystemHealthGateway;
+use Xentral\Modules\SystemHealth\Service\SystemHealthService;
+use Xentral\Modules\SystemHealth\Service\SystemHealthServiceInterface;
+
+final class Bootstrap
+{
+    /**
+     * @return array
+     */
+    public static function registerServices()
+    {
+        return [
+            'SystemHealthService' => 'onInitSystemHealthService',
+            'SystemHealthGateway' => 'onInitSystemHealthGateway',
+        ];
+    }
+
+    /**
+     * @return array
+     */
+    public static function registerJavascript()
+    {
+        return [
+            'SystemHealth' => [
+                './classes/Modules/SystemHealth/www/css/systemhealth.js',
+            ],
+        ];
+    }
+
+    /**
+     * @return array
+     */
+    public static function registerStylesheets()
+    {
+        return [
+            'Voucher' => [
+                './classes/Modules/SystemHealth/www/css/systemhealth.css',
+            ],
+        ];
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return SystemHealthGateway
+     */
+    public static function onInitSystemHealthGateway(ContainerInterface $container)
+    {
+        return new SystemHealthGateway($container->get('Database'));
+    }
+
+    /**
+     * @param ContainerInterface $container
+     *
+     * @return SystemHealthService
+     */
+    public static function onInitSystemHealthService(ContainerInterface $container)
+    {
+        return new SystemHealthService(
+            $container->get('Database'),
+            $container->get('SystemHealthGateway'),
+            $container->get('NotificationService')
+        );
+    }
+
+}

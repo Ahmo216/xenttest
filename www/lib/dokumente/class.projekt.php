@@ -1,109 +1,140 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/*
+**** COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*
+* Xentral (c) Xentral ERP Software GmbH GmbH, Fuggerstrasse 11, D-86150 Augsburg, * Germany 2019 
+*
+**** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
+*/
 ?>
-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
+<?php
+
+class ProjektPDF extends Briefpapier {
+  public $doctype;
+  
+  function __construct($app)
+  {
+    $this->app=$app;
+    //parent::Briefpapier();
+    $this->doctype="angebot";
+    $this->doctypeOrig="Projekt";
+    parent::__construct($this->app);
+  } 
+
+  function GetProjekt($id)
+  {
+    $data = $this->app->DB->SelectArr("SELECT kunde AS adresse, beschreibung, abkuerzung AS abk, name AS projektname FROM projekt WHERE id='$id' LIMIT 1");
+    $data = reset($data);
+    extract($data,EXTR_OVERWRITE);
+
+
+      $this->setRecipientDB($adresse);
+//      $this->setRecipientLieferadresse($id,"angebot");
+            
+			$this->nichtsichtbar_zeileabsender = true;
+    	$this->nichtsichtbar_footer = true;
+    	$this->nichtsichtbar_rechtsoben = true;
+
+      $this->logofile = "";
+      $this->briefpapier="";
+
+//  	$zahlungsweise = ucfirst($zahlungsweise);	
+
+			//$zahlungstext = "\nZahlungsweise: $zahlungsweise ";
+/*
+			$zahlungstext = "\n$zahlungsweise ";
+			if($zahlungszieltage >0) $zahlungstext .= "zahlbar innerhalb $zahlungszieltage Tagen.";
+			else
+				$zahlungstext .= "zahlbar sofort.";
+
+			if($zahlungszielskonto>0) $zahlungstext .= "\nSkonto $zahlungszielskonto% innerhalb $zahlungszieltageskonto Tagen";	
+*/
+      if($belegnr<=0) $belegnr = "- Entwurf";
+
+      $this->doctypeOrig="Projekt $belegnr";
+
+      if($angebot=="") $angebot = "-";
+      if($kundennummer=="") $kundennummer= "-";
+
+//      $this->setCorrDetails(array("Anfrage"=>$anfrage,"Ihre Kunden-Nr."=>$kundennummer,"Bestelldatum"=>$datum,"Vertrieb"=>$vertrieb));
+//      if(!$this->app->erp->ProjektMitUmsatzeuer($id) && $ustid!=""  && $keinsteuersatz!="1")
+      {
+        //$steuer = "\nSteuerfreie innergemeinschaftliche Lieferung. Ihre USt-IdNr. $ustid Land: $land";
+//        $steuer = "\nSteuerfrei nach § 4 Nr. 1b i.V.m. § 6 a UStG. Ihre USt-IdNr. $ustid Land: $land";
+//        $steuer = $this->app->erp->Firmendaten("eu_lieferung_vermerk");
+        $steuer = str_replace('{USTID}',$ustid,$steuer);
+        $steuer = str_replace('{LAND}',$land,$steuer);
+      }
+
+			$freitext = $beschreibung;
+
+      $this->setTextDetails(array(
+	  		"body"=>$projektname." ".$this->app->erp->Firmendaten("projekt_header"),
+	  		"footer"=>"$freitext\n\n".$this->app->erp->Firmendaten("projekt_footer")));
+      
+      $artikel = $this->app->DB->SelectArr("SELECT * FROM arbeitspaket WHERE projekt='$id' AND art!='meilenstein' ORDER By id");
+//      if(!$this->app->erp->ProjektMitUmsatzeuer($id)) $this->ust_befreit=true;
+
+      $summe_rabatt = $this->app->DB->Select("SELECT SUM(rabatt) FROM angebot_position WHERE angebot='$id'");
+			if($summe_rabatt > 0) $this->rabatt=1;
+
+			$summe = 0;
+      //$waehrung = $this->app->DB->Select("SELECT waehrung FROM angebot_position WHERE angebot='$id' LIMIT 1");
+      foreach($artikel as $key=>$value)
+      {
+        if($value['umsatzsteuer'] != "ermaessigt" && $value['umsatzsteuer'] != "befreit") $value['umsatzsteuer'] = "normal";
+
+				if($value['kosten_geplant']>0) 
+				{ 
+					$value['preis']=$value['kosten_geplant']; 
+					$value['menge']=1;
+				}
+				else {
+					$value['menge']=$value['zeit_geplant'];
+					$value['preis']=65;
+				}
+
+   			$this->addItem(array('currency'=>$value[waehrung],
+					'amount'=>$value['menge'],
+					'price'=>$value['preis'],
+					'tax'=>$value['umsatzsteuer'],
+					'itemno'=>$value['nummer'],
+					'desc'=>$value['beschreibung'],
+	    		"name"=>strtoupper($value['art']).": ".ltrim($value['aufgabe']),
+					"rabatt"=>$value['rabatt']));
+
+					$netto_gesamt = $value['menge']*($value['preis']-($value['preis']/100*$value['rabatt']));
+					$summe = $summe + $netto_gesamt;
+
+					if($value['umsatzsteuer']=="" || $value['umsatzsteuer']=="normal")
+					{
+						$summeV = $summeV + (($netto_gesamt/100)*$this->app->erp->GetSteuersatzNormal());
+					}
+					elseif($value['umsatzsteuer'] != "befreit") {
+						$summeR = $summeR + (($netto_gesamt/100)*$this->app->erp->GetSteuersatzErmaessigt());
+					}
+					unset($value);
+      }
+		/*	
+      $summe = $this->app->DB->Select("SELECT SUM(menge*preis) FROM angebot_position WHERE angebot='$id'");
+			// voller steuersatz
+      $summeV = $this->app->DB->Select("SELECT SUM(menge*preis) FROM angebot_position WHERE angebot='$id' AND (umsatzsteuer='normal' or umsatzsteuer='')")/100 * 19;
+			// reduzierter steuersatz
+      $summeR = $this->app->DB->Select("SELECT SUM(menge*preis) FROM angebot_position WHERE angebot='$id' AND umsatzsteuer='ermaessigt'")/100 * 7;
+     */ 
+
+//      if($this->app->erp->ProjektMitUmsatzeuer($id))
+				$this->setTotals(array("totalArticles"=>$summe,"total"=>$summe + $summeV + $summeR,"totalTaxV"=>$summeV,"totalTaxR"=>$summeR));
+
+      /* Dateiname */
+      $datum = $this->app->DB->Select("SELECT DATE_FORMAT(datum,'%Y%m%d') FROM angebot WHERE id='$id' LIMIT 1");
+      $belegnr= $this->app->DB->Select("SELECT belegnr FROM angebot WHERE id='$id' LIMIT 1");
+      //$tmp_name = str_replace(' ','',trim($this->recipient['enterprise']));
+      //$tmp_name = str_replace('.','',$tmp_name);
+
+      $this->filename = $abk."_PR".$belegnr.".pdf";
+      $this->setBarcode($belegnr);
+  }
+
+
+}

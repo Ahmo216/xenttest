@@ -1,111 +1,241 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-sG==
+<?php
+
+namespace Xentral\Modules\TransferSmartyTemplate;
+
+use Xentral\Modules\TransferSmartyTemplate\Exception\InvalidArgumentException;
+use Xentral\Modules\TransferSmartyTemplate\Exception\PluginRegistrationFailedException;
+use Xentral\Modules\TransferSmartyTemplate\Exception\SegmentNotFoundException;
+use Xentral\Modules\TransferSmartyTemplate\Exception\TemplateNotFoundException;
+use Xentral\Modules\TransferSmartyTemplate\Smarty\SmartyWrapper;
+
+final class TransferSmartyTemplate
+{
+    /** @var SmartyWrapper $smarty */
+    private $smarty;
+
+    /**
+     * @param SmartyWrapper $smarty
+     */
+    public function __construct(SmartyWrapper $smarty)
+    {
+        $this->smarty = $smarty;
+    }
+
+    /**
+     * @param string   $type       plugin type
+     * @param string   $name       name of template tag
+     * @param callback $callback   PHP callback to register
+     *
+     * @throws PluginRegistrationFailedException
+     *
+     * @return void
+     */
+    public function registerPlugin($type, $name, $callback)
+    {
+        try {
+            $this->smarty->registerPlugin($type, $name, $callback);
+        } catch (\SmartyException $exception) {
+            throw new PluginRegistrationFailedException($exception->getMessage(), $exception->getCode(), $exception);
+        }
+    }
+
+    /**
+     * @param string $segment
+     *
+     * @return bool
+     */
+    public function hasTemplateDir($segment)
+    {
+        $segment = (string)$segment;
+        $templateDirs = $this->getTemplateDirs();
+
+        return isset($templateDirs[$segment]) ? true : false;
+    }
+
+    /**
+     * @param string $segment
+     *
+     * @throws SegmentNotFoundException
+     *
+     * @return string
+     */
+    public function getTemplateDir($segment)
+    {
+        $segment = (string)$segment;
+        $templateDirs = $this->getTemplateDirs();
+        if (!isset($templateDirs[$segment])) {
+            throw new SegmentNotFoundException(sprintf('Segment "%s" not found.', $segment));
+        }
+
+        return $templateDirs[$segment];
+    }
+
+    /**
+     * @param string $segment
+     * @param string $templateDir
+     *
+     * @return void
+     */
+    public function addTemplateDir($segment, $templateDir)
+    {
+        $this->smarty->addTemplateDir($segment, $templateDir);
+    }
+
+    /**
+     * @return array
+     */
+    public function getTemplateDirs()
+    {
+        return $this->smarty->getTemplateDirs();
+    }
+
+    /**
+     * Checks if template exists
+     *
+     * @param string $segment
+     * @param string $template
+     *
+     * @return bool
+     */
+    public function existsTemplate($segment, $template)
+    {
+        return $this->smarty->existsTemplate($segment, $template);
+    }
+
+    /**
+     * Parses the template and returns the output.
+     *
+     * @param string $segment
+     * @param string $template
+     *
+     * @return string
+     */
+    public function fetch($segment, $template)
+    {
+        $templatePath = $this->discoverTemplatePath($segment, $template);
+
+        return $this->smarty->fetch($templatePath);
+    }
+
+    /**
+     * Gets the value of one assigned template variable.
+     *
+     * @param string $tplVar
+     *
+     * @return mixed
+     */
+    public function getVar($tplVar)
+    {
+        $this->ensureTemplateVarIsString($tplVar);
+
+        return $this->smarty->getTemplateVars($tplVar);
+    }
+
+    /**
+     * Gets all assigned template variables and values
+     *
+     * @return array
+     */
+    public function getVars()
+    {
+        return $this->smarty->getTemplateVars(null);
+    }
+
+    /**
+     * Assigns a value to a template variable.
+     *
+     * If variable is already assigned, than the value will be overwritten.
+     *
+     * @param string $tplVar
+     * @param mixed  $value
+     *
+     * @return void
+     */
+    public function assign($tplVar, $value)
+    {
+        $this->ensureTemplateVarIsString($tplVar);
+        $this->smarty->assign((string)$tplVar, $value);
+    }
+
+    /**
+     * Assigns multiple template variables
+     *
+     * Array keys will be used as template variable and array values as value.
+     *
+     * @example assignAssoc(['foo' => 'zof', 'bar' => 'baz']); In Tempalte: {$foo} {$bar}
+     *
+     * @param array $tplVars
+     *
+     * @return void
+     */
+    public function assignAssoc(array $tplVars)
+    {
+        foreach ($tplVars as $tplVar => $value) {
+            $this->assign($tplVar, $value);
+        }
+    }
+
+    /**
+     * Deletes a template variable
+     *
+     * @param string $tplVar
+     */
+    public function clearAssign($tplVar)
+    {
+        $this->ensureTemplateVarIsString($tplVar);
+        $this->smarty->clearAssign((string)$tplVar);
+    }
+
+    /**
+     * Deletes multiple template variables
+     *
+     * @param array $tplVars
+     */
+    public function clearAssoc(array $tplVars)
+    {
+        foreach ($tplVars as $tplVar) {
+            $this->clearAssign($tplVar);
+        }
+    }
+
+    /**
+     * @param mixed $tplVar
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return void
+     */
+    private function ensureTemplateVarIsString($tplVar)
+    {
+        if (!is_string($tplVar)) {
+            throw new InvalidArgumentException('Template variable is not a string.');
+        }
+    }
+
+    /**
+     * @example 'default', 'list.tpl' => 'Modules/TransferTempalte/templates/default/list.tpl'
+     *
+     * @param string $segment
+     * @param string $template
+     *
+     * @throws InvalidArgumentException
+     * @throws TemplateNotFoundException
+     *
+     * @return string
+     */
+    private function discoverTemplatePath($segment, $template)
+    {
+        if (empty($segment)) {
+            throw new InvalidArgumentException('Required parameter "$segment" is empty.');
+        }
+        if (empty($template)) {
+            throw new InvalidArgumentException('Required parameter "$template" is empty.');
+        }
+
+        if ($this->smarty->existsTemplate($segment, $template)) {
+            return sprintf('[%s]%s', $segment, $template);
+        }
+
+        throw new TemplateNotFoundException(sprintf('Template "%s" not found in segment "%s".', $template, $segment));
+    }
+}

@@ -1,73 +1,119 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-eMAjqVg2dYu7pvs/vbcILg3C8TO/
+<?php
+
+namespace Xentral\Widgets\DataTable\Feature;
+
+use Closure;
+use Xentral\Widgets\DataTable\DataTableInterface;
+
+final class RowClassesFeature implements DataTableFeatureInterface
+{
+    /** @var array $colors */
+    private static $availableColors = [
+        'lightgray',
+        'lightgreen',
+        'lightteal',
+        'lightcyan',
+        'lightblue',
+        'lightindigo',
+        'lightviolet',
+        'lightfuchsia',
+        'lightpink',
+        'lightred',
+        'lightorange',
+        'lightyellow',
+        'lightlime',
+    ];
+
+    /** @var array|string[] $classes */
+    private $classes;
+
+    /** @var array|Closure[] $customFormatter */
+    private $customFormatter = [];
+
+    /**
+     * @param array|string[] $classes
+     * @param array|Closure  $customFormatter
+     */
+    public function __construct(array $classes = [], array $customFormatter = [])
+    {
+        foreach ($classes as $class) {
+            $this->addClass($class);
+        }
+        foreach ($customFormatter as $formatter) {
+            $this->addCustomFormatter($formatter);
+        }
+    }
+
+    /**
+     * @param string $className
+     *
+     * @return void
+     */
+    public function addClass($className)
+    {
+        $this->classes[] = trim($className);
+    }
+
+    /**
+     * @return array|string[]
+     */
+    public function getClasses()
+    {
+        return $this->classes;
+    }
+
+    /**
+     * @return string
+     */
+    public function getClassesString()
+    {
+        return implode(' ', $this->classes);
+    }
+
+    /**
+     * @return bool
+     */
+    public function hasCustomFormatter()
+    {
+        return !empty($this->customFormatter);
+    }
+
+    /**
+     * @return array|Closure[]
+     */
+    public function getCustomFormatter()
+    {
+        return $this->customFormatter;
+    }
+
+    /**
+     * @param Closure $closure
+     *
+     * @return void
+     */
+    public function addCustomFormatter(Closure $closure)
+    {
+        $this->customFormatter[] = $closure;
+    }
+
+    /**
+     * @param DataTableInterface $table
+     *
+     * @return void
+     */
+    public function modifyTable(DataTableInterface $table)
+    {
+        // @todo Logik steckt momentan in DataTableRenderer; muss aber hier rein
+    }
+
+    /**
+     * @return string
+     */
+    public function getRandomColor()
+    {
+        $count = count(self::$availableColors);
+        $index = mt_rand() % $count;
+
+        return self::$availableColors[$index];
+    }
+}

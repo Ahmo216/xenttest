@@ -1,127 +1,141 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-zB1j
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Pipedrive\Validator;
+
+use Xentral\Modules\Pipedrive\Exception\PipedriveValidatorException;
+
+final class PipedriveDealValidator implements PipedriveValidatorInterface
+{
+    /** @var string $rules */
+    private $rules;
+
+    /** @var array $data */
+    private $data;
+
+    /**
+     * PipedriveDealValidator constructor.
+     *
+     * @param string $rule
+     */
+    public function __construct(string $rule = 'default')
+    {
+        $this->rules = $rule;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function isValid(array $data = []): bool
+    {
+        $this->data = $data;
+        $validatorMethod = 'validatorRule' . ucfirst($this->rules);
+        if (!method_exists($this, $validatorMethod)) {
+            throw new PipedriveValidatorException(sprintf('Validator method %s is missing', $validatorMethod));
+        }
+
+        $rules = $this->{$validatorMethod}();
+        foreach ($rules as $field => $rule) {
+            if (array_key_exists('rule', $rule)) {
+                $validation = call_user_func($rule['rule'], $this->data);
+                if (!$validation && (!empty($this->data[$field]) || !empty($rule['required']))) {
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function validatorRuleDefault(): array
+    {
+        return [
+            'title'    => [
+                'rule'     => static function ($data) {
+                    return !empty($data['title']) && is_string($data['title']);
+                },
+                'required' => true,
+                'message'  => sprintf('%s should be a non empty String', 'Title'),
+            ],
+            'value'    => [
+                'rule'     => static function ($data) {
+                    return !empty($data['value']) && is_string($data['value']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'Deal Value'),
+            ],
+            'currency' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['currency']) && is_string($data['currency']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'currency'),
+            ],
+
+            'user_id' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['user_id']) && is_numeric($data['user_id']);
+                },
+                'required' => false,
+                'message'  => sprintf('%d should be a non empty String', 'user_id'),
+            ],
+
+            'person_id' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['person_id']) && is_numeric($data['person_id']);
+                },
+                'required' => false,
+                'message'  => sprintf('%d should be a non empty String', 'person_id'),
+            ],
+
+            'stage_id' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['stage_id']) && is_numeric($data['stage_id']);
+                },
+                'required' => false,
+                'message'  => sprintf('%d should be a non empty String', 'stage_id'),
+            ],
+
+            'probability' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['probability']) && is_numeric($data['probability']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'probability'),
+            ],
+
+            'status' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['status']) && in_array($data['status'], ['open', 'won', 'lost', 'deleted']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'status'),
+            ],
+
+            'lost_reason' => [
+                'rule'     => static function ($data) {
+                    return !empty($data['lost_reason']) && is_string($data['lost_reason']);
+                },
+                'required' => false,
+                'message'  => sprintf('%s should be a non empty String', 'lost reason'),
+            ],
+        ];
+    }
+
+    /**
+     * @return array
+     */
+    public function getData(): array
+    {
+        return array_filter(
+            $this->data,
+            static function ($value) {
+                return is_numeric($value) || (is_string($value) && trim($value) !== '');
+            }
+        );
+    }
+}

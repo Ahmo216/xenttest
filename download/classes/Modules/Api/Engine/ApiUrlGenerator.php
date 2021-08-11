@@ -1,68 +1,111 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPm2GUVxkCqBoi5/itVFxX+bJeqzkkjUAlSsyJvT/L00dcfAXtZBs0mcfLWJE/LKXkMts9SyC
-IFGnorWLgg1A/ezCBLIPYBziKNSX3ToBFMPRjd49strFyZEzxnwmItSLoc9KpI+WpTX+tz8VJha9
-EWtN+1xtCfj2sa5gZxmtG80PpZYDMA3dULTjIEZFdQ3XkECEZZdLa/FHLLTdrt4px4Y/2+WKILlF
-tbGhVQBsomqen1pqweoB0rIwYMcQedYvjKVHbPS578xbJ2fMm7erU5562q0ecUN6BU5OPE8R8t0D
-sllzsakGsJMuaGdXZEnp2IytBnLHStKMWNEsv27+0BfN7M+Ay8SKbyIhohk/dIXGJqaSvCyqabGt
-2YO0ZKw4+ag09yUAGvCnKpVR7mn1vqC1Um3LXtkMFwQVWNXBiFisJ/0HaNWwJfVObLOz6GCiZVuk
-SXaVUNxsyloTOt9a4bG6eci8Nhnn/FK+Irx/DqLQtRGg0SNleMF9jljt0tabLLUsokBP83Kcc2zJ
-K2x2A3lEtSAtzKzlbSljujlK3M3mdVtIe82E7BgBPJi7YGSSuJWEVl/BKAV4mSWmmHzLnxClP2Q4
-93DkIUCGXhyF1tQIP9JUwIRBcdETt6rbatai0oHpGOp9N56UgJLGJE5MHoc7JyeZ0XGIpn0UHfBi
-V9StyEx4z/kxxBYHKuRvO9JDkNkTv+1E8dRobkPw9ojy/ug/JYpea75Ote4ZzZjSkLm6E9NfReUs
-r78M/pM6NB4ZkjjyeiZSlQdSaN356kqno8rzWB9FarEbbRCAk8s+r962R3jEOysFzpDP2nKKSzin
-+DULMVr1maiZPrwoaJy0QKOWNmuEdLK+AtlfJVmqfciBmMwWyO8GURnELPu6B2vqmYtr6ie/abRN
-dS/U1NIFlAxNYorqcFYMZPWtJn2ybgjvQPiT5yBckr+rNRjFcDn051MwUnjR5XQbzXFbOSmkcGxE
-H2Kt5b0xn6cJpllvsS0ViuPvFm4GP3+4SVZQXZGilgFknpaDkHiNVmaCJrbyovZasea7oXRbiGCA
-X++3hwdNiHGQS6yGfnUKdtXqZ6dwu+xpf7PXVyYU1XuhtgWvX6bh/OH2xQ2DcG4HXmghG6butHn9
-k5GcSi7h/kbRAYFrIFJkHRDJb9wJULgeKucyDVnN5W9cgMulqTVdOVXNSNzUOzPrnidqhAjlf6b5
-lSIVukH40NCQ12USwlNtIiVtUIPpk9OsPaplWhk+rDpFBaNYhpr5DunXobOWW7ILc3/cUfjH1QIP
-BIaVHxns8KoIjMqW3ilRgFCuEvDc8AKP5tFnLo2Mk7doJubkN5XsQrIY2VdfcElyPO5hb9PrLVfK
-vgW+yIbvUz+Y8lZcKLhVppU5xGqCPEiV9fa8P7furjY73l43wvbbc3/R7terT5NgTcVgXUwfAvDY
-CXeifh8EvLxGuARVLl+6GNu4x4Zm6uvzQZ8LD/j40Yk/6r2F+OETR7jihRHBzgtoKt0IMjgWk2+O
-I9pdzszUbeesFjo5uhJw9xVZN9qbC4K/VHjNEeGh3/mXETVVzH0+5YGlEB68UAHsG8v8iK7Bxc5L
-mkbhNmu6hBgX2t6jkivEgJSRGURslIkMFkfr2nErN5200NiBTfc3eoAuxlYNqZ3D5v00xLq0Ip8F
-jNj/Qy/dJo4rciz80mqR4Ex7y9gXUKpdaqWUCyLenbfroOxhDf7YlHx4f0zv1TV/ahU0NNloBHne
-UKhfzjKtznOAxF/sfvopf78zVx0azLfAPLh7KDv8VdBGtjswGqy6DPa1XktwsRIUzkJq37gZMh9G
-5RwsLYbBHIqu8D4F78yIh464GoMDD8HgoheVmxSZWL2pl0hDwaCL86f62kEi3EDKHvcMyCsE1wyw
-PRXJVndYZ/954f/LT8JscjtddmezDRckFI0q/4psSb07zo1OUyqM/0dkAlUDRQoEV+o+1vP5b7qp
-hATWHg7aWQaLU6U8e+xo0qxoJWR7S5k66SE8FrfArb68E7wgeaWamYmBUV/rhXH1G6pVW3YKB7fG
-9r4x5uqIwf1+lJe+auD9wLtko9D11PlXW4cpyGoGedA6sWZSy+gJBH0fluBEgxFCkqqwt0R+l/yp
-0TFE1YJ94qKSsOCGGlsmpmx/maHJRCibOfVrqjAKvwQf8z3begikJOXjYCBq6ssjCjA+m0qHJd8n
-KXvGwMMJCcSkZwGA1XpeAIM0EfKE2dS//Gd56HZMAB1i64g5ikDGvrE//ZbJpsCGj+FpR3fv9GCx
-5sDLc42he+XpV92Xh0hdJDt+gDQ7hxAjW/fEPViv2JS4R0KHB5oJmNcycgpkjOxfBmXK5c1nax31
-qLSHjdRhgMjaB6UhV3f/lFbIs+acxdo4nhvOMPF9Ydy0KMw6UTRQD4/jCH0pzQvUQaGqN9TKPLF4
-vzjQFwUFXjjZ8Y3F9VUn/cbww0rhIjyf7oMOcUVXQF8xGyiUwt63CK6FAxBxDoBszwegcxLCNVLU
-7on9WnviYlPuFaF1jeOhfpeqUR+DXtKPbsvwlWD0cdEKB2KdCQnZ6VokDl/wJ0dsqWQAvRhUcLD6
-DChMrxsYGXH30EC4yA0fyQPdZD/Vd5Fi5qqo/6+vAtISqQuUjfRxa8tRx0zTlfxHy9YNm521tp+t
-mjZjhZuux6LGiMjso3SFD1eLBnifPkfsu2KHAk1FB0xPJujaVp6lYUNboQKZjDb095keZaN6qFy7
-x9b078dAnsy88GEi061w7ucgGlqCzHIZW9/3/1rgIvDkwKlHMc/3oLoO6RWRmVQQxo8TLyhbe5Xi
-b3PpN22z3dN1NXfLsNOgJ9+CklvKnqCUApamj5VXtjDa2prvkfHdmgom8I+6YxZ+UKjWNF1yfKy3
-26UGExQfp4rXia+U0IRFSwZuLtallqvm345ksIzRNNz3HOLpipcQgZUTHdf0+XEmWTKi6pjKzLsT
-H+mXTtKdc6vLAludRtQi8AgW0UtXB7mOvlisUaQrjW4MlZ+ppGgXMI31WcjBJltuFf1DaxwNt3Y5
-3XZnjvpb4cjw+9d18ktpFbnxa7Rj94xrTVOjhJaMWcgGhy6oliuOO3gD/CnBk6FkashRfiFn+cK3
-rC7TWySJC9JJM9Nd+bgpxY1xsHglBFPYcLyL3Lpnpc6ojOyx72sBdZ8OePkJTC2Q+We0XkDq0+cp
-MZ0njl+wbz0djXIpd3BECo8Fi5xluGpAjmz8IJjIHTrund+6oMpZ4xYx5fHbrsjUt4NDvP3h4isz
-esfyK0ms6zgUaxO9r+WJl2KG7hQ++3q0223lp7Tdg8OsOMYh2cmdEMSMNVIVtQI41OcWJfLheLXX
-bX7SG3YefvS5eKXF0c8AstvaGdKhCJOLSNn/pnE8T0Ywg754cp7ztRopot2KMxOzLU+YR9rPd0hO
-wk5y9M1d5YGKh0+PXJwar6iaaNPXTjUhaqllhAvAXdZqu7kg/XGr/GTEtxb0kTbjsgeRbCq6f/y4
-2uJzz0G1DBIinGv45Kpaa5MOwwinv2y4GTZQV+zh14M1BI4QvmfY0fhVdkLxRHG1ASvpwPiTtigw
-JXLORKbVbd7/62gDV66C4COlRLAwmg+spyUZdxxTH8fC9aNlH/yMP5hWwnqTZoiVelZqGxVN82gG
-HomxXxxe2cM0oA01TdbPXROr7bUI/WfL7hEkeSiWLHu870ilCanuFcBckR34ATrevE4PRi/xntE6
-admqvdVfQrs3AdVKsf7bGzsZY7N4DuSiAFhaDsXztTZVN2Hj3ZvlHYM134DGQ8256X154iwKNorT
-u4XLhlZWaOceutjVzggj4vYnr8S7kXwUsrv//ANRzY3b4mXHsbmwc+h0ImNmu1OEzzW5K/LJXG6Y
-oV43LY6W0BiJ/6r177nwdbn//5lOhEoYfw+sbyj430MsVke9kJ/jCHc1nWtYaxRN6U1gJtugObu+
-+vgW+rYFKsU9qpyzGZI/0e+MrPUpYXvfMD1a+oVGw2HOC5IaPBtDJYWDtwpsWZ+JAT81bJJnDOlQ
-95sSyhtwcF5GIoTJGr6ypK5Cj5HwN9j+CV0L1E2kVj6berSrNhAKGlwn1f2GeRafFuP4JMdRwyhJ
-HndDanK2A37p3L+kkc7N7fjpGTq/NmW9FlWV3mdXsfoMsTeWiHEn+Fi5UQYNQzZke2ZhdRd+ZKuT
-d0T1+YIN4Vf3PyZjZmJuhPfsXfkArONW6Sza/UbTjgcvCQjlmUsBsCB7sop/Wh/yYkeNgSE44Fhv
-x5tw1jutHhOKpAuSQeHLyo+WLkuQTvFx3GjklGu4y0DOCipu7++KR24iJmw86jJoMvrBzqtaYdJ/
-191jaQ9aGbRBYx7rcHK3jf7BCABrV04x42TNf2lj9bVbB/p+bb5+TND+epa/c47ysUgLDGTW2hh5
-7J4P8XxCzJF+UMlvsROrnJs/mP8WI4Qma6x8sDpqPirP96ivb6sv52f6LCC4CuAkJm/XBOnJh8Jw
-7vLFXyVa/vBsTKLCAh3Fo7rsFOuR0QKpLszXd1w4Rm8FBxZVXVTc8+fhipQSoV/S5Kz/WXlcZ1oT
-qxPKtHHSqAW2Fr6xkXZZPtZLUV4VFVsOmOfHkGSW6/y+fl7Y2iKZiTbT/cHN6SL9tqmsYE7ZVk1K
-/3Yfq8yfiJEDd63UBr2QGPcWoJOSpBBsqet877ml6qGBNGxibiHiNPTZubCFcSbTTQ42t0Y7DHGb
-/6B+Tl8WjWNNOL70Tp9DliOXnTKpssc7bsjLTol0cezxecpN9sUrVa+J2p+urJlar5SqUoPNrXOA
-ygz5ZPE38ApHd1KJBxtxmEO5CKjgocCX8LvtCPaoO6eW7+lqudRKpE2mQhNo4CnZs8UJy7+xOukp
-8mSdhY2kC96ulxnxvcS=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Api\Engine;
+
+use Xentral\Components\Http\Request;
+use Xentral\Components\Util\StringUtil;
+use Xentral\Modules\Api\Exception\InvalidArgumentException;
+
+final class ApiUrlGenerator
+{
+    /** @var Request $request */
+    private $request;
+
+    /**
+     * @param Request $request
+     */
+    public function __construct(Request $request)
+    {
+        $this->request = $request;
+    }
+
+    /**
+     * @param string $endpointUrl Beispiel: /v1/adressen
+     * @param array  $queryParams Query-Parameter (GET-Parameter)
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return string
+     */
+    public function generate(string $endpointUrl, array $queryParams = []): string
+    {
+        if (empty($endpointUrl)) {
+            throw new InvalidArgumentException('Endpoint URL can not be empty.');
+        }
+        if (!StringUtil::startsWith($endpointUrl, '/')) {
+            throw new InvalidArgumentException('Endpoint URL must start with a slash character.');
+        }
+        if (isset($queryParams['path'])) {
+            throw new InvalidArgumentException('Parameter "path" is reserved.');
+        }
+
+        // 1. Normal:      http://locahost/xentral-20.3/www/api/v1/docscan?foo=bar
+        // 2. Alternative: http://locahost/xentral-20.3/www/api/index.php/v1/docscan?foo=bar
+        // 3. Failsafe:    http://locahost/xentral-20.3/www/api/index.php?path=/v1/docscan&foo=bar
+        // => Base-URI in allen Fällen: http://locahost/xentral-20.3/www/api/
+        $baseUrl = $this->request->getUrlForPath('/');
+        $baseUrl = substr($baseUrl, 0, -1); // Remove last slash
+
+        // Query-Parameter zusammenbauen
+        $queryString = http_build_query($queryParams, '', '&');
+
+        if ($this->isFailsafeMode()) {
+            $fullUrl = $baseUrl . '/index.php?path=' . $endpointUrl;
+            if (!empty($queryParams)) {
+                $fullUrl .= '&' . $queryString;
+            }
+
+            return $fullUrl;
+        }
+
+        if ($this->isAlternateMode()) {
+            $fullUrl = $baseUrl . '/index.php' . $endpointUrl;
+        } else {
+            $fullUrl = $baseUrl . $endpointUrl;
+        }
+
+        if (!empty($queryParams)) {
+            $fullUrl .= '?' . $queryString;
+        }
+
+        return $fullUrl;
+    }
+
+    /**
+     * Failsafe URL: /www/api/index.php?path=/v1/adressen&foo=bar
+     *
+     * @return bool
+     */
+    private function isFailsafeMode(): bool
+    {
+        $pathInfo = $this->request->getPathInfo();
+        if (!empty($pathInfo)) {
+            return false;
+        }
+
+        $queryString = $this->request->getServer('QUERY_STRING');
+        parse_str($queryString, $queryParts);
+
+        return isset($queryParts['path']);
+    }
+
+    /**
+     * Alternative URL-Variante: /www/api/index.php/v1/adressen?foo=bar
+     *
+     * @return bool
+     */
+    private function isAlternateMode(): bool
+    {
+        $pathInfo = $this->request->getPathInfo();
+        if (empty($pathInfo)) {
+            return false;
+        }
+
+        $requestUri = $this->request->getRequestUri();
+        $apiRootPos = strpos($requestUri, 'api/index.php');
+
+        return is_int($apiRootPos) && $apiRootPos > 0;
+    }
+}

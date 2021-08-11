@@ -1,52 +1,106 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-c3D6P1Xx9PSY2m9ejn68EkAwIT0zjIksVBkebG==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Pipedrive\Gateway;
+
+use Xentral\Components\Database\Database;
+use Xentral\Modules\Pipedrive\Exception\PipedriveConfigurationException;
+use Xentral\Modules\Pipedrive\Service\PipedriveConfigurationService;
+
+final class PipedriveContactGateway
+{
+    /** @var Database $db */
+    private $db;
+
+    /** @var PipedriveConfigurationService $configurationService */
+    private $configurationService;
+
+    /**
+     * @param Database                      $db
+     * @param PipedriveConfigurationService $configurationService
+     */
+    public function __construct(Database $db, PipedriveConfigurationService $configurationService)
+    {
+        $this->db = $db;
+        $this->configurationService = $configurationService;
+    }
+
+    /**
+     * @param int $pdContactId Pipedrive contact ID
+     *
+     * @return array
+     */
+    public function getMappingByPipedriveId(int $pdContactId): array
+    {
+        return $this->db->fetchRow(
+            'SELECT
+            p.id,
+            p.created_at,
+            p.data,
+            p.address_id
+            FROM `pipedrive_contacts` AS `p`
+            WHERE p.hidden = 0 AND p.pd_contact_id = :id',
+            ['id' => $pdContactId]
+        );
+    }
+
+    /**
+     * @param int $addressId Xentral Address ID
+     *
+     * @return array
+     */
+    public function getMappingByAddressId(int $addressId): array
+    {
+        return $this->db->fetchRow(
+            'SELECT
+            p.id,
+            p.created_at,
+            p.data,
+            p.pd_contact_id
+            FROM `pipedrive_contacts` AS `p`
+            WHERE p.hidden = 0 AND p.address_id = :id',
+            ['id' => $addressId]
+        );
+    }
+
+    /**
+     * @param int  $addressId
+     * @param bool $withStatusField
+     *
+     * @throws PipedriveConfigurationException
+     *
+     * @return array
+     */
+    public function getInternalAddressById(int $addressId, bool $withStatusField = false): array
+    {
+        $placeHolder = '';
+        if ($withStatusField === true) {
+            // @codeCoverageIgnoreStart
+            $leadFields = $this->configurationService->matchSelectedAddressFreeField();
+            $lsField = $leadFields['pipedrive_ls_field'];
+            $placeHolder = ", a.{$lsField}";
+            // @codeCoverageIgnoreEnd
+        }
+
+        $sql = 'SELECT
+            a.id,
+            a.lead,
+            a.typ,
+            a.sprache,
+            a.name,
+            a.vorname,
+            a.nachname,
+            a.land,
+            a.ort,
+            a.plz,
+            a.bundesstaat,
+            a.telefon,
+            a.email %s
+            FROM `adresse` AS `a`
+            WHERE a.geloescht = 0 AND a.id = :id';
+
+        return $this->db->fetchRow(sprintf($sql, $placeHolder), ['id' => $addressId]);
+    }
+
+}

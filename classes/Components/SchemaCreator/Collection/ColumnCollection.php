@@ -1,74 +1,110 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Em==
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Components\SchemaCreator\Collection;
+
+use ArrayIterator;
+use IteratorAggregate;
+use Xentral\Components\SchemaCreator\Exception\SchemaCreatorInvalidArgumentException;
+use Xentral\Components\SchemaCreator\Interfaces\ColumnInterface;
+
+final class ColumnCollection implements IteratorAggregate
+{
+
+    /** @var array|ColumnInterface[] */
+    private $values = [];
+
+    /** @var null|ColumnInterface */
+    private $autoIncrementColumn;
+
+    /**
+     * @param array $values
+     */
+    public function __construct(array $values = [])
+    {
+        foreach ($values as $value) {
+            $this->add($value);
+        }
+    }
+
+    /**
+     * @param ColumnInterface $field
+     *
+     * @return void
+     */
+    public function add(ColumnInterface $field): void
+    {
+        if ($this->hasColumn($field->getField()) === true) {
+            throw new SchemaCreatorInvalidArgumentException(
+                sprintf('Column name `%s` already added', $field->getField())
+            );
+        }
+
+        $options = $field->getOptions();
+        if (array_key_exists('extra', $options) && $options['extra'] !== null) {
+
+             if ($options['extra'] === 'AUTO_INCREMENT' || $options['extra'] === 'ai') {
+                 $this->autoIncrementColumn = $field;
+             }
+        }
+
+        $this->values[] = $field;
+    }
+
+    /**
+     * @param string $column
+     *
+     * @return bool
+     */
+    public function hasColumn(string $column): bool
+    {
+        /** @var  ColumnInterface $configuredColumns */
+        foreach ($this->values as $configuredColumns) {
+            if ($column === $configuredColumns->getField()) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    /**
+     * @return array|string[]
+     */
+    public function getFields(): array
+    {
+        $fields = [];
+        foreach ($this->values as $column) {
+            $fields[] = $column->getField();
+        }
+
+        return $fields;
+    }
+
+    /**
+     * @return ArrayIterator|ColumnInterface[]
+     */
+    public function getIterator()
+    {
+        return new ArrayIterator($this->values);
+    }
+
+    /***
+     * @return bool
+     */
+    public function hasAutoIncrement(): bool
+    {
+        return null !== $this->autoIncrementColumn;
+    }
+
+    /**
+     * @return ColumnInterface|null
+     */
+    public function getAutoIncrementColumn(): ?ColumnInterface
+    {
+        return $this->autoIncrementColumn;
+    }
+
+
+}

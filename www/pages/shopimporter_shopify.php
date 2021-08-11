@@ -3275,7 +3275,7 @@ class Shopimporter_Shopify extends ShopimporterBase
         $this->shopify->fulfillments()->create(
             $externalOrderId,
             $this->location,
-            $tmp['tracking'],
+            $tmp['tracking'] ?? null,
             $trackingUrls,
             $this->notifyCustomer
         );
@@ -3444,7 +3444,7 @@ class Shopimporter_Shopify extends ShopimporterBase
             if (empty($result['data']['locations'])) {
                 return null;
             }
-            $locations = ['' => ''];
+            $locations = [];
             $this->location = '';
             $activeCount = 0;
             foreach ($result['data']['locations'] as $location) {
@@ -3468,6 +3468,26 @@ class Shopimporter_Shopify extends ShopimporterBase
     }
 
     /**
+     * @return JsonResponse|array
+     */
+    public function GetShippingCarriersForAssistant()
+    {
+        $this->adapter = new Shopimporter_Shopify_Adapter($this->app, $this->ShopifyURL, $this->shopid, $this->ShopifyToken);
+        $carrierServices = $this->adapter->call('carrier_services.json');
+
+        if(isset($carrierServices['data']['errors'])){
+            return new JsonResponse(['error' => $carrierServices['data']['errors']], JsonResponse::HTTP_BAD_REQUEST);
+        }
+
+        $response = [];
+        foreach ($carrierServices['data']['carrier_services'] as $carrier){
+            $response[] = $carrier['name'];
+        }
+
+        return $response;
+    }
+
+    /**
      * @param array|null $requiredForSubmit
      * @param mixed      $locations
      *
@@ -3486,7 +3506,7 @@ class Shopimporter_Shopify extends ShopimporterBase
             'submitType' => 'submit',
             'icon' => 'password-icon',
             'headline' => 'Shopify',
-            'subHeadline' => 'Bitte wähle den Shop aus?',
+            'subHeadline' => 'Bitte wähle den Lagerstandort aus',
             'submitUrl' => 'index.php?module=onlineshops&action=create&cmd=saveassistent&shopmodule=shopimporter_shopify',
             'form' => [
             ],
@@ -3499,22 +3519,19 @@ class Shopimporter_Shopify extends ShopimporterBase
             ],
         ];
 
-        if (count($locations) > 2) {
-            $page['form'][] = [
-                'id' => 0,
-                'name' => 'exportArticlesGroup',
-                'inputs' => [
-                    [
-                        'label' => 'Shop',
-                        'type' => 'select',
-                        'name' => 'location',
-                        'validation' => false,
-                        'options' => $this->getVueLocations(),
-                    ],
-
+        $page['form'][] = [
+            'id' => 0,
+            'name' => 'exportArticlesGroup',
+            'inputs' => [
+                [
+                    'label' => 'Lagerstandort',
+                    'type' => 'select',
+                    'name' => 'location',
+                    'validation' => false,
+                    'options' => $this->getVueLocations($locations),
                 ],
-            ];
-        }
+            ],
+        ];
         $page['form'][] = [
             'id' => 1,
             'name' => 'sendTrackingGroup',
@@ -3566,15 +3583,17 @@ class Shopimporter_Shopify extends ShopimporterBase
     /**
      * @return array
      */
-    public function getVueLocations()
+    public function getVueLocations($locations)
     {
+        $selectFirstOption = 1;
         $ret = [];
-        $locations = json_decode(base64_decode($this->locations), true);
         foreach ($locations as $locationId => $location) {
             $ret[] = [
                 'value' => $locationId,
                 'text' => $location,
+                'selected' => $selectFirstOption
             ];
+          $selectFirstOption = 0;
         }
 
         return $ret;
@@ -3644,19 +3663,7 @@ class Shopimporter_Shopify extends ShopimporterBase
                         'validation' => false,
                     ],
                 ],
-            ],
-            [
-                'id' => 3,
-                'name' => 'token',
-                'inputs' => [
-                    [
-                        'label' => 'Token aus Shopify',
-                        'type' => 'text',
-                        'name' => 'ShopifyToken',
-                        'validation' => false,
-                    ],
-                ],
-            ],
+            ]
         ];
     }
 

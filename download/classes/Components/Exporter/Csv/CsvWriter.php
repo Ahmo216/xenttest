@@ -1,95 +1,147 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-a6GhXfH71cSP720B7QJ1SVlh
+<?php
+
+namespace Xentral\Components\Exporter\Csv;
+
+use Iterator;
+use Xentral\Components\Exporter\Exception\InvalidResourceException;
+use Xentral\Components\Exporter\Exception\PhpExtensionMissingException;
+
+final class CsvWriter
+{
+    /** @var resource $handle */
+    private $handle;
+
+    /** @var CsvConfig $config */
+    private $config;
+
+    /**
+     * @param resource       $handle
+     * @param CsvConfig|null $config
+     *
+     * @throws InvalidResourceException If resource is not writable or invalid
+     * @throws PhpExtensionMissingException If mbstring is missing
+     */
+    public function __construct($handle, CsvConfig $config = null)
+    {
+        if (!is_resource($handle)) {
+            throw new InvalidResourceException('First parameter is not a valid resource.');
+        }
+        if (!$this->isStreamWritable($handle)) {
+            throw new InvalidResourceException('Resource is not writable.');
+        }
+        if (!function_exists('mb_convert_encoding')) {
+            throw new PhpExtensionMissingException('Required PHP extension "mbstring" is missing.');
+        }
+        if ($config === null) {
+            $config = new CsvConfig();
+        }
+
+        $this->config = $config;
+        $this->handle = $handle;
+    }
+
+    /**
+     * @param array|Iterator $lines
+     *
+     * @return void
+     */
+    public function writeLines($lines)
+    {
+        foreach ($lines as $line) {
+            $this->writeLine($line);
+        }
+    }
+
+    /**
+     * @param array $line
+     *
+     * @return void
+     */
+    public function writeLine($line)
+    {
+        if ($this->config->isForceEnclosureEnabled()) {
+            $fields = $this->encloseAllValues($line);
+            fwrite(
+                $this->handle,
+                sprintf(
+                    "%s\n",
+                    implode($this->config->getDelimiter(), $this->convertCharset($fields))
+                )
+            );
+
+            return;
+        }
+
+        fputcsv(
+            $this->handle,
+            $this->convertCharset($line),
+            $this->config->getDelimiter(),
+            $this->config->getEnclosure(),
+            $this->config->getEscapeChar()
+        );
+    }
+
+    /***
+     * @param array $line
+     *
+     * @return array
+     */
+    private function encloseAllValues($line)
+    {
+        $escapeChar = $this->config->getEscapeChar();
+        $enclosure = $this->config->getEnclosure();
+        $result = [];
+        foreach ($line as $key => $value) {
+            $value = str_replace($escapeChar . $enclosure, $enclosure, $value);
+            $value = str_replace($enclosure, $escapeChar . $enclosure, $value);
+            $result[$key] = sprintf('%1$s%2$s%1$s', $enclosure, $value);
+        }
+
+        return $result;
+    }
+
+
+    /**
+     * @param array $line
+     *
+     * @return array
+     */
+    private function convertCharset($line)
+    {
+        if ($this->config->getSourceCharset() === $this->config->getTargetCharset()) {
+            return $line; // No conversion needed
+        }
+
+        $result = [];
+
+        foreach ($line as $key => $cellData) {
+            $result[$key] = mb_convert_encoding(
+                $cellData,
+                $this->config->getTargetCharset(),
+                $this->config->getSourceCharset()
+            );
+        }
+
+        return $result;
+    }
+
+    /**
+     * @param resource $handle
+     *
+     * @return bool
+     */
+    private function isStreamWritable($handle)
+    {
+        $meta = stream_get_meta_data($handle);
+        $currentMode = $meta['mode'];
+
+        $writeModes = ['r+', 'w', 'w+', 'a', 'a+', 'x', 'x+', 'c', 'c+'];
+        foreach ($writeModes as $writeMode) {
+            if (strpos($currentMode, $writeMode) !== false) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+}

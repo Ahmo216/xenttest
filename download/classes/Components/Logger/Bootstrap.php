@@ -7,8 +7,8 @@ namespace Xentral\Components\Logger;
 use Xentral\Components\Logger\Context\ContextHelper;
 use Xentral\Components\Logger\Handler\DatabaseLogHandler;
 use Xentral\Core\DependencyInjection\ContainerInterface;
-use Xentral\Modules\Log\Exception\InvalidLoglevelException;
-use Xentral\Modules\Log\Service\LoggerConfigService;
+use Xentral\Modules\LogViewer\Exception\InvalidLoglevelException;
+use Xentral\Modules\LogViewer\Service\LoggerConfigService;
 
 final class Bootstrap
 {

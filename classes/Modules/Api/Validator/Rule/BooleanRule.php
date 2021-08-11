@@ -1,34 +1,30 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Xentral\Modules\Api\Validator\Rule;
+
+use Rakit\Validation\Rule;
+
+class BooleanRule extends Rule
+{
+    /** @var string $message */
+    protected $message = "The attribute ':attribute' must be a boolean value.";
+
+    /**
+     * @param mixed $value
+     *
+     * @return bool
+     */
+    public function check($value)
+    {
+        if ($value === true || $value === 1 || $value === '1') {
+            return true; // true = Ist Boolean
+        }
+        if ($value === false || $value === 0 || $value === '0') {
+            return true; // true = Ist Boolean
+        }
+
+        // 'true' und 'false' als String ist nicht zulässig, da die Datenbank diese Werte nicht casten kann.
+
+        return false; // Kein Boolean
+    }
+}

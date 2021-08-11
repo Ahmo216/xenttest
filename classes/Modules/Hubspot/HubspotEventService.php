@@ -1,48 +1,68 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPovbZDomodGJ2jSP/skaQGtsYeaNjoihZsMkqN/jRQ1vxzNtmtGFiDSvhdr8B5qAvmVVl2jQ
-3wCKBl0tiFTX+Q9sfCZWFHlGLrhrBp7DL4lhmm3nEwQ7Tl+pgcbxCi9F7zVPyUoiUMq8+lk4xbnL
-WcNx1td5o6BJlccW6PcPPNVHxS3sYDC14CMxdOA9ahXzxgtZ6upLFULwWkgDmmozmRrRCK7o0N3J
-r2vbEf8Cpi4OPgqf3N2XvOnttnTqHnbuGV+SEcXvtAevtyesdZg0mVmGKzJk952ie190yCJCCP/2
-lUHn2CmSonrCU5XIOkoz1TVVbQx/ULfB0LNRd1kh7A2Fn216Apflr9VuHBk/dIXGJqaSvCyqabGt
-2YQyaj8mA0fLfc4znMAH4IMGNeM4sm/9jRSKHqJKE/LYpTAUkm1UYvMRY7Z7MrGd39H8m8OLOg6t
-DJ+93zVCwZA4V7n6EY4OQ6hR5nEh+RHEG1fcUSw0tuUXhj1yzXnfMZUkVMND/HKElbYGIaYtS7mV
-00WKqAAzbS5HZzHE9MuKd+JrBz4p3Vs3TqzpLRwHUjwdI2Mg1X7Mdb9W6jozQiWmf+GDX3NM4gip
-2AKjb1wV73/nYOQqW3zWNllUtyNX2pXCfr3o6nT1EABGYQDbT827FGEc/TGwwmDZON4bsklA4As9
-ZqxqqhhOsaSbjcU4bqiYPj+G9REc2qPyH6RwQ61fTzCv1oPi/PdJCscRvZ/7B1EhrxwgvWyCPGKd
-ZPQ2xsDU35OgtWRdlsXxpOcmp1Yq83eR1yPuk9h46h2JdnheqNseTI2CZkhCFIOvH78pfIpweuOp
-Bc3TTf8k4i8MEV6si2nCgLCJzi7UDWYO8NjZPQM6hiZS6R1dfwVINgftZD0xcN13EV2n5scLyJ6m
-zT/XNOv6B6w4M8BTem2cwmMAOvc6cZsiWWTWRs6b5fEISfGANFtIV5QT/7int2czujFgkbKAOWH+
-U2AT7TiDCJs1KSLsKkVR2HMIVOVdrIt9YScVfEkz/Z5zCzV2l97bhdnumqjE8SMRi17ii8rTBnZP
-Vn2ksdxUFh1qD7mzLcwYPStLfzHJl8+e885un5jyltxYOGJ208Uxgl6R6C7DsRGfegRORvOpmOlF
-3pysKjzC0S2m09GhsLru7DBo0Lwq6tkuDj670nUTRr15mvlsUZCNkqRCSA6tMdc0J5TCINJFyq6g
-0vP8jBVSvLf+smQ9v2fe7Mexj0yW5c+uGTkEJi6rUple4qYNtSylMvjsDOBgj2WSB7+9bBRdn7f2
-934HsPBT8w1SdN6xAfKCDqlND7ej/aLKywD0irjwzevf2EWAZ10GEVmRmlO9kpSlsXfnk874B8r4
-Qz8Wgq4sB/mpCOxlp59WNLj+qEIT76zZkwL3VsDUpzOBnNHbDcYYT0YkFdiEOCrcQqAVuAn2tdqr
-Ag0FUFy7FcAhuFad5Oy2wXpRKIwdT67/g0lxVU5DmoieS9qzKqM0Wp33Ew6Aan49iaLWDxMjL7no
-q2130EK164xN0/4XM6cjIMaR+yQNyNGENoxLfjSoMlUHzfqkgH+JjFxD8dcRjwEAEuiTAc3/puOn
-Y6MVps5CH+4DJ+uVXZip1JrZaPNnOnmYAav62aeWi41cU4f84uxqHbJ6cq72KKY0QYfO/hXsjlli
-Z4F2h4GcZuvHTfFKsBgkh8dQzaUkRyX0T3Ml6BOPEDnj1wT+xBOPE+CGGeTA0HQFqZi77ypKPl98
-cUnZUCAAProPJf2Uyyq2BKw6pi1vwlV1zF2evGE91qjC/rihWuQFwkM3p+wh7hB/8FdzCiAOjjM7
-wh8FVb15j18Muc+aot8A6Ve6QoPEcr70qrExl03/fhJz3av/CmM7RsvnhQ3KE0VNK96hW0z0UkZ3
-jJj7n6bJ+HwnR3lkglhtmEZbPq5zTL2QqMIfhVIrzwhLg02njLfkIjs2gpNl9OsCrG4STa6ufi9K
-E3XuUEwTEYwD5VudtRDL4eKQ7DHOPqDaYcvl1+6Uh8qWuk7GG5glcYiMM3r+HN+6UFz+8v2/SYPE
-qL/huIIRe2o3KNag3qDcCmG38Y7Rb0fX1kgOVSCZpnTujM+PH6qu+xNMGSTZWABGXwiMJxXRZSyO
-XuRpQnXEp8wT4r5iGLXuMfqUEMTKTnvM5lw3sDPWV/SFWp5hMcmM/nsk+Yamgmlm2MoWBQ/7O3Fl
-/2qsrRQDcWZ+POikhBnKkr20DmbHTzLgENPBcEipOzBitrr7Gss8zBqUfC/Hrk2eG2kfL4tAZLuM
-Fo9oS4KqN/576x7XSTPalKQZw2KC/Irt7Sxljk+uNGnO5xtOP7jebX9cMoY4WILMI+VGjV+ceBSm
-e+N+DrIoJ/VSfs7cMduBBvEgJaoUNF2YXMaW06BMttrkbfm6ocZe6napAPjXrurw3Z6UkHMG7TVg
-Pnjzz5yXwxaLu/RWWQK/BOjioyCgMb7cGYSxTmFz1zsgLnSI4m1CMl+SwAxtz8TUzJx+fwfJX6j+
-dBZlWiDDefDUJe46Az1UX7c7KlNpzaMHREwcYwRR0mUA4A+ouMYFI9kqFdNIoAiJcXfmhKAPlYE/
-Bvf6mefkL0uczBrBXkewTN+5t1vz6Ji3K5uSOH02iWCZ/ZXZ9dcCCct8/cUZQoMaw2URKCP/qvV8
-N36fUVdPJZj1iVDi1hCPLjmMZGpRwQXmk0tsbx35ozWpFQN7gMDgWzbVrSGVr7lAcvyOEoY5KKJg
-8JvXJVSMEX+KWN7cT4/dxl9sPAH991peneOYQlV+JPZnJFifWOCWfqLgh6DitBi6IA57TrvLg9st
-dFK1O5EtBSCv5R4F/ym3DKBSXcosUnBCVzdFZmTmYYTyoTujkRa89qeVks0cSEGuubIslJ5XUX3e
-5e23SOBWLaEHjfLgDYmlNkB2KHqQQfiEsgC6eQsf1XFeXaPsp4J+1FLecNYWWN+uCouw3+ZUBDAA
-uy5K0EHkBHIuxRQSTxeqvzgFO0umyWxF/cG5tt86I5rvfUMxwkThW3e4zb2Hsck4lEjZSIzHasaG
-Khl345zG9ARC83VYpkgJzzomoBf5UieNAxfOXtJ8XC8ZO567/if53OTLVdWRCZwZNYjxwCpEhhF1
-l34hXdaCrlAKSqbCUDmPgnb1ZbbQlTXs7lwV36KwKj4dUj8nNgcn8qkAMxwxBOxFs9ZS846Uk5+Y
-oolwW8N74mZpqCOm7Ow0d207Hg3imPTXUME4VmRfykZpw1Lmo8l4iUsn4+DAG9OGlkVAFkpJgL4B
-unBTCQfzW7WTQE6cqHgNhNsiHKHbyiAGGa4PEl+q16gUrMf8AkisCQcqM0dlS6Qjw0djn5iv1xyh
-IxCKV0su3PaCg0m+D+m=
+<?php
+
+declare(strict_types=1);
+
+namespace Xentral\Modules\Hubspot;
+
+use Xentral\Components\Database\Database;
+use Xentral\Components\Database\Exception\DatabaseExceptionInterface;
+use Xentral\Modules\Hubspot\Exception\HubspotException;
+
+final class HubspotEventService
+{
+
+    /** @var Database $db */
+    private $db;
+
+    public function __construct(Database $db)
+    {
+        $this->db = $db;
+    }
+
+    /**
+     * @param string $event
+     *
+     * @return int
+     */
+    public function add(string $event): int
+    {
+        $add = 'INSERT INTO `hubspot_events` (`event`, `created_at` )
+                    VALUES (:event, NOW())';
+        try {
+            $this->db->perform($add, ['event' => $event]);
+        } catch (DatabaseExceptionInterface $exception) {
+            throw new HubspotException($exception->getMessage());
+        }
+
+        return $this->db->lastInsertId();
+    }
+
+    /**
+     * @param int $id
+     *
+     * @return void
+     */
+    public function deleteById(int $id): void
+    {
+        $this->db->perform('DELETE FROM `hubspot_events` WHERE id = :id', ['id' => $id]);
+    }
+
+    /**
+     * @return void
+     */
+    public function deleteAll(): void
+    {
+        $this->db->perform('DELETE FROM `hubspot_events`');
+    }
+
+    /**
+     * @param int $days
+     *
+     * @return void
+     */
+    public function deleteByInterval(int $days = 30): void
+    {
+        $sql = 'DELETE FROM `hubspot_events` WHERE `created_at` < DATE_SUB(NOW(), INTERVAL :days DAY)';
+        $this->db->perform($sql, ['days' => $days]);
+    }
+}

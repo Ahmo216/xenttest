@@ -1,51 +1,26 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
+/**
+ * PHPMailer language file.
+ * Czech Version
+ */
+
+$PHPMAILER_LANG = array();
+
+$PHPMAILER_LANG["provide_address"]      = 'Musíte zadat alespoò jednu ' .
+                                          'emailovou adresu pøíjemce.';
+$PHPMAILER_LANG["mailer_not_supported"] = ' mailový klient není podporován.';
+$PHPMAILER_LANG["execute"]              = 'Nelze provést: ';
+$PHPMAILER_LANG["instantiate"]          = 'Nelze vytvoøit instanci emailové funkce.';
+$PHPMAILER_LANG["authenticate"]         = 'SMTP Error: Chyba autentikace.';
+$PHPMAILER_LANG["from_failed"]          = 'Následující adresa From je nesprávná: ';
+$PHPMAILER_LANG["recipients_failed"]    = 'SMTP Error: Adresy pøíjemcù ' .
+                                          'nejsou správné ' .
+$PHPMAILER_LANG["data_not_accepted"]    = 'SMTP Error: Data nebyla pøijata';
+$PHPMAILER_LANG["connect_host"]         = 'SMTP Error: Nelze navázat spojení se ' .
+                                          ' SMTP serverem.';
+$PHPMAILER_LANG["file_access"]          = 'Soubor nenalezen: ';
+$PHPMAILER_LANG["file_open"]            = 'File Error: Nelze otevøít soubor pro ètení: ';
+$PHPMAILER_LANG["encoding"]             = 'Neznámé kódování: ';
+$PHPMAILER_LANG["signing"]              = 'Signing Error: ';
+
 ?>
-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
-XQuRoPRZI4i+fo+AT7u=
