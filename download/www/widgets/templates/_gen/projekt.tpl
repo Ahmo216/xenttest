@@ -60,6 +60,7 @@
   </div>
  <br />
  <input type="submit" name="speichern" value="Speichern" style="float:right" />
+ <div class="clear"></div>
 </div>
 
 <div id="tabs-3">

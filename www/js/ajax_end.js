@@ -230,9 +230,13 @@ var ZendeskWebWidget = function ($) {
         return;
       }
 
-      me.storage.currentModule = $('body').data('module');
+      let jBody = $('body');
+
+      me.storage.currentModule = jBody.data('module');
 
       me.setArticleSuggestions();
+
+      jBody.addClass('with-zendesk');
     },
 
     // makes sure that the web widget suggests articles based on the current module

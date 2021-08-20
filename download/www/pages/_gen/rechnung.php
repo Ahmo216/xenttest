@@ -7,13 +7,16 @@
 **** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
 */
 ?>
-<?php 
+<?php
 
-class GenRechnung { 
+include_once __DIR__.'/appgeneric.php';
 
-  function __construct(&$app) { 
+class GenRechnung extends AppGeneric {
 
-    $this->app=&$app;
+  function __construct(&$app) {
+
+    parent::__construct($app);
+
     $this->app->ActionHandlerInit($this);
 
     $this->app->ActionHandler("create","RechnungCreate");

@@ -23,6 +23,7 @@
 <tr><td class="auftraginfo_cell">Projekt:</td><td class="auftraginfo_cell">[PROJEKT]</td><td class="auftraginfo_cell">Mahnwesen:</td><td class="auftraginfo_cell">[MAHNWESEN]</td></tr>
 <tr><td class="auftraginfo_cell" colspan="2" width="50%"><b>Dokumente</b></td><td class="auftraginfo_cell">Datum:</td><td class="auftraginfo_cell">[MAHNWESENDATUM]</td></tr>
 <tr><td class="auftraginfo_cell">Internet:</td><td class="auftraginfo_cell">[INTERNET]</td><td class="auftraginfo_cell">Abw. Debitorennummer:</td><td class="auftraginfo_cell">[DEBITORENNUMMER]</td></tr>
+<tr><td class="auftraginfo_cell">{|Transaktion|}:</td><td class="auftraginfo_cell">[TRANSAKTIONSNUMMER]</td><td class="auftraginfo_cell">&nbsp;</td></tr>
 <tr><td class="auftraginfo_cell">Auftrag:</td><td class="auftraginfo_cell">[AUFTRAG]</td><td class="auftraginfo_cell"></td><td class="auftraginfo_cell">[AUSGANG]</td></tr>
 <tr valign="bottom"><td class="auftraginfo_cell">Lieferschein:</td><td class="auftraginfo_cell" nowrap>[LIEFERSCHEIN]</td><td class="auftraginfo_cell">Versteuerung:</td><td class="auftraginfo_cell">[STEUER]</td></tr>
 <tr><td class="auftraginfo_cell">Gutschrift:</td><td class="auftraginfo_cell" nowrap>[GUTSCHRIFT]</td><td class="auftraginfo_cell">{|Eigene Umsatzsteuer ID|}:</td><td class="auftraginfo_cell">[DELIVERYTHRESHOLDVATID]</td></tr>

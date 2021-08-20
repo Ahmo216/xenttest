@@ -584,6 +584,12 @@ var PaymentTransaction = function ($) {
             if ($('input.selectall[data-paymentaccountid]').length) {
                 me.initPaymentTabs();
             }
+
+            if ($('#create-collection-debit').length) {
+                $('#create-collection-debit').on('click', function () {
+                    $('#tabs').loadingOverlay('show');
+                });
+            }
         }
     };
 

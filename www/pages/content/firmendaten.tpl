@@ -216,6 +216,7 @@
 	</div>
 	<br>
 	<input type="submit" name="submitFirmendaten" onclick="$('#firmendatenform').attr('action','#tabs-1');" value="Speichern" style="float:right">
+	<div class="clear"></div>
 </div>
 <div id="tabs-2">
 	[MESSAGE]
@@ -581,7 +582,7 @@
 		</div>
 	</div>
 	<br><input type="submit" name="submitFirmendaten" onclick="$('#firmendatenform').attr('action','#tabs-2');" value="Speichern" style="float:right">
-
+	<div class="clear"></div>
 
 </div>
 
@@ -654,6 +655,7 @@
 	</div>
 	<br>
 	<input type="submit" name="submitFirmendaten" onclick="$('#firmendatenform').attr('action','#tabs-3');" value="Speichern" style="float:right">
+	<div class="clear"></div>
 </div>
 
 
@@ -721,6 +723,7 @@
 	</div>
 	<br>
 	<input type="submit" name="submitFirmendaten" onclick="$('#firmendatenform').attr('action','#tabs-4');" value="Speichern" style="float:right">
+	<div class="clear"></div>
 </div>
 
 <div id="tabs-6">
@@ -836,6 +839,7 @@
 	</div>
 	<br>
 	<input type="submit" name="submitFirmendaten" onclick="$('#firmendatenform').attr('action','#tabs-6');" value="Speichern" style="float:right">
+	<div class="clear"></div>
 </div>
 
 <div id="tabs-7">
@@ -1175,6 +1179,7 @@
 
 	<br>
 	<input type="submit" name="submitFirmendaten" onclick="$('#firmendatenform').attr('action','#tabs-8');" value="Speichern" style="float:right">
+	<div class="clear"></div>
 </div>
 
 <div id="tabs-9">
@@ -1752,6 +1757,7 @@
 	</div>
 	<br>
 	<input type="submit" name="submitFirmendaten" onclick="$('#firmendatenform').attr('action','#tabs-10');" value="Speichern" style="float:right">[UPDATESTARTENBUTTON]
+	<div class="clear"></div>
 </div>
 
 
@@ -1778,6 +1784,7 @@
 	</div>
 	<br>
 	<input type="submit" name="submitFirmendaten" onclick="$('#firmendatenform').attr('action','#tabs-11');" value="Speichern" style="float:right">
+	<div class="clear"></div>
 </div>
 
 <div id="tabs-12">
@@ -1803,6 +1810,7 @@
 	</div>
 	<br>
 	<input type="submit" name="submitFirmendaten" onclick="$('#firmendatenform').attr('action','#tabs-12');" value="Speichern" style="float:right">
+	<div class="clear"></div>
 </div>
 
 <div id="tabs-13">
@@ -1862,6 +1870,7 @@
 	</div>
 	<br>
 	<input type="submit" name="submitFirmendaten" onclick="$('#firmendatenform').attr('action','#tabs-13');" value="Speichern" style="float:right">
+	<div class="clear"></div>
 </div>
 </form>
 <form name="firmendatenformfreifelder" id="firmendatenformfreifelder" action="" method="POST"  enctype="multipart/form-data">

@@ -21,6 +21,7 @@
 <tr><td class="auftraginfo_cell">{|Projekt|}:</td><td class="auftraginfo_cell">[PROJEKT]</td><td class="auftraginfo_cell"></td><td class="auftraginfo_cell"></td></tr>
 <tr><td class="auftraginfo_cell" colspan="2" width="50%"><b>{|Dokumente|}</b></td><td class="auftraginfo_cell"></td><td class="auftraginfo_cell"></td></tr>
 <tr><td class="auftraginfo_cell">{|Internet|}:</td><td class="auftraginfo_cell">[INTERNET]</td><td class="auftraginfo_cell"></td><td class="auftraginfo_cell"></td></tr>
+<tr><td class="auftraginfo_cell">{|Transaktion|}:</td><td class="auftraginfo_cell">[TRANSAKTIONSNUMMER]</td><td class="auftraginfo_cell">&nbsp;</td></tr>
 <tr><td class="auftraginfo_cell">{|Auftrag|}:</td><td class="auftraginfo_cell">[AUFTRAG]</td><td class="auftraginfo_cell"></td><td class="auftraginfo_cell"></td></tr>
 
 <tr valign="bottom"><td class="auftraginfo_cell">{|Lieferschein|}:</td><td class="auftraginfo_cell" nowrap>[LIEFERSCHEIN]</td><td class="auftraginfo_cell">{|Versteuerung|}:</td><td class="auftraginfo_cell">[STEUER]</td></tr>

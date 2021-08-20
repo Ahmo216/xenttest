@@ -77,6 +77,7 @@
 <tr><td colspan="3"><input type="checkbox" name="neuesdatevformat" id="neuesdatevformat" value="1" [NEUESDATEVFORMAT]>&nbsp;{|Neues Datev Format (ab 2018)|}</td></tr>
 <tr><td colspan="3"><input type="checkbox" name="neuesdatevformattestbuchung" id="neuesdatevformattestbuchung" value="1" [NEUESDATEVFORMATTESTBUCHUNG]>&nbsp;{|Neues Datev Format (Testbuchung einfügen)|}</td></tr>
 <tr><td colspan="3"><input type="checkbox" name="altesdatevformat" id="altesdatevformat" value="1" [ALTESDATEVFORMAT]>&nbsp;{|Datev Komp-Modus (GoBD Festschreibekennzeichen)|}</td></tr>
+<tr><td colspan="3"><input type="checkbox" name="allowextendedbucode" id="allowextendedbucode" value="1" [ALLOWEXTENDEDBUCODE]>&nbsp;{|Erweiterte Buchungs-Codes erlauben|}</td></tr>
 <tr>
     <td colspan="2">
         <select name="datev_append_internet" id="datev_append_internet">

@@ -7,13 +7,15 @@
 **** END OF COPYRIGHT & LICENSE NOTICE *** DO NOT REMOVE ****
 */
 ?>
-<?php 
+<?php
 
-class GenGutschrift { 
+include_once __DIR__.'/appgeneric.php';
+
+class GenGutschrift extends AppGeneric {
 
   function __construct(&$app) { 
 
-    $this->app=&$app;
+    parent::__construct($app);
     $this->app->ActionHandlerInit($this);
 
     $this->app->ActionHandler("create","GutschriftCreate");

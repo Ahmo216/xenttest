@@ -249,6 +249,7 @@ ul.menu > li > a {
 - - - - - - - - - - - - - - - - - - - - - - */
 .menu-wrapper {
   position: relative;
+  background-color: var(--header-background);
 }
 .menu-wrapper > .close-mobile {
   display: none;

@@ -129,13 +129,15 @@ final class DatevXmlCreator
         }
         $documentInfos = $this->formatDocumentInfosForXmlExport($documentType, $documentInfos);
         $datevAppendInternet = (int)$this->systemConfig->tryGetLegacyValue('datev_append_internet');
+        $extendedBuCode = !empty($this->systemConfig->tryGetLegacyValue('buchaltungexport_list_allowextendedbucode'));
 
         foreach ($documentInfos as $documentInfo) {
             $xmlFileContents[] = $this->getXmlFileContentByDocument(
                 $documentType,
                 $documentInfo,
                 $datevAppendInternet,
-                $nominalAccountLength
+                $nominalAccountLength,
+                $extendedBuCode
             );
         }
 
@@ -172,6 +174,7 @@ final class DatevXmlCreator
      * @param DocumentData $documentInfo
      * @param int          $datevAppendInternet
      * @param int          $nominalAccountLength
+     * @param bool         $extendedBuCode
      *
      * @return array
      */
@@ -179,7 +182,8 @@ final class DatevXmlCreator
         string $documentType,
         DocumentData $documentInfo,
         int $datevAppendInternet,
-        int $nominalAccountLength
+        int $nominalAccountLength,
+        bool $extendedBuCode
     ): array {
         $xmldescription2 = $this->getXmlDocumentTypeDescription($documentType);
         $bookings = $this->getBookingsFromDocumentInfo($documentType, $documentInfo);
@@ -200,7 +204,8 @@ final class DatevXmlCreator
                 $documentInfo,
                 $booking,
                 $amount,
-                $nominalAccountLength
+                $nominalAccountLength,
+                $extendedBuCode
             );
             $totalAmount += $amount;
         }
@@ -459,6 +464,7 @@ final class DatevXmlCreator
      * @param array        $booking
      * @param float        $amount
      * @param int          $nominalAccountLength
+     * @param bool         $extendedBuCode
      *
      * @return string
      */
@@ -467,7 +473,8 @@ final class DatevXmlCreator
         DocumentData $documentInfo,
         array $booking,
         float $amount,
-        int $nominalAccountLength
+        int $nominalAccountLength,
+        bool $extendedBuCode
     ): string {
         $booking['ort'] = $this->ensureValidXmlString($booking['ort'], 30);
         $booking['name'] = $this->ensureValidXmlString($booking['name'], 50);
@@ -496,7 +503,14 @@ final class DatevXmlCreator
 
         $xmlString .= '<date>' . $booking['datum'] . "</date>\r\n";
         $xmlString .= '<amount>' . number_format($amount, 2, '.', '') . "</amount>\r\n";
-        $xmlString .= $this->getContrAccountXmlString($booking, $nominalAccountLength);
+
+        [$contraAccount, $bookingKey] = $this->accountingExportModule->getContrAccountBuPair((string)$booking['gegenkonto'], $extendedBuCode, $nominalAccountLength);
+        if($contraAccount !== '') {
+            $xmlString .= '<accountNo>' . $contraAccount . "</accountNo>\r\n";
+        }
+        if ($bookingKey !== '') {
+            $xmlString .= '<buCode>' . $bookingKey . "</buCode>\r\n";
+        }
         if (!empty($booking['kostenstelle'])) {
             $xmlString .= '<costCategoryId>' . $booking['kostenstelle'] . "</costCategoryId>\r\n";
         }
@@ -563,37 +577,6 @@ final class DatevXmlCreator
             return '';
         }
         $xmlString .= "<shipFromCountry>${country}</shipFromCountry>\n";
-
-        return $xmlString;
-    }
-
-    /**
-     * @param array $booking
-     * @param int   $nominalAccountLength
-     *
-     * @return string
-     */
-    private function getContrAccountXmlString(array $booking, int $nominalAccountLength): string
-    {
-        // gegenkonto sachkontenlaenge + 2 .. 4 ist dann abschneiden und aufteilen
-        $contraAccount = trim((string)$booking['gegenkonto']);
-        $bookingKey = '';
-        if ($contraAccount === '') {
-            return '';
-        }
-        $buLength = strlen($contraAccount) - $nominalAccountLength;
-        if ($buLength >= 2 && $buLength <= 4) {
-            $bookingKey = substr($contraAccount, 0, $buLength);
-            $bookingKey = rtrim($bookingKey, '0');
-            $contraAccount = substr($contraAccount, $buLength);
-        }
-
-        $contraAccount = ltrim($contraAccount, '0');
-
-        $xmlString = '<accountNo>' . $contraAccount . "</accountNo>\r\n";
-        if ($bookingKey != '') {
-            $xmlString .= '<buCode>' . $bookingKey . "</buCode>\r\n";
-        }
 
         return $xmlString;
     }

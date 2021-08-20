@@ -475,20 +475,21 @@ class Shopimporter_Shopify extends ShopimporterBase
         }
 
         $variants = [];
+        $rawVariants = $product->getVariants();
         /** @var ProductVariant $variant */
-        foreach ($product->getVariants() as $variant) {
+        foreach ($rawVariants as $variant) {
             $variants[] = $this->prepareVariantData($product, $variant);
         }
 
         $productData = $variants[0];
+        $productData['stockable'] = (count($rawVariants) > 1 )? false : true;
         $optionCounter = 1;
         foreach ($product->getOptions() as $option) {
-            $productData['matrixprodukt_gruppe' . $optionCounter] = $option['name'];
-            $productData['matrixprodukt_optionen' . $optionCounter] = $option['values'];
-            $optionCounter++;
+                $productData['matrixprodukt_gruppe' . $optionCounter] = $option['name'];
+                $productData['matrixprodukt_optionen' . $optionCounter] = $option['values'];
+                $optionCounter++;
         }
         $productData['name'] = $product->getTitle();
-
         if (count($variants) > 1) {
             $productData['fremdnummern'] = [];
             $productData['bilder'] = [];

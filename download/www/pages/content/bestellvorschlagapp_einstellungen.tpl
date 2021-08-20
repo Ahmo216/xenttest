@@ -45,6 +45,7 @@
         </div>
       </div>
       <input type="submit" name="erwbestellvorschlagzusatz" id="erwbestellvorschlagzusatz" value="Speichern" style="float:right">
+      <div class="clear"></div>
     </form>
     [TAB1]
     [TAB1NEXT]
